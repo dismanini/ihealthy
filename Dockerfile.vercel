@@ -1,0 +1,9 @@
+FROM dunglas/frankenphp:php8.3-alpine
+
+WORKDIR /app
+
+COPY . /app
+
+RUN printf ':80 {\n    root * /app\n    php_server\n    file_server\n}\n' > /etc/caddy/Caddyfile
+
+CMD ["frankenphp", "run", "--config", "/etc/caddy/Caddyfile"]
