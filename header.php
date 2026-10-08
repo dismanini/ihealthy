@@ -1,0 +1,2465 @@
+<!doctype html>
+<!-- Last Published: Sun Oct 04 2026 18:55:43 GMT+0000 (Coordinated Universal Time) -->
+<html
+    data-wf-domain="iHealthy"
+    data-wf-page="680280c18df8e68403545b2f"
+    data-wf-site="680280c18df8e68403545b30"
+    lang="en"
+>
+    <head>
+        <meta charset="utf-8" />
+        <link href="https://cdn.prod.website-files.com" rel="preconnect" crossorigin="anonymous" />
+        <title>Camera-based health screenings | iHealthy</title>
+        <link rel="alternate" hreflang="x-default" href="https://iHealthy/" />
+        <link rel="alternate" hreflang="en" href="https://iHealthy/" />
+        <link rel="alternate" hreflang="es" href="https://iHealthy/es" />
+        <link rel="alternate" hreflang="de" href="https://iHealthy/de" />
+        <link rel="alternate" hreflang="ja" href="https://iHealthy/ja" />
+        <link rel="alternate" hreflang="fr" href="https://iHealthy/fr" />
+        <link rel="stylesheet" href="style.css">
+        <meta
+            content="Discover how iHealthy turns your smartphone into a health companion - no wearables, just powerful, camera-based health insights."
+            name="description"
+        />
+        <meta content="Camera-based health screenings | iHealthy" property="og:title" />
+        <meta
+            content="Discover how iHealthy turns your smartphone into a health companion - no wearables, just powerful, camera-based health insights."
+            property="og:description"
+        />
+        <meta
+            content="https://cdn.prod.website-files.com/680280c18df8e68403545b30/68078c7f2d7c9a3190556272_OG.png"
+            property="og:image"
+        />
+        <meta content="Camera-based health screenings | iHealthy" name="twitter:title" />
+        <meta
+            content="Discover how iHealthy turns your smartphone into a health companion - no wearables, just powerful, camera-based health insights."
+            name="twitter:description"
+        />
+        <meta
+            content="https://cdn.prod.website-files.com/680280c18df8e68403545b30/68078c7f2d7c9a3190556272_OG.png"
+            name="twitter:image"
+        />
+        <meta property="og:type" content="website" />
+        <meta content="summary_large_image" name="twitter:card" />
+        <meta content="width=device-width, initial-scale=1" name="viewport" />
+        <meta content="eQ9kA7ISJ2WPLa0Xrd4V1mSwMdJG7MrjDtL9vAKBxzY" name="google-site-verification" />
+        <link
+            href="https://cdn.prod.website-files.com/680280c18df8e68403545b30/css/shen-ai-website.shared.8c35d5bb2.min.css"
+            rel="stylesheet"
+            type="text/css"
+            integrity="sha384-jDXVuyuxfU80E8cZVa7sWxe6HxRK8+xG4b9b6fXqUH6/uRkn0o4qbZK9rTjdS+5f"
+            crossorigin="anonymous"
+        />
+        <link
+            href="https://cdn.prod.website-files.com/680280c18df8e68403545b30/css/shen-ai-website.680280c18df8e68403545b2f.503aabf87.opt.min.css"
+            rel="stylesheet"
+            type="text/css"
+            integrity="sha384-UDqr+HUFmnIPRWxZZ7CzNnFclRseUqhxclGGSao2xliDDrz8PRfJm2Vvuzrl8B7n"
+            crossorigin="anonymous"
+        />
+        <script type="text/javascript">
+            !(function (o, c) {
+                var n = c.documentElement,
+                    t = " w-mod-";
+                (n.className += t + "js"),
+                    ("ontouchstart" in o || (o.DocumentTouch && c instanceof DocumentTouch)) &&
+                        (n.className += t + "touch");
+            })(window, document);
+        </script>
+        <link
+            href="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545bb1_Favicon.svg"
+            rel="shortcut icon"
+            type="image/x-icon"
+        />
+        <link
+            href="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545bb2_Webclip.svg"
+            rel="apple-touch-icon"
+        />
+        <link href="https://iHealthy" rel="canonical" />
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "WebPage",
+                "name": "Camera-based health screenings | iHealthy",
+                "description": "Discover how iHealthy turns your smartphone into a health companion - no wearables, just powerful, camera-based health insights.",
+                "url": "/",
+                "inLanguage": "en",
+                "about": {
+                    "@type": "SoftwareApplication",
+                    "name": "iHealthy",
+                    "applicationCategory": "HealthApplication",
+                    "operatingSystem": "iOS, Android, Web",
+                    "description": "AI-powered health monitoring platform that tracks 30+ health markers through camera-based face scans in 30 seconds",
+                    "offers": {
+                        "@type": "Offer",
+                        "availability": "https://schema.org/InStock"
+                    },
+                    "featureList": [
+                        "Track 30+ health markers in 30 seconds",
+                        "Camera-based face scan technology",
+                        "Clinically validated measurements",
+                        "100% video processing on device",
+                        "Works with all skin tones",
+                        "No wearables required",
+                        "Remote photoplethysmography (rPPG)",
+                        "Blood pressure monitoring",
+                        "Heart rate and HRV tracking",
+                        "BMI calculation",
+                        "FHIR API integration"
+                    ],
+                    "aggregateRating": {
+                        "@type": "AggregateRating",
+                        "ratingValue": "4.8",
+                        "reviewCount": "3100"
+                    },
+                    "review": [
+                        {
+                            "@type": "Review",
+                            "author": {
+                                "@type": "Person",
+                                "name": "Małgorzata Gratys",
+                                "jobTitle": "Management Director",
+                                "worksFor": {
+                                    "@type": "Organization",
+                                    "name": "Med24"
+                                }
+                            },
+                            "reviewBody": "Integrating iHealthy's health monitoring into Med24 services, directly increasing our online appointments and marking a pivotal move towards complete online care. This step strengthens our digital healthcare services, making patient care more accessible. It's a clear path forward for us, and I'm proud of what we're achieving together.",
+                            "reviewRating": {
+                                "@type": "Rating",
+                                "ratingValue": "5"
+                            }
+                        },
+                        {
+                            "@type": "Review",
+                            "author": {
+                                "@type": "Person",
+                                "name": "Leo Rosenbaum",
+                                "jobTitle": "Founder",
+                                "worksFor": {
+                                    "@type": "Organization",
+                                    "name": "Heartery"
+                                }
+                            },
+                            "reviewBody": "Integration of the iHealthy made Heartery the most popular blood pressure app in the Apple AppStore in the US, UK, Canada, Australia. It is our most popular feature, users love it!",
+                            "reviewRating": {
+                                "@type": "Rating",
+                                "ratingValue": "5"
+                            }
+                        }
+                    ]
+                },
+                "mainEntity": {
+                    "@type": "FAQPage",
+                    "mainEntity": [
+                        {
+                            "@type": "Question",
+                            "name": "How does iHealthy measure health markers without traditional devices?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "iHealthy uses remote photoplethysmography (rPPG) and advanced AI to track over 30 health markers, including blood pressure and heart rate or BMI, through a smartphone's camera. This contactless method eliminates the need for additional hardware."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "How accurate is iHealthy compared to traditional devices like cuffs?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "iHealthy's accuracy is clinically validated and comparable to traditional devices, including cuff-based blood pressure monitors. For HR, iHealthy delivers results with under 0.5 bpm error level. Our AI is trained on over 7 million data points, ensuring precise readings across various environments and users."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "How much time is needed to get readings?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "First readings – of Heart Rate and BMI – are available within just 5 seconds. The other indices are available in 30 seconds."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "Can iHealthy be used with all skin tones and in different lighting conditions?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Yes, iHealthy's Multimodal Sensing Engine ensures reliable readings for all skin tones and lighting environments, making it inclusive and adaptable."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "Is iHealthy compliant with privacy regulations?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "iHealthy processes all data directly on the device using edge computing, ensuring no sensitive information is sent to the cloud."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "How easy is it to integrate iHealthy into my platform?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "iHealthy provides comprehensive documentation and SDK for easy integration into your platform."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "Is the iHealthy SDK customizable?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Yes, the iHealthy SDK is highly customizable. It allows seamless integration into your existing platforms while offering the flexibility to adapt the interface to match your brand. Key customization options include UI personalization and localization support."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "How can I integrate measurement data into my existing EHR system?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "iHealthy comes with FHIR API, making it easy to integrate with existing healthcare or insurance systems."
+                            }
+                        }
+                    ]
+                },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "iHealthy",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545bb3_Logo.svg"
+                    },
+                    "sameAs": ["https://www.linkedin.com/company/shenai/", "https://x.com/ShenAI_tech"],
+                    "contactPoint": {
+                        "@type": "ContactPoint",
+                        "email": "sales@iHealthy",
+                        "contactType": "Sales"
+                    }
+                }
+            }
+        </script>
+        <!-- Google Tag Manager -->
+        <script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s),
+                    dl = l != "dataLayer" ? "&l=" + l : "";
+                j.async = true;
+                j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, "script", "dataLayer", "GTM-TSLNJ8M");
+        </script>
+        <!-- End Google Tag Manager -->
+
+        <!-- [Attributes by Finsweet] Disable scrolling -->
+        <script defer src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-scrolldisable@1/scrolldisable.js"></script>
+
+        <!-- Keep this css code to improve the font quality-->
+
+      
+        <meta name="referrer" content="strict-origin-when-cross-origin" />
+
+        <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+
+        <!-- Paste this into Webflow: Project Settings → Custom Code → Inside </head> (or per-page custom code head) -->
+       
+
+        <!-- Optional: if your page uses CSS resets that might interfere, you can keep this minimal JS to
+     re-apply the animation classes on DOM ready. Not required for standard Webflow setups. -->
+        <script>
+            (function () {
+                var els = document.querySelectorAll("a.glow-buttoon");
+                // No-op: CSS handles everything. This ensures the elements exist (for older browsers).
+                // You can uncomment below to reflow if needed:
+                // els.forEach(function(el){ el.offsetHeight; });
+            })();
+        </script>
+
+        <!-- NAVBAR V2 - paste into Site Settings > Custom Code > Head Code -->
+
+       
+
+        <script>
+            (function () {
+                var NAVBAR = ".navbar-v2";
+                var DROPDOWN = ".navbar-v2_dropdown";
+                var TOGGLE = ".navbar-v2_dropdown-toggle";
+                var LIST = ".navbar-v2_dropdown-list";
+
+                var DESKTOP_MIN = 992;
+                var CLOSE_DELAY = 250;
+                var SHIFT = 20;
+                var COLLAPSE_MS = 450;
+
+                var BTM_BAR = ".navbar-v2_btm-bar";
+                var TOP_BAR = ".navbar-v2_top-bar";
+                var SCROLLED = "is-scrolled";
+                var SCROLL_RATIO = 0.3;
+
+                // Mega menu
+                function build(navbar) {
+                    var dropdowns = [].slice.call(navbar.querySelectorAll(DROPDOWN));
+                    if (!dropdowns.length) return;
+
+                    var stack = document.createElement("div");
+                    stack.className = "nav-mega-stack";
+                    navbar.appendChild(stack);
+
+                    var edge = { left: "0 none", right: "0 none", bottom: "0 none", bottomWidth: 0 };
+                    var borderTimer = null;
+
+                    function syncStackEdges() {
+                        var cs = getComputedStyle(navbar);
+                        stack.style.left = -(parseFloat(cs.borderLeftWidth) || 0) + "px";
+                        stack.style.right = -(parseFloat(cs.borderRightWidth) || 0) + "px";
+
+                        edge.left = cs.borderLeftWidth + " " + cs.borderLeftStyle + " " + cs.borderLeftColor;
+                        edge.right = cs.borderRightWidth + " " + cs.borderRightStyle + " " + cs.borderRightColor;
+                        edge.bottom = cs.borderBottomWidth + " " + cs.borderBottomStyle + " " + cs.borderBottomColor;
+                        edge.bottomWidth = parseFloat(cs.borderBottomWidth) || 0;
+
+                        if (active) showBorders();
+                    }
+
+                    function showBorders() {
+                        stack.style.borderLeft = edge.left;
+                        stack.style.borderRight = edge.right;
+                        stack.style.borderBottom = edge.bottom;
+                    }
+
+                    function hideBorders() {
+                        stack.style.borderLeft = stack.style.borderRight = stack.style.borderBottom = "0 none";
+                    }
+
+                    syncStackEdges();
+
+                    var panels = [];
+                    dropdowns.forEach(function (dropdown, index) {
+                        var list = dropdown.querySelector(LIST);
+                        if (!list) return;
+                        list.classList.add("nav-mega-panel", "w--open");
+                        stack.appendChild(list);
+                        panels.push({
+                            dropdown: dropdown,
+                            toggle: dropdown.querySelector(TOGGLE),
+                            panel: list,
+                            index: index,
+                        });
+                    });
+                    if (!panels.length) return;
+
+                    var active = null;
+                    var closeTimer = null;
+
+                    function placeInstantly(panel, offset) {
+                        if (parseFloat(getComputedStyle(panel).opacity) > 0) return;
+                        panel.style.transition = "none";
+                        panel.style.setProperty("--mega-shift-x", offset + "px");
+                        void panel.offsetWidth;
+                        panel.style.transition = "";
+                    }
+
+                    function open(entry) {
+                        clearTimeout(closeTimer);
+                        if (active === entry) return;
+
+                        var dir = active ? (entry.index > active.index ? 1 : -1) : 0;
+
+                        if (active) {
+                            active.panel.removeAttribute("data-mega-active");
+                            active.panel.style.setProperty("--mega-shift-x", -dir * SHIFT + "px");
+                            active.dropdown.classList.remove("is-open");
+                        }
+
+                        placeInstantly(entry.panel, dir * SHIFT);
+                        entry.panel.setAttribute("data-mega-active", "");
+                        entry.dropdown.classList.add("is-open");
+
+                        clearTimeout(borderTimer);
+                        showBorders();
+
+                        stack.style.height = entry.panel.offsetHeight + edge.bottomWidth + "px";
+                        navbar.classList.add("is-dropdown-open");
+                        active = entry;
+                    }
+
+                    function close() {
+                        if (!active) return;
+                        active.panel.removeAttribute("data-mega-active");
+                        active.panel.style.setProperty("--mega-shift-x", "0px");
+                        active.dropdown.classList.remove("is-open");
+                        stack.style.height = "0px";
+                        navbar.classList.remove("is-dropdown-open");
+                        active = null;
+
+                        clearTimeout(borderTimer);
+                        borderTimer = setTimeout(hideBorders, COLLAPSE_MS);
+                    }
+
+                    function scheduleClose() {
+                        clearTimeout(closeTimer);
+                        closeTimer = setTimeout(close, CLOSE_DELAY);
+                    }
+
+                    panels.forEach(function (entry) {
+                        entry.dropdown.addEventListener("mouseenter", function () {
+                            open(entry);
+                        });
+                        if (entry.toggle) {
+                            entry.toggle.addEventListener("focus", function () {
+                                open(entry);
+                            });
+                        }
+                    });
+
+                    navbar.addEventListener("mouseover", function (e) {
+                        if (!active) return;
+                        var target = e.target;
+                        if (!target || !target.closest) return;
+
+                        var overTrigger = target.closest(DROPDOWN);
+                        var overMenu = target.closest(".nav-mega-stack");
+
+                        if (overTrigger || overMenu) {
+                            clearTimeout(closeTimer);
+                        } else {
+                            scheduleClose();
+                        }
+                    });
+
+                    navbar.addEventListener("mouseleave", scheduleClose);
+
+                    document.addEventListener("keydown", function (e) {
+                        if (e.key === "Escape") close();
+                    });
+
+                    window.addEventListener("resize", function () {
+                        syncStackEdges();
+                        if (active) stack.style.height = active.panel.offsetHeight + edge.bottomWidth + "px";
+                    });
+                }
+
+                // Scrolled bar
+                function watchScroll(navbar) {
+                    var btmBar = navbar.querySelector(BTM_BAR);
+                    var topBar = navbar.querySelector(TOP_BAR);
+                    var desktop = window.matchMedia("(min-width: " + DESKTOP_MIN + "px)");
+                    var state = null;
+                    var queued = false;
+
+                    if (topBar)
+                        topBar.addEventListener("click", function (e) {
+                            var link = e.detail && e.target.closest && e.target.closest("a, button");
+                            if (link) link.blur();
+                        });
+
+                    function measure() {
+                        var cs = getComputedStyle(navbar);
+                        var box = navbar.getBoundingClientRect();
+                        var bt = parseFloat(cs.borderTopWidth) || 0;
+                        var base = (parseFloat(cs.top) || 0) + (parseFloat(cs.marginTop) || 0) + bt;
+                        var strip = btmBar ? btmBar.getBoundingClientRect().top - box.top - bt : 0;
+                        var inner =
+                            box.width - (parseFloat(cs.borderLeftWidth) || 0) - (parseFloat(cs.borderRightWidth) || 0);
+
+                        navbar.style.setProperty("--navbar-lift-base", base + "px");
+                        navbar.style.setProperty("--navbar-lift-strip", Math.max(0, strip) + "px");
+                        navbar.style.setProperty("--navbar-inner-width", inner + "px");
+                    }
+
+                    function update() {
+                        queued = false;
+                        var y = window.pageYOffset || document.documentElement.scrollTop || 0;
+                        var next = desktop.matches && y > window.innerHeight * SCROLL_RATIO;
+                        if (next === state) return;
+                        state = next;
+                        if (next) measure();
+                        navbar.classList.toggle(SCROLLED, next);
+                    }
+
+                    function queue() {
+                        if (queued) return;
+                        queued = true;
+                        requestAnimationFrame(update);
+                    }
+
+                    window.addEventListener("scroll", queue, { passive: true });
+
+                    window.addEventListener("resize", function () {
+                        if (desktop.matches) measure();
+                        queue();
+                    });
+
+                    if (document.fonts && document.fonts.ready) {
+                        document.fonts.ready.then(function () {
+                            if (desktop.matches) measure();
+                        });
+                    }
+
+                    if (desktop.matches) measure();
+                    update();
+                }
+
+                function init() {
+                    if (window.innerWidth < DESKTOP_MIN) return;
+
+                    var navbars = document.querySelectorAll(NAVBAR);
+                    var i;
+
+                    for (i = 0; i < navbars.length; i++) watchScroll(navbars[i]);
+                    for (i = 0; i < navbars.length; i++) build(navbars[i]);
+                }
+
+                if (document.readyState === "loading") {
+                    document.addEventListener("DOMContentLoaded", init);
+                } else {
+                    init();
+                }
+            })();
+        </script>
+        <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+
+        <script
+            src="https://cdn.prod.website-files.com/680280c18df8e68403545b30%2F6544eda5f000985a163a8687%2F6a3ba7f95e8d2b778a600c38%2Ffinsweetcomponentsconfig-1.0.1.js"
+            type="module"
+            async=""
+            siteId="680280c18df8e68403545b30"
+            finsweet="components"
+        ></script>
+    </head>
+    <body>
+        <div class="page-wrapper">
+            <div class="global-styles">
+                <div class="style-overrides w-embed">
+                   
+                </div>
+                <div class="color-schemes w-embed">
+                    
+                        /* Color Schemes Controls*/
+                        <meta name="relume-color-schemes" content="false"/ > .color-scheme-1 {
+                            /*All sections should point to Color Scheme 1*/
+                        }
+
+                       
+                </div>
+            </div>
+            <div
+                data-wf--navbar-v2--variant="light-mode"
+                data-animation="default"
+                data-collapse="medium"
+                data-duration="400"
+                data-easing="ease"
+                data-easing2="ease"
+                role="banner"
+                class="navbar-v2 w-variant-ff6b0e9a-b3e4-8ca8-d766-860c5d491744 w-nav"
+            >
+                <div class="navbar-v2_top-bar hide-tablet">
+                    <div class="navbar-v2_top-bar-text">
+                        <div class="navbar-v2_top-bar-small-text">
+                            CE Class IIa • certified medical device under EU MDR
+                        </div>
+                        <a
+                            data-wf--button-arrow-up-small-14px--variant="base"
+                            href="/medical-device"
+                            class="navbar-v2_link-button w-inline-block"
+                            ><div class="text-block-4">Learn more</div>
+                            <div class="navbar-v2_link-button-arrow w-embed">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    width="100%"
+                                    height="100%"
+                                    viewBox="0 0 15 13"
+                                    fill="none"
+                                    preserveAspectRatio="xMidYMid meet"
+                                    aria-hidden="true"
+                                    role="img"
+                                >
+                                    <path
+                                        d="M4 11L11 4M11 10.5625L11 4L4.4375 4"
+                                        stroke="currentColor"
+                                        stroke-width="1.5"
+                                        stroke-linecap="square"
+                                    />
+                                </svg></div
+                        ></a>
+                    </div>
+                    <div class="navbar-v2_top-bar-text">
+                        <a
+                            data-wf--button-arrow-up-small-14px--variant="white"
+                            href="/scan-yourself"
+                            class="navbar-v2_link-button w-variant-0a7fd4b7-c3fb-139b-cbd0-a8e5507320bf w-inline-block"
+                            ><div class="text-block-4">Scan yourself</div>
+                            <div class="navbar-v2_link-button-arrow w-embed">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    width="100%"
+                                    height="100%"
+                                    viewBox="0 0 15 13"
+                                    fill="none"
+                                    preserveAspectRatio="xMidYMid meet"
+                                    aria-hidden="true"
+                                    role="img"
+                                >
+                                    <path
+                                        d="M4 11L11 4M11 10.5625L11 4L4.4375 4"
+                                        stroke="currentColor"
+                                        stroke-width="1.5"
+                                        stroke-linecap="square"
+                                    />
+                                </svg></div></a
+                        ><a
+                            href="https://platform.iHealthy/auth"
+                            target="_blank"
+                            class="navbar-v2_link-button w-inline-block"
+                            ><div class="text-color-white text-size-tiny">Log in</div></a
+                        >
+                    </div>
+                </div>
+                <div class="navbar-v2_btm-bar">
+                    <div class="navbar-v2_btm-left">
+                        <a href="/" aria-current="page" class="link-block-2 w-inline-block w--current"
+                            ><img
+                                loading="lazy"
+                                src="images/iHealthy_Bio_Logo.png"
+                                alt=""
+                                class="navbar-v2_logo"
+                        /></a>
+                        <nav role="navigation" class="navbar_menu is-page-height-tablet w-nav-menu">
+                            <div
+                                data-delay="300"
+                                data-hover="true"
+                                data-w-id="dd9ee0a5-bb4d-7a06-d618-c3e37f3d36f1"
+                                class="navbar-v2_dropdown w-dropdown"
+                            >
+                                <div class="navbar-v2_dropdown-toggle w-dropdown-toggle">
+                                    <div>Platform</div>
+                                    <div
+                                        data-w-id="dd9ee0a5-bb4d-7a06-d618-c3e37f3d36f5"
+                                        class="nav_dropdown-chevron w-embed"
+                                    >
+                                        <svg
+                                            width="100%"
+                                            height="100%"
+                                            viewBox="0 0 21 20"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg"
+                                        >
+                                            <path
+                                                d="M5.5 7.5L10.5 12.5L15.5 7.5"
+                                                stroke="currentColor"
+                                                stroke-width="1.66667"
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                            />
+                                        </svg>
+                                    </div>
+                                </div>
+                                <nav
+                                    id="navbar-v2-drop-list"
+                                    data-w-id="dd9ee0a5-bb4d-7a06-d618-c3e37f3d36f6"
+                                    class="navbar-v2_dropdown-list w-variant-ff6b0e9a-b3e4-8ca8-d766-860c5d491744 w-dropdown-list"
+                                >
+                                    <div id="drop-cont" class="nav_container">
+                                        <div class="navbar_dropdown-content">
+                                            <div class="navbar-v2_dropdown-content-left">
+                                                <div
+                                                    blocks-name="navbar6_dropdown-column"
+                                                    blocks-slot-children="ST265"
+                                                    class="navbar-v2_dropdown-column"
+                                                >
+                                                    <div class="navbar-v2_dropdown-link-label">
+                                                        <div blocks-name="heading-3">Product</div>
+                                                    </div>
+                                                    <div
+                                                        blocks-name="navbar6_dropdown-link-list-3"
+                                                        blocks-slot-children="ST366"
+                                                        class="navbar-v2_dropdown-link-list"
+                                                    >
+                                                        <a
+                                                            aria-label="Go to SDK page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="sdk.php"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="15"
+                                                                        height="18"
+                                                                        viewBox="0 0 15 18"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M6.98788 2.30133C6.93667 2.47364 6.90909 2.65662 6.90909 2.84615C6.90909 3.18585 7.17382 3.46154 7.5 3.46154H11.0455C11.2022 3.46154 11.3525 3.3967 11.4633 3.2813C11.5741 3.16589 11.6364 3.00936 11.6364 2.84615C11.6364 2.66147 11.6099 2.47781 11.5576 2.30133M6.98788 2.30133C7.09978 1.92447 7.3246 1.59482 7.62942 1.36065C7.93424 1.12648 8.30304 1.00009 8.68182 1H9.86364C10.661 1 11.3346 1.5481 11.5576 2.30133M6.98788 2.30133C6.69164 2.32021 6.39697 2.34236 6.1023 2.36697C5.21121 2.4441 4.54545 3.23426 4.54545 4.16554V5.92308M11.5576 2.30133C11.8538 2.32021 12.1485 2.34236 12.4432 2.36697C13.3342 2.4441 14 3.23426 14 4.16554V12.6923C14 13.1819 13.8132 13.6515 13.4808 13.9977C13.1483 14.344 12.6974 14.5385 12.2273 14.5385H10.4545M4.54545 5.92308H1.88636C1.39709 5.92308 1 6.33662 1 6.84615V16.0769C1 16.5865 1.39709 17 1.88636 17H9.56818C10.0575 17 10.4545 16.5865 10.4545 16.0769V14.5385M4.54545 5.92308H9.56818C10.0575 5.92308 10.4545 6.33662 10.4545 6.84615V14.5385M3.95455 12.0769L5.13636 13.3077L7.5 10.2308"
+                                                                            stroke="currentColor"
+                                                                            stroke-width="0.8"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div>Wellness SDK</div></a
+                                                        ><a
+                                                            aria-label="Go to Certified medical device page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="medical-device.php"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="16"
+                                                                        height="16"
+                                                                        viewBox="0 0 16 16"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <g clip-path="url(#clip0_888_398)">
+                                                                            <path
+                                                                                d="M11.8 6.11998C11.8579 6.04939 11.901 5.9679 11.9268 5.88035C11.9527 5.7928 11.9607 5.70096 11.9505 5.61025C11.9402 5.51955 11.9119 5.43181 11.8671 5.35224C11.8224 5.27267 11.7622 5.20288 11.69 5.14698C11.5432 5.03213 11.3573 4.97915 11.172 4.99932C10.9867 5.01949 10.8166 5.11123 10.698 5.25498L7.38798 9.31498L5.61798 7.95498C5.47339 7.83731 5.28856 7.78076 5.10288 7.79738C4.9172 7.81401 4.74536 7.90249 4.62398 8.04398C4.56468 8.11337 4.51989 8.19395 4.49225 8.28095C4.46462 8.36794 4.45471 8.45959 4.4631 8.55049C4.47149 8.64138 4.49801 8.72967 4.5411 8.81014C4.58419 8.8906 4.64298 8.96162 4.71398 9.01898L7.03398 10.829C7.18048 10.9482 7.36818 11.0045 7.5561 10.9858C7.74401 10.9671 7.91689 10.8747 8.03698 10.729L11.797 6.10898L11.8 6.11998Z"
+                                                                                fill="currentColor"
+                                                                            />
+                                                                            <path
+                                                                                fill-rule="evenodd"
+                                                                                clip-rule="evenodd"
+                                                                                d="M6.50914 0.713143C7.04314 0.321143 7.31014 0.125143 7.59914 0.0491429C7.85738 -0.016381 8.1279 -0.016381 8.38614 0.0491429C8.67814 0.125143 8.94614 0.321143 9.47614 0.713143L10.1531 1.21014C10.3381 1.34614 10.4311 1.41414 10.5311 1.46714C10.6205 1.51381 10.7135 1.55248 10.8101 1.58314C10.9191 1.61614 11.0321 1.63314 11.2591 1.66814L12.0891 1.79514C12.7441 1.89514 13.0711 1.94614 13.3291 2.09914C13.5591 2.23414 13.7511 2.42614 13.8861 2.65614C14.0391 2.91614 14.0891 3.24414 14.1901 3.89614L14.3171 4.72614C14.3521 4.95314 14.3691 5.06714 14.4021 5.17614C14.4321 5.27281 14.4708 5.36548 14.5181 5.45414C14.5721 5.55414 14.6391 5.64714 14.7751 5.83214L15.2721 6.50914C15.6641 7.04314 15.8601 7.31014 15.9361 7.59914C16.0017 7.85738 16.0017 8.1279 15.9361 8.38614C15.8611 8.67814 15.6641 8.94614 15.2721 9.47614L14.7751 10.1531C14.68 10.2724 14.5941 10.3988 14.5181 10.5311C14.4707 10.6206 14.4319 10.7143 14.4021 10.8111C14.3691 10.9191 14.3521 11.0321 14.3171 11.2591L14.1901 12.0891C14.0901 12.7441 14.0391 13.0711 13.8861 13.3291C13.7511 13.5591 13.5591 13.7511 13.3291 13.8861C13.0691 14.0391 12.7411 14.0891 12.0891 14.1901L11.2591 14.3171C11.1075 14.3343 10.9574 14.3631 10.8101 14.4031C10.7135 14.4325 10.6205 14.4711 10.5311 14.5191C10.4311 14.5721 10.3381 14.6391 10.1531 14.7761L9.47614 15.2731C8.94214 15.6651 8.67514 15.8611 8.38614 15.9371C8.1279 16.0027 7.85738 16.0027 7.59914 15.9371C7.30714 15.8611 7.03914 15.6651 6.50914 15.2731L5.83214 14.7761C5.71286 14.681 5.5865 14.5951 5.45414 14.5191C5.36501 14.4718 5.27159 14.4329 5.17514 14.4031C5.02788 14.3631 4.87778 14.3343 4.72614 14.3171L3.89614 14.1901C3.24114 14.0901 2.91314 14.0401 2.65614 13.8861C2.42696 13.7498 2.23549 13.5583 2.09914 13.3291C1.94614 13.0691 1.89614 12.7411 1.79514 12.0891L1.66814 11.2591C1.63314 11.0321 1.61614 10.9191 1.58314 10.8101C1.55397 10.7135 1.5151 10.62 1.46714 10.5311C1.39121 10.3988 1.3053 10.2724 1.21014 10.1531L0.713143 9.47614C0.321143 8.94214 0.125143 8.67614 0.0491429 8.38614C-0.016381 8.1279 -0.016381 7.85738 0.0491429 7.59914C0.124143 7.30714 0.321143 7.03914 0.713143 6.50914L1.21014 5.83214C1.34614 5.64714 1.41414 5.55414 1.46714 5.45414C1.51381 5.36548 1.55248 5.27248 1.58314 5.17514C1.61614 5.06614 1.63314 4.95314 1.66814 4.72614L1.79514 3.89614C1.89514 3.24114 1.94614 2.91314 2.09914 2.65614C2.23414 2.42614 2.42614 2.23614 2.65614 2.09914C2.91614 1.94614 3.24414 1.89614 3.89614 1.79514L4.72614 1.66814C4.95314 1.63414 5.06714 1.61614 5.17514 1.58314C5.27181 1.55314 5.36481 1.51448 5.45414 1.46714C5.55414 1.41414 5.64714 1.34614 5.83214 1.21014L6.50914 0.713143ZM8.88914 1.51914L9.60014 2.04114C9.75114 2.15214 9.90014 2.26214 10.0661 2.35014C10.2128 2.42814 10.3648 2.49114 10.5221 2.53914C10.702 2.58888 10.8851 2.62597 11.0701 2.65014L11.9421 2.78414C12.6831 2.89814 12.7751 2.92914 12.8291 2.96114C12.9138 3.01181 12.9811 3.07914 13.0311 3.16314C13.0631 3.21714 13.0951 3.30914 13.2081 4.05014L13.3421 4.92214C13.3663 5.10718 13.4034 5.29029 13.4531 5.47014C13.5018 5.62881 13.5648 5.78081 13.6421 5.92614C13.7301 6.09214 13.8401 6.24114 13.9511 6.39214L14.4731 7.10314C14.9171 7.70714 14.9591 7.79414 14.9751 7.85614C14.9982 7.95008 14.9982 8.0482 14.9751 8.14214C14.9591 8.20314 14.9171 8.29014 14.4731 8.89514L13.9511 9.60614C13.8401 9.75714 13.7301 9.90614 13.6421 10.0721C13.5648 10.2178 13.5015 10.3705 13.4531 10.5281C13.4034 10.708 13.3663 10.8911 13.3421 11.0761L13.2081 11.9481C13.0941 12.6891 13.0631 12.7811 13.0311 12.8351C12.9811 12.9178 12.9118 12.9871 12.8291 13.0371C12.7751 13.0691 12.6831 13.1011 11.9421 13.2141L11.0701 13.3481C10.8851 13.3723 10.702 13.4094 10.5221 13.4591C10.3645 13.5075 10.2118 13.5708 10.0661 13.6481C9.90014 13.7361 9.75114 13.8461 9.60014 13.9571L8.88914 14.4791C8.28514 14.9231 8.19814 14.9651 8.13614 14.9811C8.0422 15.0042 7.94408 15.0042 7.85014 14.9811C7.78914 14.9651 7.70214 14.9231 7.09714 14.4791L6.38614 13.9571C6.23821 13.8434 6.08249 13.7401 5.92014 13.6481C5.77448 13.5708 5.62179 13.5075 5.46414 13.4591C5.28429 13.4094 5.10118 13.3723 4.91614 13.3481L4.04414 13.2141C3.30314 13.1001 3.21114 13.0691 3.15714 13.0371C3.07453 12.9871 3.00523 12.9178 2.95514 12.8351C2.92314 12.7811 2.89114 12.6891 2.77814 11.9481L2.64414 11.0761C2.61997 10.8911 2.58288 10.708 2.53314 10.5281C2.48475 10.3705 2.42146 10.2178 2.34414 10.0721C2.25614 9.90614 2.14614 9.75714 2.03514 9.60614L1.51314 8.89514C1.06914 8.29114 1.02714 8.20414 1.01114 8.14214C0.98809 8.0482 0.98809 7.95008 1.01114 7.85614C1.02714 7.79514 1.06914 7.70814 1.51314 7.10314L2.03514 6.39214C2.14614 6.24114 2.25614 6.09214 2.34414 5.92614C2.42148 5.77948 2.48448 5.62748 2.53314 5.47014C2.58288 5.29029 2.61997 5.10718 2.64414 4.92214L2.77814 4.05014C2.89214 3.30914 2.92314 3.21714 2.95514 3.16314C3.00523 3.08053 3.07453 3.01123 3.15714 2.96114C3.21114 2.92914 3.30314 2.89714 4.04414 2.78414L4.91614 2.65014C5.10118 2.62597 5.28429 2.58888 5.46414 2.53914C5.62281 2.49048 5.77481 2.42748 5.92014 2.35014C6.08614 2.26214 6.23514 2.15214 6.38614 2.04114L7.09714 1.51914C7.70114 1.07514 7.78814 1.03314 7.85014 1.01714C7.94408 0.99409 8.0422 0.99409 8.13614 1.01714C8.19714 1.03314 8.28414 1.07514 8.88914 1.51914Z"
+                                                                                fill="currentColor"
+                                                                            />
+                                                                        </g>
+                                                                        <defs>
+                                                                            <clipPath id="clip0_888_398">
+                                                                                <rect
+                                                                                    width="16"
+                                                                                    height="16"
+                                                                                    fill="white"
+                                                                                />
+                                                                            </clipPath>
+                                                                        </defs>
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div>Medical SDK</div></a
+                                                        ><a
+                                                            aria-label="Go to Web app builder page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="health-assessment-web-service.php"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="15"
+                                                                        height="18"
+                                                                        viewBox="0 0 15 18"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M6.98788 2.30133C6.93667 2.47364 6.90909 2.65662 6.90909 2.84615C6.90909 3.18585 7.17382 3.46154 7.5 3.46154H11.0455C11.2022 3.46154 11.3525 3.3967 11.4633 3.2813C11.5741 3.16589 11.6364 3.00936 11.6364 2.84615C11.6364 2.66147 11.6099 2.47781 11.5576 2.30133M6.98788 2.30133C7.09978 1.92447 7.3246 1.59482 7.62942 1.36065C7.93424 1.12648 8.30304 1.00009 8.68182 1H9.86364C10.661 1 11.3346 1.5481 11.5576 2.30133M6.98788 2.30133C6.69164 2.32021 6.39697 2.34236 6.1023 2.36697C5.21121 2.4441 4.54545 3.23426 4.54545 4.16554V5.92308M11.5576 2.30133C11.8538 2.32021 12.1485 2.34236 12.4432 2.36697C13.3342 2.4441 14 3.23426 14 4.16554V12.6923C14 13.1819 13.8132 13.6515 13.4808 13.9977C13.1483 14.344 12.6974 14.5385 12.2273 14.5385H10.4545M4.54545 5.92308H1.88636C1.39709 5.92308 1 6.33662 1 6.84615V16.0769C1 16.5865 1.39709 17 1.88636 17H9.56818C10.0575 17 10.4545 16.5865 10.4545 16.0769V14.5385M4.54545 5.92308H9.56818C10.0575 5.92308 10.4545 6.33662 10.4545 6.84615V14.5385M3.95455 12.0769L5.13636 13.3077L7.5 10.2308"
+                                                                            stroke="currentColor"
+                                                                            stroke-width="0.8"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div>Web app builder</div></a
+                                                        ><a
+                                                            aria-label="Go to SDK comparison pge"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="/sdks-comparison"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="15"
+                                                                        height="18"
+                                                                        viewBox="0 0 15 18"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M6.98788 2.30133C6.93667 2.47364 6.90909 2.65662 6.90909 2.84615C6.90909 3.18585 7.17382 3.46154 7.5 3.46154H11.0455C11.2022 3.46154 11.3525 3.3967 11.4633 3.2813C11.5741 3.16589 11.6364 3.00936 11.6364 2.84615C11.6364 2.66147 11.6099 2.47781 11.5576 2.30133M6.98788 2.30133C7.09978 1.92447 7.3246 1.59482 7.62942 1.36065C7.93424 1.12648 8.30304 1.00009 8.68182 1H9.86364C10.661 1 11.3346 1.5481 11.5576 2.30133M6.98788 2.30133C6.69164 2.32021 6.39697 2.34236 6.1023 2.36697C5.21121 2.4441 4.54545 3.23426 4.54545 4.16554V5.92308M11.5576 2.30133C11.8538 2.32021 12.1485 2.34236 12.4432 2.36697C13.3342 2.4441 14 3.23426 14 4.16554V12.6923C14 13.1819 13.8132 13.6515 13.4808 13.9977C13.1483 14.344 12.6974 14.5385 12.2273 14.5385H10.4545M4.54545 5.92308H1.88636C1.39709 5.92308 1 6.33662 1 6.84615V16.0769C1 16.5865 1.39709 17 1.88636 17H9.56818C10.0575 17 10.4545 16.5865 10.4545 16.0769V14.5385M4.54545 5.92308H9.56818C10.0575 5.92308 10.4545 6.33662 10.4545 6.84615V14.5385M3.95455 12.0769L5.13636 13.3077L7.5 10.2308"
+                                                                            stroke="currentColor"
+                                                                            stroke-width="0.8"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div>Compare the two</div></a
+                                                        >
+                                                    </div>
+                                                    <div class="nav_dropdown-link-hover-embed w-embed">
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div
+                                                    blocks-name="navbar6_dropdown-column"
+                                                    blocks-slot-children="ST265"
+                                                    class="navbar-v2_dropdown-column"
+                                                >
+                                                    <div class="navbar-v2_dropdown-link-label">
+                                                        <div blocks-name="heading-3">Technoloy</div>
+                                                    </div>
+                                                    <div
+                                                        blocks-name="navbar6_dropdown-link-list-3"
+                                                        blocks-slot-children="ST366"
+                                                        class="navbar-v2_dropdown-link-list"
+                                                    >
+                                                        <a
+                                                            aria-label="Go to Technology page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="/technology"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                        width="16"
+                                                                        height="19"
+                                                                        viewBox="0 0 16 19"
+                                                                        fill="none"
+                                                                    >
+                                                                        <path
+                                                                            d="M0.400008 10.7846L9.94546 0.400024L7.90001 8.01541H15.4L5.85455 18.4L7.90001 10.7846H0.400008Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-width="0.8"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div>Technology</div></a
+                                                        ><a
+                                                            aria-label="Go to Scientific research page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="/scientific-research"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="16"
+                                                                        height="20"
+                                                                        viewBox="0 0 16 20"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M7.62393 0.409058L7.59088 0.807691L7.62397 0.810433L7.65706 0.807683L7.62393 0.409058ZM12.6269 2.54382L12.9036 2.25504L12.9036 2.25503L12.6269 2.54382ZM13.8983 8.75378L13.5097 8.65924L13.2442 9.75065L14.1398 9.07271L13.8983 8.75378ZM14.7792 9.20496L15.1705 9.12177L15.1704 9.12171L14.7792 9.20496ZM14.6767 11.3358L15.062 11.4432L15.0635 11.4376L14.6767 11.3358ZM14.328 12.5868L14.702 12.7287L14.7085 12.7117L14.7133 12.6942L14.328 12.5868ZM13.8983 13.2831L14.0772 13.6409L14.0782 13.6404L13.8983 13.2831ZM13.4267 12.9755L13.798 12.8269L13.3663 11.7476L13.0425 12.8641L13.4267 12.9755ZM12.4423 15.579L12.7694 15.8092L12.7694 15.8092L12.4423 15.579ZM10.8642 17.5673L10.6081 17.26L10.608 17.2601L10.8642 17.5673ZM9.36807 18.8173L9.55258 19.1722L9.55261 19.1721L9.36807 18.8173ZM7.66299 19.1639L7.65912 18.764L7.26299 18.7678V19.1639H7.66299ZM7.66299 19.1659L7.66297 19.5659L8.06299 19.5659V19.1659H7.66299ZM7.62393 19.1649L7.62584 18.7649L7.62204 18.7649L7.62393 19.1649ZM7.58486 19.1659H7.18486V19.5659H7.58486V19.1659ZM7.58486 19.1639H7.98486V18.7678L7.58876 18.764L7.58486 19.1639ZM5.87979 18.8173L5.69517 19.1721L5.69524 19.1721L5.87979 18.8173ZM4.38369 17.5673L4.12761 17.8745L4.12762 17.8745L4.38369 17.5673ZM2.80557 15.579L2.47844 15.8092L2.47844 15.8092L2.80557 15.579ZM1.82217 12.9755L2.20634 12.8641L1.88256 11.7476L1.45078 12.8269L1.82217 12.9755ZM1.35049 13.2831L1.17141 13.6408L1.17161 13.6409L1.35049 13.2831ZM0.919824 12.5868L0.534508 12.6942L0.539388 12.7117L0.545836 12.7287L0.919824 12.5868ZM0.571191 11.3358L0.184302 11.4376L0.185875 11.4432L0.571191 11.3358ZM0.469629 9.20496L0.0783864 9.12171L0.0783781 9.12175L0.469629 9.20496ZM1.35049 8.75378L1.10894 9.07262L2.00479 9.75131L1.73916 8.65924L1.35049 8.75378ZM2.621 2.54382L2.34423 2.25503L2.34417 2.25508L2.621 2.54382ZM7.62393 0.409058L7.65706 0.807683C8.51089 0.736704 10.5711 1.12772 12.3501 2.83262L12.6269 2.54382L12.9036 2.25503C10.9616 0.393883 8.67661 -0.0798323 7.59079 0.0104326L7.62393 0.409058ZM12.6269 2.54382L12.3501 2.83261C12.987 3.44305 13.3664 4.56492 13.5352 5.76109C13.7023 6.94569 13.6479 8.09085 13.5097 8.65924L13.8983 8.75378L14.287 8.84832C14.4562 8.15281 14.5038 6.90013 14.3273 5.6493C14.1524 4.41004 13.7423 3.05888 12.9036 2.25504L12.6269 2.54382ZM13.8983 8.75378L14.1398 9.07271C14.1653 9.05339 14.1987 9.03495 14.2308 9.02462C14.2628 9.01429 14.2766 9.01724 14.2757 9.01705C14.2676 9.01525 14.2725 9.01095 14.2905 9.03373C14.3134 9.06268 14.3553 9.13471 14.388 9.2882L14.7792 9.20496L15.1704 9.12171C15.0719 8.65846 14.8359 8.32137 14.448 8.23582C14.1127 8.16186 13.8134 8.31644 13.6569 8.43486L13.8983 8.75378ZM14.7792 9.20496L14.3879 9.28815C14.5326 9.96857 14.3861 10.8679 14.2898 11.2341L14.6767 11.3358L15.0635 11.4376C15.1721 11.0245 15.3534 9.98212 15.1705 9.12177L14.7792 9.20496ZM14.6767 11.3358L14.2913 11.2284L13.9427 12.4794L14.328 12.5868L14.7133 12.6942L15.062 11.4432L14.6767 11.3358ZM14.328 12.5868L13.9541 12.4449C13.9216 12.5302 13.863 12.6652 13.7971 12.7834C13.764 12.8427 13.7339 12.8891 13.7092 12.9205C13.6783 12.96 13.6798 12.9453 13.7185 12.9258L13.8983 13.2831L14.0782 13.6404C14.1988 13.5797 14.2855 13.4821 14.3387 13.4142C14.3983 13.3383 14.4512 13.253 14.4957 13.1732C14.5849 13.0134 14.6592 12.8415 14.702 12.7287L14.328 12.5868ZM13.8983 13.2831L13.7195 12.9253C13.7289 12.9206 13.7434 12.9152 13.7621 12.9123C13.7809 12.9094 13.7995 12.9098 13.8164 12.9127C13.8496 12.9183 13.8648 12.9311 13.8626 12.9293C13.8603 12.9276 13.8498 12.9182 13.8354 12.8973C13.8214 12.877 13.8082 12.8524 13.798 12.8269L13.4267 12.9755L13.0553 13.124C13.1137 13.27 13.2162 13.4395 13.3701 13.5598C13.5383 13.6912 13.8005 13.7792 14.0772 13.6409L13.8983 13.2831ZM13.4267 12.9755L13.0425 12.8641C12.9452 13.1996 12.7794 13.7318 12.6003 14.2327C12.4141 14.7537 12.2341 15.1798 12.1152 15.3488L12.4423 15.579L12.7694 15.8092C12.962 15.5354 13.1752 15.0013 13.3537 14.5021C13.5393 13.9827 13.71 13.4345 13.8108 13.0869L13.4267 12.9755ZM12.4423 15.579L12.1152 15.3488C11.9254 15.6184 11.5967 16.0586 11.2845 16.4572C11.1285 16.6562 10.9788 16.8423 10.8541 16.9899C10.7211 17.1473 10.6381 17.2349 10.6081 17.26L10.8642 17.5673L11.1202 17.8745C11.2132 17.7971 11.3402 17.6541 11.4653 17.5061C11.5987 17.3482 11.7551 17.1537 11.9143 16.9505C12.2322 16.5446 12.5696 16.0931 12.7694 15.8092L12.4423 15.579ZM10.8642 17.5673L10.608 17.2601C10.5342 17.3216 10.4308 17.4195 10.3233 17.5215C10.2108 17.6282 10.0827 17.75 9.94693 17.8733C9.66596 18.1284 9.3881 18.356 9.18353 18.4624L9.36807 18.8173L9.55261 19.1721C9.86022 19.0122 10.2073 18.7175 10.4847 18.4655C10.6281 18.3353 10.7627 18.2073 10.8738 18.102C10.9898 17.992 11.071 17.9156 11.1203 17.8745L10.8642 17.5673ZM9.36807 18.8173L9.18355 18.4624C8.77126 18.6767 8.27543 18.758 7.65912 18.764L7.66299 19.1639L7.66685 19.5639C8.33883 19.5574 8.97966 19.47 9.55258 19.1722L9.36807 18.8173ZM7.66299 19.1639H7.26299V19.1659H7.66299H8.06299V19.1639H7.66299ZM7.66299 19.1659L7.663 18.7659C7.66476 18.7659 7.66517 18.766 7.65794 18.7657C7.65299 18.7655 7.63985 18.765 7.62584 18.7649L7.62393 19.1649L7.62201 19.5649C7.621 19.5649 7.62086 19.5649 7.62892 19.5652C7.63472 19.5654 7.64816 19.5659 7.66297 19.5659L7.66299 19.1659ZM7.62393 19.1649L7.62204 18.7649C7.60807 18.765 7.59488 18.7655 7.58994 18.7657C7.58263 18.766 7.58305 18.7659 7.58486 18.7659V19.1659V19.5659C7.59964 19.5659 7.61314 19.5654 7.61889 19.5652C7.62702 19.5649 7.62688 19.5649 7.62582 19.5649L7.62393 19.1649ZM7.58486 19.1659H7.98486V19.1639H7.58486H7.18486V19.1659H7.58486ZM7.58486 19.1639L7.58876 18.764C6.97254 18.758 6.47647 18.6767 6.06433 18.4624L5.87979 18.8173L5.69524 19.1721C6.2681 19.47 6.90922 19.5574 7.58097 19.5639L7.58486 19.1639ZM5.87979 18.8173L6.0644 18.4624C5.85968 18.3559 5.58169 18.1282 5.30071 17.873C5.16489 17.7497 5.03686 17.6279 4.92437 17.5213C4.81685 17.4193 4.71351 17.3214 4.63977 17.26L4.38369 17.5673L4.12762 17.8745C4.17682 17.9156 4.25792 17.9918 4.37392 18.1018C4.48493 18.2071 4.61949 18.335 4.76291 18.4653C5.04039 18.7172 5.3875 19.012 5.69517 19.1721L5.87979 18.8173ZM4.38369 17.5673L4.63977 17.26C4.60972 17.2349 4.52672 17.1473 4.39367 16.9898C4.26899 16.8422 4.11925 16.6562 3.96332 16.4571C3.65108 16.0585 3.32238 15.6183 3.13269 15.3488L2.80557 15.579L2.47844 15.8092C2.67817 16.093 3.01555 16.5445 3.33353 16.9504C3.4927 17.1536 3.6491 17.3481 3.78253 17.5061C3.9076 17.6541 4.03468 17.7971 4.12761 17.8745L4.38369 17.5673ZM2.80557 15.579L3.13269 15.3488C3.07983 15.2737 3.00509 15.1302 2.91556 14.9229C2.82891 14.7222 2.7375 14.4835 2.64805 14.2329C2.46921 13.732 2.30369 13.1997 2.20634 12.8641L1.82217 12.9755L1.438 13.0869C1.53877 13.4344 1.70919 13.9825 1.89463 14.5019C1.98731 14.7615 2.08514 15.0178 2.18112 15.2401C2.27423 15.4557 2.37553 15.6629 2.47844 15.8092L2.80557 15.579ZM1.82217 12.9755L1.45078 12.8269C1.44059 12.8524 1.42744 12.877 1.41346 12.8973C1.39901 12.9182 1.38849 12.9276 1.3862 12.9293C1.38398 12.9311 1.39928 12.9183 1.43241 12.9127C1.44934 12.9098 1.46796 12.9094 1.48673 12.9123C1.50544 12.9152 1.51991 12.9206 1.52937 12.9253L1.35049 13.2831L1.17161 13.6409C1.44833 13.7792 1.71051 13.6912 1.87869 13.5598C2.03262 13.4395 2.13515 13.27 2.19355 13.124L1.82217 12.9755ZM1.35049 13.2831L1.52957 12.9254C1.56855 12.9449 1.5701 12.9598 1.53905 12.9203C1.51437 12.8889 1.48413 12.8425 1.45098 12.7832C1.38485 12.665 1.3261 12.53 1.29381 12.4449L0.919824 12.5868L0.545836 12.7287C0.588741 12.8418 0.663372 13.0139 0.752798 13.1738C0.797429 13.2535 0.850513 13.3389 0.910203 13.4148C0.963518 13.4826 1.05048 13.5802 1.17141 13.6408L1.35049 13.2831ZM0.919824 12.5868L1.30514 12.4794L0.956508 11.2284L0.571191 11.3358L0.185875 11.4432L0.534508 12.6942L0.919824 12.5868ZM0.571191 11.3358L0.958039 11.2341C0.861824 10.8682 0.716147 9.96874 0.86088 9.28816L0.469629 9.20496L0.0783781 9.12175C-0.10452 9.9818 0.075603 11.024 0.184344 11.4375L0.571191 11.3358ZM0.469629 9.20496L0.860871 9.2882C0.893543 9.13464 0.935411 9.06258 0.958343 9.03361C0.976384 9.01083 0.981263 9.01515 0.973106 9.01695C0.972218 9.01714 0.985954 9.0142 1.018 9.02453C1.05002 9.03486 1.08345 9.05331 1.10894 9.07262L1.35049 8.75378L1.59204 8.43495C1.43564 8.31646 1.13633 8.16176 0.800899 8.2357C0.412936 8.32122 0.176966 8.65839 0.0783864 9.12171L0.469629 9.20496ZM1.35049 8.75378L1.73916 8.65924C1.6009 8.09085 1.54632 6.9457 1.71329 5.76112C1.88188 4.56496 2.26102 3.44307 2.89782 2.83256L2.621 2.54382L2.34417 2.25508C1.50561 3.05904 1.09579 4.41023 0.921116 5.64947C0.744814 6.90029 0.792661 8.15289 0.961821 8.84832L1.35049 8.75378ZM2.621 2.54382L2.89776 2.83262C4.67638 1.12808 6.73669 0.736888 7.59088 0.807691L7.62393 0.409058L7.65697 0.0104246C6.57096 -0.0795922 4.28594 0.394204 2.34423 2.25503L2.621 2.54382Z"
+                                                                            fill="currentColor"
+                                                                        />
+                                                                        <path
+                                                                            d="M7.30585 0.979065V18.4037"
+                                                                            stroke="currentColor"
+                                                                            stroke-width="0.8"
+                                                                            stroke-linecap="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M1.81366 8.72342C3.53954 7.74941 7.76278 6.38578 13.4301 8.72339"
+                                                                            stroke="currentColor"
+                                                                            stroke-width="0.8"
+                                                                            stroke-linecap="round"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div>Scientific research</div></a
+                                                        ><a
+                                                            aria-label="Go to Measured metrics page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="/health-markers"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="18"
+                                                                        height="18"
+                                                                        viewBox="0 0 18 18"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M1 5V1H5"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M1 13V17H5"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M17 13V17H13"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M13 1H17V5"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M13.4444 8.99986L8.99999 13.4443C8.99999 13.4443 5.00008 9.44431 4.55555 8.99986C4.11102 8.55542 3.88888 7.66653 4.55555 6.77764C5.22222 5.88875 6.55555 5.88875 7.22222 6.33319C7.88893 6.77764 8.11115 7.22208 8.99999 7.22208C9.88888 7.22208 10.1111 6.77764 10.7778 6.33319C11.4444 5.88875 12.7779 5.88875 13.4446 6.77764C14.1112 7.66653 13.8889 8.55542 13.4444 8.99986Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div>Measured metrics</div></a
+                                                        >
+                                                    </div>
+                                                    <div class="nav_dropdown-link-hover-embed w-embed">
+                                                       
+                                                    </div>
+                                                </div>
+                                                <div
+                                                    blocks-name="navbar6_dropdown-column"
+                                                    blocks-slot-children="ST265"
+                                                    class="navbar-v2_dropdown-column"
+                                                >
+                                                    <div class="navbar-v2_dropdown-link-label">
+                                                        <div blocks-name="heading-3">Explore</div>
+                                                    </div>
+                                                    <div
+                                                        blocks-name="navbar6_dropdown-link-list-3"
+                                                        blocks-slot-children="ST366"
+                                                        class="navbar-v2_dropdown-link-list"
+                                                    >
+                                                        <a
+                                                            aria-label="Go to Why iHealthy page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="/why-shen-ai"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed"></div>
+                                                                <div class="icon-embed-custom-8 w-embed">
+                                                                    <svg
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                        width="100%"
+                                                                        height="100%"
+                                                                        viewBox="0 0 17 17"
+                                                                        fill="none"
+                                                                        preserveAspectRatio="xMidYMid meet"
+                                                                        aria-hidden="true"
+                                                                        role="img"
+                                                                    >
+                                                                        <path
+                                                                            d="M7.84651 10.1486C7.84651 9.83946 7.89868 9.56804 8.003 9.33432C8.10733 9.09306 8.23401 8.88949 8.38305 8.72362C8.53954 8.55021 8.74074 8.35042 8.98665 8.12423C9.22512 7.90559 9.40769 7.72464 9.53437 7.58139C9.6685 7.4306 9.78028 7.2572 9.86971 7.06117C9.96658 6.86514 10.015 6.64273 10.015 6.39393C10.015 5.86616 9.86598 5.47034 9.5679 5.20646C9.27728 4.93504 8.87115 4.79933 8.34952 4.79933C7.82043 4.79933 7.41803 4.97274 7.14231 5.31955C6.86659 5.66637 6.72127 6.09612 6.70637 6.6088L6.04688 6.45047C6.06923 6.0358 6.16983 5.65506 6.34868 5.30824C6.53498 4.96143 6.79579 4.68624 7.13113 4.48267C7.47392 4.27157 7.88005 4.16602 8.34952 4.16602C8.84879 4.16602 9.27728 4.26026 9.63497 4.44875C10.0001 4.63723 10.2758 4.89734 10.4621 5.22908C10.6559 5.56082 10.7528 5.94156 10.7528 6.37131C10.7528 6.69551 10.6969 6.98578 10.5851 7.24212C10.4733 7.49846 10.3392 7.7171 10.1827 7.89805C10.0262 8.07146 9.81754 8.27879 9.55673 8.52006C9.22139 8.83671 8.97175 9.10813 8.80781 9.33432C8.65132 9.5605 8.57307 9.83192 8.57307 10.1486V10.5444H7.84651V10.1486ZM7.69002 11.5509H8.75192V12.6366H7.69002V11.5509Z"
+                                                                            fill="currentColor"
+                                                                        />
+                                                                        <path
+                                                                            d="M16.3999 8.40039C16.3999 9.45097 16.193 10.4913 15.7909 11.4619C15.3889 12.4325 14.7996 13.3144 14.0568 14.0572C13.3139 14.8001 12.432 15.3894 11.4614 15.7914C10.4908 16.1935 9.45048 16.4004 8.3999 16.4004C7.34933 16.4004 6.30904 16.1935 5.33843 15.7914C4.36783 15.3894 3.48592 14.8001 2.74305 14.0572C2.00018 13.3144 1.4109 12.4325 1.00887 11.4619C0.606828 10.4913 0.399902 9.45097 0.399902 8.40039C0.399902 6.27866 1.24276 4.24383 2.74305 2.74354C4.24334 1.24325 6.27817 0.400391 8.3999 0.400391C10.5216 0.400391 12.5565 1.24325 14.0568 2.74354C15.557 4.24383 16.3999 6.27866 16.3999 8.40039Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-width="0.8"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div>Why iHealthy</div></a
+                                                        ><a
+                                                            href="/implementation"
+                                                            aria-label="Go to Implementation library page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="14"
+                                                                        height="16"
+                                                                        viewBox="0 0 14 16"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M3.94536 4.02165V2.26411C3.94536 1.33283 4.61111 0.542671 5.50221 0.465543C5.79687 0.440928 6.09154 0.418774 6.38778 0.399902H11.3999C12.0666 0.435458 13.3999 0.858076 13.3999 2.26411V10.7909C13.3999 11.2805 13.2131 11.7501 12.8807 12.0963C12.5482 12.4425 12.0973 12.637 11.6272 12.637H9.85445M3.94536 4.02165H1.28627C0.796993 4.02165 0.399902 4.43518 0.399902 4.94472V14.1755C0.399902 14.685 0.796993 15.0986 1.28627 15.0986H8.96808C9.45736 15.0986 9.85445 14.685 9.85445 14.1755V12.637M3.94536 4.02165H8.96808C9.45736 4.02165 9.85445 4.43518 9.85445 4.94472V12.637M3.35445 10.1755L4.53627 11.4063L6.8999 8.32934"
+                                                                            stroke="currentColor"
+                                                                            stroke-width="0.8"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div>Implementation library</div></a
+                                                        ><a
+                                                            href="/use-cases-library"
+                                                            aria-label="Go to Use cases library page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="16"
+                                                                        height="16"
+                                                                        viewBox="0 0 16 16"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M6.83442 0.407862C7.51634 -0.135954 8.48366 -0.135954 9.16558 0.407862L15.2919 5.29348C15.7386 5.64947 15.9978 6.1911 15.9978 6.76331V14.1234C15.9978 15.1608 15.159 15.9995 14.1264 15.9995H1.87146C0.836601 15.9995 0 15.1586 0 14.1234V6.76331C0 6.1911 0.261438 5.64947 0.705882 5.29348L6.83442 0.407862ZM8.52941 1.20939C8.22004 0.962599 7.77996 0.962599 7.47059 1.20939L1.34205 6.095C1.13943 6.25662 1.01961 6.50341 1.01961 6.76331V14.1234C1.01961 14.5951 1.40087 14.9773 1.87146 14.9773H14.1264C14.5969 14.9773 14.9782 14.5951 14.9782 14.1234V6.76331C14.9782 6.50341 14.8606 6.25662 14.6558 6.095L8.52941 1.20939ZM6.46841 6.78733C7.00436 6.78733 7.48802 7.01447 7.83006 7.37701C8.17211 7.01447 8.65577 6.78733 9.19172 6.78733H10.8736C11.2636 6.78733 11.6035 7.05378 11.6993 7.43161L12.5272 10.7251C12.6362 11.1553 12.3094 11.5747 11.8671 11.5747H9.53595C9.1939 11.5747 8.85839 11.6817 8.57952 11.8804C8.21569 12.1403 7.51416 12.1578 7.14379 11.8957C6.878 11.7013 6.57081 11.5747 6.23747 11.5747H4.12636C3.69281 11.5747 3.36819 11.1728 3.46187 10.7469L4.17865 7.45782C4.26362 7.0647 4.61002 6.78733 5.01089 6.78733H6.47059H6.46841ZM9.19172 7.80945C8.72113 7.80945 8.33987 8.19165 8.33987 8.66339V10.8343C8.71024 10.6486 9.11765 10.5504 9.53377 10.5504H11.4292L10.7407 7.80945H9.19172ZM4.54902 10.5504H6.23747C6.61438 10.5504 6.98475 10.6399 7.32026 10.8037V8.66339C7.32026 8.19165 6.939 7.80945 6.46841 7.80945H5.14597L4.54902 10.5504Z"
+                                                                            fill="currentColor"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div>Use cases library</div></a
+                                                        >
+                                                    </div>
+                                                    <div class="nav_dropdown-link-hover-embed w-embed">
+                                                       
+                                                    </div>
+                                                </div>
+                                                <div class="navbar-v2_separator is-vertical"></div>
+                                                <div class="navbar-v2_menu-right">
+                                                    <div class="navbar-v2_dropdown-link-label no-left-padding">
+                                                        <div blocks-name="heading-3">live demo</div>
+                                                    </div>
+                                                    <div class="div-block-11">
+                                                        <div class="text-weight-semibold text-size-regular">
+                                                            Scan yourself
+                                                        </div>
+                                                        <div class="text-size-small opacity-50">
+                                                            Read your pulse and breathing from your own webcam in thirty
+                                                            seconds.
+                                                        </div>
+                                                    </div>
+                                                    <a
+                                                        href="/scan-yourself"
+                                                        class="navbar-v2_link-button w-inline-block"
+                                                        ><div class="text-size-regular text-weight-semibold">
+                                                            Scan yourself →
+                                                        </div></a
+                                                    >
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </nav>
+                            </div>
+                            <div
+                                data-delay="300"
+                                data-hover="true"
+                                data-w-id="dd9ee0a5-bb4d-7a06-d618-c3e37f3d3758"
+                                class="navbar-v2_dropdown w-dropdown"
+                            >
+                                <div class="navbar-v2_dropdown-toggle w-dropdown-toggle">
+                                    <div>Solutions</div>
+                                    <div class="nav_dropdown-chevron w-embed">
+                                        <svg
+                                            width="100%"
+                                            height="100%"
+                                            viewBox="0 0 21 20"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg"
+                                        >
+                                            <path
+                                                d="M5.5 7.5L10.5 12.5L15.5 7.5"
+                                                stroke="currentColor"
+                                                stroke-width="1.66667"
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                            />
+                                        </svg>
+                                    </div>
+                                </div>
+                                <nav
+                                    id="navbar-v2-drop-list"
+                                    class="navbar-v2_dropdown-list w-variant-ff6b0e9a-b3e4-8ca8-d766-860c5d491744 w-dropdown-list"
+                                >
+                                    <div id="drop-cont" class="nav_container">
+                                        <div class="navbar_dropdown-content">
+                                            <div class="navbar-v2_dropdown-content-left">
+                                                <div>
+                                                    <div
+                                                        blocks-name="navbar6_dropdown-column"
+                                                        blocks-slot-children="ST265"
+                                                        class="navbar-v2_dropdown-column is-solution"
+                                                    >
+                                                        <div class="navbar-v2_dropdown-link-label">
+                                                            <div blocks-name="heading-3">Industry</div>
+                                                        </div>
+                                                        <div
+                                                            blocks-name="navbar6_dropdown-link-list-3"
+                                                            blocks-slot-children="ST366"
+                                                            class="navbar-v2_dropdown-link-list grid"
+                                                        >
+                                                            <a
+                                                                aria-label="Go to insurance page"
+                                                                blocks-name="navbar_dropdown-link"
+                                                                href="/solutions/insurance"
+                                                                class="nav_dropdown-link w-inline-block"
+                                                                ><div class="nav_icon-wrapper">
+                                                                    <div class="nav_dropdown-link-icon w-embed">
+                                                                        <svg
+                                                                            width="15"
+                                                                            height="17"
+                                                                            viewBox="0 0 15 17"
+                                                                            fill="none"
+                                                                            xmlns="http://www.w3.org/2000/svg"
+                                                                        >
+                                                                            <path
+                                                                                d="M5.125 8.33837L6.775 9.89442L10.4875 6.39329M14.2 8.72738C14.2 12.5463 9.78298 15.3238 8.17584 16.208C7.99319 16.3085 7.90187 16.3588 7.77299 16.3848C7.67296 16.4051 7.52704 16.4051 7.42701 16.3848C7.29813 16.3588 7.20681 16.3085 7.02416 16.208C5.41702 15.3238 1 12.5463 1 8.72738V5.00654C1 4.38449 1 4.07347 1.10788 3.80612C1.20318 3.56994 1.35804 3.3592 1.55907 3.19212C1.78663 3.00299 2.09543 2.89378 2.71303 2.67537L7.13652 1.111C7.30803 1.05035 7.39379 1.02002 7.48201 1.008C7.56026 0.997334 7.63974 0.997334 7.71799 1.008C7.80621 1.02002 7.89197 1.05035 8.06348 1.111L12.487 2.67537C13.1046 2.89378 13.4134 3.00299 13.6409 3.19212C13.842 3.3592 13.9968 3.56994 14.0921 3.80612C14.2 4.07347 14.2 4.38449 14.2 5.00654V8.72738Z"
+                                                                                stroke="currentColor"
+                                                                                stroke-linecap="round"
+                                                                                stroke-linejoin="round"
+                                                                            />
+                                                                        </svg>
+                                                                    </div>
+                                                                </div>
+                                                                <div>Insurance</div></a
+                                                            ><a
+                                                                aria-label="Go to Automotive page"
+                                                                blocks-name="navbar_dropdown-link"
+                                                                href="/solutions/automotive"
+                                                                class="nav_dropdown-link w-inline-block"
+                                                                ><div class="nav_icon-wrapper">
+                                                                    <div class="nav_dropdown-link-icon w-embed">
+                                                                        <svg
+                                                                            width="16"
+                                                                            height="16"
+                                                                            viewBox="0 0 16 16"
+                                                                            fill="none"
+                                                                            xmlns="http://www.w3.org/2000/svg"
+                                                                        >
+                                                                            <g clip-path="url(#clip0_888_435)">
+                                                                                <path
+                                                                                    d="M12.694 0.559998V2.22666M11.7213 3.72666V5.06M13.6653 3.72666V5.06M7.85333 5.66666H3.83866L2.922 9.33333M11.232 8.33333L11.482 9.33333M9.92333 6.56V2.22666H15.464V6.56H9.92333Z"
+                                                                                    stroke="currentColor"
+                                                                                />
+                                                                                <path
+                                                                                    d="M2.04133 13.6667H0.534668V9.34869H13.868V13.6667H12.3613M5.37733 13.6667H9.02467"
+                                                                                    stroke="currentColor"
+                                                                                    stroke-linecap="square"
+                                                                                />
+                                                                                <path
+                                                                                    d="M2.52349 14.8452C2.21093 14.5326 2.03534 14.1087 2.03534 13.6667C2.03534 13.2246 2.21093 12.8007 2.52349 12.4882C2.83606 12.1756 3.25998 12 3.70201 12C4.14403 12 4.56796 12.1756 4.88052 12.4882C5.19308 12.8007 5.36867 13.2246 5.36867 13.6667C5.36867 14.1087 5.19308 14.5326 4.88052 14.8452C4.56796 15.1577 4.14403 15.3333 3.70201 15.3333C3.25998 15.3333 2.83606 15.1577 2.52349 14.8452Z"
+                                                                                    stroke="currentColor"
+                                                                                />
+                                                                                <path
+                                                                                    d="M9.52349 14.8452C9.21093 14.5326 9.03534 14.1087 9.03534 13.6667C9.03534 13.2246 9.21093 12.8007 9.52349 12.4882C9.83605 12.1756 10.26 12 10.702 12C11.144 12 11.568 12.1756 11.8805 12.4882C12.1931 12.8007 12.3687 13.2246 12.3687 13.6667C12.3687 14.1087 12.1931 14.5326 11.8805 14.8452C11.568 15.1577 11.144 15.3333 10.702 15.3333C10.26 15.3333 9.83605 15.1577 9.52349 14.8452Z"
+                                                                                    stroke="currentColor"
+                                                                                />
+                                                                            </g>
+                                                                            <defs>
+                                                                                <clipPath id="clip0_888_435">
+                                                                                    <rect
+                                                                                        width="16"
+                                                                                        height="16"
+                                                                                        fill="white"
+                                                                                    />
+                                                                                </clipPath>
+                                                                            </defs>
+                                                                        </svg>
+                                                                    </div>
+                                                                </div>
+                                                                <div>Automotive</div></a
+                                                            ><a
+                                                                aria-label="Go to smart mirrors page"
+                                                                blocks-name="navbar_dropdown-link"
+                                                                href="/solutions/smart-mirrors"
+                                                                class="nav_dropdown-link w-inline-block"
+                                                                ><div class="nav_icon-wrapper">
+                                                                    <div class="nav_dropdown-link-icon w-embed">
+                                                                        <svg
+                                                                            xmlns="http://www.w3.org/2000/svg"
+                                                                            width="16"
+                                                                            height="16"
+                                                                            viewBox="0 0 16 16"
+                                                                            fill="none"
+                                                                        >
+                                                                            <path
+                                                                                d="M10 2.66665C9.82319 2.66665 9.65362 2.73688 9.5286 2.86191C9.40357 2.98693 9.33333 3.1565 9.33333 3.33331C9.33333 3.51012 9.40357 3.67969 9.5286 3.80472C9.65362 3.92974 9.82319 3.99998 10 3.99998V2.66665ZM10.6667 3.99998C10.8435 3.99998 11.013 3.92974 11.1381 3.80472C11.2631 3.67969 11.3333 3.51012 11.3333 3.33331C11.3333 3.1565 11.2631 2.98693 11.1381 2.86191C11.013 2.73688 10.8435 2.66665 10.6667 2.66665V3.99998ZM12.6667 2.66665C12.4899 2.66665 12.3203 2.73688 12.1953 2.86191C12.0702 2.98693 12 3.1565 12 3.33331C12 3.51012 12.0702 3.67969 12.1953 3.80472C12.3203 3.92974 12.4899 3.99998 12.6667 3.99998V2.66665ZM12.6667 3.99998C12.6667 4.17679 12.7369 4.34636 12.8619 4.47138C12.987 4.59641 13.1565 4.66665 13.3333 4.66665C13.5101 4.66665 13.6797 4.59641 13.8047 4.47138C13.9298 4.34636 14 4.17679 14 3.99998H12.6667ZM10 12C9.82319 12 9.65362 12.0702 9.5286 12.1952C9.40357 12.3203 9.33333 12.4898 9.33333 12.6666C9.33333 12.8435 9.40357 13.013 9.5286 13.1381C9.65362 13.2631 9.82319 13.3333 10 13.3333V12ZM10.6667 13.3333C10.8435 13.3333 11.013 13.2631 11.1381 13.1381C11.2631 13.013 11.3333 12.8435 11.3333 12.6666C11.3333 12.4898 11.2631 12.3203 11.1381 12.1952C11.013 12.0702 10.8435 12 10.6667 12V13.3333ZM12.6667 12C12.4899 12 12.3203 12.0702 12.1953 12.1952C12.0702 12.3203 12 12.4898 12 12.6666C12 12.8435 12.0702 13.013 12.1953 13.1381C12.3203 13.2631 12.4899 13.3333 12.6667 13.3333V12ZM14 12C14 11.8232 13.9298 11.6536 13.8047 11.5286C13.6797 11.4036 13.5101 11.3333 13.3333 11.3333C13.1565 11.3333 12.987 11.4036 12.8619 11.5286C12.7369 11.6536 12.6667 11.8232 12.6667 12H14ZM14 5.99998C14 5.82317 13.9298 5.6536 13.8047 5.52857C13.6797 5.40355 13.5101 5.33331 13.3333 5.33331C13.1565 5.33331 12.987 5.40355 12.8619 5.52857C12.7369 5.6536 12.6667 5.82317 12.6667 5.99998H14ZM12.6667 6.66665C12.6667 6.84346 12.7369 7.01303 12.8619 7.13805C12.987 7.26307 13.1565 7.33331 13.3333 7.33331C13.5101 7.33331 13.6797 7.26307 13.8047 7.13805C13.9298 7.01303 14 6.84346 14 6.66665H12.6667ZM14 9.33331C14 9.1565 13.9298 8.98693 13.8047 8.86191C13.6797 8.73688 13.5101 8.66665 13.3333 8.66665C13.1565 8.66665 12.987 8.73688 12.8619 8.86191C12.7369 8.98693 12.6667 9.1565 12.6667 9.33331H14ZM12.6667 9.99998C12.6667 10.1768 12.7369 10.3464 12.8619 10.4714C12.987 10.5964 13.1565 10.6666 13.3333 10.6666C13.5101 10.6666 13.6797 10.5964 13.8047 10.4714C13.9298 10.3464 14 10.1768 14 9.99998H12.6667ZM8.66667 1.99998C8.66667 1.82317 8.59643 1.6536 8.4714 1.52858C8.34638 1.40355 8.17681 1.33331 8 1.33331C7.82319 1.33331 7.65362 1.40355 7.5286 1.52858C7.40357 1.6536 7.33333 1.82317 7.33333 1.99998H8.66667ZM7.33333 14C7.33333 14.1768 7.40357 14.3464 7.5286 14.4714C7.65362 14.5964 7.82319 14.6666 8 14.6666C8.17681 14.6666 8.34638 14.5964 8.4714 14.4714C8.59643 14.3464 8.66667 14.1768 8.66667 14H7.33333ZM2.66667 12H3.33333V3.99998H2V12H2.66667ZM3.33333 3.33331V3.99998H6V2.66665H3.33333V3.33331ZM6 12.6666V12H3.33333V13.3333H6V12.6666ZM10 3.33331V3.99998H10.6667V2.66665H10V3.33331ZM10 12.6666V13.3333H10.6667V12H10V12.6666ZM13.3333 5.99998H12.6667V6.66665H14V5.99998H13.3333ZM13.3333 9.33331H12.6667V9.99998H14V9.33331H13.3333ZM8 1.99998H7.33333V14H8.66667V1.99998H8ZM12.6667 12.6666V13.3333C13.0203 13.3333 13.3594 13.1928 13.6095 12.9428C13.8595 12.6927 14 12.3536 14 12H12.6667V12.6666ZM12.6667 3.33331V3.99998H14C14 3.64636 13.8595 3.30722 13.6095 3.05717C13.3594 2.80712 13.0203 2.66665 12.6667 2.66665V3.33331ZM2.66667 3.99998H3.33333V2.66665C2.97971 2.66665 2.64057 2.80712 2.39052 3.05717C2.14048 3.30722 2 3.64636 2 3.99998H2.66667ZM2.66667 12H2C2 12.3536 2.14048 12.6927 2.39052 12.9428C2.64057 13.1928 2.97971 13.3333 3.33333 13.3333V12H2.66667Z"
+                                                                                fill="currentColor"
+                                                                            />
+                                                                        </svg>
+                                                                    </div>
+                                                                </div>
+                                                                <div>Smart mirrors &amp; kiosks</div></a
+                                                            ><a
+                                                                aria-label="Go to telehealth page"
+                                                                blocks-name="navbar_dropdown-link"
+                                                                href="/solutions/telehealth-providers"
+                                                                class="nav_dropdown-link w-inline-block"
+                                                                ><div class="nav_icon-wrapper">
+                                                                    <div class="nav_dropdown-link-icon w-embed">
+                                                                        <svg
+                                                                            width="24"
+                                                                            height="24"
+                                                                            viewBox="0 0 24 24"
+                                                                            fill="none"
+                                                                            xmlns="http://www.w3.org/2000/svg"
+                                                                        >
+                                                                            <path
+                                                                                d="M6.5 4.5H17.5C18.163 4.5 18.7989 4.76339 19.2678 5.23223C19.7366 5.70107 20 6.33696 20 7V12.5C20 13.163 19.7366 13.7989 19.2678 14.2678C18.7989 14.7366 18.163 15 17.5 15H11L7.5 18.3V15H6.5C5.83696 15 5.20107 14.7366 4.73223 14.2678C4.26339 13.7989 4 13.163 4 12.5V7C4 6.33696 4.26339 5.70107 4.73223 5.23223C5.20107 4.76339 5.83696 4.5 6.5 4.5Z"
+                                                                                stroke="currentColor"
+                                                                                stroke-width="1.2"
+                                                                                stroke-linecap="round"
+                                                                                stroke-linejoin="round"
+                                                                            />
+                                                                            <path
+                                                                                d="M12 7.30078V12.2008"
+                                                                                stroke="currentColor"
+                                                                                stroke-width="1.2"
+                                                                                stroke-linecap="round"
+                                                                                stroke-linejoin="round"
+                                                                            />
+                                                                            <path
+                                                                                d="M9.5498 9.75H14.4498"
+                                                                                stroke="currentColor"
+                                                                                stroke-width="1.2"
+                                                                                stroke-linecap="round"
+                                                                                stroke-linejoin="round"
+                                                                            />
+                                                                        </svg>
+                                                                    </div>
+                                                                </div>
+                                                                <div>Telehealth</div></a
+                                                            ><a
+                                                                aria-label="Go to corporate wellness page"
+                                                                blocks-name="navbar_dropdown-link"
+                                                                href="/solutions/corporate-wellness"
+                                                                class="nav_dropdown-link w-inline-block"
+                                                                ><div class="nav_icon-wrapper">
+                                                                    <div class="nav_dropdown-link-icon w-embed">
+                                                                        <svg
+                                                                            width="24"
+                                                                            height="24"
+                                                                            viewBox="0 0 24 24"
+                                                                            fill="none"
+                                                                            xmlns="http://www.w3.org/2000/svg"
+                                                                        >
+                                                                            <path
+                                                                                d="M18.5 8H5.5C4.39543 8 3.5 8.89543 3.5 10V16.5C3.5 17.6046 4.39543 18.5 5.5 18.5H18.5C19.6046 18.5 20.5 17.6046 20.5 16.5V10C20.5 8.89543 19.6046 8 18.5 8Z"
+                                                                                stroke="currentColor"
+                                                                                stroke-linecap="round"
+                                                                                stroke-linejoin="round"
+                                                                            />
+                                                                            <path
+                                                                                d="M8.5 8V6.5C8.5 5.96957 8.71071 5.46086 9.08579 5.08579C9.46086 4.71071 9.96957 4.5 10.5 4.5H13.5C14.0304 4.5 14.5391 4.71071 14.9142 5.08579C15.2893 5.46086 15.5 5.96957 15.5 6.5V8"
+                                                                                stroke="currentColor"
+                                                                                stroke-linecap="round"
+                                                                                stroke-linejoin="round"
+                                                                            />
+                                                                            <path
+                                                                                d="M11.9999 14.9992C11.9999 14.9992 8.8999 12.9492 8.8999 11.0492C8.8999 10.0492 9.6999 9.44922 10.4999 9.44922C11.1999 9.44922 11.9999 10.1492 11.9999 10.1492C11.9999 10.1492 12.7999 9.44922 13.4999 9.44922C14.2999 9.44922 15.0999 10.0492 15.0999 11.0492C15.0999 12.9492 11.9999 14.9992 11.9999 14.9992Z"
+                                                                                stroke="currentColor"
+                                                                                stroke-linecap="round"
+                                                                                stroke-linejoin="round"
+                                                                            />
+                                                                        </svg>
+                                                                    </div>
+                                                                </div>
+                                                                <div>Corporate wellness</div></a
+                                                            ><a
+                                                                aria-label="Go to Mobile health page"
+                                                                blocks-name="navbar_dropdown-link"
+                                                                href="/solutions/mobile-health"
+                                                                class="nav_dropdown-link w-inline-block"
+                                                                ><div class="nav_icon-wrapper">
+                                                                    <div class="icon-embed-custom-7 w-embed">
+                                                                        <svg
+                                                                            width="24"
+                                                                            height="24"
+                                                                            viewBox="0 0 24 24"
+                                                                            fill="none"
+                                                                            xmlns="http://www.w3.org/2000/svg"
+                                                                        >
+                                                                            <path
+                                                                                d="M15.2 2.80078H8.8C7.2536 2.80078 6 4.05438 6 5.60078V18.4008C6 19.9472 7.2536 21.2008 8.8 21.2008H15.2C16.7464 21.2008 18 19.9472 18 18.4008V5.60078C18 4.05438 16.7464 2.80078 15.2 2.80078Z"
+                                                                                stroke="currentColor"
+                                                                                stroke-linecap="round"
+                                                                                stroke-linejoin="round"
+                                                                            />
+                                                                            <path
+                                                                                d="M10.2002 4.80078H13.8002"
+                                                                                stroke="currentColor"
+                                                                                stroke-linecap="round"
+                                                                                stroke-linejoin="round"
+                                                                            />
+                                                                            <path
+                                                                                d="M7.6001 12H9.7001L10.9001 9L12.7001 15.4L13.9001 12H16.4001"
+                                                                                stroke="currentColor"
+                                                                                stroke-linecap="round"
+                                                                                stroke-linejoin="round"
+                                                                            />
+                                                                        </svg>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="nav_text-with-label">
+                                                                    <div>Mobile health</div>
+                                                                </div></a
+                                                            ><a
+                                                                aria-label="Go to Remote patient monitoring page"
+                                                                blocks-name="navbar_dropdown-link"
+                                                                href="/solutions/remote-patient-monitoring"
+                                                                class="nav_dropdown-link w-inline-block"
+                                                                ><div class="nav_icon-wrapper">
+                                                                    <div class="icon-embed-custom-7 w-embed">
+                                                                        <svg
+                                                                            width="24"
+                                                                            height="24"
+                                                                            viewBox="0 0 24 24"
+                                                                            fill="none"
+                                                                            xmlns="http://www.w3.org/2000/svg"
+                                                                        >
+                                                                            <path
+                                                                                d="M15.2 2.80078H8.8C7.2536 2.80078 6 4.05438 6 5.60078V18.4008C6 19.9472 7.2536 21.2008 8.8 21.2008H15.2C16.7464 21.2008 18 19.9472 18 18.4008V5.60078C18 4.05438 16.7464 2.80078 15.2 2.80078Z"
+                                                                                stroke="currentColor"
+                                                                                stroke-linecap="round"
+                                                                                stroke-linejoin="round"
+                                                                            />
+                                                                            <path
+                                                                                d="M10.2002 4.80078H13.8002"
+                                                                                stroke="currentColor"
+                                                                                stroke-linecap="round"
+                                                                                stroke-linejoin="round"
+                                                                            />
+                                                                            <path
+                                                                                d="M7.6001 12H9.7001L10.9001 9L12.7001 15.4L13.9001 12H16.4001"
+                                                                                stroke="currentColor"
+                                                                                stroke-linecap="round"
+                                                                                stroke-linejoin="round"
+                                                                            />
+                                                                        </svg>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="nav_text-with-label">
+                                                                    <div>Remote patient monitoring</div>
+                                                                </div></a
+                                                            >
+                                                        </div>
+                                                        <div class="nav_dropdown-link-hover-embed w-embed">
+                                                            
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="navbar-v2_separator is-vertical"></div>
+                                                <div
+                                                    blocks-name="navbar6_dropdown-column"
+                                                    blocks-slot-children="ST265"
+                                                    class="navbar-v2_dropdown-column is-solution"
+                                                >
+                                                    <div class="navbar-v2_dropdown-link-label">
+                                                        <div blocks-name="heading-3">Use cases</div>
+                                                    </div>
+                                                    <div
+                                                        blocks-name="navbar6_dropdown-link-list-3"
+                                                        blocks-slot-children="ST366"
+                                                        class="navbar-v2_dropdown-link-list grid"
+                                                    >
+                                                        <a
+                                                            aria-label="Go to Boost engagement page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="/use-cases/boost-engagement"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="24"
+                                                                        height="24"
+                                                                        viewBox="0 0 24 24"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M12 2.39844C15.3 5.59844 17 9.49844 17 13.1984L14.7 15.4984H9.3L7 13.1984C7 9.49844 8.7 5.59844 12 2.39844Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M12 10.3516C12.9665 10.3516 13.75 9.56806 13.75 8.60156C13.75 7.63506 12.9665 6.85156 12 6.85156C11.0335 6.85156 10.25 7.63506 10.25 8.60156C10.25 9.56806 11.0335 10.3516 12 10.3516Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M9.3002 13.6L5.7002 16.7L6.4002 12.5M14.7002 13.6L18.3002 16.7L17.6002 12.5"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M10.1001 15.5C10.1001 18.6 12.0001 21.6 12.0001 21.6C12.0001 21.6 13.9001 18.6 13.9001 15.5"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div class="nav_text-with-label">
+                                                                <div>Boost engagement</div>
+                                                            </div></a
+                                                        ><a
+                                                            aria-label="Go to Add objective health data page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="/use-cases/add-objective-health-data"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="24"
+                                                                        height="24"
+                                                                        viewBox="0 0 24 24"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M6 6.19922C6 5.09922 8.7 4.19922 12 4.19922C15.3 4.19922 18 5.09922 18 6.19922C18 7.29922 15.3 8.19922 12 8.19922C8.7 8.19922 6 7.29922 6 6.19922Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M6 6.19922V14.4992C6 15.5992 8.7 16.4992 12 16.4992"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M18 6.19922V10.9992"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M16.5 14V19M14 16.5H19"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div class="nav_text-with-label">
+                                                                <div>Add objective health data</div>
+                                                            </div></a
+                                                        ><a
+                                                            aria-label="Go to Cut screening cost page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="/use-cases/cut-screening-cost"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="icon-embed-custom-7 w-embed">
+                                                                    <svg
+                                                                        width="24"
+                                                                        height="24"
+                                                                        viewBox="0 0 24 24"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M14.3998 6H4.5998C3.60569 6 2.7998 6.80589 2.7998 7.8V13.2C2.7998 14.1941 3.60569 15 4.5998 15H14.3998C15.3939 15 16.1998 14.1941 16.1998 13.2V7.8C16.1998 6.80589 15.3939 6 14.3998 6Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M9.5001 12.9016C10.8256 12.9016 11.9001 11.827 11.9001 10.5016C11.9001 9.17608 10.8256 8.10156 9.5001 8.10156C8.17461 8.10156 7.1001 9.17608 7.1001 10.5016C7.1001 11.827 8.17461 12.9016 9.5001 12.9016Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M19.6001 7.19922V15.3992"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M17 12.8008L19.6 15.4008L22.2 12.8008"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div class="nav_text-with-label">
+                                                                <div>Cut screening cost</div>
+                                                            </div></a
+                                                        ><a
+                                                            aria-label="Go to Weight management page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="/use-cases/weight-management"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="24"
+                                                                        height="24"
+                                                                        viewBox="0 0 24 24"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M17 4H7C5.34315 4 4 5.34315 4 7V17C4 18.6569 5.34315 20 7 20H17C18.6569 20 20 18.6569 20 17V7C20 5.34315 18.6569 4 17 4Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M8 13.1992C8 12.1384 8.42143 11.1209 9.17157 10.3708C9.92172 9.62065 10.9391 9.19922 12 9.19922C13.0609 9.19922 14.0783 9.62065 14.8284 10.3708C15.5786 11.1209 16 12.1384 16 13.1992"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M12 13.2016L13.7 10.6016"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M11.9999 13.8016C12.3313 13.8016 12.5999 13.5329 12.5999 13.2016C12.5999 12.8702 12.3313 12.6016 11.9999 12.6016C11.6685 12.6016 11.3999 12.8702 11.3999 13.2016C11.3999 13.5329 11.6685 13.8016 11.9999 13.8016Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div class="nav_text-with-label">
+                                                                <div>Weight management &amp; GLP-1</div>
+                                                            </div></a
+                                                        ><a
+                                                            aria-label="Go to Clinical trials page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="/use-cases/clinical-trials"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="24"
+                                                                        height="24"
+                                                                        viewBox="0 0 24 24"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M9 3.19922H15"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M10.0001 3.19922V9.19922L5.6001 16.9992C5.0501 17.9992 5.70011 18.9992 6.80011 18.9992H17.2001C18.3001 18.9992 18.9501 17.9992 18.4001 16.9992L14.0001 9.19922V3.19922"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M7.6001 14H16.4001"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M11.0002 16.1508C11.304 16.1508 11.5502 15.9045 11.5502 15.6008C11.5502 15.297 11.304 15.0508 11.0002 15.0508C10.6964 15.0508 10.4502 15.297 10.4502 15.6008C10.4502 15.9045 10.6964 16.1508 11.0002 16.1508Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M13.2 17.0484C13.4485 17.0484 13.65 16.847 13.65 16.5984C13.65 16.3499 13.4485 16.1484 13.2 16.1484C12.9515 16.1484 12.75 16.3499 12.75 16.5984C12.75 16.847 12.9515 17.0484 13.2 17.0484Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div class="nav_text-with-label">
+                                                                <div>Clinical trials</div>
+                                                            </div></a
+                                                        >
+                                                    </div>
+                                                    <div class="nav_dropdown-link-hover-embed w-embed">
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </nav>
+                            </div>
+                            <div
+                                data-delay="300"
+                                data-hover="true"
+                                data-w-id="dd9ee0a5-bb4d-7a06-d618-c3e37f3d37e2"
+                                class="navbar-v2_dropdown w-dropdown"
+                            >
+                                <div class="navbar-v2_dropdown-toggle w-dropdown-toggle">
+                                    <div>Resources</div>
+                                    <div class="nav_dropdown-chevron w-embed">
+                                        <svg
+                                            width="100%"
+                                            height="100%"
+                                            viewBox="0 0 21 20"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg"
+                                        >
+                                            <path
+                                                d="M5.5 7.5L10.5 12.5L15.5 7.5"
+                                                stroke="currentColor"
+                                                stroke-width="1.66667"
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                            />
+                                        </svg>
+                                    </div>
+                                </div>
+                                <nav
+                                    id="navbar-v2-drop-list"
+                                    class="navbar-v2_dropdown-list w-variant-ff6b0e9a-b3e4-8ca8-d766-860c5d491744 w-dropdown-list"
+                                >
+                                    <div id="drop-cont" class="nav_container">
+                                        <div class="navbar_dropdown-content">
+                                            <div class="navbar-v2_dropdown-content-left">
+                                                <div
+                                                    blocks-name="navbar6_dropdown-column"
+                                                    blocks-slot-children="ST265"
+                                                    class="navbar-v2_dropdown-column is-solution"
+                                                >
+                                                    <div
+                                                        blocks-name="navbar6_dropdown-link-list-3"
+                                                        blocks-slot-children="ST366"
+                                                        class="navbar-v2_dropdown-link-list"
+                                                    >
+                                                        <a
+                                                            aria-label="Go to blog page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="/blog"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="16"
+                                                                        height="16"
+                                                                        viewBox="0 0 16 16"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M13.3327 7.66683V4.66683L10.3327 1.3335H3.33268C2.96449 1.3335 2.66602 1.63197 2.66602 2.00016V14.0002C2.66602 14.3684 2.96449 14.6668 3.33268 14.6668H7.33268"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M10.6673 14.6667L14.0007 11.3333L12.6673 10L9.33398 13.3333V14.6667H10.6673Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M10 1.3335V4.66683H13.3333"
+                                                                            stroke="#7D7F83"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div>Blog</div></a
+                                                        ><a
+                                                            aria-label="Go to events page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="/events"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="16"
+                                                                        height="16"
+                                                                        viewBox="0 0 16 16"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M13 2.49756H3C2.17157 2.49756 1.5 3.16913 1.5 3.99756V12.9976C1.5 13.826 2.17157 14.4976 3 14.4976H13C13.8284 14.4976 14.5 13.826 14.5 12.9976V3.99756C14.5 3.16913 13.8284 2.49756 13 2.49756Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M9.25 7.99756C9.66421 7.99756 10 7.66177 10 7.24756C10 6.83335 9.66421 6.49756 9.25 6.49756C8.83579 6.49756 8.5 6.83335 8.5 7.24756C8.5 7.66177 8.83579 7.99756 9.25 7.99756Z"
+                                                                            fill="currentColor"
+                                                                        />
+                                                                        <path
+                                                                            d="M11.75 7.99756C12.1642 7.99756 12.5 7.66177 12.5 7.24756C12.5 6.83335 12.1642 6.49756 11.75 6.49756C11.3358 6.49756 11 6.83335 11 7.24756C11 7.66177 11.3358 7.99756 11.75 7.99756Z"
+                                                                            fill="currentColor"
+                                                                        />
+                                                                        <path
+                                                                            d="M9.25 10.4976C9.66421 10.4976 10 10.1618 10 9.74756C10 9.33335 9.66421 8.99756 9.25 8.99756C8.83579 8.99756 8.5 9.33335 8.5 9.74756C8.5 10.1618 8.83579 10.4976 9.25 10.4976Z"
+                                                                            fill="currentColor"
+                                                                        />
+                                                                        <path
+                                                                            d="M11.75 10.4976C12.1642 10.4976 12.5 10.1618 12.5 9.74756C12.5 9.33335 12.1642 8.99756 11.75 8.99756C11.3358 8.99756 11 9.33335 11 9.74756C11 10.1618 11.3358 10.4976 11.75 10.4976Z"
+                                                                            fill="#7D7F83"
+                                                                        />
+                                                                        <path
+                                                                            d="M4.25 10.4976C4.66421 10.4976 5 10.1618 5 9.74756C5 9.33335 4.66421 8.99756 4.25 8.99756C3.83579 8.99756 3.5 9.33335 3.5 9.74756C3.5 10.1618 3.83579 10.4976 4.25 10.4976Z"
+                                                                            fill="#7D7F83"
+                                                                        />
+                                                                        <path
+                                                                            d="M6.74805 10.4976C7.16226 10.4976 7.49805 10.1618 7.49805 9.74756C7.49805 9.33335 7.16226 8.99756 6.74805 8.99756C6.33383 8.99756 5.99805 9.33335 5.99805 9.74756C5.99805 10.1618 6.33383 10.4976 6.74805 10.4976Z"
+                                                                            fill="currentColor"
+                                                                        />
+                                                                        <path
+                                                                            d="M4.25 12.9976C4.66421 12.9976 5 12.6618 5 12.2476C5 11.8333 4.66421 11.4976 4.25 11.4976C3.83579 11.4976 3.5 11.8333 3.5 12.2476C3.5 12.6618 3.83579 12.9976 4.25 12.9976Z"
+                                                                            fill="#7D7F83"
+                                                                        />
+                                                                        <path
+                                                                            d="M6.74805 12.9976C7.16226 12.9976 7.49805 12.6618 7.49805 12.2476C7.49805 11.8333 7.16226 11.4976 6.74805 11.4976C6.33383 11.4976 5.99805 11.8333 5.99805 12.2476C5.99805 12.6618 6.33383 12.9976 6.74805 12.9976Z"
+                                                                            fill="currentColor"
+                                                                        />
+                                                                        <path
+                                                                            d="M9.25 12.9976C9.66421 12.9976 10 12.6618 10 12.2476C10 11.8333 9.66421 11.4976 9.25 11.4976C8.83579 11.4976 8.5 11.8333 8.5 12.2476C8.5 12.6618 8.83579 12.9976 9.25 12.9976Z"
+                                                                            fill="currentColor"
+                                                                        />
+                                                                        <path
+                                                                            d="M4 1.49805V2.49805"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M12 1.49805V2.49805"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                        <path
+                                                                            d="M14.5 4.99756H1.5"
+                                                                            stroke="currentColor"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div>Events</div></a
+                                                        ><a
+                                                            aria-label="Go to webinas page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="/webinars"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="16"
+                                                                        height="16"
+                                                                        viewBox="0 0 16 16"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M5 8H5.00667M8 8H8.00667M11 8H11.0067M8 14C11.3137 14 14 11.3137 14 8C14 4.68629 11.3137 2 8 2C4.68629 2 2 4.68629 2 8C2 8.7981 2.15582 9.5598 2.43871 10.2563C2.49285 10.3897 2.51992 10.4563 2.532 10.5102C2.54381 10.5629 2.54813 10.6019 2.54814 10.6559C2.54814 10.7111 2.53812 10.7713 2.51807 10.8916L2.12275 13.2635C2.08135 13.5119 2.06065 13.6361 2.09917 13.7259C2.13289 13.8045 2.19552 13.8671 2.27412 13.9008C2.36393 13.9393 2.48812 13.9186 2.73651 13.8772L5.10843 13.4819C5.22872 13.4619 5.28887 13.4519 5.34409 13.4519C5.3981 13.4519 5.43711 13.4562 5.48981 13.468C5.54369 13.4801 5.61035 13.5072 5.74366 13.5613C6.4402 13.8442 7.2019 14 8 14ZM5.33333 8C5.33333 8.1841 5.1841 8.33333 5 8.33333C4.81591 8.33333 4.66667 8.1841 4.66667 8C4.66667 7.81591 4.81591 7.66667 5 7.66667C5.1841 7.66667 5.33333 7.81591 5.33333 8ZM8.33333 8C8.33333 8.1841 8.1841 8.33333 8 8.33333C7.81591 8.33333 7.66667 8.1841 7.66667 8C7.66667 7.81591 7.81591 7.66667 8 7.66667C8.1841 7.66667 8.33333 7.81591 8.33333 8ZM11.3333 8C11.3333 8.1841 11.1841 8.33333 11 8.33333C10.8159 8.33333 10.6667 8.1841 10.6667 8C10.6667 7.81591 10.8159 7.66667 11 7.66667C11.1841 7.66667 11.3333 7.81591 11.3333 8Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div>Webinars</div></a
+                                                        ><a
+                                                            aria-label="Go to ebooks page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="/ebooks"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="16"
+                                                                        height="16"
+                                                                        viewBox="0 0 16 16"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M9.33268 7.3335H5.33268M6.66602 10.0002H5.33268M10.666 4.66683H5.33268M13.3327 4.5335V11.4668C13.3327 12.5869 13.3327 13.147 13.1147 13.5748C12.9229 13.9511 12.617 14.2571 12.2407 14.4488C11.8128 14.6668 11.2528 14.6668 10.1327 14.6668H5.86602C4.74591 14.6668 4.18586 14.6668 3.75803 14.4488C3.38171 14.2571 3.07575 13.9511 2.884 13.5748C2.66602 13.147 2.66602 12.5869 2.66602 11.4668V4.5335C2.66602 3.41339 2.66602 2.85334 2.884 2.42552C3.07575 2.04919 3.38171 1.74323 3.75803 1.55148C4.18586 1.3335 4.74591 1.3335 5.86602 1.3335H10.1327C11.2528 1.3335 11.8128 1.3335 12.2407 1.55148C12.617 1.74323 12.9229 2.04919 13.1147 2.42552C13.3327 2.85334 13.3327 3.41339 13.3327 4.5335Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div>Ebooks</div></a
+                                                        >
+                                                        <div
+                                                            blocks-name="navbar6_dropdown-link-list-3"
+                                                            blocks-slot-children="ST366"
+                                                            class="navbar_dropdown-link-list is-resources"
+                                                        ></div>
+                                                    </div>
+                                                    <div class="nav_dropdown-link-hover-embed w-embed">
+                                                     
+                                                    </div>
+                                                </div>
+                                                <div
+                                                    blocks-name="navbar6_dropdown-column"
+                                                    blocks-slot-children="ST265"
+                                                    class="navbar-v2_dropdown-column is-solution"
+                                                >
+                                                    <div
+                                                        blocks-name="navbar6_dropdown-link-list-3"
+                                                        blocks-slot-children="ST366"
+                                                        class="navbar-v2_dropdown-link-list"
+                                                    >
+                                                        <div class="navbar_dropdown-link-list-inner">
+                                                            <a
+                                                                aria-label="Go to customer stories page"
+                                                                blocks-name="navbar_dropdown-link"
+                                                                href="/customer-stories"
+                                                                class="nav_dropdown-link w-inline-block"
+                                                                ><div class="nav_icon-wrapper">
+                                                                    <div class="nav_dropdown-link-icon w-embed">
+                                                                        <svg
+                                                                            width="16"
+                                                                            height="16"
+                                                                            viewBox="0 0 16 16"
+                                                                            fill="none"
+                                                                            xmlns="http://www.w3.org/2000/svg"
+                                                                        >
+                                                                            <path
+                                                                                d="M7.9987 10.3333H4.9987C4.06832 10.3333 3.60313 10.3333 3.2246 10.4482C2.37233 10.7067 1.70539 11.3736 1.44686 12.2259C1.33203 12.6044 1.33203 13.0696 1.33203 14M10.6654 12L11.9987 13.3333L14.6654 10.6667M9.66536 5C9.66536 6.65685 8.32222 8 6.66536 8C5.00851 8 3.66536 6.65685 3.66536 5C3.66536 3.34315 5.00851 2 6.66536 2C8.32222 2 9.66536 3.34315 9.66536 5Z"
+                                                                                stroke="currentColor"
+                                                                                stroke-linecap="round"
+                                                                                stroke-linejoin="round"
+                                                                            />
+                                                                        </svg>
+                                                                    </div>
+                                                                </div>
+                                                                <div>Customer stories</div></a
+                                                            ><a
+                                                                aria-label="Go to glossary page"
+                                                                blocks-name="navbar_dropdown-link"
+                                                                href="/glossary"
+                                                                class="nav_dropdown-link w-inline-block"
+                                                                ><div class="nav_icon-wrapper">
+                                                                    <div class="nav_dropdown-link-icon w-embed">
+                                                                        <svg
+                                                                            width="18"
+                                                                            height="18"
+                                                                            viewBox="0 0 18 18"
+                                                                            fill="none"
+                                                                            xmlns="http://www.w3.org/2000/svg"
+                                                                        >
+                                                                            <path
+                                                                                d="M9 12V9M9 6H9.0075M16.5 9C16.5 13.1421 13.1421 16.5 9 16.5C4.85786 16.5 1.5 13.1421 1.5 9C1.5 4.85786 4.85786 1.5 9 1.5C13.1421 1.5 16.5 4.85786 16.5 9Z"
+                                                                                stroke="currentColor"
+                                                                                stroke-linecap="round"
+                                                                                stroke-linejoin="round"
+                                                                            />
+                                                                        </svg>
+                                                                    </div>
+                                                                </div>
+                                                                <div>Glossary</div></a
+                                                            ><a
+                                                                aria-label="Go to developer portal page"
+                                                                blocks-name="navbar_dropdown-link"
+                                                                href="https://developer.iHealthy/"
+                                                                target="_blank"
+                                                                class="nav_dropdown-link is-company w-inline-block"
+                                                                ><div class="nav_icon-wrapper">
+                                                                    <div class="nav_dropdown-link-icon w-embed">
+                                                                        <svg
+                                                                            width="14"
+                                                                            height="16"
+                                                                            viewBox="0 0 14 16"
+                                                                            fill="none"
+                                                                            xmlns="http://www.w3.org/2000/svg"
+                                                                        >
+                                                                            <path
+                                                                                d="M5.4707 14.9496L5.47073 14.9495C4.66015 14.669 3.97847 14.2516 3.4354 13.6925L3.43182 13.6889L3.43185 13.6888C2.89959 13.1243 2.56015 12.4525 2.41557 11.6814L2.36447 11.4089L2.61986 11.3009L5.33877 10.1515L5.68743 10.0041C5.49594 9.95214 5.31601 9.89951 5.14772 9.84615L5.138 9.84306L5.13805 9.84292C4.4917 9.6167 3.92822 9.23701 3.44971 8.71064L3.4458 8.70635L3.44584 8.70632C2.94851 8.14038 2.71914 7.3878 2.71914 6.48964C2.71914 5.71737 2.96762 5.01061 3.45368 4.37873C3.93474 3.75335 4.57254 3.26998 5.35628 2.92513C6.14021 2.5802 6.99103 2.40967 7.90435 2.40967C8.86544 2.40967 9.7328 2.55435 10.5006 2.85144C11.2784 3.13201 11.9227 3.54193 12.4214 4.08751C12.9354 4.61887 13.2743 5.24947 13.435 5.97287L13.4998 6.26431L13.2205 6.36964L10.5237 7.38647L10.0896 7.55013L10.0587 7.08727C10.0197 6.50215 9.81117 6.0907 9.45771 5.80793L9.44783 5.80003L9.44798 5.79985C9.10131 5.501 8.60112 5.33074 7.90435 5.33074C7.35994 5.33074 6.97658 5.44677 6.71635 5.63911L6.7084 5.64499L6.70832 5.64487C6.45774 5.81919 6.34756 6.03255 6.34756 6.3128C6.34756 6.48463 6.40791 6.61353 6.54453 6.72488C6.72162 6.8533 6.9572 6.96129 7.26178 7.04075C7.59028 7.12644 8.05335 7.22793 8.65432 7.34521C8.65473 7.34529 8.65513 7.34536 8.65553 7.34544L8.58961 7.68331C9.53275 7.86015 10.3138 8.05909 10.9327 8.28014L5.4707 14.9496ZM5.4707 14.9496L5.4782 14.952C6.29885 15.2153 7.21196 15.3443 8.21382 15.3443C9.73401 15.3443 11.0074 15.025 12.0079 14.3581L12.0089 14.3574C13.0528 13.656 13.5759 12.632 13.5759 11.3306C13.5759 10.415 13.3301 9.65182 12.7992 9.08543C12.3177 8.55652 11.7308 8.17879 11.044 7.95434L5.4707 14.9496ZM5.81652 10.4494L5.79335 10.0324C6.2851 10.1622 6.84978 10.2876 7.48626 10.4088C8.10085 10.5259 8.56578 10.6337 8.88727 10.7315L8.88719 10.7318L8.9006 10.7353C9.19837 10.813 9.42809 10.9316 9.60203 11.0823L9.61122 11.0903L9.62094 11.0976C9.77538 11.2134 9.83693 11.3423 9.83693 11.5075C9.83693 11.766 9.72589 11.9689 9.43633 12.1366C9.1336 12.3056 8.73239 12.4011 8.21382 12.4011C7.48595 12.4011 6.92049 12.237 6.49196 11.9355C6.09759 11.6442 5.85667 11.1722 5.81652 10.4494Z"
+                                                                                stroke="currentColor"
+                                                                                stroke-width="0.688468"
+                                                                            />
+                                                                            <path
+                                                                                d="M0.344234 0.344234H4.32676L2.3355 2.3355L0.344234 4.32676V0.344234Z"
+                                                                                stroke="currentColor"
+                                                                                stroke-width="0.688468"
+                                                                            />
+                                                                        </svg>
+                                                                    </div>
+                                                                </div>
+                                                                <div>Developer portal</div></a
+                                                            >
+                                                        </div>
+                                                    </div>
+                                                    <div class="nav_dropdown-link-hover-embed w-embed">
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="navbar-v2_separator is-vertical"></div>
+                                                <div class="navbar-v2_menu-right">
+                                                    <div class="navbar-v2_dropdown-link-label no-left-padding">
+                                                        <div blocks-name="heading-3">live demo</div>
+                                                    </div>
+                                                    <div class="div-block-11">
+                                                        <div class="text-weight-semibold text-size-regular">
+                                                            Scan yourself
+                                                        </div>
+                                                        <div class="text-size-small opacity-50">
+                                                            Read your pulse and breathing from your own webcam in thirty
+                                                            seconds.
+                                                        </div>
+                                                    </div>
+                                                    <a
+                                                        href="/scan-yourself"
+                                                        class="navbar-v2_link-button w-inline-block"
+                                                        ><div class="text-size-regular text-weight-semibold">
+                                                            Scan yourself →
+                                                        </div></a
+                                                    >
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </nav>
+                            </div>
+                            <div
+                                data-delay="300"
+                                data-hover="true"
+                                data-w-id="dd9ee0a5-bb4d-7a06-d618-c3e37f3d382d"
+                                class="navbar-v2_dropdown w-dropdown"
+                            >
+                                <div class="navbar-v2_dropdown-toggle w-dropdown-toggle">
+                                    <div>Company</div>
+                                    <div class="nav_dropdown-chevron w-embed">
+                                        <svg
+                                            width="100%"
+                                            height="100%"
+                                            viewBox="0 0 21 20"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg"
+                                        >
+                                            <path
+                                                d="M5.5 7.5L10.5 12.5L15.5 7.5"
+                                                stroke="currentColor"
+                                                stroke-width="1.66667"
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                            />
+                                        </svg>
+                                    </div>
+                                </div>
+                                <nav
+                                    id="navbar-v2-drop-list"
+                                    class="navbar-v2_dropdown-list w-variant-ff6b0e9a-b3e4-8ca8-d766-860c5d491744 w-dropdown-list"
+                                >
+                                    <div id="drop-cont" class="nav_container">
+                                        <div class="navbar_dropdown-content">
+                                            <div class="navbar-v2_dropdown-content-left is-company">
+                                                <div
+                                                    blocks-name="navbar6_dropdown-column"
+                                                    blocks-slot-children="ST265"
+                                                    class="navbar-v2_dropdown-column is-solution"
+                                                >
+                                                    <div
+                                                        blocks-name="navbar6_dropdown-link-list-3"
+                                                        blocks-slot-children="ST366"
+                                                        class="navbar-v2_dropdown-link-list"
+                                                    >
+                                                        <a
+                                                            aria-label="Go to about us page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="/about-us"
+                                                            class="nav_dropdown-link is-company w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="14"
+                                                                        height="16"
+                                                                        viewBox="0 0 14 16"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M5.4707 14.9496L5.47073 14.9495C4.66015 14.669 3.97847 14.2516 3.4354 13.6925L3.43182 13.6889L3.43185 13.6888C2.89959 13.1243 2.56015 12.4525 2.41557 11.6814L2.36447 11.4089L2.61986 11.3009L5.33877 10.1515L5.68743 10.0041C5.49594 9.95214 5.31601 9.89951 5.14772 9.84615L5.138 9.84306L5.13805 9.84292C4.4917 9.6167 3.92822 9.23701 3.44971 8.71064L3.4458 8.70635L3.44584 8.70632C2.94851 8.14038 2.71914 7.3878 2.71914 6.48964C2.71914 5.71737 2.96762 5.01061 3.45368 4.37873C3.93474 3.75335 4.57254 3.26998 5.35628 2.92513C6.14021 2.5802 6.99103 2.40967 7.90435 2.40967C8.86544 2.40967 9.7328 2.55435 10.5006 2.85144C11.2784 3.13201 11.9227 3.54193 12.4214 4.08751C12.9354 4.61887 13.2743 5.24947 13.435 5.97287L13.4998 6.26431L13.2205 6.36964L10.5237 7.38647L10.0896 7.55013L10.0587 7.08727C10.0197 6.50215 9.81117 6.0907 9.45771 5.80793L9.44783 5.80003L9.44798 5.79985C9.10131 5.501 8.60112 5.33074 7.90435 5.33074C7.35994 5.33074 6.97658 5.44677 6.71635 5.63911L6.7084 5.64499L6.70832 5.64487C6.45774 5.81919 6.34756 6.03255 6.34756 6.3128C6.34756 6.48463 6.40791 6.61353 6.54453 6.72488C6.72162 6.8533 6.9572 6.96129 7.26178 7.04075C7.59028 7.12644 8.05335 7.22793 8.65432 7.34521C8.65473 7.34529 8.65513 7.34536 8.65553 7.34544L8.58961 7.68331C9.53275 7.86015 10.3138 8.05909 10.9327 8.28014L5.4707 14.9496ZM5.4707 14.9496L5.4782 14.952C6.29885 15.2153 7.21196 15.3443 8.21382 15.3443C9.73401 15.3443 11.0074 15.025 12.0079 14.3581L12.0089 14.3574C13.0528 13.656 13.5759 12.632 13.5759 11.3306C13.5759 10.415 13.3301 9.65182 12.7992 9.08543C12.3177 8.55652 11.7308 8.17879 11.044 7.95434L5.4707 14.9496ZM5.81652 10.4494L5.79335 10.0324C6.2851 10.1622 6.84978 10.2876 7.48626 10.4088C8.10085 10.5259 8.56578 10.6337 8.88727 10.7315L8.88719 10.7318L8.9006 10.7353C9.19837 10.813 9.42809 10.9316 9.60203 11.0823L9.61122 11.0903L9.62094 11.0976C9.77538 11.2134 9.83693 11.3423 9.83693 11.5075C9.83693 11.766 9.72589 11.9689 9.43633 12.1366C9.1336 12.3056 8.73239 12.4011 8.21382 12.4011C7.48595 12.4011 6.92049 12.237 6.49196 11.9355C6.09759 11.6442 5.85667 11.1722 5.81652 10.4494Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-width="0.688468"
+                                                                        />
+                                                                        <path
+                                                                            d="M0.344234 0.344234H4.32676L2.3355 2.3355L0.344234 4.32676V0.344234Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-width="0.688468"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div>About us</div></a
+                                                        ><a
+                                                            aria-label="Go to careers page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="/careers"
+                                                            class="nav_dropdown-link is-company w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="14"
+                                                                        height="16"
+                                                                        viewBox="0 0 14 16"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M5.4707 14.9496L5.47073 14.9495C4.66015 14.669 3.97847 14.2516 3.4354 13.6925L3.43182 13.6889L3.43185 13.6888C2.89959 13.1243 2.56015 12.4525 2.41557 11.6814L2.36447 11.4089L2.61986 11.3009L5.33877 10.1515L5.68743 10.0041C5.49594 9.95214 5.31601 9.89951 5.14772 9.84615L5.138 9.84306L5.13805 9.84292C4.4917 9.6167 3.92822 9.23701 3.44971 8.71064L3.4458 8.70635L3.44584 8.70632C2.94851 8.14038 2.71914 7.3878 2.71914 6.48964C2.71914 5.71737 2.96762 5.01061 3.45368 4.37873C3.93474 3.75335 4.57254 3.26998 5.35628 2.92513C6.14021 2.5802 6.99103 2.40967 7.90435 2.40967C8.86544 2.40967 9.7328 2.55435 10.5006 2.85144C11.2784 3.13201 11.9227 3.54193 12.4214 4.08751C12.9354 4.61887 13.2743 5.24947 13.435 5.97287L13.4998 6.26431L13.2205 6.36964L10.5237 7.38647L10.0896 7.55013L10.0587 7.08727C10.0197 6.50215 9.81117 6.0907 9.45771 5.80793L9.44783 5.80003L9.44798 5.79985C9.10131 5.501 8.60112 5.33074 7.90435 5.33074C7.35994 5.33074 6.97658 5.44677 6.71635 5.63911L6.7084 5.64499L6.70832 5.64487C6.45774 5.81919 6.34756 6.03255 6.34756 6.3128C6.34756 6.48463 6.40791 6.61353 6.54453 6.72488C6.72162 6.8533 6.9572 6.96129 7.26178 7.04075C7.59028 7.12644 8.05335 7.22793 8.65432 7.34521C8.65473 7.34529 8.65513 7.34536 8.65553 7.34544L8.58961 7.68331C9.53275 7.86015 10.3138 8.05909 10.9327 8.28014L5.4707 14.9496ZM5.4707 14.9496L5.4782 14.952C6.29885 15.2153 7.21196 15.3443 8.21382 15.3443C9.73401 15.3443 11.0074 15.025 12.0079 14.3581L12.0089 14.3574C13.0528 13.656 13.5759 12.632 13.5759 11.3306C13.5759 10.415 13.3301 9.65182 12.7992 9.08543C12.3177 8.55652 11.7308 8.17879 11.044 7.95434L5.4707 14.9496ZM5.81652 10.4494L5.79335 10.0324C6.2851 10.1622 6.84978 10.2876 7.48626 10.4088C8.10085 10.5259 8.56578 10.6337 8.88727 10.7315L8.88719 10.7318L8.9006 10.7353C9.19837 10.813 9.42809 10.9316 9.60203 11.0823L9.61122 11.0903L9.62094 11.0976C9.77538 11.2134 9.83693 11.3423 9.83693 11.5075C9.83693 11.766 9.72589 11.9689 9.43633 12.1366C9.1336 12.3056 8.73239 12.4011 8.21382 12.4011C7.48595 12.4011 6.92049 12.237 6.49196 11.9355C6.09759 11.6442 5.85667 11.1722 5.81652 10.4494Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-width="0.688468"
+                                                                        />
+                                                                        <path
+                                                                            d="M0.344234 0.344234H4.32676L2.3355 2.3355L0.344234 4.32676V0.344234Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-width="0.688468"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div>Careers</div></a
+                                                        ><a
+                                                            aria-label="Go to partner with us page"
+                                                            blocks-name="navbar_dropdown-link"
+                                                            href="/partner-with-shen-ai"
+                                                            class="nav_dropdown-link w-inline-block"
+                                                            ><div class="nav_icon-wrapper">
+                                                                <div class="nav_dropdown-link-icon w-embed">
+                                                                    <svg
+                                                                        width="17"
+                                                                        height="20"
+                                                                        viewBox="0 0 17 20"
+                                                                        fill="none"
+                                                                        xmlns="http://www.w3.org/2000/svg"
+                                                                    >
+                                                                        <path
+                                                                            d="M1 11.3846L10.5455 1L8.5 8.61538H16L6.45455 19L8.5 11.3846H1Z"
+                                                                            stroke="currentColor"
+                                                                            stroke-width="0.8"
+                                                                            stroke-linecap="round"
+                                                                            stroke-linejoin="round"
+                                                                        />
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div>Partner with us</div></a
+                                                        >
+                                                    </div>
+                                                    <div class="nav_dropdown-link-hover-embed w-embed">
+                                                       
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </nav>
+                            </div>
+                            <a href="/pricing" class="navbar-v2_menu-link w-inline-block"><div>Pricing</div></a>
+                            <div class="navbar_menu-mobile">
+                                <div class="navbar_menu-mobile-inner">
+                                    <div class="navbar_menu-mobile-link-wrapper">
+                                        <div
+                                            data-delay="0"
+                                            data-hover="false"
+                                            data-w-id="dd9ee0a5-bb4d-7a06-d618-c3e37f3d3844"
+                                            class="navbar_mobile-dropdown-2 w-dropdown"
+                                        >
+                                            <div class="navbar_mobile-dropdown-toggle w-dropdown-toggle">
+                                                <div>Platform</div>
+                                                <div class="navbar_mobile-dropdown-arrow w-embed">
+                                                    <svg
+                                                        width="100%"
+                                                        height="100%"
+                                                        viewBox="0 0 20 21"
+                                                        fill="none"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                    >
+                                                        <path
+                                                            d="M5 8L10 13L15 8"
+                                                            stroke="currentColor"
+                                                            stroke-width="1.66667"
+                                                            stroke-linecap="round"
+                                                            stroke-linejoin="round"
+                                                        />
+                                                    </svg>
+                                                </div>
+                                            </div>
+                                            <nav class="navbar_mobile-dropdown-list w-dropdown-list">
+                                                <div class="navbar_mobile-dropdown-list-inner">
+                                                    <div class="navbar_mobile-dropdown-link-wrapper">
+                                                        <a
+                                                            href="/sdk"
+                                                            aria-label="Go to SDK page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Wellness SDK</a
+                                                        ><a
+                                                            href="/medical-device"
+                                                            aria-label="Go to Certified medical device page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Medical SDK</a
+                                                        ><a
+                                                            href="/health-assessment-web-service"
+                                                            aria-label="Go to Web app builder page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Web app builder</a
+                                                        ><a
+                                                            href="/sdks-comparison"
+                                                            aria-label="Go to SDK comparison pge"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Compare the two</a
+                                                        ><a
+                                                            href="/technology"
+                                                            aria-label="Go to Technology page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Technology</a
+                                                        ><a
+                                                            href="/scientific-research"
+                                                            aria-label="Go to Scientific research page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Scientific research</a
+                                                        ><a
+                                                            href="/health-markers"
+                                                            aria-label="Go to Measured metrics page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Measured metrics </a
+                                                        ><a
+                                                            href="/why-shen-ai"
+                                                            aria-label="Go to Why iHealthy page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Why iHealthy</a
+                                                        ><a
+                                                            href="/implementation"
+                                                            aria-label="Go to Implementation library page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Implementation library</a
+                                                        ><a
+                                                            href="/use-cases-library"
+                                                            aria-label="Go to Use cases library page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Use cases library</a
+                                                        >
+                                                    </div>
+                                                </div>
+                                            </nav>
+                                        </div>
+                                        <div
+                                            data-delay="0"
+                                            data-hover="false"
+                                            class="navbar_mobile-dropdown-2 w-dropdown"
+                                        >
+                                            <div class="navbar_mobile-dropdown-toggle w-dropdown-toggle">
+                                                <div>Solutions</div>
+                                                <div class="navbar_mobile-dropdown-arrow w-embed">
+                                                    <svg
+                                                        width="100%"
+                                                        height="100%"
+                                                        viewBox="0 0 20 21"
+                                                        fill="none"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                    >
+                                                        <path
+                                                            d="M5 8L10 13L15 8"
+                                                            stroke="currentColor"
+                                                            stroke-width="1.66667"
+                                                            stroke-linecap="round"
+                                                            stroke-linejoin="round"
+                                                        />
+                                                    </svg>
+                                                </div>
+                                            </div>
+                                            <nav class="navbar_mobile-dropdown-list w-dropdown-list">
+                                                <div class="navbar_mobile-dropdown-list-inner">
+                                                    <div class="navbar_mobile-dropdown-link-wrapper">
+                                                        <a
+                                                            href="/solutions/insurance"
+                                                            aria-label="Go to insurance page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Insurance</a
+                                                        ><a
+                                                            href="/solutions/automotive"
+                                                            aria-label="Go to Automotive page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Automotive</a
+                                                        ><a
+                                                            href="/solutions/smart-mirrors"
+                                                            aria-label="Go to smart mirrors page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Smart mirrors &amp; kiosks</a
+                                                        ><a
+                                                            href="/solutions/telehealth-providers"
+                                                            aria-label="Go to telehealth page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Telehealth</a
+                                                        ><a
+                                                            href="/solutions/corporate-wellness"
+                                                            aria-label="Go to corporate wellness page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Corporate wellness</a
+                                                        ><a
+                                                            aria-label="Go to Mobile health page"
+                                                            href="/solutions/mobile-health"
+                                                            class="nav_text-with-label w-inline-block"
+                                                            ><div>Mobile health</div></a
+                                                        ><a
+                                                            aria-label="Go to Remote patient monitoring page"
+                                                            href="/solutions/remote-patient-monitoring"
+                                                            class="nav_text-with-label w-inline-block"
+                                                            ><div>Remote patient monitoring</div></a
+                                                        >
+                                                    </div>
+                                                </div>
+                                            </nav>
+                                        </div>
+                                        <div
+                                            data-delay="0"
+                                            data-hover="false"
+                                            class="navbar_mobile-dropdown-2 w-dropdown"
+                                        >
+                                            <div class="navbar_mobile-dropdown-toggle w-dropdown-toggle">
+                                                <div>Use cases</div>
+                                                <div class="navbar_mobile-dropdown-arrow w-embed">
+                                                    <svg
+                                                        width="100%"
+                                                        height="100%"
+                                                        viewBox="0 0 20 21"
+                                                        fill="none"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                    >
+                                                        <path
+                                                            d="M5 8L10 13L15 8"
+                                                            stroke="currentColor"
+                                                            stroke-width="1.66667"
+                                                            stroke-linecap="round"
+                                                            stroke-linejoin="round"
+                                                        />
+                                                    </svg>
+                                                </div>
+                                            </div>
+                                            <nav class="navbar_mobile-dropdown-list w-dropdown-list">
+                                                <div class="navbar_mobile-dropdown-list-inner">
+                                                    <div class="navbar_mobile-dropdown-link-wrapper">
+                                                        <a
+                                                            href="/use-cases/boost-engagement"
+                                                            aria-label="Go to Boost engagement page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Boost engagement</a
+                                                        ><a
+                                                            href="/use-cases/cut-screening-cost"
+                                                            aria-label="Go to Cut screening cost page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Cut screening cost</a
+                                                        ><a
+                                                            href="/use-cases/clinical-trials"
+                                                            aria-label="Go to Clinical trials pagepage"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Clinical trials</a
+                                                        ><a
+                                                            href="/use-cases/add-objective-health-data"
+                                                            aria-label="Go to Add objective health data page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Add objective health data</a
+                                                        ><a
+                                                            href="/use-cases/weight-management"
+                                                            aria-label="Go to Weight management page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Weight management &amp; GLP-1</a
+                                                        >
+                                                    </div>
+                                                </div>
+                                            </nav>
+                                        </div>
+                                        <a
+                                            href="/pricing"
+                                            aria-label="Go to pricing page"
+                                            class="navbar_mobile-link-2 w-inline-block"
+                                            ><div>Pricing</div></a
+                                        >
+                                        <div
+                                            data-delay="0"
+                                            data-hover="false"
+                                            class="navbar_mobile-dropdown-2 w-dropdown"
+                                        >
+                                            <div class="navbar_mobile-dropdown-toggle w-dropdown-toggle">
+                                                <div>Company</div>
+                                                <div class="navbar_mobile-dropdown-arrow w-embed">
+                                                    <svg
+                                                        width="100%"
+                                                        height="100%"
+                                                        viewBox="0 0 20 21"
+                                                        fill="none"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                    >
+                                                        <path
+                                                            d="M5 8L10 13L15 8"
+                                                            stroke="currentColor"
+                                                            stroke-width="1.66667"
+                                                            stroke-linecap="round"
+                                                            stroke-linejoin="round"
+                                                        />
+                                                    </svg>
+                                                </div>
+                                            </div>
+                                            <nav class="navbar_mobile-dropdown-list w-dropdown-list">
+                                                <div class="navbar_mobile-dropdown-list-inner">
+                                                    <div class="navbar_mobile-dropdown-link-wrapper">
+                                                        <a
+                                                            href="/about-us"
+                                                            aria-label="Go to about us page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >About us</a
+                                                        >
+                                                    </div>
+                                                </div>
+                                            </nav>
+                                        </div>
+                                        <div
+                                            data-delay="0"
+                                            data-hover="false"
+                                            class="navbar_mobile-dropdown-2 w-dropdown"
+                                        >
+                                            <div class="navbar_mobile-dropdown-toggle w-dropdown-toggle">
+                                                <div>Resources</div>
+                                                <div class="navbar_mobile-dropdown-arrow w-embed">
+                                                    <svg
+                                                        width="100%"
+                                                        height="100%"
+                                                        viewBox="0 0 20 21"
+                                                        fill="none"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                    >
+                                                        <path
+                                                            d="M5 8L10 13L15 8"
+                                                            stroke="currentColor"
+                                                            stroke-width="1.66667"
+                                                            stroke-linecap="round"
+                                                            stroke-linejoin="round"
+                                                        />
+                                                    </svg>
+                                                </div>
+                                            </div>
+                                            <nav class="navbar_mobile-dropdown-list w-dropdown-list">
+                                                <div class="navbar_mobile-dropdown-list-inner">
+                                                    <div class="navbar_mobile-dropdown-link-wrapper">
+                                                        <a
+                                                            href="/blog"
+                                                            aria-label="Go to blog page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Blog</a
+                                                        ><a
+                                                            href="/events"
+                                                            aria-label="Go to events page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Events</a
+                                                        ><a
+                                                            href="/webinars"
+                                                            aria-label="Go to webinars page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Webinars</a
+                                                        ><a
+                                                            href="/ebooks"
+                                                            aria-label="Go to eBooks page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Ebooks</a
+                                                        ><a
+                                                            href="/customer-stories"
+                                                            aria-label="Go to customer stories page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Customer stories</a
+                                                        ><a
+                                                            href="/glossary"
+                                                            aria-label="Go to glossary page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Glossary</a
+                                                        ><a
+                                                            href="https://developer.iHealthy/"
+                                                            aria-label="Go to glossary page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Developer portal</a
+                                                        ><a
+                                                            href="/partner-with-shen-ai"
+                                                            aria-label="Go to glossary page"
+                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
+                                                            >Partner with us</a
+                                                        >
+                                                    </div>
+                                                </div>
+                                            </nav>
+                                        </div>
+                                    </div>
+                                    <div class="navbar_menu-mobile-bottom-content">
+                                        <div class="navbar_menu-mobile-btn-wrapper">
+                                            <a href="/get-started" class="button-2 mobile-nav w-button">Get started</a
+                                            ><a href="/scan-yourself" class="button-2 is-scan for-nav w-inline-block"
+                                                ><div class="button_scan-icon-2 w-embed">
+                                                    <svg
+                                                        width="100%"
+                                                        height="100%"
+                                                        viewBox="0 0 18 18"
+                                                        fill="none"
+                                                        xmlns="http://www.w3.org/2000/svg"
+                                                    >
+                                                        <path
+                                                            d="M3.82578 1.7998C2.7074 1.7998 1.80078 2.70643 1.80078 3.8248V5.6248C1.80078 5.9976 2.10299 6.2998 2.47578 6.2998C2.84857 6.2998 3.15078 5.9976 3.15078 5.6248V3.8248C3.15078 3.45201 3.45299 3.1498 3.82578 3.1498H5.62578C5.99857 3.1498 6.30078 2.8476 6.30078 2.4748C6.30078 2.10201 5.99857 1.7998 5.62578 1.7998H3.82578Z"
+                                                            fill="currentColor"
+                                                        />
+                                                        <path
+                                                            d="M12.3758 1.7998C12.003 1.7998 11.7008 2.10201 11.7008 2.4748C11.7008 2.8476 12.003 3.1498 12.3758 3.1498H14.1758C14.5486 3.1498 14.8508 3.45201 14.8508 3.8248V5.6248C14.8508 5.9976 15.153 6.2998 15.5258 6.2998C15.8986 6.2998 16.2008 5.9976 16.2008 5.6248V3.8248C16.2008 2.70643 15.2942 1.7998 14.1758 1.7998H12.3758Z"
+                                                            fill="currentColor"
+                                                        />
+                                                        <path
+                                                            d="M3.15078 12.3748C3.15078 12.002 2.84857 11.6998 2.47578 11.6998C2.10299 11.6998 1.80078 12.002 1.80078 12.3748V14.1748C1.80078 15.2932 2.7074 16.1998 3.82578 16.1998H5.62578C5.99857 16.1998 6.30078 15.8976 6.30078 15.5248C6.30078 15.152 5.99857 14.8498 5.62578 14.8498H3.82578C3.45299 14.8498 3.15078 14.5476 3.15078 14.1748V12.3748Z"
+                                                            fill="currentColor"
+                                                        />
+                                                        <path
+                                                            d="M16.2008 12.3748C16.2008 12.002 15.8986 11.6998 15.5258 11.6998C15.153 11.6998 14.8508 12.002 14.8508 12.3748V14.1748C14.8508 14.5476 14.5486 14.8498 14.1758 14.8498H12.3758C12.003 14.8498 11.7008 15.152 11.7008 15.5248C11.7008 15.8976 12.003 16.1998 12.3758 16.1998H14.1758C15.2942 16.1998 16.2008 15.2932 16.2008 14.1748V12.3748Z"
+                                                            fill="currentColor"
+                                                        />
+                                                        <path
+                                                            d="M6.30078 8.9998C6.30078 7.50864 7.50961 6.2998 9.00078 6.2998C10.492 6.2998 11.7008 7.50864 11.7008 8.9998C11.7008 10.491 10.492 11.6998 9.00078 11.6998C7.50961 11.6998 6.30078 10.491 6.30078 8.9998Z"
+                                                            fill="currentColor"
+                                                        />
+                                                    </svg>
+                                                </div>
+                                                <div>Scan yourself</div></a
+                                            >
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </nav>
+                    </div>
+                    <div class="navbar-v2_btm-right">
+                        <a
+                            data-hide-narrow="true"
+                            href="/contact"
+                            class="button scan-icon-dark-invert no-text-wrap w-inline-block"
+                            ><div>Talk to sales</div></a
+                        ><a
+                            data-wf--button--variant="base"
+                            href="https://platform.iHealthy/signup?plan=pro&amp;billing=per_scan&amp;cycle=monthly"
+                            target="_blank"
+                            class="button w-inline-block"
+                            ><div>Start free trial</div></a
+                        >
+                    </div>
+                    <div class="navbar_menu-button w-nav-button">
+                        <div class="menu-icon">
+                            <div data-w-id="dd9ee0a5-bb4d-7a06-d618-c3e37f3d38f9" class="menu-icon_line-top"></div>
+                            <div data-w-id="dd9ee0a5-bb4d-7a06-d618-c3e37f3d38fa" class="menu-icon_line-middle">
+                                <div class="menu-icon_line-middle-inner"></div>
+                            </div>
+                            <div data-w-id="dd9ee0a5-bb4d-7a06-d618-c3e37f3d38fc" class="menu-icon_line-bottom"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>

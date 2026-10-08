@@ -1,0 +1,988 @@
+ * {
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale;
+                -o-font-smoothing: antialiased;
+            }
+            
+            /* Scope strictly to the provided class */
+            a.glow-buttoon {
+                box-sizing: border-box;
+                position: relative;
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+                gap: 6px;
+                height: 36px;
+                padding: 1rem;
+                border-radius: 0.75rem;
+                background: transparent;
+                border: none;
+                color: #ffffff;
+                text-decoration: none;
+                white-space: nowrap;
+                font-size: 14px;
+                letter-spacing: 0.14px;
+                font-weight: 550;
+                font-family:
+                    "Esklarheitgroteskvar Xlt",
+                    system-ui,
+                    -apple-system,
+                    Segoe UI,
+                    Roboto,
+                    Ubuntu,
+                    Cantarell,
+                    Noto Sans,
+                    Helvetica Neue,
+                    Arial,
+                    sans-serif;
+                cursor: pointer;
+                overflow: visible;
+                transform-origin: center center;
+                /* Breathing scale animation (idle) */
+                animation: scan-breathe 12s ease-in-out infinite;
+                will-change: transform;
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale;
+                -webkit-tap-highlight-color: transparent;
+            }
+
+            /* Pulsing outer glow (behind) */
+            a.glow-buttoon::before {
+                content: "";
+                position: absolute;
+                inset: 0;
+                border-radius: inherit;
+                pointer-events: none;
+                /* Matches: 0 0 24px 6px rgba(171,230,161,.6), inset 0 0 16px 2px rgba(171,230,161,.4) */
+                box-shadow:
+                    0 0 24px 6px rgba(171, 230, 161, 0.6),
+                    inset 0 0 16px 2px rgba(171, 230, 161, 0.4);
+                opacity: 0;
+                animation: scan-glow 6s ease-in-out infinite;
+            }
+
+            /* Sweeping shine overlay (above content, mostly transparent) */
+            a.glow-buttoon::after {
+                content: "";
+                position: absolute;
+                inset: 0;
+                border-radius: inherit;
+                pointer-events: none;
+                background: linear-gradient(
+                    135deg,
+                    rgba(0, 0, 0, 0) 0%,
+                    rgba(0, 0, 0, 0) 40%,
+                    rgba(171, 230, 161, 0.5) 50%,
+                    rgba(0, 0, 0, 0) 60%,
+                    rgba(0, 0, 0, 0) 100%
+                );
+                background-size: 200% 200%;
+                animation: scan-shine 3.6s ease-in-out infinite;
+            }
+
+            /* Larger amplitude when hovered, mirroring the original */
+            a.glow-buttoon:hover {
+                animation-name: scan-breathe-hover;
+            }
+
+            /* Keyframes to match the original motion design */
+            @keyframes scan-breathe {
+                0% {
+                    transform: scale(1);
+                }
+                50% {
+                    transform: scale(1.02);
+                }
+                100% {
+                    transform: scale(1);
+                }
+            }
+
+            @keyframes scan-breathe-hover {
+                0% {
+                    transform: scale(1.04);
+                }
+                50% {
+                    transform: scale(1.06);
+                }
+                100% {
+                    transform: scale(1.04);
+                }
+            }
+
+            @keyframes scan-glow {
+                0% {
+                    opacity: 0;
+                }
+                50% {
+                    opacity: 0.3;
+                }
+                100% {
+                    opacity: 0;
+                }
+            }
+
+            @keyframes scan-shine {
+                0% {
+                    background-position: 200% 200%;
+                }
+                100% {
+                    background-position: -100% -100%;
+                }
+            }
+
+            /* Hide on tablet and below (≤ 991px) */
+            @media (max-width: 991px) {
+                a.glow-buttoon {
+                    display: none !important;
+                }
+            }
+     
+            :root {
+                --mega-ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+                --mega-height-speed: 0.45s;
+                --mega-fade-speed: 0.32s;
+                --mega-slide-speed: 0.5s;
+
+                --mega-radius: 1.5rem;
+
+                --navbar-radius-speed: 200ms;
+                --navbar-radius-ease: ease;
+                --navbar-chevron-speed: var(--navbar-radius-speed);
+
+                --navbar-scroll-speed: 0.25s; /* scrolled bar speed */
+                --navbar-scroll-ease: var(--mega-ease);
+                --navbar-scroll-line: rgba(255, 255, 255, 0.16);
+                --navbar-scroll-btm-pad: calc(0.75rem - 0.25rem * var(--navbar-scroll-hide-top-bar));
+                --navbar-scroll-hide-top-bar: 0; /* 1 = hide top strip when scrolled, 0 = keep */
+            }
+
+            /* 1. Mega menu */
+            .nav-mega-stack {
+                position: absolute;
+                top: 100%;
+                left: 0;
+                right: 0;
+                height: 0;
+                overflow: hidden;
+
+                transition:
+                    height var(--mega-height-speed) var(--mega-ease),
+                    left var(--navbar-scroll-duration, 0s) var(--navbar-scroll-ease),
+                    right var(--navbar-scroll-duration, 0s) var(--navbar-scroll-ease),
+                    border-bottom-left-radius var(--navbar-scroll-duration, 0s) var(--navbar-scroll-ease),
+                    border-bottom-right-radius var(--navbar-scroll-duration, 0s) var(--navbar-scroll-ease);
+
+                background-color: var(--color-scheme-1--dark-second, #0e121a);
+                border-bottom-left-radius: var(--mega-radius);
+                border-bottom-right-radius: var(--mega-radius);
+            }
+
+            .nav-mega-panel {
+                position: absolute !important;
+                top: 0 !important;
+                left: 0 !important;
+                right: 0 !important;
+                width: 100%;
+                height: auto !important;
+                display: flex !important;
+                background-color: transparent !important;
+                opacity: 0;
+                pointer-events: none;
+                transform: translateX(var(--mega-shift-x, 0px));
+                transition:
+                    opacity var(--mega-fade-speed) var(--mega-ease),
+                    transform var(--mega-slide-speed) var(--mega-ease);
+            }
+
+            .nav-mega-panel[data-mega-active] {
+                opacity: 1;
+                pointer-events: auto;
+                transform: translateX(0px);
+            }
+
+            .navbar-v2 .nav-mega-panel.w--open {
+                transition:
+                    opacity var(--mega-fade-speed) var(--mega-ease),
+                    transform var(--mega-slide-speed) var(--mega-ease);
+            }
+
+            /* 2. Navbar corners */
+            .navbar-v2 {
+                transition:
+                    border-bottom-left-radius var(--navbar-radius-speed) var(--navbar-radius-ease)
+                        var(--mega-height-speed),
+                    border-bottom-right-radius var(--navbar-radius-speed) var(--navbar-radius-ease)
+                        var(--mega-height-speed),
+                    translate var(--navbar-scroll-duration, 0s) var(--navbar-scroll-ease);
+            }
+
+            .navbar-v2.is-dropdown-open {
+                border-bottom-left-radius: 0px !important;
+                border-bottom-right-radius: 0px !important;
+                transition-delay: 0s, 0s, 0s;
+                transition-duration: 0s, 0s, var(--navbar-scroll-duration, 0s);
+            }
+
+            /* 3. Chevron */
+            .nav_dropdown-chevron {
+                transition: transform var(--navbar-chevron-speed) var(--navbar-radius-ease);
+                transform-origin: 50% 50%;
+            }
+
+            .navbar-v2_dropdown.is-open .nav_dropdown-chevron {
+                transform: rotate(180deg);
+            }
+
+            /* 4. Fluid column gap */
+            @media (min-width: 992px) {
+                .navbar-v2_dropdown-content-left {
+                    --gap-min: 24px;
+                    --gap-max: 48px;
+                    --gap-delta: 24;
+
+                    column-gap: clamp(
+                        var(--gap-min),
+                        calc(var(--gap-min) + (100vw - 992px) * var(--gap-delta) / 208),
+                        var(--gap-max)
+                    ) !important;
+                }
+            }
+
+            /* 5. data-hide-narrow */
+            @media (min-width: 992px) and (max-width: 1130px) {
+                [data-hide-narrow] {
+                    display: none !important;
+                }
+            }
+
+            /* 6. Trigger colour */
+            .navbar-v2_dropdown-toggle:hover,
+            .navbar-v2_dropdown.is-open .navbar-v2_dropdown-toggle {
+                color: var(--color-scheme-1--light-green, #c7ffbe) !important;
+            }
+
+            /* 7. Scrolled bar (desktop) */
+            @media (min-width: 992px) {
+                .navbar-v2 {
+                    --navbar-scroll-duration: var(--navbar-scroll-speed);
+                }
+
+                .navbar-v2.is-scrolled {
+                    translate: 0
+                        calc(
+                            -1 * (var(--navbar-lift-base, 0px) + var(--navbar-lift-strip, 0px) *
+                                        var(--navbar-scroll-hide-top-bar, 1))
+                        );
+                }
+
+                .navbar-v2.is-scrolled:has(.navbar-v2_top-bar :focus-visible) {
+                    translate: 0 calc(-1 * var(--navbar-lift-base, 0px));
+                }
+
+                .navbar-v2::before {
+                    content: "";
+                    display: block;
+                    position: absolute;
+                    z-index: -1;
+                    grid-area: auto;
+                    top: calc(-1 * var(--navbar-lift-base, 0px));
+                    bottom: -1px;
+                    left: calc(50% - 50vw);
+                    right: calc(50% - 50vw);
+                    border-bottom: 1px solid var(--navbar-scroll-line);
+                    background-color: inherit;
+                    opacity: 0;
+                    pointer-events: none;
+                    transition: opacity var(--navbar-scroll-duration, 0s) var(--navbar-scroll-ease);
+                }
+
+                .navbar-v2.is-scrolled::before {
+                    opacity: 1;
+                    pointer-events: auto;
+                }
+
+                .navbar-v2_btm-bar {
+                    transition: padding-bottom var(--navbar-scroll-duration, 0s) var(--navbar-scroll-ease);
+                }
+
+                .navbar-v2.is-scrolled .navbar-v2_btm-bar {
+                    padding-bottom: var(--navbar-scroll-btm-pad);
+                }
+
+                .navbar-v2.is-scrolled .nav-mega-stack {
+                    left: calc(50% - 50vw) !important;
+                    right: calc(50% - 50vw) !important;
+                    border-width: 0 !important;
+                    border-bottom-left-radius: 0;
+                    border-bottom-right-radius: 0;
+                    box-shadow: inset 0 -1px 0 var(--navbar-scroll-line);
+                }
+
+                .navbar-v2.is-scrolled .nav-mega-panel {
+                    width: var(--navbar-inner-width, 100%);
+                    min-width: 0;
+                    max-width: none;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+            }
+
+            @media (prefers-reduced-motion: reduce) {
+                :root {
+                    --navbar-scroll-speed: 0s;
+                }
+
+                .nav-mega-stack,
+                .nav-mega-panel {
+                    transition: none !important;
+                }
+            }
+
+             
+                        /* Ensure all elements inherit the color from its parent */
+                        a,
+                        .w-input,
+                        .w-select,
+                        .w-tab-link,
+                        .w-nav-link,
+                        .w-nav-brand,
+                        .w-dropdown-btn,
+                        .w-dropdown-toggle,
+                        .w-slider-arrow-left,
+                        .w-slider-arrow-right,
+                        .w-dropdown-link {
+                            color: inherit;
+                            text-decoration: inherit;
+                            font-size: inherit;
+                        }
+
+                        /* Focus state style for keyboard navigation for the focusable elements */
+                        *[tabindex]:focus-visible,
+                        input[type="file"]:focus-visible {
+                            outline: 0.125rem solid #4d65ff;
+                            outline-offset: 0.125rem;
+                        }
+
+                        /* Get rid of top margin on first element in any rich text element */
+                        .w-richtext > :not(div):first-child,
+                        .w-richtext > div:first-child > :first-child {
+                            margin-top: 0 !important;
+                        }
+
+                        /* Get rid of bottom margin on last element in any rich text element */
+                        .w-richtext > :last-child,
+                        .w-richtext ol li:last-child,
+                        .w-richtext ul li:last-child {
+                            margin-bottom: 0 !important;
+                        }
+
+                        /* Prevent all click and hover interaction with an element */
+                        .pointer-events-off {
+                            pointer-events: none;
+                        }
+
+                        /* Enables all click and hover interaction with an element */
+                        .pointer-events-on {
+                            pointer-events: auto;
+                        }
+
+                        /* Create a class of .div-square which maintains a 1:1 dimension of a div */
+                        .div-square::after {
+                            content: "";
+                            display: block;
+                            padding-bottom: 100%;
+                        }
+
+                        /* Make sure containers never lose their center alignment */
+                        .container-medium,
+                        .container-small,
+                        .container-large {
+                            margin-right: auto !important;
+                            margin-left: auto !important;
+                        }
+
+                        /* Apply "..." after 3 lines of text */
+                        .text-style-3lines {
+                            display: -webkit-box;
+                            overflow: hidden;
+                            -webkit-line-clamp: 3;
+                            -webkit-box-orient: vertical;
+                        }
+
+                        /* Apply "..." after 2 lines of text */
+                        .text-style-2lines {
+                            display: -webkit-box;
+                            overflow: hidden;
+                            -webkit-line-clamp: 2;
+                            -webkit-box-orient: vertical;
+                        }
+
+                        /* Adds inline flex display */
+                        .display-inlineflex {
+                            display: inline-flex;
+                        }
+
+                        /* These classes are never overwritten */
+                        .hide {
+                            display: none !important;
+                        }
+
+                        /* Remove default Webflow chevron from form select */
+                        select {
+                            -webkit-appearance: none;
+                        }
+
+                        @media screen and (max-width: 991px) {
+                            .hide,
+                            .hide-tablet {
+                                display: none !important;
+                            }
+                        }
+                        @media screen and (max-width: 767px) {
+                            .hide-mobile-landscape {
+                                display: none !important;
+                            }
+                        }
+                        @media screen and (max-width: 479px) {
+                            .hide-mobile {
+                                display: none !important;
+                            }
+                        }
+
+                        .margin-0 {
+                            margin: 0rem !important;
+                        }
+
+                        .padding-0 {
+                            padding: 0rem !important;
+                        }
+
+                        .spacing-clean {
+                            padding: 0rem !important;
+                            margin: 0rem !important;
+                        }
+
+                        .margin-top {
+                            margin-right: 0rem !important;
+                            margin-bottom: 0rem !important;
+                            margin-left: 0rem !important;
+                        }
+
+                        .padding-top {
+                            padding-right: 0rem !important;
+                            padding-bottom: 0rem !important;
+                            padding-left: 0rem !important;
+                        }
+
+                        .margin-right {
+                            margin-top: 0rem !important;
+                            margin-bottom: 0rem !important;
+                            margin-left: 0rem !important;
+                        }
+
+                        .padding-right {
+                            padding-top: 0rem !important;
+                            padding-bottom: 0rem !important;
+                            padding-left: 0rem !important;
+                        }
+
+                        .margin-bottom {
+                            margin-top: 0rem !important;
+                            margin-right: 0rem !important;
+                            margin-left: 0rem !important;
+                        }
+
+                        .padding-bottom {
+                            padding-top: 0rem !important;
+                            padding-right: 0rem !important;
+                            padding-left: 0rem !important;
+                        }
+
+                        .margin-left {
+                            margin-top: 0rem !important;
+                            margin-right: 0rem !important;
+                            margin-bottom: 0rem !important;
+                        }
+
+                        .padding-left {
+                            padding-top: 0rem !important;
+                            padding-right: 0rem !important;
+                            padding-bottom: 0rem !important;
+                        }
+
+                        .margin-horizontal {
+                            margin-top: 0rem !important;
+                            margin-bottom: 0rem !important;
+                        }
+
+                        .padding-horizontal {
+                            padding-top: 0rem !important;
+                            padding-bottom: 0rem !important;
+                        }
+
+                        .margin-vertical {
+                            margin-right: 0rem !important;
+                            margin-left: 0rem !important;
+                        }
+
+                        .padding-vertical {
+                            padding-right: 0rem !important;
+                            padding-left: 0rem !important;
+                        }
+
+                        /* Apply "..." at 100% width */
+                        .truncate-width {
+                            width: 100%;
+                            white-space: nowrap;
+                            overflow: hidden;
+                            text-overflow: ellipsis;
+                        }
+                        /* Removes native scrollbar */
+                        .no-scrollbar {
+                            -ms-overflow-style: none;
+                            overflow: -moz-scrollbars-none;
+                        }
+
+                        .no-scrollbar::-webkit-scrollbar {
+                            display: none;
+                        }
+                   
+                        .pricingv2_more-list {
+                            list-style: none;
+                            padding-left: 0;
+                        }
+
+                        .pricingv2_more-list li {
+                            position: relative;
+                            padding-left: 20px;
+                        }
+
+                        .pricingv2_more-list li::before {
+                            content: "";
+                            position: absolute;
+                            left: 0;
+                            top: 0.4em;
+                            width: 8px;
+                            height: 8px;
+                            background-image: url("data:image/svg+xml,%3Csvg width='8' height='8' viewBox='0 0 8 8' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='4' cy='4' r='4' fill='%23C7FFBE'/%3E%3Cpath d='M5.78905 3.23251L3.52111 5.42406C3.50102 5.44363 3.47368 5.45463 3.44515 5.45463C3.41663 5.45463 3.38928 5.44363 3.3692 5.42406L2.21597 4.30967C2.19572 4.29028 2.18433 4.26385 2.18433 4.23627C2.18433 4.20871 2.19572 4.18229 2.21597 4.16288L2.36574 4.01815C2.38583 3.99859 2.41317 3.98757 2.44169 3.98757C2.47022 3.98757 2.49756 3.99859 2.51765 4.01815L3.44408 4.91338L5.48737 2.93892C5.52969 2.89927 5.59696 2.89927 5.63928 2.93892L5.78905 3.08571C5.80931 3.10512 5.82069 3.13154 5.82069 3.15911C5.82069 3.18667 5.80931 3.21309 5.78905 3.23251Z' fill='%2300060F' fill-opacity='0.8'/%3E%3C/svg%3E");
+                            background-repeat: no-repeat;
+                            background-size: contain;
+                        }
+
+                      
+                        /* Color Schemes Controls*/
+                        
+                        .color-scheme-1 {
+                            /*All sections should point to Color Scheme 1*/
+                        }
+
+                        .color-scheme-2 {
+                            --color-scheme-1--text: var(--color-scheme-2--text);
+                            --color-scheme-1--background: var(--color-scheme-2--background);
+                            --color-scheme-1--foreground: var(--color-scheme-2--foreground);
+                            --color-scheme-1--border: var(--color-scheme-2--border);
+                            --color-scheme-1--accent: var(--color-scheme-2--accent);
+                        }
+
+                        .color-scheme-3 {
+                            --color-scheme-1--text: var(--color-scheme-3--text);
+                            --color-scheme-1--background: var(--color-scheme-3--background);
+                            --color-scheme-1--foreground: var(--color-scheme-3--foreground);
+                            --color-scheme-1--border: var(--color-scheme-3--border);
+                            --color-scheme-1--accent: var(--color-scheme-3--accent);
+                        }
+
+                        .color-scheme-4 {
+                            --color-scheme-1--text: var(--color-scheme-4--text);
+                            --color-scheme-1--background: var(--color-scheme-4--background);
+                            --color-scheme-1--foreground: var(--color-scheme-4--foreground);
+                            --color-scheme-1--border: var(--color-scheme-4--border);
+                            --color-scheme-1--accent: var(--color-scheme-4--accent);
+                        }
+
+                        .color-scheme-5 {
+                            --color-scheme-1--text: var(--color-scheme-5--text);
+                            --color-scheme-1--background: var(--color-scheme-5--background);
+                            --color-scheme-1--foreground: var(--color-scheme-5--foreground);
+                            --color-scheme-1--border: var(--color-scheme-5--border);
+                            --color-scheme-1--accent: var(--color-scheme-5--accent);
+                        }
+
+                        .color-scheme-6 {
+                            --color-scheme-1--text: var(--color-scheme-6--text);
+                            --color-scheme-1--background: var(--color-scheme-6--background);
+                            --color-scheme-1--foreground: var(--color-scheme-6--foreground);
+                            --color-scheme-1--border: var(--color-scheme-6--border);
+                            --color-scheme-1--accent: var(--color-scheme-6--accent);
+                        }
+
+                        .color-scheme-7 {
+                            --color-scheme-1--text: var(--color-scheme-7--text);
+                            --color-scheme-1--background: var(--color-scheme-7--background);
+                            --color-scheme-1--foreground: var(--color-scheme-7--foreground);
+                            --color-scheme-1--border: var(--color-scheme-7--border);
+                            --color-scheme-1--accent: var(--color-scheme-7--accent);
+                        }
+
+                        .color-scheme-8 {
+                            --color-scheme-1--text: var(--color-scheme-8--text);
+                            --color-scheme-1--background: var(--color-scheme-8--background);
+                            --color-scheme-1--foreground: var(--color-scheme-8--foreground);
+                            --color-scheme-1--border: var(--color-scheme-8--border);
+                            --color-scheme-1--accent: var(--color-scheme-8--accent);
+                        }
+
+                        .color-scheme-9 {
+                            --color-scheme-1--text: var(--color-scheme-9--text);
+                            --color-scheme-1--background: var(--color-scheme-9--background);
+                            --color-scheme-1--foreground: var(--color-scheme-9--foreground);
+                            --color-scheme-1--border: var(--color-scheme-9--border);
+                            --color-scheme-1--accent: var(--color-scheme-9--accent);
+                        }
+
+                        .color-scheme-10 {
+                            --color-scheme-1--text: var(--color-scheme-10--text);
+                            --color-scheme-1--background: var(--color-scheme-10--background);
+                            --color-scheme-1--foreground: var(--color-scheme-10--foreground);
+                            --color-scheme-1--border: var(--color-scheme-10--border);
+                            --color-scheme-1--accent: var(--color-scheme-10--accent);
+                        }
+
+                        /* Inherit slider dot colors */
+                        .w-slider-dot {
+                            background-color: var(--color-scheme-1--text);
+                            opacity: 0.2;
+                        }
+
+                        .w-slider-dot.w-active {
+                            background-color: var(--color-scheme-1--text);
+                            opacity: 1;
+                        }
+
+                        /* Override .w-slider-nav-invert styles */
+                        .w-slider-nav-invert .w-slider-dot {
+                            background-color: var(--color-scheme-1--text) !important;
+                            opacity: 0.2 !important;
+                        }
+
+                        .w-slider-nav-invert .w-slider-dot.w-active {
+                            background-color: var(--color-scheme-1--text) !important;
+                            opacity: 1 !important;
+                        }
+                       
+                                                            .nav_dropdown-link {
+                                                                background-color: transparent;
+                                                                color: #ffffff;
+                                                                transition:
+                                                                    background-color 0.2s ease,
+                                                                    color 0.2s ease;
+                                                            }
+
+                                                            .nav_dropdown-link:hover {
+                                                                background-color: rgba(199, 255, 190, 0.06);
+                                                                color: #c7ffbe;
+                                                            }
+                                                            .nav_icon-wrapper {
+                                                                color: rgba(255, 255, 255, 0.4);
+                                                                background-color: rgba(199, 255, 190, 0.05);
+                                                                transition:
+                                                                    background-color 0.3s ease,
+                                                                    color 0.3s ease;
+                                                            }
+
+                                                            .nav_dropdown-link:hover .nav_icon-wrapper {
+                                                                color: #c7ffbe;
+                                                                background-color: rgba(199, 255, 190, 0.24);
+                                                            }
+  
+                                                            .nav_dropdown-link {
+                                                                background-color: transparent;
+                                                                color: #ffffff;
+                                                                transition:
+                                                                    background-color 0.2s ease,
+                                                                    color 0.2s ease;
+                                                            }
+
+                                                            .nav_dropdown-link:hover {
+                                                                background-color: rgba(199, 255, 190, 0.06);
+                                                                color: #c7ffbe;
+                                                            }
+                                                            .nav_icon-wrapper {
+                                                                color: rgba(255, 255, 255, 0.4);
+                                                                background-color: rgba(199, 255, 190, 0.05);
+                                                                transition:
+                                                                    background-color 0.3s ease,
+                                                                    color 0.3s ease;
+                                                            }
+
+                                                            .nav_dropdown-link:hover .nav_icon-wrapper {
+                                                                color: #c7ffbe;
+                                                                background-color: rgba(199, 255, 190, 0.24);
+                                                            }
+                                                             
+                                                            .nav_dropdown-link {
+                                                                background-color: transparent;
+                                                                color: #ffffff;
+                                                                transition:
+                                                                    background-color 0.2s ease,
+                                                                    color 0.2s ease;
+                                                            }
+
+                                                            .nav_dropdown-link:hover {
+                                                                background-color: rgba(199, 255, 190, 0.06);
+                                                                color: #c7ffbe;
+                                                            }
+                                                            .nav_icon-wrapper {
+                                                                color: rgba(255, 255, 255, 0.4);
+                                                                background-color: rgba(199, 255, 190, 0.05);
+                                                                transition:
+                                                                    background-color 0.3s ease,
+                                                                    color 0.3s ease;
+                                                            }
+
+                                                            .nav_dropdown-link:hover .nav_icon-wrapper {
+                                                                color: #c7ffbe;
+                                                                background-color: rgba(199, 255, 190, 0.24);
+                                                            }
+                                                            
+                                                                .nav_dropdown-link {
+                                                                    background-color: transparent;
+                                                                    color: #ffffff;
+                                                                    transition:
+                                                                        background-color 0.2s ease,
+                                                                        color 0.2s ease;
+                                                                }
+
+                                                                .nav_dropdown-link:hover {
+                                                                    background-color: rgba(199, 255, 190, 0.06);
+                                                                    color: #c7ffbe;
+                                                                }
+                                                                .nav_icon-wrapper {
+                                                                    color: rgba(255, 255, 255, 0.4);
+                                                                    background-color: rgba(199, 255, 190, 0.05);
+                                                                    transition:
+                                                                        background-color 0.3s ease,
+                                                                        color 0.3s ease;
+                                                                }
+
+                                                                .nav_dropdown-link:hover .nav_icon-wrapper {
+                                                                    color: #c7ffbe;
+                                                                    background-color: rgba(199, 255, 190, 0.24);
+                                                                }
+                                                                
+                                                            .nav_dropdown-link {
+                                                                background-color: transparent;
+                                                                color: #ffffff;
+                                                                transition:
+                                                                    background-color 0.2s ease,
+                                                                    color 0.2s ease;
+                                                            }
+
+                                                            .nav_dropdown-link:hover {
+                                                                background-color: rgba(199, 255, 190, 0.06);
+                                                                color: #c7ffbe;
+                                                            }
+                                                            .nav_icon-wrapper {
+                                                                color: rgba(255, 255, 255, 0.4);
+                                                                background-color: rgba(199, 255, 190, 0.05);
+                                                                transition:
+                                                                    background-color 0.3s ease,
+                                                                    color 0.3s ease;
+                                                            }
+
+                                                            .nav_dropdown-link:hover .nav_icon-wrapper {
+                                                                color: #c7ffbe;
+                                                                background-color: rgba(199, 255, 190, 0.24);
+                                                            }
+
+                                                               
+                                                            .nav_dropdown-link {
+                                                                background-color: transparent;
+                                                                color: #ffffff;
+                                                                transition:
+                                                                    background-color 0.2s ease,
+                                                                    color 0.2s ease;
+                                                            }
+
+                                                            .nav_dropdown-link:hover {
+                                                                background-color: rgba(199, 255, 190, 0.06);
+                                                                color: #c7ffbe;
+                                                            }
+                                                            .nav_icon-wrapper {
+                                                                color: rgba(255, 255, 255, 0.4);
+                                                                background-color: rgba(199, 255, 190, 0.05);
+                                                                transition:
+                                                                    background-color 0.3s ease,
+                                                                    color 0.3s ease;
+                                                            }
+
+                                                            .nav_dropdown-link:hover .nav_icon-wrapper {
+                                                                color: #c7ffbe;
+                                                                background-color: rgba(199, 255, 190, 0.24);
+                                                            }
+                                                            
+                                                            .nav_dropdown-link {
+                                                                background-color: transparent;
+                                                                color: #ffffff;
+                                                                transition:
+                                                                    background-color 0.2s ease,
+                                                                    color 0.2s ease;
+                                                            }
+
+                                                            .nav_dropdown-link:hover {
+                                                                background-color: rgba(199, 255, 190, 0.06);
+                                                                color: #c7ffbe;
+                                                            }
+                                                            .nav_icon-wrapper {
+                                                                color: rgba(255, 255, 255, 0.4);
+                                                                background-color: rgba(199, 255, 190, 0.05);
+                                                                transition:
+                                                                    background-color 0.3s ease,
+                                                                    color 0.3s ease;
+                                                            }
+
+                                                            .nav_dropdown-link:hover .nav_icon-wrapper {
+                                                                color: #c7ffbe;
+                                                                background-color: rgba(199, 255, 190, 0.24);
+                                                            }
+
+                                                            
+                                                            .nav_dropdown-link {
+                                                                background-color: transparent;
+                                                                color: #ffffff;
+                                                                transition:
+                                                                    background-color 0.2s ease,
+                                                                    color 0.2s ease;
+                                                            }
+
+                                                            .nav_dropdown-link:hover {
+                                                                background-color: rgba(199, 255, 190, 0.06);
+                                                                color: #c7ffbe;
+                                                            }
+                                                            .nav_icon-wrapper {
+                                                                color: rgba(255, 255, 255, 0.4);
+                                                                background-color: rgba(199, 255, 190, 0.05);
+                                                                transition:
+                                                                    background-color 0.3s ease,
+                                                                    color 0.3s ease;
+                                                            }
+
+                                                            .nav_dropdown-link:hover .nav_icon-wrapper {
+                                                                color: #c7ffbe;
+                                                                background-color: rgba(199, 255, 190, 0.24);
+                                                            }
+                                                            
+                                @keyframes scroll {
+                                    from {
+                                        transform: translateX(0);
+                                    }
+                                    to {
+                                        transform: translateX(calc(-100% - 3.75rem));
+                                    }
+                                }
+
+                                .scroll {
+                                    animation: scroll 40s linear infinite;
+                                }
+
+                                .reverse {
+                                    animation-direction: reverse;
+                                }
+
+                                .marquee-image {
+                                    -webkit-transform: translateZ(0);
+                                }
+
+                                .home-trusted_marquee {
+                                    position: relative;
+                                    overflow: hidden;
+                                    mask-image: linear-gradient(
+                                        to right,
+                                        transparent,
+                                        black 15%,
+                                        black 85%,
+                                        transparent
+                                    );
+                                    -webkit-mask-image: linear-gradient(
+                                        to right,
+                                        transparent,
+                                        black 15%,
+                                        black 85%,
+                                        transparent
+                                    );
+                                }
+
+                                
+                                    .home-camera_card-bg {
+                                        opacity: 0%;
+                                        transition: opacity 0.2s ease-in-out;
+                                    }
+
+                                    .home-camera_card-stroke:hover .home-camera_card-bg {
+                                        opacity: 12%;
+                                    }
+
+                                    .home-camera_block-image.hover-1 {
+                                        opacity: 0%;
+                                        transition: opacity 0.3s ease-in-out;
+                                    }
+
+                                    .home-camera_block:has(.home-camera_card-stroke.is-1:hover)
+                                        .home-camera_block-image.hover-1 {
+                                        opacity: 100%;
+                                    }
+
+                                    .home-camera_block-image.hover-2 {
+                                        opacity: 0%;
+                                        transition: opacity 0.3s ease-in-out;
+                                    }
+
+                                    .home-camera_block:has(.home-camera_card-stroke.is-2:hover)
+                                        .home-camera_block-image.hover-2 {
+                                        opacity: 100%;
+                                    }
+
+                                    .home-camera_block-image.hover-3 {
+                                        opacity: 0%;
+                                        transition: opacity 0.3s ease-in-out;
+                                    }
+
+                                    .home-camera_block:has(.home-camera_card-stroke.is-3:hover)
+                                        .home-camera_block-image.hover-3 {
+                                        opacity: 100%;
+                                    }
+
+                                    .home-camera_block-image.hover-4 {
+                                        opacity: 0%;
+                                        transition: opacity 0.3s ease-in-out;
+                                    }
+
+                                    .home-camera_block:has(.home-camera_card-stroke.is-4:hover)
+                                        .home-camera_block-image.hover-4 {
+                                        opacity: 100%;
+                                    }
+                                       
+                                                .footer_linkedin-link p {
+                                                    opacity: 80%;
+                                                }
+                                            .navbar-v2 {
+        background-color: #3f5274!important;
+    
+}
+  .navbar-v2_logo {
+    width: 104px!important;
+    height: 64px!important;
+}                         
+                            
+                                                        
+                                                        
+                                                        
+                                                        
+
+                                                            
+                                                        
+                                                                    
+                   
+                   
+       
