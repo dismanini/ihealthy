@@ -9,7 +9,7 @@
     <head>
         <meta charset="utf-8" />
         <link href="https://cdn.prod.website-files.com" rel="preconnect" crossorigin="anonymous" />
-        <title>Shen AI Technology | How AI Health Monitoring Works</title>
+        <title>ihealthy Technology | How AI Health Monitoring Works</title>
         <link rel="alternate" hreflang="x-default" href="https://shen.ai/technology" />
         <link rel="alternate" hreflang="en" href="https://shen.ai/technology" />
         <link rel="alternate" hreflang="es" href="https://shen.ai/es/technology" />
@@ -17,21 +17,21 @@
         <link rel="alternate" hreflang="ja" href="https://shen.ai/ja/technology" />
         <link rel="alternate" hreflang="fr" href="https://shen.ai/fr/technology" />
         <meta
-            content="Dive into the science behind Shen AI - rPPG, AI algorithms, and facial scanning all working to deliver real-time health data."
+            content="Dive into the science behind ihealthy - rPPG, AI algorithms, and facial scanning all working to deliver real-time health data."
             name="description"
         />
-        <meta content="Shen AI Technology | How AI Health Monitoring Works" property="og:title" />
+        <meta content="ihealthy Technology | How AI Health Monitoring Works" property="og:title" />
         <meta
-            content="Dive into the science behind Shen AI - rPPG, AI algorithms, and facial scanning all working to deliver real-time health data."
+            content="Dive into the science behind ihealthy - rPPG, AI algorithms, and facial scanning all working to deliver real-time health data."
             property="og:description"
         />
         <meta
             content="https://cdn.prod.website-files.com/680280c18df8e68403545b30/68078c7f2d7c9a3190556272_OG.png"
             property="og:image"
         />
-        <meta content="Shen AI Technology | How AI Health Monitoring Works" name="twitter:title" />
+        <meta content="ihealthy Technology | How AI Health Monitoring Works" name="twitter:title" />
         <meta
-            content="Dive into the science behind Shen AI - rPPG, AI algorithms, and facial scanning all working to deliver real-time health data."
+            content="Dive into the science behind ihealthy - rPPG, AI algorithms, and facial scanning all working to deliver real-time health data."
             name="twitter:description"
         />
         <meta
@@ -79,13 +79,13 @@
             {
                 "@context": "https://schema.org",
                 "@type": "WebPage",
-                "name": "Shen AI Technology | How AI Health Monitoring Works",
-                "description": "Dive into the science behind Shen AI - rPPG, AI algorithms, and facial scanning all working to deliver real-time health data.",
+                "name": "ihealthy Technology | How AI Health Monitoring Works",
+                "description": "Dive into the science behind ihealthy - rPPG, AI algorithms, and facial scanning all working to deliver real-time health data.",
                 "url": "/technology",
                 "inLanguage": "en",
                 "about": {
                     "@type": "SoftwareApplication",
-                    "name": "Shen AI",
+                    "name": "ihealthy",
                     "applicationCategory": "HealthApplication",
                     "description": "AI-powered health monitoring technology using remote photoplethysmography (rPPG) and facial scanning to deliver real-time health data through a 30-second face scan.",
                     "operatingSystem": "iOS, Android, Web",
@@ -127,18 +127,18 @@
                     "mainEntity": [
                         {
                             "@type": "Question",
-                            "name": "How does Shen AI measure health markers without traditional devices?",
+                            "name": "How does ihealthy measure health markers without traditional devices?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Shen AI uses remote photoplethysmography (rPPG) and advanced AI to track over 30 health markers, including blood pressure and heart rate or BMI, through a smartphone's camera. This contactless method eliminates the need for additional hardware."
+                                "text": "ihealthy uses remote photoplethysmography (rPPG) and advanced AI to track over 30 health markers, including blood pressure and heart rate or BMI, through a smartphone's camera. This contactless method eliminates the need for additional hardware."
                             }
                         },
                         {
                             "@type": "Question",
-                            "name": "How accurate is Shen AI compared to traditional devices like cuffs?",
+                            "name": "How accurate is ihealthy compared to traditional devices like cuffs?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Shen AI's accuracy is clinically validated and comparable to traditional devices, including cuff-based blood pressure monitors. For HR, Shen AI delivers results with under 0.5 bpm error level. Our AI is trained on over 7 million data points, ensuring precise readings across various environments and users."
+                                "text": "ihealthy's accuracy is clinically validated and comparable to traditional devices, including cuff-based blood pressure monitors. For HR, ihealthy delivers results with under 0.5 bpm error level. Our AI is trained on over 7 million data points, ensuring precise readings across various environments and users."
                             }
                         },
                         {
@@ -151,34 +151,34 @@
                         },
                         {
                             "@type": "Question",
-                            "name": "Can Shen AI be used with all skin tones and in different lighting conditions?",
+                            "name": "Can ihealthy be used with all skin tones and in different lighting conditions?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Yes, Shen AI's Multimodal Sensing Engine ensures reliable readings for all skin tones and lighting environments, making it inclusive and adaptable."
+                                "text": "Yes, ihealthy's Multimodal Sensing Engine ensures reliable readings for all skin tones and lighting environments, making it inclusive and adaptable."
                             }
                         },
                         {
                             "@type": "Question",
-                            "name": "Is Shen AI compliant with privacy regulations?",
+                            "name": "Is ihealthy compliant with privacy regulations?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Shen AI processes all data directly on the device using edge computing, ensuring no sensitive information is sent to the cloud."
+                                "text": "ihealthy processes all data directly on the device using edge computing, ensuring no sensitive information is sent to the cloud."
                             }
                         },
                         {
                             "@type": "Question",
-                            "name": "How easy is it to integrate Shen AI into my platform?",
+                            "name": "How easy is it to integrate ihealthy into my platform?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Shen AI provides comprehensive documentation at developer.shen.ai to guide integration into your platform."
+                                "text": "ihealthy provides comprehensive documentation at developer.shen.ai to guide integration into your platform."
                             }
                         },
                         {
                             "@type": "Question",
-                            "name": "Is the Shen AI SDK customizable?",
+                            "name": "Is the ihealthy SDK customizable?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Yes, the Shen AI SDK is highly customizable. It allows seamless integration into your existing platforms while offering the flexibility to adapt the interface to match your brand. Key customization options include UI personalization and localization support."
+                                "text": "Yes, the ihealthy SDK is highly customizable. It allows seamless integration into your existing platforms while offering the flexibility to adapt the interface to match your brand. Key customization options include UI personalization and localization support."
                             }
                         },
                         {
@@ -186,14 +186,14 @@
                             "name": "How can I integrate measurement data into my existing EHR system?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Shen AI comes with FHIR API, making it easy to integrate with existing healthcare or insurance systems."
+                                "text": "ihealthy comes with FHIR API, making it easy to integrate with existing healthcare or insurance systems."
                             }
                         }
                     ]
                 },
                 "publisher": {
                     "@type": "Organization",
-                    "name": "Shen AI",
+                    "name": "ihealthy",
                     "logo": {
                         "@type": "ImageObject",
                         "url": "https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545bb3_Logo.svg"
@@ -1191,7 +1191,7 @@
                                 </div>
                                 <div class="tehnology-header_header-p-wrapper">
                                     <p class="text-size-medium opacity-80">
-                                        Shen AI is grounded in scientific excellence, developed in collaboration with
+                                        ihealthy is grounded in scientific excellence, developed in collaboration with
                                         leading researchers, and continuously advancing the boundaries of technology.
                                     </p>
                                 </div>
@@ -2284,7 +2284,7 @@
                                     <h2 class="heading-style-h3 text-weight-medium">Highest accuracy</h2>
                                     <div class="max-width-500">
                                         <p class="text-size-medium opacity-80">
-                                            Shen AI is built on strong science foundations, working closely with
+                                            ihealthy is built on strong science foundations, working closely with
                                             numerous scientists and constantly pushing technology to it’s limits.<br />
                                         </p>
                                     </div>
@@ -2333,13 +2333,13 @@
                             </div>
                             <div class="block-list_item">
                                 <div class="block-list_item-text-wrapper gap-32 is-536-width">
-                                    <h3 class="heading-style-h3 text-weight-medium">Shen AI is clinically validated</h3>
+                                    <h3 class="heading-style-h3 text-weight-medium">ihealthy is clinically validated</h3>
                                     <div class="max-width-small">
                                         <p class="text-size-medium opacity-80">
                                             Our technology prioritizes accuracy and stability, ensuring reliable
                                             performance. Rigorous clinical validation studies have been conducted to
-                                            prepare Shen AI for medical device certification. With the highest level of
-                                            accuracy, Shen AI sets a new standard in the industry.<br />
+                                            prepare ihealthy for medical device certification. With the highest level of
+                                            accuracy, ihealthy sets a new standard in the industry.<br />
                                         </p>
                                     </div>
                                     <a
@@ -2465,11 +2465,11 @@
                                     </div>
                                     <div class="tehnology-solutions_item-content">
                                         <h3 class="heading-style-h5 text-weight-semibold">
-                                            Shen AI models trained on
+                                            ihealthy models trained on
                                             <strong>one of the world’s most diverse health datasets</strong>
                                         </h3>
                                         <p class="text-size-regular opacity-80">
-                                            Shen AI is built on the latest advancements in AI and trained on one of the
+                                            ihealthy is built on the latest advancements in AI and trained on one of the
                                             most diverse datasets, featuring 2,000,000 individuals across genders. This
                                             ensures robust performance, high accuracy, and reliability in global
                                             applications.
@@ -2512,9 +2512,9 @@
                                         </div>
                                         <h3 class="h3-30">Remote Photoplethysmography</h3>
                                         <p class="text-size-regular">
-                                            Shen AI utilizes remote photoplethysmography (rPPG) to extract vital health
+                                            ihealthy utilizes remote photoplethysmography (rPPG) to extract vital health
                                             data from a simple video recording. By analyzing subtle color changes in the
-                                            skin caused by blood flow, Shen AI can measure heart rate, respiratory rate,
+                                            skin caused by blood flow, ihealthy can measure heart rate, respiratory rate,
                                             and other key vitals—all without the need for physical sensors. This
                                             AI-driven technology ensures accurate, contactless health monitoring, making
                                             it easy for users to check their health anytime, anywhere, using just their
@@ -2532,7 +2532,7 @@
                                         </div>
                                         <h3 class="h3-30">Remote Ballistocardiography</h3>
                                         <p class="text-size-regular">
-                                            Shen AI leverages remote Ballistocardiography (rBCG) to analyze tiny face
+                                            ihealthy leverages remote Ballistocardiography (rBCG) to analyze tiny face
                                             movements caused by the heart’s mechanical activity. Using a device’s
                                             camera, rBCG detects subtle vibrations and micro-motions to estimate heart
                                             rate, cardiac output, and other vital parameters without physical contact.
@@ -3086,7 +3086,7 @@
                                                                             class="text-size-regular text-color-00060f opacity-80 is-article"
                                                                         >
                                                                             Turn health engagement into revenue. Use
-                                                                            Shen AI’s insights to unlock premium
+                                                                            ihealthy’s insights to unlock premium
                                                                             features, personalized offers, or
                                                                             wellness-driven upsells
                                                                         </p>
@@ -3138,7 +3138,7 @@
                                                                         <p
                                                                             class="text-size-regular text-color-00060f opacity-80 is-article"
                                                                         >
-                                                                            Stand out fast. With Shen AI inside, your
+                                                                            Stand out fast. With ihealthy inside, your
                                                                             app offers science-backed health monitoring
                                                                             that sets you apart from competition.
                                                                         </p>
@@ -3449,7 +3449,7 @@
                                                                                 target="_blank"
                                                                                 href="http://shen.ai/"
                                                                                 class="link"
-                                                                                >Shen AI</a
+                                                                                >ihealthy</a
                                                                             >
                                                                             makes in-cabin health monitoring seamless
                                                                             and scalable.
@@ -3509,7 +3509,7 @@
                                                                         >
                                                                             With
                                                                             <a target="_blank" href="/" class="link"
-                                                                                >Shen AI</a
+                                                                                >ihealthy</a
                                                                             >
                                                                             - it’s a daily touchpoint for accessible,
                                                                             AI-driven health insights.
@@ -3567,7 +3567,7 @@
                                                                         <p
                                                                             class="text-size-regular text-color-00060f opacity-80 is-article"
                                                                         >
-                                                                            Integrate Shen AI to empower robots with
+                                                                            Integrate ihealthy to empower robots with
                                                                             real-time health sensing—perfect for elder
                                                                             care
                                                                         </p>
@@ -3653,9 +3653,9 @@
                                         alt=""
                                         class="image-6"
                                     />
-                                    <h2>Shen AI is certified medical device</h2>
+                                    <h2>ihealthy is certified medical device</h2>
                                     <div class="text-opacity-80">
-                                        Shen AI holds ANVISA certification and the CE mark for delivering 60-second
+                                        ihealthy holds ANVISA certification and the CE mark for delivering 60-second
                                         measurements of heart rate, HRV, breathing rate, and blood pressure.
                                     </div>
                                     <a href="/medical-device" class="block-list_item-btn w-inline-block"
@@ -4031,7 +4031,7 @@
                                     <div role="listitem" class="faq_accordion w-dyn-item">
                                         <div data-w-id="ab4cf8d7-4194-e752-3aa0-9e7ec32395fc" class="faq_question-n">
                                             <div class="text-size-medium text-weight-semibold">
-                                                How does Shen AI measure health markers without traditional devices?
+                                                How does ihealthy measure health markers without traditional devices?
                                             </div>
                                             <div class="faq_icon-wrappper">
                                                 <div class="faq_icon-line-1"></div>
@@ -4042,7 +4042,7 @@
                                             <div class="faq_answer-inner">
                                                 <div class="faq-richtext w-richtext">
                                                     <p>
-                                                        Shen AI uses remote photoplethysmography (rPPG) and advanced AI
+                                                        ihealthy uses remote photoplethysmography (rPPG) and advanced AI
                                                         to track over 30 health markers, including blood pressure and
                                                         heart rate or BMI, through a smartphone’s camera. This
                                                         contactless method eliminates the need for additional hardware.
@@ -4054,7 +4054,7 @@
                                     <div role="listitem" class="faq_accordion w-dyn-item">
                                         <div data-w-id="ab4cf8d7-4194-e752-3aa0-9e7ec32395fc" class="faq_question-n">
                                             <div class="text-size-medium text-weight-semibold">
-                                                How accurate is Shen AI compared to traditional devices like cuffs?
+                                                How accurate is ihealthy compared to traditional devices like cuffs?
                                             </div>
                                             <div class="faq_icon-wrappper">
                                                 <div class="faq_icon-line-1"></div>
@@ -4065,9 +4065,9 @@
                                             <div class="faq_answer-inner">
                                                 <div class="faq-richtext w-richtext">
                                                     <p>
-                                                        Shen AI’s accuracy is clinically validated and comparable to
+                                                        ihealthy’s accuracy is clinically validated and comparable to
                                                         traditional devices, including cuff-based blood pressure
-                                                        monitors. For HR, Shen AI delivers results with under 0.5 bpm
+                                                        monitors. For HR, ihealthy delivers results with under 0.5 bpm
                                                         error level. Our AI is trained on over 7 million data points,
                                                         ensuring precise readings across various environments and users.
                                                     </p>
@@ -4099,7 +4099,7 @@
                                     <div role="listitem" class="faq_accordion w-dyn-item">
                                         <div data-w-id="ab4cf8d7-4194-e752-3aa0-9e7ec32395fc" class="faq_question-n">
                                             <div class="text-size-medium text-weight-semibold">
-                                                Can Shen AI be used with all skin tones and in different lighting
+                                                Can ihealthy be used with all skin tones and in different lighting
                                                 conditions?
                                             </div>
                                             <div class="faq_icon-wrappper">
@@ -4111,7 +4111,7 @@
                                             <div class="faq_answer-inner">
                                                 <div class="faq-richtext w-richtext">
                                                     <p>
-                                                        Yes, Shen AI’s Multimodal Sensing Engine ensures reliable
+                                                        Yes, ihealthy’s Multimodal Sensing Engine ensures reliable
                                                         readings for all skin tones and lighting environments, making it
                                                         inclusive and adaptable.
                                                     </p>
@@ -4122,7 +4122,7 @@
                                     <div role="listitem" class="faq_accordion w-dyn-item">
                                         <div data-w-id="ab4cf8d7-4194-e752-3aa0-9e7ec32395fc" class="faq_question-n">
                                             <div class="text-size-medium text-weight-semibold">
-                                                Is Shen AI compliant with privacy regulations?
+                                                Is ihealthy compliant with privacy regulations?
                                             </div>
                                             <div class="faq_icon-wrappper">
                                                 <div class="faq_icon-line-1"></div>
@@ -4133,7 +4133,7 @@
                                             <div class="faq_answer-inner">
                                                 <div class="faq-richtext w-richtext">
                                                     <p>
-                                                        Shen AI processes all data directly on the device using edge
+                                                        ihealthy processes all data directly on the device using edge
                                                         computing, ensuring no sensitive information is sent to the
                                                         cloud.
                                                     </p>
@@ -4144,7 +4144,7 @@
                                     <div role="listitem" class="faq_accordion w-dyn-item">
                                         <div data-w-id="ab4cf8d7-4194-e752-3aa0-9e7ec32395fc" class="faq_question-n">
                                             <div class="text-size-medium text-weight-semibold">
-                                                How easy is it to integrate Shen AI into my platform?
+                                                How easy is it to integrate ihealthy into my platform?
                                             </div>
                                             <div class="faq_icon-wrappper">
                                                 <div class="faq_icon-line-1"></div>
@@ -4155,7 +4155,7 @@
                                             <div class="faq_answer-inner">
                                                 <div class="faq-richtext w-richtext">
                                                     <p>
-                                                        Shen AI’s SDK offers seamless integration with web and mobile
+                                                        ihealthy’s SDK offers seamless integration with web and mobile
                                                         apps, with support for various frameworks like Flutter or React
                                                         Native. You can manage your integration through our Admin Portal
                                                         and have all
@@ -4171,7 +4171,7 @@
                                     <div role="listitem" class="faq_accordion w-dyn-item">
                                         <div data-w-id="ab4cf8d7-4194-e752-3aa0-9e7ec32395fc" class="faq_question-n">
                                             <div class="text-size-medium text-weight-semibold">
-                                                Is the Shen AI SDK customizable?
+                                                Is the ihealthy SDK customizable?
                                             </div>
                                             <div class="faq_icon-wrappper">
                                                 <div class="faq_icon-line-1"></div>
@@ -4182,7 +4182,7 @@
                                             <div class="faq_answer-inner">
                                                 <div class="faq-richtext w-richtext">
                                                     <p>
-                                                        Yes, the Shen AI SDK is highly customizable. It allows seamless
+                                                        Yes, the ihealthy SDK is highly customizable. It allows seamless
                                                         integration into your existing platforms while offering the
                                                         flexibility to adapt the interface to match your brand. Key
                                                         customization options include UI personalization and
@@ -4206,7 +4206,7 @@
                                             <div class="faq_answer-inner">
                                                 <div class="faq-richtext w-richtext">
                                                     <p>
-                                                        Shen AI comes with FHIR API, making it easy to integrate with
+                                                        ihealthy comes with FHIR API, making it easy to integrate with
                                                         existing healthcare or insurance systems.
                                                     </p>
                                                 </div>

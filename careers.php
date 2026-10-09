@@ -4,18 +4,18 @@
     <head>
         <meta charset="utf-8"/>
         <link href="https://cdn.prod.website-files.com" rel="preconnect" crossorigin="anonymous"/>
-        <title>Careers at Shen AI | Join Our Health Tech Team</title>
+        <title>Careers at ihealthy | Join Our Health Tech Team</title>
         <link rel="alternate" hrefLang="x-default" href="https://shen.ai/careers"/>
         <link rel="alternate" hrefLang="en" href="https://shen.ai/careers"/>
         <link rel="alternate" hrefLang="es" href="https://shen.ai/es/careers"/>
         <link rel="alternate" hrefLang="de" href="https://shen.ai/de/careers"/>
         <link rel="alternate" hrefLang="ja" href="https://shen.ai/ja/careers"/>
         <link rel="alternate" hrefLang="fr" href="https://shen.ai/fr/careers"/>
-        <meta content="We&#x27;re hiring! Join Shen AI and help shape the future of AI health monitoring with a mission-driven, innovative team." name="description"/>
-        <meta content="Careers at Shen AI | Join Our Health Tech Team" property="og:title"/>
-        <meta content="We&#x27;re hiring! Join Shen AI and help shape the future of AI health monitoring with a mission-driven, innovative team." property="og:description"/>
-        <meta content="Careers at Shen AI | Join Our Health Tech Team" name="twitter:title"/>
-        <meta content="We&#x27;re hiring! Join Shen AI and help shape the future of AI health monitoring with a mission-driven, innovative team." name="twitter:description"/>
+        <meta content="We&#x27;re hiring! Join ihealthy and help shape the future of AI health monitoring with a mission-driven, innovative team." name="description"/>
+        <meta content="Careers at ihealthy | Join Our Health Tech Team" property="og:title"/>
+        <meta content="We&#x27;re hiring! Join ihealthy and help shape the future of AI health monitoring with a mission-driven, innovative team." property="og:description"/>
+        <meta content="Careers at ihealthy | Join Our Health Tech Team" name="twitter:title"/>
+        <meta content="We&#x27;re hiring! Join ihealthy and help shape the future of AI health monitoring with a mission-driven, innovative team." name="twitter:description"/>
         <meta property="og:type" content="website"/>
         <meta content="summary_large_image" name="twitter:card"/>
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -37,13 +37,13 @@
             {
                 "@context": "https://schema.org",
                 "@type": "WebPage",
-                "name": "Careers at Shen AI | Join Our Health Tech Team",
-                "description": "We're hiring! Join Shen AI and help shape the future of AI health monitoring with a mission-driven, innovative team.",
+                "name": "Careers at ihealthy | Join Our Health Tech Team",
+                "description": "We're hiring! Join ihealthy and help shape the future of AI health monitoring with a mission-driven, innovative team.",
                 "url": "/careers",
                 "inLanguage": "en",
                 "about": {
                     "@type": "Organization",
-                    "name": "Shen AI",
+                    "name": "ihealthy",
                     "description": "We work in an interdisciplinary team of researchers, data scientists, and engineers to create outstanding digital health solutions.",
                     "logo": {
                         "@type": "ImageObject",
@@ -61,10 +61,10 @@
                         {
                             "@type": "JobPosting",
                             "title": "Agentic Systems Engineer",
-                            "description": "Join Shen AI as a Agentic Systems Engineer",
+                            "description": "Join ihealthy as a Agentic Systems Engineer",
                             "hiringOrganization": {
                                 "@type": "Organization",
-                                "name": "Shen AI",
+                                "name": "ihealthy",
                                 "logo": {
                                     "@type": "ImageObject",
                                     "url": "https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545bb3_Logo.svg"
@@ -88,7 +88,7 @@
                             "description": "Join our team to provide technical support function for Shen.AI SDK by solving complex technical issues, guiding the support team in advanced troubleshooting, and ensuring clients can integrate and operate the SDK efficiently across platforms. The role is highly technical, requiring strong debugging skills, deep product knowledge, and close collaboration with R&D/Engineering teams. You will be responsible for assisting our clients with SDK integration, troubleshooting issues, and ensuring they have a seamless experience while implementing our technology. This is an excellent opportunity for someone with strong communication skills and a problem-solving mindset.",
                             "hiringOrganization": {
                                 "@type": "Organization",
-                                "name": "Shen AI",
+                                "name": "ihealthy",
                                 "logo": {
                                     "@type": "ImageObject",
                                     "url": "https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545bb3_Logo.svg"
@@ -112,7 +112,7 @@
                             "description": "We are looking for a Computational Physiology Researcher to join our dynamic team. In this role, you will dive into the world of computational physiology to uncover patterns, visualize insights, and conduct investigative work. Your contributions will directly impact the training of deep neural network models for predicting Blood Pressure and other vital health markers like SpO₂ and HbA1c.",
                             "hiringOrganization": {
                                 "@type": "Organization",
-                                "name": "Shen AI",
+                                "name": "ihealthy",
                                 "logo": {
                                     "@type": "ImageObject",
                                     "url": "https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545bb3_Logo.svg"
@@ -939,7 +939,7 @@
                                                         <div blocks-name="heading-3">Explore</div>
                                                     </div>
                                                     <div blocks-name="navbar6_dropdown-link-list-3" blocks-slot-children="ST366" class="navbar-v2_dropdown-link-list">
-                                                        <a aria-label="Go to Why Shen AI page" blocks-name="navbar_dropdown-link" href="/why-shen-ai" class="nav_dropdown-link w-inline-block">
+                                                        <a aria-label="Go to Why ihealthy page" blocks-name="navbar_dropdown-link" href="/why-shen-ai" class="nav_dropdown-link w-inline-block">
                                                             <div class="nav_icon-wrapper">
                                                                 <div class="nav_dropdown-link-icon w-embed"></div>
                                                                 <div class="icon-embed-custom-8 w-embed">
@@ -949,7 +949,7 @@
                                                                     </svg>
                                                                 </div>
                                                             </div>
-                                                            <div>Why Shen AI</div>
+                                                            <div>Why ihealthy</div>
                                                         </a>
                                                         <a href="/implementation" aria-label="Go to Implementation library page" blocks-name="navbar_dropdown-link" class="nav_dropdown-link w-inline-block">
                                                             <div class="nav_icon-wrapper">
@@ -1550,7 +1550,7 @@
                                                         <a href="/technology" aria-label="Go to Technology page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Technology</a>
                                                         <a href="/scientific-research" aria-label="Go to Scientific research page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Scientific research</a>
                                                         <a href="/health-markers" aria-label="Go to Measured metrics page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Measured metrics </a>
-                                                        <a href="/why-shen-ai" aria-label="Go to Why Shen AI page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Why Shen AI</a>
+                                                        <a href="/why-shen-ai" aria-label="Go to Why ihealthy page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Why ihealthy</a>
                                                         <a href="/implementation" aria-label="Go to Implementation library page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Implementation library</a>
                                                         <a href="/use-cases-library" aria-label="Go to Use cases library page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Use cases library</a>
                                                     </div>
@@ -1697,7 +1697,7 @@
                             <div class="scientific-hero_heading">
                                 <h1 class="heading-style-h1">
                                     <span class="text-color-dark-green">Hi,</span>
-                                    we are Shen AI. <br/>We’d love you to join us
+                                    we are ihealthy. <br/>We’d love you to join us
                                 </h1>
                                 <div class="scientific-hero_heading-inner">
                                     <p class="text-size-medium">We work in an interdisciplinary team of researchers, data scientists, and engineers to create outstanding digital health solutions.</p>
@@ -1738,7 +1738,7 @@
                         <div class="home-built_component">
                             <div class="max-width-small for-mobile on-careers">
                                 <h2 class="heading-style-h3 text-weight-medium">
-                                    Working at <span class="text-color-logo-green">Shen AI,</span>
+                                    Working at <span class="text-color-logo-green">ihealthy,</span>
                                     you &#x27;ll find...
                                 </h2>
                             </div>
@@ -1865,7 +1865,7 @@
                                         <div class="careers-job_coll-item-content">
                                             <h3 class="text-size-medium text-weight-semibold">Agentic Systems Engineer</h3>
                                             <div class="spacer-xsmall"></div>
-                                            <p>Join Shen AI as a Agentic Systems Engineer</p>
+                                            <p>Join ihealthy as a Agentic Systems Engineer</p>
                                             <div class="spacer-medium"></div>
                                             <div class="careers-job_coll-item-details-wrapper">
                                                 <div class="careers-job_coll-item-details-block w-condition-invisible">
@@ -2056,9 +2056,9 @@
                                         <a aria-label="Go to SKD page" href="/sdk" class="footer_link">SDK</a>
                                         <a aria-label="Go to scientific research page" href="/scientific-research" class="footer_link">Scienctific Research</a>
                                         <a aria-label="Go to tehnology page" href="/technology" class="footer_link">Technology</a>
-                                        <a aria-label="Go to why shen ai page" href="/why-shen-ai" class="footer_link">Why Shen</a>
-                                        <a aria-label="Go to why shen ai page" href="/health-markers" class="footer_link">All metrics</a>
-                                        <a aria-label="Go to why shen ai page" href="https://developer.shen.ai/" target="_blank" class="footer_link">Developer Portal</a>
+                                        <a aria-label="Go to why ihealthy page" href="/why-shen-ai" class="footer_link">Why Shen</a>
+                                        <a aria-label="Go to why ihealthy page" href="/health-markers" class="footer_link">All metrics</a>
+                                        <a aria-label="Go to why ihealthy page" href="https://developer.shen.ai/" target="_blank" class="footer_link">Developer Portal</a>
                                     </div>
                                 </div>
                                 <div class="footer_link-item">
@@ -2234,7 +2234,7 @@
                                 </div>
                                 <div class="text-size-regular opacity-80">
                                     © <span id="currentYear">2025</span>
-                                    Shen AI. All rights reserved.
+                                    ihealthy. All rights reserved.
                                 </div>
                                 <div class="footer_privacy-links">
                                     <a href="/privacy-policy" class="footer_link is-privacy">Privacy Policy </a>
@@ -2295,7 +2295,7 @@
             <div class="banner-link">
                 <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/68ca61206f68fb405636c42c_6%2051.webp" loading="lazy" alt="Man with short dark hair and beard smiles gently against a dark background." class="banner-link_image"/>
                 <div class="text-color-white text-size-large text-weight-bold">
-                    Shen AI technology<br/>explained by our CTO
+                    ihealthy technology<br/>explained by our CTO
                 </div>
                 <a href="https://shen.ai/blog/inside-how-shen-ai-works" class="banner-link_link-block w-inline-block">
                     <div class="w-embed">

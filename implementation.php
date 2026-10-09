@@ -11,11 +11,11 @@
         <link rel="alternate" hrefLang="de" href="https://shen.ai/de/implementation"/>
         <link rel="alternate" hrefLang="ja" href="https://shen.ai/ja/implementation"/>
         <link rel="alternate" hrefLang="fr" href="https://shen.ai/fr/implementation"/>
-        <meta content="See Shen AI in action. Test our AI-powered vital signs monitoring on any device—mobile, web, or tablet. Browse our gallery of responsive UI implementations and discover how seamless contactless health checks can look in your app." name="description"/>
+        <meta content="See ihealthy in action. Test our AI-powered vital signs monitoring on any device—mobile, web, or tablet. Browse our gallery of responsive UI implementations and discover how seamless contactless health checks can look in your app." name="description"/>
         <meta content="Implementations library" property="og:title"/>
-        <meta content="See Shen AI in action. Test our AI-powered vital signs monitoring on any device—mobile, web, or tablet. Browse our gallery of responsive UI implementations and discover how seamless contactless health checks can look in your app." property="og:description"/>
+        <meta content="See ihealthy in action. Test our AI-powered vital signs monitoring on any device—mobile, web, or tablet. Browse our gallery of responsive UI implementations and discover how seamless contactless health checks can look in your app." property="og:description"/>
         <meta content="Implementations library" name="twitter:title"/>
-        <meta content="See Shen AI in action. Test our AI-powered vital signs monitoring on any device—mobile, web, or tablet. Browse our gallery of responsive UI implementations and discover how seamless contactless health checks can look in your app." name="twitter:description"/>
+        <meta content="See ihealthy in action. Test our AI-powered vital signs monitoring on any device—mobile, web, or tablet. Browse our gallery of responsive UI implementations and discover how seamless contactless health checks can look in your app." name="twitter:description"/>
         <meta property="og:type" content="website"/>
         <meta content="summary_large_image" name="twitter:card"/>
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -925,7 +925,7 @@
                                                         <div blocks-name="heading-3">Explore</div>
                                                     </div>
                                                     <div blocks-name="navbar6_dropdown-link-list-3" blocks-slot-children="ST366" class="navbar-v2_dropdown-link-list">
-                                                        <a aria-label="Go to Why Shen AI page" blocks-name="navbar_dropdown-link" href="/why-shen-ai" class="nav_dropdown-link w-inline-block">
+                                                        <a aria-label="Go to Why ihealthy page" blocks-name="navbar_dropdown-link" href="/why-shen-ai" class="nav_dropdown-link w-inline-block">
                                                             <div class="nav_icon-wrapper">
                                                                 <div class="nav_dropdown-link-icon w-embed"></div>
                                                                 <div class="icon-embed-custom-8 w-embed">
@@ -935,7 +935,7 @@
                                                                     </svg>
                                                                 </div>
                                                             </div>
-                                                            <div>Why Shen AI</div>
+                                                            <div>Why ihealthy</div>
                                                         </a>
                                                         <a href="/implementation" aria-label="Go to Implementation library page" blocks-name="navbar_dropdown-link" aria-current="page" class="nav_dropdown-link w-inline-block w--current">
                                                             <div class="nav_icon-wrapper">
@@ -1536,7 +1536,7 @@
                                                         <a href="/technology" aria-label="Go to Technology page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Technology</a>
                                                         <a href="/scientific-research" aria-label="Go to Scientific research page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Scientific research</a>
                                                         <a href="/health-markers" aria-label="Go to Measured metrics page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Measured metrics </a>
-                                                        <a href="/why-shen-ai" aria-label="Go to Why Shen AI page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Why Shen AI</a>
+                                                        <a href="/why-shen-ai" aria-label="Go to Why ihealthy page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Why ihealthy</a>
                                                         <a href="/implementation" aria-label="Go to Implementation library page" aria-current="page" class="navbar_mobile-dropdown-link-2 w-dropdown-link w--current">Implementation library</a>
                                                         <a href="/use-cases-library" aria-label="Go to Use cases library page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Use cases library</a>
                                                     </div>
@@ -1703,9 +1703,9 @@
                                     <a aria-label="Go to SKD page" href="/sdk" class="footer_link">SDK</a>
                                     <a aria-label="Go to scientific research page" href="/scientific-research" class="footer_link">Scienctific Research</a>
                                     <a aria-label="Go to tehnology page" href="/technology" class="footer_link">Technology</a>
-                                    <a aria-label="Go to why shen ai page" href="/why-shen-ai" class="footer_link">Why Shen</a>
-                                    <a aria-label="Go to why shen ai page" href="/health-markers" class="footer_link">All metrics</a>
-                                    <a aria-label="Go to why shen ai page" href="https://developer.shen.ai/" target="_blank" class="footer_link">Developer Portal</a>
+                                    <a aria-label="Go to why ihealthy page" href="/why-shen-ai" class="footer_link">Why Shen</a>
+                                    <a aria-label="Go to why ihealthy page" href="/health-markers" class="footer_link">All metrics</a>
+                                    <a aria-label="Go to why ihealthy page" href="https://developer.shen.ai/" target="_blank" class="footer_link">Developer Portal</a>
                                 </div>
                             </div>
                             <div class="footer_link-item">
@@ -1881,7 +1881,7 @@
                             </div>
                             <div class="text-size-regular opacity-80">
                                 © <span id="currentYear">2025</span>
-                                Shen AI. All rights reserved.
+                                ihealthy. All rights reserved.
                             </div>
                             <div class="footer_privacy-links">
                                 <a href="/privacy-policy" class="footer_link is-privacy">Privacy Policy </a>

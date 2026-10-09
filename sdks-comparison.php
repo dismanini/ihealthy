@@ -1045,7 +1045,7 @@
             <main class="main-wrapper">
                 <section class="section is-cta">
                     <div class="w-embed">
-                        <!-- Shen AI SDK comparison v5, part 1 of 3 (styles)
+                        <!-- ihealthy SDK comparison v5, part 1 of 3 (styles)
      Paste into the first Webflow Embed element, where the old comparison table embed was. Remove the old hero section, part 2 brings its own H1. -->
                         <style>
                             .shz {
@@ -3478,7 +3478,7 @@
                         </style>
                     </div>
                     <div class="w-embed">
-                        <!-- Shen AI SDK comparison v5, part 2 of 3 (icons, hero, logos, SDK finder and cards)
+                        <!-- ihealthy SDK comparison v5, part 2 of 3 (icons, hero, logos, SDK finder and cards)
      Paste into a second Embed element right below part 1. -->
                         <svg width="0" height="0" style="position: absolute" aria-hidden="true" focusable="false">
                             <defs>
@@ -3593,7 +3593,7 @@
                                     <p class="shz-kick"></p>
                                     <h1 class="shz-h1">Choose the SDK that matches your intended use</h1>
                                     <p class="shz-lead">
-                                        All Shen AI SDKs read vital signs from a face scan with the same technology.
+                                        All ihealthy SDKs read vital signs from a face scan with the same technology.
                                         They differ in intended use, claims, metrics and customization.
                                     </p>
                                     <div class="shz-cta">
@@ -3905,7 +3905,7 @@
                         </div>
                     </div>
                     <div class="w-embed w-script">
-                        <!-- Shen AI SDK comparison v5, part 3 of 3 (four decisions, full table, FAQ, closing and script)
+                        <!-- ihealthy SDK comparison v5, part 3 of 3 (four decisions, full table, FAQ, closing and script)
      Paste into a third Embed element right below part 2, above the CTA container. -->
                         <div class="shz shz--end" data-lens="global">
                             <div class="shz-diff" id="shz-diff">
@@ -4280,7 +4280,7 @@
                                                 Wellness SDKs run in three modes. Use our full UI to launch fastest,
                                                 keep our camera view and build your own screens around it, or build
                                                 everything yourself on top of our APIs. The Medical SDK is limited to
-                                                configurations approved by Shen AI.
+                                                configurations approved by ihealthy.
                                                 <strong>Choose a wellness SDK if you want your own UI.</strong>
                                             </p>
                                             <div class="shz-spec" role="group" aria-label="Compare SDKs">
@@ -4462,7 +4462,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <p class="shz-key"><i></i>Rendered by the Shen AI SDK</p>
+                                            <p class="shz-key"><i></i>Rendered by the ihealthy SDK</p>
                                         </div>
                                     </section>
                                 </div>
@@ -4717,7 +4717,7 @@
                                                     </td>
                                                     <td>
                                                         Customization is limited to configurations assessed and approved
-                                                        by Shen AI. Changes affecting the user interface, measurement
+                                                        by ihealthy. Changes affecting the user interface, measurement
                                                         workflow, instructions, results presentation, intended purpose
                                                         or regulated functionality require prior regulatory and quality
                                                         review.
@@ -4740,11 +4740,11 @@
                                                     <th scope="row">Free trial</th>
                                                     <td>
                                                         30-day free trial. Sign up yourself and test in the Playground
-                                                        in the Shen AI Platform.
+                                                        in the ihealthy Platform.
                                                     </td>
                                                     <td>
                                                         30-day free trial through our team. Playground available in the
-                                                        Shen AI Platform.
+                                                        ihealthy Platform.
                                                     </td>
                                                     <td>Custom setup with guided onboarding</td>
                                                 </tr>
@@ -4836,7 +4836,7 @@
                                         </summary>
                                         <p>
                                             For the Wellness SDK (Global), create an account for a 30-day free trial and
-                                            test in the Playground in the Shen AI Platform. The General Wellness SDK
+                                            test in the Playground in the ihealthy Platform. The General Wellness SDK
                                             (US) trial and the Medical SDK onboarding both start with our team.
                                         </p>
                                     </details>
@@ -4847,7 +4847,7 @@
                                     <h3>Start with a free trial</h3>
                                     <p>
                                         The Wellness SDK (Global) comes with a 30-day free trial and instant access to
-                                        the Shen AI Platform.
+                                        the ihealthy Platform.
                                     </p>
                                     <a
                                         class="shz-btn shz-btn--o"
@@ -5135,15 +5135,15 @@
                                             >Scienctific Research</a
                                         ><a aria-label="Go to tehnology page" href="/technology" class="footer_link"
                                             >Technology</a
-                                        ><a aria-label="Go to why shen ai page" href="/why-shen-ai" class="footer_link"
+                                        ><a aria-label="Go to why ihealthy page" href="/why-shen-ai" class="footer_link"
                                             >Why Shen</a
                                         ><a
-                                            aria-label="Go to why shen ai page"
+                                            aria-label="Go to why ihealthy page"
                                             href="/health-markers"
                                             class="footer_link"
                                             >All metrics</a
                                         ><a
-                                            aria-label="Go to why shen ai page"
+                                            aria-label="Go to why ihealthy page"
                                             href="https://developer.shen.ai/"
                                             target="_blank"
                                             class="footer_link"
@@ -5518,7 +5518,7 @@
                                     </div>
                                 </div>
                                 <div class="text-size-regular opacity-80">
-                                    © <span id="currentYear">2025</span> Shen AI. All rights reserved.
+                                    © <span id="currentYear">2025</span> ihealthy. All rights reserved.
                                 </div>
                                 <div class="footer_privacy-links">
                                     <a href="/privacy-policy" class="footer_link is-privacy">Privacy Policy </a>

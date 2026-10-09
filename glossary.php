@@ -4,18 +4,18 @@
     <head>
         <meta charset="utf-8"/>
         <link href="https://cdn.prod.website-files.com" rel="preconnect" crossorigin="anonymous"/>
-        <title>Health &amp; AI Terms | Shen AI</title>
+        <title>Health &amp; AI Terms | ihealthy</title>
         <link rel="alternate" hrefLang="x-default" href="https://shen.ai/glossary"/>
         <link rel="alternate" hrefLang="en" href="https://shen.ai/glossary"/>
         <link rel="alternate" hrefLang="es" href="https://shen.ai/es/glossary"/>
         <link rel="alternate" hrefLang="de" href="https://shen.ai/de/glossary"/>
         <link rel="alternate" hrefLang="ja" href="https://shen.ai/ja/glossary"/>
         <link rel="alternate" hrefLang="fr" href="https://shen.ai/fr/glossary"/>
-        <meta content="Understand key terms in AI health monitoring, rPPG, HRV, and more with Shen AI’s comprehensive health tech glossary." name="description"/>
-        <meta content="Health &amp; AI Terms | Shen AI" property="og:title"/>
-        <meta content="Understand key terms in AI health monitoring, rPPG, HRV, and more with Shen AI’s comprehensive health tech glossary." property="og:description"/>
-        <meta content="Health &amp; AI Terms | Shen AI" name="twitter:title"/>
-        <meta content="Understand key terms in AI health monitoring, rPPG, HRV, and more with Shen AI’s comprehensive health tech glossary." name="twitter:description"/>
+        <meta content="Understand key terms in AI health monitoring, rPPG, HRV, and more with ihealthy’s comprehensive health tech glossary." name="description"/>
+        <meta content="Health &amp; AI Terms | ihealthy" property="og:title"/>
+        <meta content="Understand key terms in AI health monitoring, rPPG, HRV, and more with ihealthy’s comprehensive health tech glossary." property="og:description"/>
+        <meta content="Health &amp; AI Terms | ihealthy" name="twitter:title"/>
+        <meta content="Understand key terms in AI health monitoring, rPPG, HRV, and more with ihealthy’s comprehensive health tech glossary." name="twitter:description"/>
         <meta property="og:type" content="website"/>
         <meta content="summary_large_image" name="twitter:card"/>
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -1168,7 +1168,7 @@
                                                         <div blocks-name="heading-3">Explore</div>
                                                     </div>
                                                     <div blocks-name="navbar6_dropdown-link-list-3" blocks-slot-children="ST366" class="navbar-v2_dropdown-link-list">
-                                                        <a aria-label="Go to Why Shen AI page" blocks-name="navbar_dropdown-link" href="/why-shen-ai" class="nav_dropdown-link w-inline-block">
+                                                        <a aria-label="Go to Why ihealthy page" blocks-name="navbar_dropdown-link" href="/why-shen-ai" class="nav_dropdown-link w-inline-block">
                                                             <div class="nav_icon-wrapper">
                                                                 <div class="nav_dropdown-link-icon w-embed"></div>
                                                                 <div class="icon-embed-custom-8 w-embed">
@@ -1178,7 +1178,7 @@
                                                                     </svg>
                                                                 </div>
                                                             </div>
-                                                            <div>Why Shen AI</div>
+                                                            <div>Why ihealthy</div>
                                                         </a>
                                                         <a href="/implementation" aria-label="Go to Implementation library page" blocks-name="navbar_dropdown-link" class="nav_dropdown-link w-inline-block">
                                                             <div class="nav_icon-wrapper">
@@ -1779,7 +1779,7 @@
                                                         <a href="/technology" aria-label="Go to Technology page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Technology</a>
                                                         <a href="/scientific-research" aria-label="Go to Scientific research page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Scientific research</a>
                                                         <a href="/health-markers" aria-label="Go to Measured metrics page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Measured metrics </a>
-                                                        <a href="/why-shen-ai" aria-label="Go to Why Shen AI page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Why Shen AI</a>
+                                                        <a href="/why-shen-ai" aria-label="Go to Why ihealthy page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Why ihealthy</a>
                                                         <a href="/implementation" aria-label="Go to Implementation library page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Implementation library</a>
                                                         <a href="/use-cases-library" aria-label="Go to Use cases library page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Use cases library</a>
                                                     </div>
@@ -1957,7 +1957,7 @@
                                             <label class="glossary_radio-field ctg-active w-radio">
                                                 <div class="w-form-formradioinput w-form-formradioinput--inputType-custom glossary_radio w-radio-input"></div>
                                                 <input type="radio" data-name="Radio 2" id="radio-2" name="radio" style="opacity:0;position:absolute;z-index:-1" value="Radio"/>
-                                                <span fs-cmsfilter-active="ctg-active" fs-cmsfilter-field="ctg" class="glossary_radio-label w-form-label" for="radio-2">Shen AI health marker</span>
+                                                <span fs-cmsfilter-active="ctg-active" fs-cmsfilter-field="ctg" class="glossary_radio-label w-form-label" for="radio-2">ihealthy health marker</span>
                                             </label>
                                             <label class="glossary_radio-field w-radio">
                                                 <div class="w-form-formradioinput w-form-formradioinput--inputType-custom glossary_radio w-radio-input"></div>
@@ -2130,7 +2130,7 @@
                             <div class="glossary_coll-list-wrapper w-dyn-list">
                                 <div fs-cmsfilter-element="list" role="list" class="glossary_coll-list w-dyn-items">
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">A</div>
                                         <a href="/glossary/a-body-shape-index" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2234,7 +2234,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">A</div>
                                         <a href="/glossary/atherosclerotic-cardiovascular-disease-risk" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2273,7 +2273,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">B</div>
                                         <a href="/glossary/basal-metabolic-rate" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2299,7 +2299,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">B</div>
                                         <a href="/glossary/blood-oxygen-saturation" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2312,7 +2312,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">B</div>
                                         <a href="/glossary/blood-pressure" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2325,7 +2325,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">B</div>
                                         <a href="/glossary/body-fat-percentage" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2338,7 +2338,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">B</div>
                                         <a href="/glossary/body-mass-index" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2351,7 +2351,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">B</div>
                                         <a href="/glossary/body-roundness-index" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2364,7 +2364,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">B</div>
                                         <a href="/glossary/breathing-rate" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2377,7 +2377,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">C</div>
                                         <a href="/glossary/cardiac-workload" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2390,7 +2390,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">C</div>
                                         <a href="/glossary/cardiovascular-event-risk" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2403,7 +2403,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">C</div>
                                         <a href="/glossary/cardiovascular-risk-score" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2429,7 +2429,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">C</div>
                                         <a href="/glossary/conicity-index" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2468,7 +2468,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">C</div>
                                         <a href="/glossary/coronary-death-risk" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2481,7 +2481,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">C</div>
                                         <a href="/glossary/coronary-heart-disease-risk" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2520,7 +2520,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">D</div>
                                         <a href="/glossary/diabetes-risk" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2580,12 +2580,12 @@
                                                 <div fs-cmsfilter-field="name" class="text-size-medium text-weight-semibold">Face scan health check</div>
                                             </div>
                                             <div class="max-width-634">
-                                                <p class="text-size-regular opacity-80 text-style-2lines">AI health monitoring like Shen AI can integrate remote photoplethysmography (rPPG), remote ballistocardiography (rBCG), and a facial video to generate key insights remotely. With a simple video scan of your face, your smartphone camera “sees” your face, capturing a video that rPPG and rBCG can then analyze.</p>
+                                                <p class="text-size-regular opacity-80 text-style-2lines">AI health monitoring like ihealthy can integrate remote photoplethysmography (rPPG), remote ballistocardiography (rBCG), and a facial video to generate key insights remotely. With a simple video scan of your face, your smartphone camera “sees” your face, capturing a video that rPPG and rBCG can then analyze.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">F</div>
                                         <a href="/glossary/fatal-stroke-risk" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2598,7 +2598,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">G</div>
                                         <a href="/glossary/glycated-hemoglobin" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2624,7 +2624,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">H</div>
                                         <a href="/glossary/heart-failure-risk" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2650,7 +2650,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">H</div>
                                         <a href="/glossary/heart-rate" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2663,7 +2663,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">H</div>
                                         <a href="/glossary/heart-rate-variability" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2689,7 +2689,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">H</div>
                                         <a href="/glossary/hypertension-risk" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2801,7 +2801,7 @@
                                                 <div fs-cmsfilter-field="name" class="text-size-medium text-weight-semibold">Multi-modal sensing</div>
                                             </div>
                                             <div class="max-width-634">
-                                                <p class="text-size-regular opacity-80 text-style-2lines">Shen AI uses video input from a camera to detect the face and extract physiological vital signs. This is done by analyzing subtle pulsation signals from the skin, captured through remote photoplethysmography (rPPG). However, factors like lighting, skin tone, and movement can affect signal quality—making consistent accuracy a challenge.</p>
+                                                <p class="text-size-regular opacity-80 text-style-2lines">ihealthy uses video input from a camera to detect the face and extract physiological vital signs. This is done by analyzing subtle pulsation signals from the skin, captured through remote photoplethysmography (rPPG). However, factors like lighting, skin tone, and movement can affect signal quality—making consistent accuracy a challenge.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -2845,7 +2845,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">N</div>
                                         <a href="/glossary/non-alcoholic-fatty-liver-disease-risk" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2858,7 +2858,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">P</div>
                                         <a href="/glossary/parasympathetic-activity" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -2871,7 +2871,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">P</div>
                                         <a href="/glossary/peripheral-vascular-disease-risk" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -3001,7 +3001,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">S</div>
                                         <a href="/glossary/stress-index" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -3014,7 +3014,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">S</div>
                                         <a href="/glossary/stroke-risk" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -3040,7 +3040,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">T</div>
                                         <a href="/glossary/total-cardiovascular-mortality" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -3053,7 +3053,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">T</div>
                                         <a href="/glossary/total-daily-energy-expenditure" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -3066,7 +3066,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">V</div>
                                         <a href="/glossary/vascular-age" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -3079,7 +3079,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">W</div>
                                         <a href="/glossary/waist-to-height-ratio" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -3092,7 +3092,7 @@
                                         </div>
                                     </div>
                                     <div role="listitem" class="glossary_coll-item w-dyn-item">
-                                        <div fs-cmsfilter-field="ctg" class="hide">Shen AI health marker</div>
+                                        <div fs-cmsfilter-field="ctg" class="hide">ihealthy health marker</div>
                                         <div fs-cmsfilter-field="character-ctg" class="glossary-character">W</div>
                                         <a href="/glossary/wellness-score" class="glossary_coll-item-link w-inline-block"></a>
                                         <div class="glossary_coll-item-content">
@@ -3136,9 +3136,9 @@
                                         <a aria-label="Go to SKD page" href="/sdk" class="footer_link">SDK</a>
                                         <a aria-label="Go to scientific research page" href="/scientific-research" class="footer_link">Scienctific Research</a>
                                         <a aria-label="Go to tehnology page" href="/technology" class="footer_link">Technology</a>
-                                        <a aria-label="Go to why shen ai page" href="/why-shen-ai" class="footer_link">Why Shen</a>
-                                        <a aria-label="Go to why shen ai page" href="/health-markers" class="footer_link">All metrics</a>
-                                        <a aria-label="Go to why shen ai page" href="https://developer.shen.ai/" target="_blank" class="footer_link">Developer Portal</a>
+                                        <a aria-label="Go to why ihealthy page" href="/why-shen-ai" class="footer_link">Why Shen</a>
+                                        <a aria-label="Go to why ihealthy page" href="/health-markers" class="footer_link">All metrics</a>
+                                        <a aria-label="Go to why ihealthy page" href="https://developer.shen.ai/" target="_blank" class="footer_link">Developer Portal</a>
                                     </div>
                                 </div>
                                 <div class="footer_link-item">
@@ -3314,7 +3314,7 @@
                                 </div>
                                 <div class="text-size-regular opacity-80">
                                     © <span id="currentYear">2025</span>
-                                    Shen AI. All rights reserved.
+                                    ihealthy. All rights reserved.
                                 </div>
                                 <div class="footer_privacy-links">
                                     <a href="/privacy-policy" class="footer_link is-privacy">Privacy Policy </a>

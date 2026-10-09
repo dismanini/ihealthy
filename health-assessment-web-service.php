@@ -62,7 +62,7 @@
                 ],
                 "provider": {
                     "@type": "Organization",
-                    "name": "Shen AI",
+                    "name": "ihealthy",
                     "logo": {
                         "@type": "ImageObject",
                         "url": "https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545bb3_Logo.svg"
@@ -928,7 +928,7 @@
                                         </div>
                                         <div class="home-built_tab-link-answer is-template">
                                             <div class="home-built_tab-link-answer-inner is-template">
-                                                <p class="home-built_tab-link-p is-template">Decide which Shen AI health metrics like Stress Index or Blood Pressure to measure and display to users.</p>
+                                                <p class="home-built_tab-link-p is-template">Decide which ihealthy health metrics like Stress Index or Blood Pressure to measure and display to users.</p>
                                                 <div class="home-built_image-wrapper is-template is-mobile">
                                                     <img alt="" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545bc5_Placeholder.svg" class="home-built_image is-template"/>
                                                 </div>
@@ -966,7 +966,7 @@
                                     <h2>Your first step toward</h2>
                                     <h2>smarter health integration</h2>
                                     <p>‍</p>
-                                    <p>It’s a real, working experience powered by Shen AI’s proven technology, branded as yours, ready to go from day one. </p>
+                                    <p>It’s a real, working experience powered by ihealthy’s proven technology, branded as yours, ready to go from day one. </p>
                                     <p>‍</p>
                                 </div>
                             </div>

@@ -4,18 +4,18 @@
     <head>
         <meta charset="utf-8"/>
         <link href="https://cdn.prod.website-files.com" rel="preconnect" crossorigin="anonymous"/>
-        <title>Health AI Insights &amp; News | Shen AI Blog</title>
+        <title>Health AI Insights &amp; News | ihealthy Blog</title>
         <link rel="alternate" hrefLang="x-default" href="https://shen.ai/blog"/>
         <link rel="alternate" hrefLang="en" href="https://shen.ai/blog"/>
         <link rel="alternate" hrefLang="es" href="https://shen.ai/es/blog"/>
         <link rel="alternate" hrefLang="de" href="https://shen.ai/de/blog"/>
         <link rel="alternate" hrefLang="ja" href="https://shen.ai/ja/blog"/>
         <link rel="alternate" hrefLang="fr" href="https://shen.ai/fr/blog"/>
-        <meta content="Stay updated with the latest in AI-powered health monitoring, digital wellness, and Shen AI product updates." name="description"/>
-        <meta content="Health AI Insights &amp; News | Shen AI Blog" property="og:title"/>
-        <meta content="Stay updated with the latest in AI-powered health monitoring, digital wellness, and Shen AI product updates." property="og:description"/>
-        <meta content="Health AI Insights &amp; News | Shen AI Blog" name="twitter:title"/>
-        <meta content="Stay updated with the latest in AI-powered health monitoring, digital wellness, and Shen AI product updates." name="twitter:description"/>
+        <meta content="Stay updated with the latest in AI-powered health monitoring, digital wellness, and ihealthy product updates." name="description"/>
+        <meta content="Health AI Insights &amp; News | ihealthy Blog" property="og:title"/>
+        <meta content="Stay updated with the latest in AI-powered health monitoring, digital wellness, and ihealthy product updates." property="og:description"/>
+        <meta content="Health AI Insights &amp; News | ihealthy Blog" name="twitter:title"/>
+        <meta content="Stay updated with the latest in AI-powered health monitoring, digital wellness, and ihealthy product updates." name="twitter:description"/>
         <meta property="og:type" content="website"/>
         <meta content="summary_large_image" name="twitter:card"/>
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -37,12 +37,12 @@
             {
                 "@context": "https://schema.org",
                 "@type": "Blog",
-                "name": "Shen AI Blog",
-                "description": "Stay updated with the latest in AI-powered health monitoring, digital wellness, and Shen AI product updates.",
+                "name": "ihealthy Blog",
+                "description": "Stay updated with the latest in AI-powered health monitoring, digital wellness, and ihealthy product updates.",
                 "url": "/blog",
                 "publisher": {
                     "@type": "Organization",
-                    "name": "Shen AI",
+                    "name": "ihealthy",
                     "logo": {
                         "@type": "ImageObject",
                         "url": "https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545bb3_Logo.svg"
@@ -66,8 +66,8 @@
                     },
                     {
                         "@type": "BlogPosting",
-                        "headline": "Multimodal approach by Shen AI using remote photoplethysmography (rPPG) and ballistocardiography (rBCG) for heart rate and heart rate variability prediction",
-                        "description": "Shen AI's multimodal rPPG+rBCG system delivers high-accuracy, equitable heart rate and HRV monitoring across 5,000+ participants, improving SDNN by up to 18% in darker skin tones.",
+                        "headline": "Multimodal approach by ihealthy using remote photoplethysmography (rPPG) and ballistocardiography (rBCG) for heart rate and heart rate variability prediction",
+                        "description": "ihealthy's multimodal rPPG+rBCG system delivers high-accuracy, equitable heart rate and HRV monitoring across 5,000+ participants, improving SDNN by up to 18% in darker skin tones.",
                         "url": "/blog/multimodal-approach-by-shen-ai-using-remote-photoplethysmography-rppg-and-ballistocardiography-rbcg-for-heart-rate-and-heart-rate-variability-prediction",
                         "datePublished": "2025-11-28",
                         "inLanguage": "en",
@@ -116,8 +116,8 @@
                     },
                     {
                         "@type": "BlogPosting",
-                        "headline": "Inside how Shen AI works with CTO Przemek Jaworski",
-                        "description": "Shen AI transforms any camera into a health companion, delivering 30+ metrics in 30 seconds. CTO Przemek Jaworski explains how multimodal sensing, clinical validation, and on-device processing make this breakthrough accurate, private, and accessible.",
+                        "headline": "Inside how ihealthy works with CTO Przemek Jaworski",
+                        "description": "ihealthy transforms any camera into a health companion, delivering 30+ metrics in 30 seconds. CTO Przemek Jaworski explains how multimodal sensing, clinical validation, and on-device processing make this breakthrough accurate, private, and accessible.",
                         "url": "/blog/inside-how-shen-ai-works",
                         "datePublished": "2025-09-23",
                         "inLanguage": "en",
@@ -137,7 +137,7 @@
                     {
                         "@type": "BlogPosting",
                         "headline": "Why early detection of hypertension is critical",
-                        "description": "Hypertension is a leading cause of heart disease, stroke, and kidney failure — yet it often goes undetected. Learn why early detection matters, how to measure blood pressure accurately, and how AI-powered monitoring like Shen AI is making it easier than ever.",
+                        "description": "Hypertension is a leading cause of heart disease, stroke, and kidney failure — yet it often goes undetected. Learn why early detection matters, how to measure blood pressure accurately, and how AI-powered monitoring like ihealthy is making it easier than ever.",
                         "url": "/blog/why-early-detection-of-hypertension-is-critical",
                         "datePublished": "2025-08-11",
                         "inLanguage": "en",
@@ -1293,7 +1293,7 @@
                                                         <div blocks-name="heading-3">Explore</div>
                                                     </div>
                                                     <div blocks-name="navbar6_dropdown-link-list-3" blocks-slot-children="ST366" class="navbar-v2_dropdown-link-list">
-                                                        <a aria-label="Go to Why Shen AI page" blocks-name="navbar_dropdown-link" href="/why-shen-ai" class="nav_dropdown-link w-inline-block">
+                                                        <a aria-label="Go to Why ihealthy page" blocks-name="navbar_dropdown-link" href="/why-shen-ai" class="nav_dropdown-link w-inline-block">
                                                             <div class="nav_icon-wrapper">
                                                                 <div class="nav_dropdown-link-icon w-embed"></div>
                                                                 <div class="icon-embed-custom-8 w-embed">
@@ -1303,7 +1303,7 @@
                                                                     </svg>
                                                                 </div>
                                                             </div>
-                                                            <div>Why Shen AI</div>
+                                                            <div>Why ihealthy</div>
                                                         </a>
                                                         <a href="/implementation" aria-label="Go to Implementation library page" blocks-name="navbar_dropdown-link" class="nav_dropdown-link w-inline-block">
                                                             <div class="nav_icon-wrapper">
@@ -1904,7 +1904,7 @@
                                                         <a href="/technology" aria-label="Go to Technology page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Technology</a>
                                                         <a href="/scientific-research" aria-label="Go to Scientific research page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Scientific research</a>
                                                         <a href="/health-markers" aria-label="Go to Measured metrics page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Measured metrics </a>
-                                                        <a href="/why-shen-ai" aria-label="Go to Why Shen AI page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Why Shen AI</a>
+                                                        <a href="/why-shen-ai" aria-label="Go to Why ihealthy page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Why ihealthy</a>
                                                         <a href="/implementation" aria-label="Go to Implementation library page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Implementation library</a>
                                                         <a href="/use-cases-library" aria-label="Go to Use cases library page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Use cases library</a>
                                                     </div>
@@ -2123,8 +2123,8 @@
                                                 </div>
                                                 <div class="spacer-xsmall"></div>
                                                 <div class="flex d-vertical gap-12">
-                                                    <div class="heading-style-h5 text-weight-semibold">A practical introduction to the Shen AI Medical SDK</div>
-                                                    <p class="text-size-regular text-color-grey-second">The Shen AI Medical SDK is a CE-marked Class IIa software as a medical device that estimates blood pressure, heart rate, HRV, and breathing rate from a one-minute face scan using a standard camera. This guide explains what the certification covers, how the technology works, how the Medical SDK differs from the Wellness SDK, and which product decisions teams should make early when building regulated medical applications.</p>
+                                                    <div class="heading-style-h5 text-weight-semibold">A practical introduction to the ihealthy Medical SDK</div>
+                                                    <p class="text-size-regular text-color-grey-second">The ihealthy Medical SDK is a CE-marked Class IIa software as a medical device that estimates blood pressure, heart rate, HRV, and breathing rate from a one-minute face scan using a standard camera. This guide explains what the certification covers, how the technology works, how the Medical SDK differs from the Wellness SDK, and which product decisions teams should make early when building regulated medical applications.</p>
                                                 </div>
                                                 <div class="spacer-xsmall"></div>
                                                 <a data-wf--button-arrow-up--variant="base" href="/blog/a-practical-introduction-to-the-shen-ai-medical-sdk" class="block-list_item-btn w-inline-block">
@@ -2157,8 +2157,8 @@
                                                 </div>
                                                 <div class="spacer-xsmall"></div>
                                                 <div class="flex d-vertical gap-12">
-                                                    <div class="heading-style-h5 text-weight-semibold">[Press] Shen AI &#x27;s vital signs are now certified: Introducing the Medical SDK</div>
-                                                    <p class="text-size-regular text-color-grey-second">Choosing the right SDK is crucial for aligning your product’s regulatory pathway, claims, customization, and go-to-market timeline. Explore this breakdown comparing Shen AI’s three camera-based health monitoring SDK options.</p>
+                                                    <div class="heading-style-h5 text-weight-semibold">[Press] ihealthy &#x27;s vital signs are now certified: Introducing the Medical SDK</div>
+                                                    <p class="text-size-regular text-color-grey-second">Choosing the right SDK is crucial for aligning your product’s regulatory pathway, claims, customization, and go-to-market timeline. Explore this breakdown comparing ihealthy’s three camera-based health monitoring SDK options.</p>
                                                 </div>
                                                 <div class="spacer-xsmall"></div>
                                                 <a data-wf--button-arrow-up--variant="base" href="/blog/press" class="block-list_item-btn w-inline-block">
@@ -2191,8 +2191,8 @@
                                                 </div>
                                                 <div class="spacer-xsmall"></div>
                                                 <div class="flex d-vertical gap-12">
-                                                    <div class="heading-style-h5 text-weight-semibold">Shen AI SDK comparison: Wellness, General Wellness US, and Medical</div>
-                                                    <p class="text-size-regular text-color-grey-second">Choosing the right SDK is crucial for aligning your product’s regulatory pathway, claims, customization, and go-to-market timeline. Explore this breakdown comparing Shen AI’s three camera-based health monitoring SDK options.</p>
+                                                    <div class="heading-style-h5 text-weight-semibold">ihealthy SDK comparison: Wellness, General Wellness US, and Medical</div>
+                                                    <p class="text-size-regular text-color-grey-second">Choosing the right SDK is crucial for aligning your product’s regulatory pathway, claims, customization, and go-to-market timeline. Explore this breakdown comparing ihealthy’s three camera-based health monitoring SDK options.</p>
                                                 </div>
                                                 <div class="spacer-xsmall"></div>
                                                 <a data-wf--button-arrow-up--variant="base" href="/blog/shen-ai-sdk-comparison" class="block-list_item-btn w-inline-block">
@@ -2225,8 +2225,8 @@
                                                 </div>
                                                 <div class="spacer-xsmall"></div>
                                                 <div class="flex d-vertical gap-12">
-                                                    <div class="heading-style-h5 text-weight-semibold">Shen AI &#x27;s vital signs are now certified: Introducing the Medical SDK</div>
-                                                    <p class="text-size-regular text-color-grey-second">Shen AI now offers a certified Medical SDK under MDR for heart rate, HRV, breathing rate, and blood pressure estimation. Discover how choosing between Shen AI’s Medical and Wellness SDKs helps align your regulatory pathway, clinical validation, and go-to-market timeline.</p>
+                                                    <div class="heading-style-h5 text-weight-semibold">ihealthy &#x27;s vital signs are now certified: Introducing the Medical SDK</div>
+                                                    <p class="text-size-regular text-color-grey-second">ihealthy now offers a certified Medical SDK under MDR for heart rate, HRV, breathing rate, and blood pressure estimation. Discover how choosing between ihealthy’s Medical and Wellness SDKs helps align your regulatory pathway, clinical validation, and go-to-market timeline.</p>
                                                 </div>
                                                 <div class="spacer-xsmall"></div>
                                                 <a data-wf--button-arrow-up--variant="base" href="/blog/now-ce-certified" class="block-list_item-btn w-inline-block">
@@ -2259,8 +2259,8 @@
                                                 </div>
                                                 <div class="spacer-xsmall"></div>
                                                 <div class="flex d-vertical gap-12">
-                                                    <div class="heading-style-h5 text-weight-semibold">We’re introducing the Shen AI Platform</div>
-                                                    <p class="text-size-regular text-color-grey-second">The redesigned Shen AI Platform brings together everything you need to evaluate, integrate, and manage Shen AI in one place. Learn what &#x27;s new, explore the Platform &#x27;s key features, and discover how to get started, whether you prefer to work independently or with guidance from our team.</p>
+                                                    <div class="heading-style-h5 text-weight-semibold">We’re introducing the ihealthy Platform</div>
+                                                    <p class="text-size-regular text-color-grey-second">The redesigned ihealthy Platform brings together everything you need to evaluate, integrate, and manage ihealthy in one place. Learn what &#x27;s new, explore the Platform &#x27;s key features, and discover how to get started, whether you prefer to work independently or with guidance from our team.</p>
                                                 </div>
                                                 <div class="spacer-xsmall"></div>
                                                 <a data-wf--button-arrow-up--variant="base" href="/blog/were-introducing-the-shen-ai-platform" class="block-list_item-btn w-inline-block">
@@ -2602,9 +2602,9 @@
                                         <a aria-label="Go to SKD page" href="/sdk" class="footer_link">SDK</a>
                                         <a aria-label="Go to scientific research page" href="/scientific-research" class="footer_link">Scienctific Research</a>
                                         <a aria-label="Go to tehnology page" href="/technology" class="footer_link">Technology</a>
-                                        <a aria-label="Go to why shen ai page" href="/why-shen-ai" class="footer_link">Why Shen</a>
-                                        <a aria-label="Go to why shen ai page" href="/health-markers" class="footer_link">All metrics</a>
-                                        <a aria-label="Go to why shen ai page" href="https://developer.shen.ai/" target="_blank" class="footer_link">Developer Portal</a>
+                                        <a aria-label="Go to why ihealthy page" href="/why-shen-ai" class="footer_link">Why Shen</a>
+                                        <a aria-label="Go to why ihealthy page" href="/health-markers" class="footer_link">All metrics</a>
+                                        <a aria-label="Go to why ihealthy page" href="https://developer.shen.ai/" target="_blank" class="footer_link">Developer Portal</a>
                                     </div>
                                 </div>
                                 <div class="footer_link-item">
@@ -2780,7 +2780,7 @@
                                 </div>
                                 <div class="text-size-regular opacity-80">
                                     © <span id="currentYear">2025</span>
-                                    Shen AI. All rights reserved.
+                                    ihealthy. All rights reserved.
                                 </div>
                                 <div class="footer_privacy-links">
                                     <a href="/privacy-policy" class="footer_link is-privacy">Privacy Policy </a>
@@ -3134,7 +3134,7 @@ const swiperSoluionsGlobal = new Swiper('.swiper.is-solutions', {
 
                     // Update title tag if we are on a pagination page
                     if (pageParam && pageParam > 1) {
-                        document.title = `Health AI Insights & News | Page ${pageParam} | Shen AI Blog`;
+                        document.title = `Health AI Insights & News | Page ${pageParam} | ihealthy Blog`;
 
                         // Update canonical link
                         let canonicalLink = document.querySelector('link[rel="canonical"]');

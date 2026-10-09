@@ -4,18 +4,18 @@
     <head>
         <meta charset="utf-8"/>
         <link href="https://cdn.prod.website-files.com" rel="preconnect" crossorigin="anonymous"/>
-        <title>Partner with Shen AI | Grow with a Leader in AI</title>
+        <title>Partner with ihealthy | Grow with a Leader in AI</title>
         <link rel="alternate" hrefLang="x-default" href="https://shen.ai/partner-with-shen-ai"/>
         <link rel="alternate" hrefLang="en" href="https://shen.ai/partner-with-shen-ai"/>
         <link rel="alternate" hrefLang="es" href="https://shen.ai/es/partner-with-shen-ai"/>
         <link rel="alternate" hrefLang="de" href="https://shen.ai/de/partner-with-shen-ai"/>
         <link rel="alternate" hrefLang="ja" href="https://shen.ai/ja/partner-with-shen-ai"/>
         <link rel="alternate" hrefLang="fr" href="https://shen.ai/fr/partner-with-shen-ai"/>
-        <meta content="Join the Shen AI Partner Network. We offer referral, reseller, and solution tracks to help you build revenue, deliver value, and lead the AI revolution. Find your path." name="description"/>
-        <meta content="Partner with Shen AI | Grow with a Leader in AI" property="og:title"/>
-        <meta content="Join the Shen AI Partner Network. We offer referral, reseller, and solution tracks to help you build revenue, deliver value, and lead the AI revolution. Find your path." property="og:description"/>
-        <meta content="Partner with Shen AI | Grow with a Leader in AI" name="twitter:title"/>
-        <meta content="Join the Shen AI Partner Network. We offer referral, reseller, and solution tracks to help you build revenue, deliver value, and lead the AI revolution. Find your path." name="twitter:description"/>
+        <meta content="Join the ihealthy Partner Network. We offer referral, reseller, and solution tracks to help you build revenue, deliver value, and lead the AI revolution. Find your path." name="description"/>
+        <meta content="Partner with ihealthy | Grow with a Leader in AI" property="og:title"/>
+        <meta content="Join the ihealthy Partner Network. We offer referral, reseller, and solution tracks to help you build revenue, deliver value, and lead the AI revolution. Find your path." property="og:description"/>
+        <meta content="Partner with ihealthy | Grow with a Leader in AI" name="twitter:title"/>
+        <meta content="Join the ihealthy Partner Network. We offer referral, reseller, and solution tracks to help you build revenue, deliver value, and lead the AI revolution. Find your path." name="twitter:description"/>
         <meta property="og:type" content="website"/>
         <meta content="summary_large_image" name="twitter:card"/>
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -37,13 +37,13 @@
             {
                 "@context": "https://schema.org",
                 "@type": "WebPage",
-                "name": "Partner with Shen AI | Grow with a Leader in AI",
-                "description": "Join the Shen AI Partner Network. We offer referral, reseller, and solution tracks to help you build revenue, deliver value, and lead the AI revolution.",
+                "name": "Partner with ihealthy | Grow with a Leader in AI",
+                "description": "Join the ihealthy Partner Network. We offer referral, reseller, and solution tracks to help you build revenue, deliver value, and lead the AI revolution.",
                 "url": "/partner-with-shen-ai",
                 "inLanguage": "en",
                 "about": {
                     "@type": "Organization",
-                    "name": "Shen AI",
+                    "name": "ihealthy",
                     "url": "https://www.shen.ai",
                     "logo": {
                         "@type": "ImageObject",
@@ -58,24 +58,24 @@
                 },
                 "mainEntity": {
                     "@type": "Service",
-                    "name": "Shen AI Partner Network",
+                    "name": "ihealthy Partner Network",
                     "description": "Partner program offering referral, reseller, and solution tracks to help businesses build revenue and deliver AI health monitoring solutions",
                     "provider": {
                         "@type": "Organization",
-                        "name": "Shen AI"
+                        "name": "ihealthy"
                     },
                     "serviceType": "Partner Program",
                     "areaServed": "Worldwide",
                     "hasOfferCatalog": {
                         "@type": "OfferCatalog",
-                        "name": "Shen AI Partnership Tracks",
+                        "name": "ihealthy Partnership Tracks",
                         "itemListElement": [
                             {
                                 "@type": "Offer",
                                 "itemOffered": {
                                     "@type": "Service",
                                     "name": "Referral Partner",
-                                    "description": "Refer prospects to Shen AI and earn generous commissions for your introductions. Simple, profitable, and hands-off."
+                                    "description": "Refer prospects to ihealthy and earn generous commissions for your introductions. Simple, profitable, and hands-off."
                                 }
                             },
                             {
@@ -83,7 +83,7 @@
                                 "itemOffered": {
                                     "@type": "Service",
                                     "name": "Reseller Partner",
-                                    "description": "Add Shen AI to your portfolio, manage the customer relationship, and benefit from protected deals and strong, recurring margins."
+                                    "description": "Add ihealthy to your portfolio, manage the customer relationship, and benefit from protected deals and strong, recurring margins."
                                 }
                             },
                             {
@@ -91,7 +91,7 @@
                                 "itemOffered": {
                                     "@type": "Service",
                                     "name": "Solution Partner",
-                                    "description": "Implement, customize, and build a high-margin professional services practice around Shen AI."
+                                    "description": "Implement, customize, and build a high-margin professional services practice around ihealthy."
                                 }
                             }
                         ]
@@ -798,7 +798,7 @@
                         <div class="template-hero_component">
                             <div class="template-hero_left">
                                 <h1>Let &#x27;s shape the future of health monitoring, together</h1>
-                                <p class="text-size-medium opacity-80">Join the Shen AI partner network and unlock new revenue streams, deliver unparalleled value to your clients, and become a leader in the AI revolution.</p>
+                                <p class="text-size-medium opacity-80">Join the ihealthy partner network and unlock new revenue streams, deliver unparalleled value to your clients, and become a leader in the AI revolution.</p>
                                 <div class="button-group">
                                     <a data-wf--button--variant="base" href="#form" class="button w-inline-block">
                                         <div>Become a partner</div>
@@ -820,7 +820,7 @@
                     <div class="container-large">
                         <div class="template-tab_component">
                             <div class="max-width-506">
-                                <h2 class="heading-style-h3 text-weight-medium">Why partner with Shen AI</h2>
+                                <h2 class="heading-style-h3 text-weight-medium">Why partner with ihealthy</h2>
                             </div>
                             <div data-current="Tab 3" data-easing="ease" data-duration-in="300" data-duration-out="100" class="home-built_tabs is-template w-tabs">
                                 <div class="home-built_tabs-content is-template w-tab-content">
@@ -878,7 +878,7 @@
                                         </div>
                                         <div class="home-built_tab-link-answer is-template">
                                             <div class="home-built_tab-link-answer-inner is-template">
-                                                <p class="home-built_tab-link-p is-template">Our flexible partner program provides multiple paths to profitability. Earn generous commissions through our referral program, build a profitable practice by delivering implementation and customization services, or benefit from attractive margins by reselling the Shen AI platform.</p>
+                                                <p class="home-built_tab-link-p is-template">Our flexible partner program provides multiple paths to profitability. Earn generous commissions through our referral program, build a profitable practice by delivering implementation and customization services, or benefit from attractive margins by reselling the ihealthy platform.</p>
                                                 <div class="home-built_image-wrapper is-template is-mobile">
                                                     <img alt="" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545dad_New%20monetization%20opportunities%20with%20health%20insights.svg" class="home-built_image is-template"/>
                                                 </div>
@@ -961,7 +961,7 @@
                                     <div class="template-3card_item-content">
                                         <div class="template-3card_item-content-inner">
                                             <h3 class="heading-style-h5">Referral partner</h3>
-                                            <p class="text-size-regular opacity-80">You identify opportunities and have a trusted network. Refer prospects to Shen AI and earn generous commissions for your introductions. Simple, profitable, and hands-off.</p>
+                                            <p class="text-size-regular opacity-80">You identify opportunities and have a trusted network. Refer prospects to ihealthy and earn generous commissions for your introductions. Simple, profitable, and hands-off.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -972,7 +972,7 @@
                                     <div class="template-3card_item-content">
                                         <div class="template-3card_item-content-inner">
                                             <h3 class="heading-style-h5">Reseller partner</h3>
-                                            <p class="text-size-regular opacity-80">You own the sales cycle from end to end. Add Shen AI to your portfolio, manage the customer relationship, and benefit from protected deals and strong, recurring margins.</p>
+                                            <p class="text-size-regular opacity-80">You own the sales cycle from end to end. Add ihealthy to your portfolio, manage the customer relationship, and benefit from protected deals and strong, recurring margins.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -983,7 +983,7 @@
                                     <div class="template-3card_item-content">
                                         <div class="template-3card_item-content-inner">
                                             <h3 class="heading-style-h5">Solution partner</h3>
-                                            <p class="text-size-regular opacity-80">You don &#x27;t just sell software, you deliver transformative solutions. Implement, customize, and build a high-margin professional services practice around Shen AI.</p>
+                                            <p class="text-size-regular opacity-80">You don &#x27;t just sell software, you deliver transformative solutions. Implement, customize, and build a high-margin professional services practice around ihealthy.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -998,7 +998,7 @@
                                 <div class="text-size-medium is-template w-richtext">
                                     <h2>Refer a lead today</h2>
                                     <p>‍</p>
-                                    <p>Ready to introduce a new client to Shen AI? Just complete the quick form below to secure your referral. Our team will review the details and be in touch promptly. </p>
+                                    <p>Ready to introduce a new client to ihealthy? Just complete the quick form below to secure your referral. Our team will review the details and be in touch promptly. </p>
                                 </div>
                                 <div>
                                     <a data-wf--button-arrow-up--variant="is-green-dark" href="/refer-a-lead" class="block-list_item-btn w-variant-c251395e-f8e9-d02e-7b66-c941471fb6a8 w-inline-block">
@@ -1257,7 +1257,7 @@
                                                         <div blocks-name="heading-3">Explore</div>
                                                     </div>
                                                     <div blocks-name="navbar6_dropdown-link-list-3" blocks-slot-children="ST366" class="navbar-v2_dropdown-link-list">
-                                                        <a aria-label="Go to Why Shen AI page" blocks-name="navbar_dropdown-link" href="/why-shen-ai" class="nav_dropdown-link w-inline-block">
+                                                        <a aria-label="Go to Why ihealthy page" blocks-name="navbar_dropdown-link" href="/why-shen-ai" class="nav_dropdown-link w-inline-block">
                                                             <div class="nav_icon-wrapper">
                                                                 <div class="nav_dropdown-link-icon w-embed"></div>
                                                                 <div class="icon-embed-custom-8 w-embed">
@@ -1267,7 +1267,7 @@
                                                                     </svg>
                                                                 </div>
                                                             </div>
-                                                            <div>Why Shen AI</div>
+                                                            <div>Why ihealthy</div>
                                                         </a>
                                                         <a href="/implementation" aria-label="Go to Implementation library page" blocks-name="navbar_dropdown-link" class="nav_dropdown-link w-inline-block">
                                                             <div class="nav_icon-wrapper">
@@ -1868,7 +1868,7 @@
                                                         <a href="/technology" aria-label="Go to Technology page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Technology</a>
                                                         <a href="/scientific-research" aria-label="Go to Scientific research page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Scientific research</a>
                                                         <a href="/health-markers" aria-label="Go to Measured metrics page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Measured metrics </a>
-                                                        <a href="/why-shen-ai" aria-label="Go to Why Shen AI page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Why Shen AI</a>
+                                                        <a href="/why-shen-ai" aria-label="Go to Why ihealthy page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Why ihealthy</a>
                                                         <a href="/implementation" aria-label="Go to Implementation library page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Implementation library</a>
                                                         <a href="/use-cases-library" aria-label="Go to Use cases library page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Use cases library</a>
                                                     </div>
@@ -2034,9 +2034,9 @@
                                         <a aria-label="Go to SKD page" href="/sdk" class="footer_link">SDK</a>
                                         <a aria-label="Go to scientific research page" href="/scientific-research" class="footer_link">Scienctific Research</a>
                                         <a aria-label="Go to tehnology page" href="/technology" class="footer_link">Technology</a>
-                                        <a aria-label="Go to why shen ai page" href="/why-shen-ai" class="footer_link">Why Shen</a>
-                                        <a aria-label="Go to why shen ai page" href="/health-markers" class="footer_link">All metrics</a>
-                                        <a aria-label="Go to why shen ai page" href="https://developer.shen.ai/" target="_blank" class="footer_link">Developer Portal</a>
+                                        <a aria-label="Go to why ihealthy page" href="/why-shen-ai" class="footer_link">Why Shen</a>
+                                        <a aria-label="Go to why ihealthy page" href="/health-markers" class="footer_link">All metrics</a>
+                                        <a aria-label="Go to why ihealthy page" href="https://developer.shen.ai/" target="_blank" class="footer_link">Developer Portal</a>
                                     </div>
                                 </div>
                                 <div class="footer_link-item">
@@ -2212,7 +2212,7 @@
                                 </div>
                                 <div class="text-size-regular opacity-80">
                                     © <span id="currentYear">2025</span>
-                                    Shen AI. All rights reserved.
+                                    ihealthy. All rights reserved.
                                 </div>
                                 <div class="footer_privacy-links">
                                     <a href="/privacy-policy" class="footer_link is-privacy">Privacy Policy </a>

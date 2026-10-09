@@ -4,18 +4,18 @@
     <head>
         <meta charset="utf-8"/>
         <link href="https://cdn.prod.website-files.com" rel="preconnect" crossorigin="anonymous"/>
-        <title>Customer Stories | Shen AI</title>
+        <title>Customer Stories | ihealthy</title>
         <link rel="alternate" hrefLang="x-default" href="https://shen.ai/customer-stories"/>
         <link rel="alternate" hrefLang="en" href="https://shen.ai/customer-stories"/>
         <link rel="alternate" hrefLang="es" href="https://shen.ai/es/customer-stories"/>
         <link rel="alternate" hrefLang="de" href="https://shen.ai/de/customer-stories"/>
         <link rel="alternate" hrefLang="ja" href="https://shen.ai/ja/customer-stories"/>
         <link rel="alternate" hrefLang="fr" href="https://shen.ai/fr/customer-stories"/>
-        <meta content="Read how healthcare providers, insurers, and tech companies use Shen AI to deliver smarter, scalable digital health solutions." name="description"/>
-        <meta content="Customer Stories | Shen AI" property="og:title"/>
-        <meta content="Read how healthcare providers, insurers, and tech companies use Shen AI to deliver smarter, scalable digital health solutions." property="og:description"/>
-        <meta content="Customer Stories | Shen AI" name="twitter:title"/>
-        <meta content="Read how healthcare providers, insurers, and tech companies use Shen AI to deliver smarter, scalable digital health solutions." name="twitter:description"/>
+        <meta content="Read how healthcare providers, insurers, and tech companies use ihealthy to deliver smarter, scalable digital health solutions." name="description"/>
+        <meta content="Customer Stories | ihealthy" property="og:title"/>
+        <meta content="Read how healthcare providers, insurers, and tech companies use ihealthy to deliver smarter, scalable digital health solutions." property="og:description"/>
+        <meta content="Customer Stories | ihealthy" name="twitter:title"/>
+        <meta content="Read how healthcare providers, insurers, and tech companies use ihealthy to deliver smarter, scalable digital health solutions." name="twitter:description"/>
         <meta property="og:type" content="website"/>
         <meta content="summary_large_image" name="twitter:card"/>
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -38,12 +38,12 @@
                 "@context": "https://schema.org",
                 "@type": "CollectionPage",
                 "name": "Customer Stories",
-                "description": "Read how healthcare providers, insurers, and tech companies use Shen AI to deliver smarter, scalable digital health solutions.",
+                "description": "Read how healthcare providers, insurers, and tech companies use ihealthy to deliver smarter, scalable digital health solutions.",
                 "url": "/customer-stories",
                 "inLanguage": "en",
                 "about": {
                     "@type": "Organization",
-                    "name": "Shen AI",
+                    "name": "ihealthy",
                     "logo": {
                         "@type": "ImageObject",
                         "url": "https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545bb3_Logo.svg"
@@ -59,7 +59,7 @@
                         "@type": "Article",
                         "@id": "/customer-story/turning-daily-engagement-into-preventive-health",
                         "headline": "Turning daily engagement into preventive health",
-                        "description": "How Wellx and Shen AI make preventive health effortless—bringing daily vitals, early awareness, and healthier habits into one unified insurance experience.",
+                        "description": "How Wellx and ihealthy make preventive health effortless—bringing daily vitals, early awareness, and healthier habits into one unified insurance experience.",
                         "url": "/customer-story/turning-daily-engagement-into-preventive-health",
                         "image": "https://cdn.prod.website-files.com/680280c18df8e68403545b57/69415283a4714137db910be8_Customer%20story%20-%20wellx.png",
                         "inLanguage": "en"
@@ -68,7 +68,7 @@
                         "@type": "Article",
                         "@id": "/customer-story/redefining-life-insurance-fairer-pricing-with-ai-vitals-checks",
                         "headline": "Redefining life insurance: Fairer pricing with AI vitals checks",
-                        "description": "Lyfery built a 100% digital life insurance experience using Shen AI's AI-powered face scan to measure blood pressure without devices. The result: faster onboarding, explainable pricing, and up to 50% premium discounts tied to healthy habits.",
+                        "description": "Lyfery built a 100% digital life insurance experience using ihealthy's AI-powered face scan to measure blood pressure without devices. The result: faster onboarding, explainable pricing, and up to 50% premium discounts tied to healthy habits.",
                         "url": "/customer-story/redefining-life-insurance-fairer-pricing-with-ai-vitals-checks",
                         "image": "https://cdn.prod.website-files.com/680280c18df8e68403545b57/68ff4aa97cb6982d314ef39d_Customer%20story%20-%20Lyfery.png",
                         "inLanguage": "en"
@@ -76,8 +76,8 @@
                     {
                         "@type": "Article",
                         "@id": "/customer-story/vivawell-and-shen-ai-working-together-towards-preventive-health",
-                        "headline": "VivaWell and Shen AI: Working together towards preventive health",
-                        "description": "Chronic disease is rising fast in Latin America, but prevention often lags behind. VivaWell and Shen AI are partnering to deliver contactless, digital-first health monitoring at scale.",
+                        "headline": "VivaWell and ihealthy: Working together towards preventive health",
+                        "description": "Chronic disease is rising fast in Latin America, but prevention often lags behind. VivaWell and ihealthy are partnering to deliver contactless, digital-first health monitoring at scale.",
                         "url": "/customer-story/vivawell-and-shen-ai-working-together-towards-preventive-health",
                         "image": "https://cdn.prod.website-files.com/680280c18df8e68403545b57/68cd2a375d6108438eeef04b_Customer%20story%20-%20vivaWell.png",
                         "inLanguage": "en"
@@ -903,7 +903,7 @@
                                                             <div blocks-name="heading-3">Explore</div>
                                                         </div>
                                                         <div blocks-name="navbar6_dropdown-link-list-3" blocks-slot-children="ST366" class="navbar-v2_dropdown-link-list">
-                                                            <a aria-label="Go to Why Shen AI page" blocks-name="navbar_dropdown-link" href="/why-shen-ai" class="nav_dropdown-link w-inline-block">
+                                                            <a aria-label="Go to Why ihealthy page" blocks-name="navbar_dropdown-link" href="/why-shen-ai" class="nav_dropdown-link w-inline-block">
                                                                 <div class="nav_icon-wrapper">
                                                                     <div class="nav_dropdown-link-icon w-embed"></div>
                                                                     <div class="icon-embed-custom-8 w-embed">
@@ -913,7 +913,7 @@
                                                                         </svg>
                                                                     </div>
                                                                 </div>
-                                                                <div>Why Shen AI</div>
+                                                                <div>Why ihealthy</div>
                                                             </a>
                                                             <a href="/implementation" aria-label="Go to Implementation library page" blocks-name="navbar_dropdown-link" class="nav_dropdown-link w-inline-block">
                                                                 <div class="nav_icon-wrapper">
@@ -1514,7 +1514,7 @@
                                                             <a href="/technology" aria-label="Go to Technology page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Technology</a>
                                                             <a href="/scientific-research" aria-label="Go to Scientific research page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Scientific research</a>
                                                             <a href="/health-markers" aria-label="Go to Measured metrics page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Measured metrics </a>
-                                                            <a href="/why-shen-ai" aria-label="Go to Why Shen AI page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Why Shen AI</a>
+                                                            <a href="/why-shen-ai" aria-label="Go to Why ihealthy page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Why ihealthy</a>
                                                             <a href="/implementation" aria-label="Go to Implementation library page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Implementation library</a>
                                                             <a href="/use-cases-library" aria-label="Go to Use cases library page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Use cases library</a>
                                                         </div>
@@ -1661,16 +1661,16 @@
                                 <span class="text-color-light-green">Customer stories</span>
                             </h1>
                             <div class="spacer-small"></div>
-                            <p class="text-size-large opacity-80">Learn how others implemented Shen AI.</p>
+                            <p class="text-size-large opacity-80">Learn how others implemented ihealthy.</p>
                         </div>
                         <div class="customer-header_coll-list-wrapper w-dyn-list">
                             <div role="list" class="customer-header_coll-list w-dyn-items">
                                 <div role="listitem" class="customer-header_coll-item w-dyn-item">
                                     <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/6a86dbce294c9cd04d6bd554_Customer%20story%20-Amazing%20AI%20(1).png" loading="eager" alt="" class="customer-header_coll-item-thumb"/>
                                     <div class="max-width-454">
-                                        <div class="heading-style-h5">How Amazing AI scaled continuous remote care with Shen AI</div>
+                                        <div class="heading-style-h5">How Amazing AI scaled continuous remote care with ihealthy</div>
                                         <div class="spacer-12"></div>
-                                        <p class="opacity-80">Amazing AI paired Shen AI &#x27;s contactless vitals with its own calibrated hardware to give clinicians a complete, real-time picture of patients at home, extending care beyond the hospital without adding a device to manage.</p>
+                                        <p class="opacity-80">Amazing AI paired ihealthy &#x27;s contactless vitals with its own calibrated hardware to give clinicians a complete, real-time picture of patients at home, extending care beyond the hospital without adding a device to manage.</p>
                                         <div class="spacer-xsmall"></div>
                                         <a data-wf--button-arrow-up--variant="is-green" href="/customer-story/how-amazing-ai-scaled-continuous-remote-care-with-shen-ai" class="block-list_item-btn w-variant-9869272b-e372-5121-270c-fbd5a62780f8 w-inline-block">
                                             <div>Learn more</div>
@@ -1688,7 +1688,7 @@
                                     <div class="max-width-454">
                                         <div class="heading-style-h5">From symptom tracking to measurable insight: How AINOHA adds vitals to perimenopause care</div>
                                         <div class="spacer-12"></div>
-                                        <p class="opacity-80">AINOHA combines symptom tracking with device-free vitals using Shen AI, giving women a clearer, more objective view of their health during perimenopause.</p>
+                                        <p class="opacity-80">AINOHA combines symptom tracking with device-free vitals using ihealthy, giving women a clearer, more objective view of their health during perimenopause.</p>
                                         <div class="spacer-xsmall"></div>
                                         <a data-wf--button-arrow-up--variant="is-green" href="/customer-story/from-symptom-tracking-to-measurable-insight-how-ainoha-adds-vitals-to-perimenopause-care" class="block-list_item-btn w-variant-9869272b-e372-5121-270c-fbd5a62780f8 w-inline-block">
                                             <div>Learn more</div>
@@ -1706,7 +1706,7 @@
                                     <div class="max-width-454">
                                         <div class="heading-style-h5">Closing the vitals gap: UAre brings universal vitals to their wellbeing platform</div>
                                         <div class="spacer-12"></div>
-                                        <p class="opacity-80">UAre partnered with Shen AI to close a critical data gap in their wellbeing platform. By turning any smartphone camera into a health monitoring tool, they now deliver meaningful vital signs to every user, not just those who own wearables.</p>
+                                        <p class="opacity-80">UAre partnered with ihealthy to close a critical data gap in their wellbeing platform. By turning any smartphone camera into a health monitoring tool, they now deliver meaningful vital signs to every user, not just those who own wearables.</p>
                                         <div class="spacer-xsmall"></div>
                                         <a data-wf--button-arrow-up--variant="is-green" href="/customer-story/closing-the-vitals-gap-uare-brings-universal-vitals-to-their-wellbeing-platform" class="block-list_item-btn w-variant-9869272b-e372-5121-270c-fbd5a62780f8 w-inline-block">
                                             <div>Learn more</div>
@@ -1724,7 +1724,7 @@
                                     <div class="max-width-454">
                                         <div class="heading-style-h5">Turning daily engagement into preventive health</div>
                                         <div class="spacer-12"></div>
-                                        <p class="opacity-80">How Wellx and Shen AI make preventive health effortless—bringing daily vitals, early awareness, and healthier habits into one unified insurance experience.</p>
+                                        <p class="opacity-80">How Wellx and ihealthy make preventive health effortless—bringing daily vitals, early awareness, and healthier habits into one unified insurance experience.</p>
                                         <div class="spacer-xsmall"></div>
                                         <a data-wf--button-arrow-up--variant="is-green" href="/customer-story/turning-daily-engagement-into-preventive-health" class="block-list_item-btn w-variant-9869272b-e372-5121-270c-fbd5a62780f8 w-inline-block">
                                             <div>Learn more</div>
@@ -1742,7 +1742,7 @@
                                     <div class="max-width-454">
                                         <div class="heading-style-h5">Redefining life insurance: Fairer pricing with AI vitals checks</div>
                                         <div class="spacer-12"></div>
-                                        <p class="opacity-80">Lyfery built a 100% digital life insurance experience using Shen AI’s AI-powered face scan to measure blood pressure without devices. The result: faster onboarding, explainable pricing, and up to 50% premium discounts tied to healthy habits.</p>
+                                        <p class="opacity-80">Lyfery built a 100% digital life insurance experience using ihealthy’s AI-powered face scan to measure blood pressure without devices. The result: faster onboarding, explainable pricing, and up to 50% premium discounts tied to healthy habits.</p>
                                         <div class="spacer-xsmall"></div>
                                         <a data-wf--button-arrow-up--variant="is-green" href="/customer-story/redefining-life-insurance-fairer-pricing-with-ai-vitals-checks" class="block-list_item-btn w-variant-9869272b-e372-5121-270c-fbd5a62780f8 w-inline-block">
                                             <div>Learn more</div>
@@ -1758,9 +1758,9 @@
                                 <div role="listitem" class="customer-header_coll-item w-dyn-item">
                                     <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68cd2a375d6108438eeef04b_Customer%20story%20-%20vivaWell.png" loading="eager" alt="" class="customer-header_coll-item-thumb"/>
                                     <div class="max-width-454">
-                                        <div class="heading-style-h5">VivaWell and Shen AI: Working together towards preventive health</div>
+                                        <div class="heading-style-h5">VivaWell and ihealthy: Working together towards preventive health</div>
                                         <div class="spacer-12"></div>
-                                        <p class="opacity-80">Chronic disease is rising fast in Latin America, but prevention often lags behind. VivaWell and Shen AI are partnering to deliver contactless, digital-first health monitoring at scale.</p>
+                                        <p class="opacity-80">Chronic disease is rising fast in Latin America, but prevention often lags behind. VivaWell and ihealthy are partnering to deliver contactless, digital-first health monitoring at scale.</p>
                                         <div class="spacer-xsmall"></div>
                                         <a data-wf--button-arrow-up--variant="is-green" href="/customer-story/vivawell-and-shen-ai-working-together-towards-preventive-health" class="block-list_item-btn w-variant-9869272b-e372-5121-270c-fbd5a62780f8 w-inline-block">
                                             <div>Learn more</div>
@@ -1824,9 +1824,9 @@
                                         <a aria-label="Go to SKD page" href="/sdk" class="footer_link">SDK</a>
                                         <a aria-label="Go to scientific research page" href="/scientific-research" class="footer_link">Scienctific Research</a>
                                         <a aria-label="Go to tehnology page" href="/technology" class="footer_link">Technology</a>
-                                        <a aria-label="Go to why shen ai page" href="/why-shen-ai" class="footer_link">Why Shen</a>
-                                        <a aria-label="Go to why shen ai page" href="/health-markers" class="footer_link">All metrics</a>
-                                        <a aria-label="Go to why shen ai page" href="https://developer.shen.ai/" target="_blank" class="footer_link">Developer Portal</a>
+                                        <a aria-label="Go to why ihealthy page" href="/why-shen-ai" class="footer_link">Why Shen</a>
+                                        <a aria-label="Go to why ihealthy page" href="/health-markers" class="footer_link">All metrics</a>
+                                        <a aria-label="Go to why ihealthy page" href="https://developer.shen.ai/" target="_blank" class="footer_link">Developer Portal</a>
                                     </div>
                                 </div>
                                 <div class="footer_link-item">
@@ -2002,7 +2002,7 @@
                                 </div>
                                 <div class="text-size-regular opacity-80">
                                     © <span id="currentYear">2025</span>
-                                    Shen AI. All rights reserved.
+                                    ihealthy. All rights reserved.
                                 </div>
                                 <div class="footer_privacy-links">
                                     <a href="/privacy-policy" class="footer_link is-privacy">Privacy Policy </a>

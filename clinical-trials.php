@@ -35,13 +35,13 @@
                 "@context": "https://schema.org",
                 "@type": "WebPage",
                 "name": "See in action",
-                "description": "Scan yourself and see how Shen AI works. Shen AI is grounded in scientific excellence, developed in collaboration with leading researchers, and continuously advancing the boundaries of technology.",
+                "description": "Scan yourself and see how ihealthy works. ihealthy is grounded in scientific excellence, developed in collaboration with leading researchers, and continuously advancing the boundaries of technology.",
                 "url": "/see-in-action",
                 "inLanguage": "en",
                 "about": {
                     "@type": "SoftwareApplication",
-                    "name": "Shen AI",
-                    "description": "Shen AI is grounded in scientific excellence, developed in collaboration with leading researchers, and continuously advancing the boundaries of technology.",
+                    "name": "ihealthy",
+                    "description": "ihealthy is grounded in scientific excellence, developed in collaboration with leading researchers, and continuously advancing the boundaries of technology.",
                     "applicationCategory": "HealthApplication",
                     "operatingSystem": "Web, Mobile",
                     "offers": {
@@ -50,7 +50,7 @@
                     },
                     "provider": {
                         "@type": "Organization",
-                        "name": "Shen AI",
+                        "name": "ihealthy",
                         "logo": {
                             "@type": "ImageObject",
                             "url": "https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545bb3_Logo.svg"
@@ -1337,7 +1337,7 @@
                                                         <div blocks-name="heading-3">Explore</div>
                                                     </div>
                                                     <div blocks-name="navbar6_dropdown-link-list-3" blocks-slot-children="ST366" class="navbar-v2_dropdown-link-list">
-                                                        <a aria-label="Go to Why Shen AI page" blocks-name="navbar_dropdown-link" href="/why-shen-ai" class="nav_dropdown-link w-inline-block">
+                                                        <a aria-label="Go to Why ihealthy page" blocks-name="navbar_dropdown-link" href="/why-shen-ai" class="nav_dropdown-link w-inline-block">
                                                             <div class="nav_icon-wrapper">
                                                                 <div class="nav_dropdown-link-icon w-embed"></div>
                                                                 <div class="icon-embed-custom-8 w-embed">
@@ -1347,7 +1347,7 @@
                                                                     </svg>
                                                                 </div>
                                                             </div>
-                                                            <div>Why Shen AI</div>
+                                                            <div>Why ihealthy</div>
                                                         </a>
                                                         <a href="/implementation" aria-label="Go to Implementation library page" blocks-name="navbar_dropdown-link" class="nav_dropdown-link w-inline-block">
                                                             <div class="nav_icon-wrapper">
@@ -1948,7 +1948,7 @@
                                                         <a href="/technology" aria-label="Go to Technology page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Technology</a>
                                                         <a href="/scientific-research" aria-label="Go to Scientific research page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Scientific research</a>
                                                         <a href="/health-markers" aria-label="Go to Measured metrics page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Measured metrics </a>
-                                                        <a href="/why-shen-ai" aria-label="Go to Why Shen AI page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Why Shen AI</a>
+                                                        <a href="/why-shen-ai" aria-label="Go to Why ihealthy page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Why ihealthy</a>
                                                         <a href="/implementation" aria-label="Go to Implementation library page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Implementation library</a>
                                                         <a href="/use-cases-library" aria-label="Go to Use cases library page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Use cases library</a>
                                                     </div>
@@ -4960,7 +4960,7 @@
                                 id('cNow').textContent = num(now);
                                 id('cNew').textContent = num(ws);
                                 id('cExtra').textContent = '+' + num(ws - now);
-                                id('cRate').textContent = Math.round(nr) + '% day-30 retention with Shen AI';
+                                id('cRate').textContent = Math.round(nr) + '% day-30 retention with ihealthy';
                                 id('cScanOut').textContent = num(ws * sc);
                                 id('cYear').textContent = num((ws - now) * 12);
                                 var mv = Math.max(ws, 1);
@@ -5344,7 +5344,7 @@
                                         <h1 class="heading-h1 hero_h1">
                                             Capture vital signs remotely, per protocol, from <span class="text-green">any camera</span>
                                         </h1>
-                                        <p class="text-medium text-muted hero_sub">Decentralised and hybrid studies need vitals without a site visit or a shipped device. Shen AI returns blood pressure, heart rate, HRV and breathing rate with quality metrics, RR intervals and the PPG signal, from any camera, in 24 languages, processed on the device.</p>
+                                        <p class="text-medium text-muted hero_sub">Decentralised and hybrid studies need vitals without a site visit or a shipped device. ihealthy returns blood pressure, heart rate, HRV and breathing rate with quality metrics, RR intervals and the PPG signal, from any camera, in 24 languages, processed on the device.</p>
                                         <ul class="hero_list">
                                             <li class="hero_list-item">
                                                 <svg class="hero_list-icon" fill="none" viewbox="0 0 16 16">
@@ -5561,7 +5561,7 @@
                                             </g>
                                         </svg>
                                         <div class="bento_src">
-                                            Field names from the Shen AI SDK reference. Full list on the <a class="bento_src-link" href="https://developer.shen.ai/">developer portal</a>
+                                            Field names from the ihealthy SDK reference. Full list on the <a class="bento_src-link" href="https://developer.shen.ai/">developer portal</a>
                                             .
                                         </div>
                                     </div>
@@ -5573,7 +5573,7 @@
                                         </svg>
                                         <div class="bento_num">1</div>
                                         <p class="bento_text">protocol on any device. Phone, tablet, laptop or site kiosk, the same measurement and the same fields every time.</p>
-                                        <div class="bento_card-src">Shen AI SDK, iOS, Android, Web, Linux.</div>
+                                        <div class="bento_card-src">ihealthy SDK, iOS, Android, Web, Linux.</div>
                                     </div>
                                     <div class="bento_card reveal">
                                         <svg class="bento_visual" fill="none" viewbox="0 0 88 44">
@@ -5583,7 +5583,7 @@
                                         </svg>
                                         <div class="bento_num">24</div>
                                         <p class="bento_text">languages in the guided scan flow, white-label, so multi-country studies deploy one build.</p>
-                                        <div class="bento_card-src">Shen AI SDK.</div>
+                                        <div class="bento_card-src">ihealthy SDK.</div>
                                     </div>
                                     <div class="bento_card reveal">
                                         <svg class="bento_visual" fill="none" viewbox="0 0 88 44">
@@ -5595,7 +5595,7 @@
                                         </svg>
                                         <div class="bento_num">0</div>
                                         <p class="bento_text">devices to provision, ship, replace or reclaim at end of study. Fewer logistics lines in the budget.</p>
-                                        <div class="bento_card-src">Shen AI SDK.</div>
+                                        <div class="bento_card-src">ihealthy SDK.</div>
                                     </div>
                                     <div class="bento_card reveal">
                                         <svg class="bento_visual" fill="none" viewbox="0 0 88 44">
@@ -5604,7 +5604,7 @@
                                         </svg>
                                         <div class="bento_num bento_num-small">On device</div>
                                         <p class="bento_text">video never leaves the participant's device. GDPR-ready processing, ISO 13485 processes, CE-certified vital signs.</p>
-                                        <div class="bento_card-src">Shen AI, certifications page.</div>
+                                        <div class="bento_card-src">ihealthy, certifications page.</div>
                                     </div>
                                 </div>
                             </div>
@@ -5615,7 +5615,7 @@
                             <div class="container-large">
                                 <div class="why_grid">
                                     <div class="why_left">
-                                        <h2 class="heading-h3">Why choose Shen AI for clinical trials</h2>
+                                        <h2 class="heading-h3">Why choose ihealthy for clinical trials</h2>
                                         <div class="acc" id="whyAcc">
                                             <div class="acc_item">
                                                 <button aria-expanded="true" class="acc_head" data-acc="0">
@@ -5710,14 +5710,14 @@
                                                     <div class="acc_mobile-visual">
                                                         <img alt="" class="acc_mobile-img" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545de0_Continuous%20health%20monitoring.svg"/>
                                                     </div>
-                                                    <p class="acc_text">Video never leaves the device. Nothing goes to the Shen AI cloud. Results flow to your EDC, ePRO or data platform, plain fields or FHIR.</p>
+                                                    <p class="acc_text">Video never leaves the device. Nothing goes to the ihealthy cloud. Results flow to your EDC, ePRO or data platform, plain fields or FHIR.</p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="why_right">
                                         <div class="why_visual is-active why_visual-cover" data-visual="0">
-                                            <img alt="Hand holding a phone running a Shen AI face scan" class="why_img-photo" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680fa4e3a65f3ae26b5c8d64_Remote%20health%20monitoring%20with%20Shen%E2%80%99s%20SDK.webp"/>
+                                            <img alt="Hand holding a phone running a ihealthy face scan" class="why_img-photo" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680fa4e3a65f3ae26b5c8d64_Remote%20health%20monitoring%20with%20Shen%E2%80%99s%20SDK.webp"/>
                                         </div>
                                         <div class="why_visual" data-visual="1">
                                             <img alt="Data flow from gathering to monitoring to next steps" class="why_img why_img-site" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545de1_Health%20screening%20for%20underwriting.svg"/>
@@ -5729,7 +5729,7 @@
                                             <img alt="Phone showing health check results after a face scan" class="why_img-photo" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/69d8c99bb28f9eda6495db15_vertical-closeup-female-hand-holding-phone-with-wh-2026-01-08-06-30-00-utc%202.avif"/>
                                         </div>
                                         <div class="why_visual" data-visual="4">
-                                            <img alt="Chart of returning users with and without Shen AI" class="why_img why_img-site" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545ddf_Boost%20engagement.svg"/>
+                                            <img alt="Chart of returning users with and without ihealthy" class="why_img why_img-site" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545ddf_Boost%20engagement.svg"/>
                                         </div>
                                         <div class="why_visual" data-visual="5">
                                             <img alt="Calendar with completed scan days" class="why_img why_img-site" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545de0_Continuous%20health%20monitoring.svg"/>
@@ -5863,7 +5863,7 @@
                                         </div>
                                     </div>
                                     <div class="tab_visual tab_visual-cover">
-                                        <img alt="Hand holding a phone running a Shen AI face scan" class="tab_visual-photo" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680fa4e3a65f3ae26b5c8d64_Remote%20health%20monitoring%20with%20Shen%E2%80%99s%20SDK.webp"/>
+                                        <img alt="Hand holding a phone running a ihealthy face scan" class="tab_visual-photo" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680fa4e3a65f3ae26b5c8d64_Remote%20health%20monitoring%20with%20Shen%E2%80%99s%20SDK.webp"/>
                                     </div>
                                 </div>
                                 <div class="tab_pane" data-pane="1" role="tabpanel">
@@ -5943,7 +5943,7 @@
                                         </div>
                                     </div>
                                     <div class="tab_visual">
-                                        <img alt="Returning users with and without Shen AI" class="tab_visual-img why_img-site" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545ddf_Boost%20engagement.svg"/>
+                                        <img alt="Returning users with and without ihealthy" class="tab_visual-img why_img-site" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545ddf_Boost%20engagement.svg"/>
                                     </div>
                                 </div>
                                 <div class="tab_pane" data-pane="3" role="tabpanel">
@@ -6165,7 +6165,7 @@
                                 id('cNow').textContent = num(now);
                                 id('cNew').textContent = num(ws);
                                 id('cExtra').textContent = '+' + num(ws - now);
-                                id('cRate').textContent = Math.round(nr) + '% day-30 retention with Shen AI';
+                                id('cRate').textContent = Math.round(nr) + '% day-30 retention with ihealthy';
                                 id('cScanOut').textContent = num(ws * sc);
                                 id('cYear').textContent = num((ws - now) * 12);
                                 var mv = Math.max(ws, 1);
@@ -6373,7 +6373,7 @@
                                         <span class="rec_note">Quality metrics, RR intervals and the raw waveform, timestamped</span>
                                     </div>
                                 </div>
-                                <p class="metrics_foot">Precision and field names from the Shen AI SDK reference. Endpoint suitability is assessed per protocol with our regulatory team.</p>
+                                <p class="metrics_foot">Precision and field names from the ihealthy SDK reference. Endpoint suitability is assessed per protocol with our regulatory team.</p>
                             </div>
                         </section>
                     </div>
@@ -6680,7 +6680,7 @@
                                         </div>
                                     </div>
                                     <div class="camera_center">
-                                        <img alt="Portrait used to demonstrate a Shen AI face scan" class="camera_img" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545bc2_Image.webp"/>
+                                        <img alt="Portrait used to demonstrate a ihealthy face scan" class="camera_img" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545bc2_Image.webp"/>
                                         <img alt="" class="camera_img-hover" data-hover-img="1" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545da4_Precise%20measurement.webp"/>
                                         <img alt="" class="camera_img-hover" data-hover-img="2" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545da3_Detailed%20facial%20data.webp"/>
                                         <img alt="" class="camera_img-hover" data-hover-img="3" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545da5_Micro-movement%20detection.webp"/>
@@ -6717,8 +6717,8 @@
                             <div class="container-large">
                                 <div class="proof_row reveal">
                                     <div class="proof_copy">
-                                        <h2 class="heading-h3">Shen AI is clinically validated</h2>
-                                        <p class="text-medium text-muted mt-15">Accuracy and stability come first. Rigorous clinical validation studies prepared Shen AI for medical device certification, with heart rate error under 0.5 bpm and blood pressure comparable to cuff-based devices.</p>
+                                        <h2 class="heading-h3">ihealthy is clinically validated</h2>
+                                        <p class="text-medium text-muted mt-15">Accuracy and stability come first. Rigorous clinical validation studies prepared ihealthy for medical device certification, with heart rate error under 0.5 bpm and blood pressure comparable to cuff-based devices.</p>
                                         <a class="arrow-link mt-2" href="https://shen.ai/scientific-research">
                                             Download report 
                                             <svg class="arrow-icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6" viewbox="0 0 12 12">
@@ -6732,8 +6732,8 @@
                                 </div>
                                 <div class="proof_row is-reverse proof_gap reveal">
                                     <div class="proof_copy proof_row-inner">
-                                        <h2 class="heading-h3">Shen AI is a certified medical device</h2>
-                                        <p class="text-medium text-muted mt-15">Shen AI holds the CE mark and ANVISA certification for camera-based measurement of heart rate, HRV, breathing rate and blood pressure. Built for programs where a reading has to hold up in a clinical decision.</p>
+                                        <h2 class="heading-h3">ihealthy is a certified medical device</h2>
+                                        <p class="text-medium text-muted mt-15">ihealthy holds the CE mark and ANVISA certification for camera-based measurement of heart rate, HRV, breathing rate and blood pressure. Built for programs where a reading has to hold up in a clinical decision.</p>
                                         <div class="proof_badges">
                                             <img alt="ISO 13485" class="proof_badge" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/69d8c8976fd93ccee6155dbd_ISO-13.svg"/>
                                             <img alt="GDPR" class="proof_badge" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/69d8c89769d6d83d316757f1_GDPR.svg"/>
@@ -6758,7 +6758,7 @@
                                 <div class="sdk3_grid">
                                     <div class="reveal">
                                         <h2 class="heading-h2">Fully customizable SDK. Live in days.</h2>
-                                        <p class="text-medium text-muted mt-15 max-w-md">Shen AI drops into your study app, ePRO platform or a plain web page. Your branding, your visit schedule, your data platform. Within days the first participants scan at home.</p>
+                                        <p class="text-medium text-muted mt-15 max-w-md">ihealthy drops into your study app, ePRO platform or a plain web page. Your branding, your visit schedule, your data platform. Within days the first participants scan at home.</p>
                                         <div class="button-group mt-3">
                                             <a class="button" href="https://shen.ai/get-started">Get started</a>
                                             <a class="button-outline" href="https://developer.shen.ai/">Developer portal</a>
@@ -6826,7 +6826,7 @@ shenai.initialize(API_KEY, USER_ID, {
                                         <div class="sdk3_step-num">3</div>
                                         <div>
                                             <div class="sdk3_step-title">Configure without a release</div>
-                                            <div class="sdk3_step-text">Colours, logo, 24 languages, screen flow, scan length, health indices and PDF reports are set remotely from the Shen AI Portal. Change them tomorrow, no store review.</div>
+                                            <div class="sdk3_step-text">Colours, logo, 24 languages, screen flow, scan length, health indices and PDF reports are set remotely from the ihealthy Portal. Change them tomorrow, no store review.</div>
                                         </div>
                                     </div>
                                 </div>
@@ -6873,7 +6873,7 @@ shenai.initialize(API_KEY, USER_ID, {
                                         <div class="testi_slide is-active" data-slide="0">
                                             <div class="testi_top">
                                                 <img alt="Leo Rosenbaum" class="testi_avatar" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545f36_Leo-Rosenbaum-Heartery-Headshot-500x500.jpg"/>
-                                                <p class="testi_quote">"Integration of the Shen AI made Heartery the most popular blood pressure app in the Apple AppStore in the US, UK, Canada, Australia. It is our most popular feature, users love it!"</p>
+                                                <p class="testi_quote">"Integration of the ihealthy made Heartery the most popular blood pressure app in the Apple AppStore in the US, UK, Canada, Australia. It is our most popular feature, users love it!"</p>
                                             </div>
                                             <div class="testi_author">Leo Rosenbaum,</div>
                                             <div class="testi_role">Founder of Heartery</div>
@@ -6881,7 +6881,7 @@ shenai.initialize(API_KEY, USER_ID, {
                                         <div class="testi_slide" data-slide="1">
                                             <div class="testi_top">
                                                 <img alt="Mihkel Mandre" class="testi_avatar" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/69ba7ee0a82b882628427793_mihkel.png"/>
-                                                <p class="testi_quote">"We wanted a 100% digital journey. Shen AI gave us reliable, device-free blood pressure in about 30 seconds. Integration took roughly two weeks, the demo delivers a clear 'wow,' and it keeps our pricing explainable and fair."</p>
+                                                <p class="testi_quote">"We wanted a 100% digital journey. ihealthy gave us reliable, device-free blood pressure in about 30 seconds. Integration took roughly two weeks, the demo delivers a clear 'wow,' and it keeps our pricing explainable and fair."</p>
                                             </div>
                                             <div class="testi_author">Mihkel Mandre,</div>
                                             <div class="testi_role">CEO of Lyfery</div>
@@ -6889,7 +6889,7 @@ shenai.initialize(API_KEY, USER_ID, {
                                         <div class="testi_slide" data-slide="2">
                                             <div class="testi_top">
                                                 <img alt="Vaibhav Kashyap" class="testi_avatar" loading="lazy" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/69ba7f9c04276cd36bd0eb28_vaibhav.jpeg"/>
-                                                <p class="testi_quote">"With Shen AI, we're reforming the relationship insurers have with their customers. When you're helping someone stay well, not just processing their claims, everybody wins."</p>
+                                                <p class="testi_quote">"With ihealthy, we're reforming the relationship insurers have with their customers. When you're helping someone stay well, not just processing their claims, everybody wins."</p>
                                             </div>
                                             <div class="testi_author">Vaibhav Kashyap,</div>
                                             <div class="testi_role">CEO and Co-founder of WellX</div>
@@ -6937,7 +6937,7 @@ shenai.initialize(API_KEY, USER_ID, {
                         <section class="section section-soft">
                             <div class="container-large">
                                 <div class="reveal max-w-lg">
-                                    <h2 class="heading-h3">More ways teams use Shen AI</h2>
+                                    <h2 class="heading-h3">More ways teams use ihealthy</h2>
                                     <p class="text-medium text-muted mt-15">One SDK, eight jobs. Pick the one closest to your roadmap.</p>
                                 </div>
                                 <div class="uc_grid">
@@ -7154,7 +7154,7 @@ shenai.initialize(API_KEY, USER_ID, {
                                             </span>
                                         </button>
                                         <div class="faq_a" data-faq-a="4">
-                                            <div class="faq_a-inner">On the participant's device. Video never leaves the phone and nothing is sent to the Shen AI cloud. Results go to your systems only. Shen AI operates under ISO 13485 and GDPR.</div>
+                                            <div class="faq_a-inner">On the participant's device. Video never leaves the phone and nothing is sent to the ihealthy cloud. Results go to your systems only. ihealthy operates under ISO 13485 and GDPR.</div>
                                         </div>
                                     </div>
                                     <div class="faq_item">
@@ -7167,7 +7167,7 @@ shenai.initialize(API_KEY, USER_ID, {
                                             </span>
                                         </button>
                                         <div class="faq_a" data-faq-a="5">
-                                            <div class="faq_a-inner">Most partners have a working build in days. The SDK drops into your study app or a web page, with white-label screens and remote configuration from the Shen AI Portal.</div>
+                                            <div class="faq_a-inner">Most partners have a working build in days. The SDK drops into your study app or a web page, with white-label screens and remote configuration from the ihealthy Portal.</div>
                                         </div>
                                     </div>
                                 </div>
@@ -7180,7 +7180,7 @@ shenai.initialize(API_KEY, USER_ID, {
                                 <div class="sources_label">Sources for the figures on this page</div>
                                 <div class="sources_list">
                                     <div>
-                                        Field names, precision and platform support from the Shen AI SDK reference on the <a class="sources_link" href="https://developer.shen.ai/">developer portal</a>
+                                        Field names, precision and platform support from the ihealthy SDK reference on the <a class="sources_link" href="https://developer.shen.ai/">developer portal</a>
                                         .
                                     </div>
                                     <div>
@@ -7368,7 +7368,7 @@ shenai.initialize(API_KEY, USER_ID, {
                                 id('cNow').textContent = num(now);
                                 id('cNew').textContent = num(ws);
                                 id('cExtra').textContent = '+' + num(ws - now);
-                                id('cRate').textContent = Math.round(nr) + '% day-30 retention with Shen AI';
+                                id('cRate').textContent = Math.round(nr) + '% day-30 retention with ihealthy';
                                 id('cScanOut').textContent = num(ws * sc);
                                 id('cYear').textContent = num((ws - now) * 12);
                                 var mv = Math.max(ws, 1);
@@ -7506,7 +7506,7 @@ shenai.initialize(API_KEY, USER_ID, {
                         <section class="section section-soft">
                             <div class="container-large">
                                 <div class="reveal max-w-lg">
-                                    <h2 class="heading-h3">More ways teams use Shen AI</h2>
+                                    <h2 class="heading-h3">More ways teams use ihealthy</h2>
                                     <p class="text-medium text-muted mt-15">One SDK, ten jobs. Pick the one closest to your roadmap.</p>
                                 </div>
                                 <div class="uc_grid">
@@ -7653,12 +7653,12 @@ shenai.initialize(API_KEY, USER_ID, {
                                             </span>
                                         </button>
                                         <div class="faq_a" data-faq-a="0">
-                                            <div class="faq_a-inner">It gives users a reason to come back that pays off every time. The scan takes 30 seconds, needs no wearable and returns 30+ health markers with a score that moves. Apps that added Shen AI report up to 350% higher retention, and partners describe the scan as their most used feature.</div>
+                                            <div class="faq_a-inner">It gives users a reason to come back that pays off every time. The scan takes 30 seconds, needs no wearable and returns 30+ health markers with a score that moves. Apps that added ihealthy report up to 350% higher retention, and partners describe the scan as their most used feature.</div>
                                         </div>
                                     </div>
                                     <div class="faq_item">
                                         <button aria-expanded="false" class="faq_q" data-faq="1">
-                                            What does the Shen AI SDK provide and what do we build?
+                                            What does the ihealthy SDK provide and what do we build?
                                             <span class="faq_icon">
                                                 <svg class="faq_icon-svg" fill="none" stroke-linecap="round" stroke-width="1.6" viewbox="0 0 10 10">
                                                     <path d="M5 1v8M1 5h8"></path>
@@ -7666,7 +7666,7 @@ shenai.initialize(API_KEY, USER_ID, {
                                             </span>
                                         </button>
                                         <div class="faq_a" data-faq-a="1">
-                                            <div class="faq_a-inner">Shen AI provides the camera measurement, the results screen, the wellness score and the health indices, all white-label. Streaks, reminders, nudges, coach views and premium tiers are built by your team on top of the data, in your product logic. Most partners have the first version live in days.</div>
+                                            <div class="faq_a-inner">ihealthy provides the camera measurement, the results screen, the wellness score and the health indices, all white-label. Streaks, reminders, nudges, coach views and premium tiers are built by your team on top of the data, in your product logic. Most partners have the first version live in days.</div>
                                         </div>
                                     </div>
                                     <div class="faq_item">
@@ -7718,7 +7718,7 @@ shenai.initialize(API_KEY, USER_ID, {
                                             </span>
                                         </button>
                                         <div class="faq_a" data-faq-a="5">
-                                            <div class="faq_a-inner">On the user's device, inside your app. Video never leaves the phone and nothing is sent to the Shen AI cloud. You own the data and decide where it goes.</div>
+                                            <div class="faq_a-inner">On the user's device, inside your app. Video never leaves the phone and nothing is sent to the ihealthy cloud. You own the data and decide where it goes.</div>
                                         </div>
                                     </div>
                                     <div class="faq_item">
@@ -7762,7 +7762,7 @@ shenai.initialize(API_KEY, USER_ID, {
                                         .
                                     </div>
                                     <div>
-                                        Scan time, first readings and supported metrics from Shen AI product documentation. See <a class="sources_link" href="https://shen.ai/sdk">Shen AI SDK</a>
+                                        Scan time, first readings and supported metrics from ihealthy product documentation. See <a class="sources_link" href="https://shen.ai/sdk">ihealthy SDK</a>
                                         and the <a class="sources_link" href="https://developer.shen.ai/">developer portal</a>
                                         .
                                     </div>
@@ -7946,7 +7946,7 @@ shenai.initialize(API_KEY, USER_ID, {
                                 id('cNow').textContent = num(now);
                                 id('cNew').textContent = num(ws);
                                 id('cExtra').textContent = '+' + num(ws - now);
-                                id('cRate').textContent = Math.round(nr) + '% day-30 retention with Shen AI';
+                                id('cRate').textContent = Math.round(nr) + '% day-30 retention with ihealthy';
                                 id('cScanOut').textContent = num(ws * sc);
                                 id('cYear').textContent = num((ws - now) * 12);
                                 var mv = Math.max(ws, 1);
@@ -8101,9 +8101,9 @@ shenai.initialize(API_KEY, USER_ID, {
                                         <a aria-label="Go to SKD page" href="/sdk" class="footer_link">SDK</a>
                                         <a aria-label="Go to scientific research page" href="/scientific-research" class="footer_link">Scienctific Research</a>
                                         <a aria-label="Go to tehnology page" href="/technology" class="footer_link">Technology</a>
-                                        <a aria-label="Go to why shen ai page" href="/why-shen-ai" class="footer_link">Why Shen</a>
-                                        <a aria-label="Go to why shen ai page" href="/health-markers" class="footer_link">All metrics</a>
-                                        <a aria-label="Go to why shen ai page" href="https://developer.shen.ai/" target="_blank" class="footer_link">Developer Portal</a>
+                                        <a aria-label="Go to why ihealthy page" href="/why-shen-ai" class="footer_link">Why Shen</a>
+                                        <a aria-label="Go to why ihealthy page" href="/health-markers" class="footer_link">All metrics</a>
+                                        <a aria-label="Go to why ihealthy page" href="https://developer.shen.ai/" target="_blank" class="footer_link">Developer Portal</a>
                                     </div>
                                 </div>
                                 <div class="footer_link-item">
@@ -8279,7 +8279,7 @@ shenai.initialize(API_KEY, USER_ID, {
                                 </div>
                                 <div class="text-size-regular opacity-80">
                                     © <span id="currentYear">2025</span>
-                                    Shen AI. All rights reserved.
+                                    ihealthy. All rights reserved.
                                 </div>
                                 <div class="footer_privacy-links">
                                     <a href="/privacy-policy" class="footer_link is-privacy">Privacy Policy </a>

@@ -701,7 +701,7 @@
                                                         ><a
                                                             aria-label="Go to Certified medical device page"
                                                             blocks-name="navbar_dropdown-link"
-                                                            href="medical-device.php"
+                                                            href="animal.php"
                                                             class="nav_dropdown-link w-inline-block"
                                                             ><div class="nav_icon-wrapper">
                                                                 <div class="nav_dropdown-link-icon w-embed">
@@ -806,7 +806,7 @@
                                                         blocks-slot-children="ST366"
                                                         class="navbar-v2_dropdown-link-list"
                                                     >
-                                                        <a
+                                                        <!--<a
                                                             aria-label="Go to Technology page"
                                                             blocks-name="navbar_dropdown-link"
                                                             href="/technology"
@@ -831,7 +831,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>Technology</div></a
-                                                        ><a
+                                                        >--><a
                                                             aria-label="Go to Scientific research page"
                                                             blocks-name="navbar_dropdown-link"
                                                             href="/scientific-research"

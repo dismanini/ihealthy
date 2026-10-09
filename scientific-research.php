@@ -9,7 +9,7 @@
     <head>
         <meta charset="utf-8" />
         <link href="https://cdn.prod.website-files.com" rel="preconnect" crossorigin="anonymous" />
-        <title>Shen AI Research | AI Health Monitoring</title>
+        <title>ihealthy Research | AI Health Monitoring</title>
         <link rel="alternate" hreflang="x-default" href="https://shen.ai/scientific-research" />
         <link rel="alternate" hreflang="en" href="https://shen.ai/scientific-research" />
         <link rel="alternate" hreflang="es" href="https://shen.ai/es/scientific-research" />
@@ -17,17 +17,17 @@
         <link rel="alternate" hreflang="ja" href="https://shen.ai/ja/scientific-research" />
         <link rel="alternate" hreflang="fr" href="https://shen.ai/fr/scientific-research" />
         <meta
-            content="Explore our latest research on AI health monitoring, rPPG, HRV, and how Shen AI contributes to the science of digital health."
+            content="Explore our latest research on AI health monitoring, rPPG, HRV, and how ihealthy contributes to the science of digital health."
             name="description"
         />
-        <meta content="Shen AI Research | AI Health Monitoring" property="og:title" />
+        <meta content="ihealthy Research | AI Health Monitoring" property="og:title" />
         <meta
-            content="Explore our latest research on AI health monitoring, rPPG, HRV, and how Shen AI contributes to the science of digital health."
+            content="Explore our latest research on AI health monitoring, rPPG, HRV, and how ihealthy contributes to the science of digital health."
             property="og:description"
         />
-        <meta content="Shen AI Research | AI Health Monitoring" name="twitter:title" />
+        <meta content="ihealthy Research | AI Health Monitoring" name="twitter:title" />
         <meta
-            content="Explore our latest research on AI health monitoring, rPPG, HRV, and how Shen AI contributes to the science of digital health."
+            content="Explore our latest research on AI health monitoring, rPPG, HRV, and how ihealthy contributes to the science of digital health."
             name="twitter:description"
         />
         <meta property="og:type" content="website" />
@@ -71,15 +71,15 @@
             {
                 "@context": "https://schema.org",
                 "@type": "WebPage",
-                "name": "Shen AI Research | AI Health Monitoring",
-                "description": "Explore our latest research on AI health monitoring, rPPG, HRV, and how Shen AI contributes to the science of digital health.",
+                "name": "ihealthy Research | AI Health Monitoring",
+                "description": "Explore our latest research on AI health monitoring, rPPG, HRV, and how ihealthy contributes to the science of digital health.",
                 "url": "/scientific-research",
                 "inLanguage": "en",
                 "about": {
                     "@type": "Organization",
                     "@id": "https://shen.ai/#organization",
-                    "name": "Shen AI",
-                    "description": "Shen AI is grounded in solid scientific principles, collaborating with leading experts and continuously pushing technology to its limits.",
+                    "name": "ihealthy",
+                    "description": "ihealthy is grounded in solid scientific principles, collaborating with leading experts and continuously pushing technology to its limits.",
                     "logo": {
                         "@type": "ImageObject",
                         "url": "https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545bb3_Logo.svg"
@@ -1236,7 +1236,7 @@
                                                         class="navbar-v2_dropdown-link-list"
                                                     >
                                                         <a
-                                                            aria-label="Go to Why Shen AI page"
+                                                            aria-label="Go to Why ihealthy page"
                                                             blocks-name="navbar_dropdown-link"
                                                             href="/why-shen-ai"
                                                             class="nav_dropdown-link w-inline-block"
@@ -1267,7 +1267,7 @@
                                                                     </svg>
                                                                 </div>
                                                             </div>
-                                                            <div>Why Shen AI</div></a
+                                                            <div>Why ihealthy</div></a
                                                         ><a
                                                             href="/implementation"
                                                             aria-label="Go to Implementation library page"
@@ -2579,9 +2579,9 @@
                                                             >Measured metrics </a
                                                         ><a
                                                             href="/why-shen-ai"
-                                                            aria-label="Go to Why Shen AI page"
+                                                            aria-label="Go to Why ihealthy page"
                                                             class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Why Shen AI</a
+                                                            >Why ihealthy</a
                                                         ><a
                                                             href="/implementation"
                                                             aria-label="Go to Implementation library page"
@@ -3255,7 +3255,7 @@
                                 <h1 class="heading-style-h1">Science drives everything we do</h1>
                                 <div class="scientific-hero_heading-inner">
                                     <p class="text-size-medium">
-                                        Shen AI is grounded in solid scientific principles, collaborating with leading
+                                        ihealthy is grounded in solid scientific principles, collaborating with leading
                                         experts and continuously pushing technology to its limits.
                                     </p>
                                     <div class="button-group">
@@ -3345,10 +3345,10 @@
                                             Our technology prioritizes accuracy and stability, ensuring reliable
                                             performance. Following rigorous clinical validation,
                                             <strong
-                                                >Shen AI Vitals is registered with ANVISA as a class II medical device
+                                                >ihealthy Vitals is registered with ANVISA as a class II medical device
                                                 (approval number 81464750186).</strong
                                             >
-                                            With the highest level of accuracy, Shen AI sets a new standard in the
+                                            With the highest level of accuracy, ihealthy sets a new standard in the
                                             industry.<br />
                                         </p>
                                     </div>
@@ -3395,7 +3395,7 @@
                                     </div>
                                     <div class="max-width-small">
                                         <p class="text-size-medium opacity-80">
-                                            Shen AI is built on a strong scientific foundation, collaborating with
+                                            ihealthy is built on a strong scientific foundation, collaborating with
                                             leading researchers and continually pushing the boundaries of technology.
                                         </p>
                                     </div>
@@ -3451,7 +3451,7 @@
                                         </div>
                                         <div class="max-width-small">
                                             <p class="text-size-medium opacity-80">
-                                                Shen AI is built on strong science foundations, working closely with
+                                                ihealthy is built on strong science foundations, working closely with
                                                 numerous scientists and constantly pushing technology to its limits.
                                             </p>
                                         </div>
@@ -3489,9 +3489,9 @@
                                         alt=""
                                         class="image-6"
                                     />
-                                    <h2>Shen AI is certified medical device</h2>
+                                    <h2>ihealthy is certified medical device</h2>
                                     <div class="text-opacity-80">
-                                        Shen AI holds ANVISA certification and the CE mark for delivering 60-second
+                                        ihealthy holds ANVISA certification and the CE mark for delivering 60-second
                                         measurements of heart rate, HRV, breathing rate, and blood pressure.
                                     </div>
                                     <a href="/medical-device" class="block-list_item-btn w-inline-block"
@@ -3573,9 +3573,9 @@
                                         </div>
                                         <h3 class="h3-30">Remote Photoplethysmography</h3>
                                         <p class="text-size-regular">
-                                            Shen AI utilizes remote photoplethysmography (rPPG) to extract vital health
+                                            ihealthy utilizes remote photoplethysmography (rPPG) to extract vital health
                                             data from a simple video recording. By analyzing subtle color changes in the
-                                            skin caused by blood flow, Shen AI can measure heart rate, respiratory rate,
+                                            skin caused by blood flow, ihealthy can measure heart rate, respiratory rate,
                                             and other key vitals—all without the need for physical sensors. This
                                             AI-driven technology ensures accurate, contactless health monitoring, making
                                             it easy for users to check their health anytime, anywhere, using just their
@@ -3593,7 +3593,7 @@
                                         </div>
                                         <h3 class="h3-30">Remote Ballistocardiography</h3>
                                         <p class="text-size-regular">
-                                            Shen AI leverages remote Ballistocardiography (rBCG) to analyze tiny face
+                                            ihealthy leverages remote Ballistocardiography (rBCG) to analyze tiny face
                                             movements caused by the heart’s mechanical activity. Using a device’s
                                             camera, rBCG detects subtle vibrations and micro-motions to estimate heart
                                             rate, cardiac output, and other vital parameters without physical contact.
@@ -3691,7 +3691,7 @@
                                                 </div>
                                                 <div class="spacer-medium"></div>
                                                 <h3 class="text-size-large text-weight-semibold">
-                                                    Shen AI is now ANVISA approved
+                                                    ihealthy is now ANVISA approved
                                                 </h3>
                                                 <div class="spacer-small"></div>
                                                 <div class="w-condition-invisible">
@@ -4257,15 +4257,15 @@
                                             >Scienctific Research</a
                                         ><a aria-label="Go to tehnology page" href="/technology" class="footer_link"
                                             >Technology</a
-                                        ><a aria-label="Go to why shen ai page" href="/why-shen-ai" class="footer_link"
+                                        ><a aria-label="Go to why ihealthy page" href="/why-shen-ai" class="footer_link"
                                             >Why Shen</a
                                         ><a
-                                            aria-label="Go to why shen ai page"
+                                            aria-label="Go to why ihealthy page"
                                             href="/health-markers"
                                             class="footer_link"
                                             >All metrics</a
                                         ><a
-                                            aria-label="Go to why shen ai page"
+                                            aria-label="Go to why ihealthy page"
                                             href="https://developer.shen.ai/"
                                             target="_blank"
                                             class="footer_link"
@@ -4640,7 +4640,7 @@
                                     </div>
                                 </div>
                                 <div class="text-size-regular opacity-80">
-                                    © <span id="currentYear">2025</span> Shen AI. All rights reserved.
+                                    © <span id="currentYear">2025</span> ihealthy. All rights reserved.
                                 </div>
                                 <div class="footer_privacy-links">
                                     <a href="/privacy-policy" class="footer_link is-privacy">Privacy Policy </a>
@@ -4772,7 +4772,7 @@
                     class="banner-link_image"
                 />
                 <div class="text-color-white text-size-large text-weight-bold">
-                    Shen AI technology<br />explained by our CTO
+                    ihealthy technology<br />explained by our CTO
                 </div>
                 <a href="https://shen.ai/blog/inside-how-shen-ai-works" class="banner-link_link-block w-inline-block"
                     ><div class="w-embed">

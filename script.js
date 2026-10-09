@@ -12,13 +12,13 @@
             {
                 "@context": "https://schema.org",
                 "@type": "WebPage",
-                "name": "Camera-based health screenings | Shen AI",
-                "description": "Discover how Shen AI turns your smartphone into a health companion - no wearables, just powerful, camera-based health insights.",
+                "name": "Camera-based health screenings | ihealthy",
+                "description": "Discover how ihealthy turns your smartphone into a health companion - no wearables, just powerful, camera-based health insights.",
                 "url": "/",
                 "inLanguage": "en",
                 "about": {
                     "@type": "SoftwareApplication",
-                    "name": "Shen AI",
+                    "name": "ihealthy",
                     "applicationCategory": "HealthApplication",
                     "operatingSystem": "iOS, Android, Web",
                     "description": "AI-powered health monitoring platform that tracks 30+ health markers through camera-based face scans in 30 seconds",
@@ -56,7 +56,7 @@
                                     "name": "Med24"
                                 }
                             },
-                            "reviewBody": "Integrating Shen AI's health monitoring into Med24 services, directly increasing our online appointments and marking a pivotal move towards complete online care. This step strengthens our digital healthcare services, making patient care more accessible. It's a clear path forward for us, and I'm proud of what we're achieving together.",
+                            "reviewBody": "Integrating ihealthy's health monitoring into Med24 services, directly increasing our online appointments and marking a pivotal move towards complete online care. This step strengthens our digital healthcare services, making patient care more accessible. It's a clear path forward for us, and I'm proud of what we're achieving together.",
                             "reviewRating": {
                                 "@type": "Rating",
                                 "ratingValue": "5"
@@ -73,7 +73,7 @@
                                     "name": "Heartery"
                                 }
                             },
-                            "reviewBody": "Integration of the Shen AI made Heartery the most popular blood pressure app in the Apple AppStore in the US, UK, Canada, Australia. It is our most popular feature, users love it!",
+                            "reviewBody": "Integration of the ihealthy made Heartery the most popular blood pressure app in the Apple AppStore in the US, UK, Canada, Australia. It is our most popular feature, users love it!",
                             "reviewRating": {
                                 "@type": "Rating",
                                 "ratingValue": "5"
@@ -86,18 +86,18 @@
                     "mainEntity": [
                         {
                             "@type": "Question",
-                            "name": "How does Shen AI measure health markers without traditional devices?",
+                            "name": "How does ihealthy measure health markers without traditional devices?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Shen AI uses remote photoplethysmography (rPPG) and advanced AI to track over 30 health markers, including blood pressure and heart rate or BMI, through a smartphone's camera. This contactless method eliminates the need for additional hardware."
+                                "text": "ihealthy uses remote photoplethysmography (rPPG) and advanced AI to track over 30 health markers, including blood pressure and heart rate or BMI, through a smartphone's camera. This contactless method eliminates the need for additional hardware."
                             }
                         },
                         {
                             "@type": "Question",
-                            "name": "How accurate is Shen AI compared to traditional devices like cuffs?",
+                            "name": "How accurate is ihealthy compared to traditional devices like cuffs?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Shen AI's accuracy is clinically validated and comparable to traditional devices, including cuff-based blood pressure monitors. For HR, Shen AI delivers results with under 0.5 bpm error level. Our AI is trained on over 7 million data points, ensuring precise readings across various environments and users."
+                                "text": "ihealthy's accuracy is clinically validated and comparable to traditional devices, including cuff-based blood pressure monitors. For HR, ihealthy delivers results with under 0.5 bpm error level. Our AI is trained on over 7 million data points, ensuring precise readings across various environments and users."
                             }
                         },
                         {
@@ -110,34 +110,34 @@
                         },
                         {
                             "@type": "Question",
-                            "name": "Can Shen AI be used with all skin tones and in different lighting conditions?",
+                            "name": "Can ihealthy be used with all skin tones and in different lighting conditions?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Yes, Shen AI's Multimodal Sensing Engine ensures reliable readings for all skin tones and lighting environments, making it inclusive and adaptable."
+                                "text": "Yes, ihealthy's Multimodal Sensing Engine ensures reliable readings for all skin tones and lighting environments, making it inclusive and adaptable."
                             }
                         },
                         {
                             "@type": "Question",
-                            "name": "Is Shen AI compliant with privacy regulations?",
+                            "name": "Is ihealthy compliant with privacy regulations?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Shen AI processes all data directly on the device using edge computing, ensuring no sensitive information is sent to the cloud."
+                                "text": "ihealthy processes all data directly on the device using edge computing, ensuring no sensitive information is sent to the cloud."
                             }
                         },
                         {
                             "@type": "Question",
-                            "name": "How easy is it to integrate Shen AI into my platform?",
+                            "name": "How easy is it to integrate ihealthy into my platform?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Shen AI provides comprehensive documentation and SDK for easy integration into your platform."
+                                "text": "ihealthy provides comprehensive documentation and SDK for easy integration into your platform."
                             }
                         },
                         {
                             "@type": "Question",
-                            "name": "Is the Shen AI SDK customizable?",
+                            "name": "Is the ihealthy SDK customizable?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Yes, the Shen AI SDK is highly customizable. It allows seamless integration into your existing platforms while offering the flexibility to adapt the interface to match your brand. Key customization options include UI personalization and localization support."
+                                "text": "Yes, the ihealthy SDK is highly customizable. It allows seamless integration into your existing platforms while offering the flexibility to adapt the interface to match your brand. Key customization options include UI personalization and localization support."
                             }
                         },
                         {
@@ -145,14 +145,14 @@
                             "name": "How can I integrate measurement data into my existing EHR system?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Shen AI comes with FHIR API, making it easy to integrate with existing healthcare or insurance systems."
+                                "text": "ihealthy comes with FHIR API, making it easy to integrate with existing healthcare or insurance systems."
                             }
                         }
                     ]
                 },
                 "publisher": {
                     "@type": "Organization",
-                    "name": "Shen AI",
+                    "name": "ihealthy",
                     "logo": {
                         "@type": "ImageObject",
                         "url": "https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545bb3_Logo.svg"

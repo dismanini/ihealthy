@@ -2629,7 +2629,7 @@
                                     <!-- <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/69d8d3e1a0f7e2d7addb8eec_certificate%20hero%20.svg" loading="lazy" alt="" class="image-6"/> -->
                                     <h2>iHealthy is certified medical device </h2>
                                     <div class="text-opacity-80">iHealthy holds ANVISA certification and the CE mark for delivering 60-second measurements of heart rate, HRV, breathing rate, and blood pressure.</div>
-                                    <a href="medical-device.php" class="block-list_item-btn w-inline-block">
+                                    <a href="animal.php" class="block-list_item-btn w-inline-block">
                                         <div>Learn more</div>
                                         <div class="block-list_item-btn-arrow w-embed">
                                             <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">

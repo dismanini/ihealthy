@@ -15,7 +15,7 @@
                         </div>
                         <a
                             data-wf--button-arrow-up-small-14px--variant="base"
-                            href="medical-device.php"
+                            href="animal.php"
                             class="navbar-v2_link-button w-inline-block"
                             ><div class="text-block-4">Learn more</div>
                             <div class="navbar-v2_link-button-arrow w-embed">
@@ -154,11 +154,11 @@
                                                                     </svg>
                                                                 </div>
                                                             </div>
-                                                            <div>Wellness SDK</div></a
+                                                            <div>iHealthyBio - Human</div></a
                                                         ><a
-                                                            aria-label="Go to Certified medical device page"
+                                                            aria-label="Go to Certified animal device page"
                                                             blocks-name="navbar_dropdown-link"
-                                                            href="medical-device.php"
+                                                            href="animal.php"
                                                             class="nav_dropdown-link w-inline-block"
                                                             ><div class="nav_icon-wrapper">
                                                                 <div class="nav_dropdown-link-icon w-embed">
@@ -193,11 +193,11 @@
                                                                     </svg>
                                                                 </div>
                                                             </div>
-                                                            <div>Medical SDK</div></a
+                                                            <div>iHealthyBio - Animal</div></a
                                                         ><a
                                                             aria-label="Go to Web app builder page"
                                                             blocks-name="navbar_dropdown-link"
-                                                            href="health-assessment-web-service.php"
+                                                            href="https://iyoung.vercel.app/"
                                                             class="nav_dropdown-link w-inline-block"
                                                             ><div class="nav_icon-wrapper">
                                                                 <div class="nav_dropdown-link-icon w-embed">
@@ -218,8 +218,8 @@
                                                                     </svg>
                                                                 </div>
                                                             </div>
-                                                            <div>Web app builder</div></a
-                                                        ><a
+                                                            <div>iYoungBio</div></a
+                                                        ><!--<a
                                                             aria-label="Go to SDK comparison pge"
                                                             blocks-name="navbar_dropdown-link"
                                                             href="sdks-comparison.php"
@@ -244,7 +244,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>Compare the two</div></a
-                                                        >
+                                                        >-->
                                                     </div>
                                                     <div class="nav_dropdown-link-hover-embed w-embed">
                                                         
@@ -255,7 +255,7 @@
                                                     blocks-slot-children="ST265"
                                                     class="navbar-v2_dropdown-column"
                                                 >
-                                                    <div class="navbar-v2_dropdown-link-label">
+                                                    <!--<div class="navbar-v2_dropdown-link-label">
                                                         <div blocks-name="heading-3">Technoloy</div>
                                                     </div>
                                                     <div
@@ -371,7 +371,7 @@
                                                             </div>
                                                             <div>Measured metrics</div></a
                                                         >
-                                                    </div>
+                                                    </div>-->
                                                     <div class="nav_dropdown-link-hover-embed w-embed">
                                                        
                                                     </div>
@@ -422,7 +422,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>Why iHealthy</div></a
-                                                        ><a
+                                                        ><!--<a
                                                             href="implementation.php"
                                                             aria-label="Go to Implementation library page"
                                                             blocks-name="navbar_dropdown-link"
@@ -470,7 +470,7 @@
                                                             </div>
                                                             <div>Use cases library</div></a
                                                         >
-                                                    </div>
+                                                    </div>-->
                                                     <div class="nav_dropdown-link-hover-embed w-embed">
                                                        
                                                     </div>
@@ -490,7 +490,7 @@
                                                         </div>
                                                     </div>
                                                     <a
-                                                        href="/scan-yourself"
+                                                        href="https://ihealthybio.com"
                                                         class="navbar-v2_link-button w-inline-block"
                                                         ><div class="text-size-regular text-weight-semibold">
                                                             Scan yourself →
@@ -508,7 +508,7 @@
                                 data-w-id="dd9ee0a5-bb4d-7a06-d618-c3e37f3d3758"
                                 class="navbar-v2_dropdown w-dropdown"
                             >
-                                <div class="navbar-v2_dropdown-toggle w-dropdown-toggle">
+                                <!--<div class="navbar-v2_dropdown-toggle w-dropdown-toggle">
                                     <div>Solutions</div>
                                     <div class="nav_dropdown-chevron w-embed">
                                         <svg
@@ -527,7 +527,7 @@
                                             />
                                         </svg>
                                     </div>
-                                </div>
+                                </div>-->
                                 <nav
                                     id="navbar-v2-drop-list"
                                     class="navbar-v2_dropdown-list w-variant-ff6b0e9a-b3e4-8ca8-d766-860c5d491744 w-dropdown-list"
@@ -1056,7 +1056,7 @@
                                 data-w-id="dd9ee0a5-bb4d-7a06-d618-c3e37f3d37e2"
                                 class="navbar-v2_dropdown w-dropdown"
                             >
-                                <div class="navbar-v2_dropdown-toggle w-dropdown-toggle">
+                                <!--<div class="navbar-v2_dropdown-toggle w-dropdown-toggle">
                                     <div>Resources</div>
                                     <div class="nav_dropdown-chevron w-embed">
                                         <svg
@@ -1075,7 +1075,7 @@
                                             />
                                         </svg>
                                     </div>
-                                </div>
+                                </div>-->
                                 <nav
                                     id="navbar-v2-drop-list"
                                     class="navbar-v2_dropdown-list w-variant-ff6b0e9a-b3e4-8ca8-d766-860c5d491744 w-dropdown-list"
@@ -1485,7 +1485,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>Careers</div></a
-                                                        ><a
+                                                        ><!--<a
                                                             aria-label="Go to partner with us page"
                                                             blocks-name="navbar_dropdown-link"
                                                             href="partner-with-ihealthy-ai.php"
@@ -1510,7 +1510,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>Partner with us</div></a
-                                                        >
+                                                        >-->
                                                     </div>
                                                     <div class="nav_dropdown-link-hover-embed w-embed">
                                                        
@@ -1521,7 +1521,7 @@
                                     </div>
                                 </nav>
                             </div>
-                            <a href="pricing.php" class="navbar-v2_menu-link w-inline-block"><div>Pricing</div></a>
+                            <!-- <a href="pricing.php" class="navbar-v2_menu-link w-inline-block"><div>Pricing</div></a> -->
                             <div class="navbar_menu-mobile">
                                 <div class="navbar_menu-mobile-inner">
                                     <div class="navbar_menu-mobile-link-wrapper">
@@ -1560,12 +1560,12 @@
                                                             class="navbar_mobile-dropdown-link-2 w-dropdown-link"
                                                             >Wellness SDK</a
                                                         ><a
-                                                            href="medical-device.php"
-                                                            aria-label="Go to Certified medical device page"
+                                                            href="animal.php"
+                                                            aria-label="Go to Certified animal device page"
                                                             class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Medical SDK</a
+                                                            >animal SDK</a
                                                         ><a
-                                                            href="health-assessment-web-service.php"
+                                                            href="https://iyoung.vercel.app/"
                                                             aria-label="Go to Web app builder page"
                                                             class="navbar_mobile-dropdown-link-2 w-dropdown-link"
                                                             >Web app builder</a
@@ -1898,13 +1898,12 @@
                     <div class="navbar-v2_btm-right">
                         <a
                             data-hide-narrow="true"
-                            href="contact.php"
+                            href="/contact"
                             class="button scan-icon-dark-invert no-text-wrap w-inline-block"
                             ><div>Talk to sales</div></a
                         ><a
                             data-wf--button--variant="base"
-                            href="https://www.ihealthybio.com/"
-                            target="_blank"
+                            href="https://ihealthybio.com"
                             class="button w-inline-block"
                             ><div>Start free trial</div></a
                         >

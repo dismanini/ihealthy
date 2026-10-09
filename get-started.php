@@ -1160,7 +1160,7 @@
                                                         <div blocks-name="heading-3">Explore</div>
                                                     </div>
                                                     <div blocks-name="navbar6_dropdown-link-list-3" blocks-slot-children="ST366" class="navbar-v2_dropdown-link-list">
-                                                        <a aria-label="Go to Why Shen AI page" blocks-name="navbar_dropdown-link" href="/why-shen-ai" class="nav_dropdown-link w-inline-block">
+                                                        <a aria-label="Go to Why ihealthy page" blocks-name="navbar_dropdown-link" href="/why-shen-ai" class="nav_dropdown-link w-inline-block">
                                                             <div class="nav_icon-wrapper">
                                                                 <div class="nav_dropdown-link-icon w-embed"></div>
                                                                 <div class="icon-embed-custom-8 w-embed">
@@ -1170,7 +1170,7 @@
                                                                     </svg>
                                                                 </div>
                                                             </div>
-                                                            <div>Why Shen AI</div>
+                                                            <div>Why ihealthy</div>
                                                         </a>
                                                         <a href="/implementation" aria-label="Go to Implementation library page" blocks-name="navbar_dropdown-link" class="nav_dropdown-link w-inline-block">
                                                             <div class="nav_icon-wrapper">
@@ -1771,7 +1771,7 @@
                                                         <a href="/technology" aria-label="Go to Technology page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Technology</a>
                                                         <a href="/scientific-research" aria-label="Go to Scientific research page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Scientific research</a>
                                                         <a href="/health-markers" aria-label="Go to Measured metrics page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Measured metrics </a>
-                                                        <a href="/why-shen-ai" aria-label="Go to Why Shen AI page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Why Shen AI</a>
+                                                        <a href="/why-shen-ai" aria-label="Go to Why ihealthy page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Why ihealthy</a>
                                                         <a href="/implementation" aria-label="Go to Implementation library page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Implementation library</a>
                                                         <a href="/use-cases-library" aria-label="Go to Use cases library page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Use cases library</a>
                                                     </div>
@@ -1917,7 +1917,7 @@
                         <div class="get-started_component">
                             <div class="get-started_header">
                                 <div class="text-color-white text-size-small text-weight-medium">Get started</div>
-                                <h1 class="text-color-white">Bring Shen AI into your product</h1>
+                                <h1 class="text-color-white">Bring ihealthy into your product</h1>
                                 <div class="text-size-regular text-color-white opacity-80">Measure HR, HRV, blood pressure and more from a 30-second face scan inside your app. </div>
                             </div>
                             <div class="get-started_columns">
@@ -2001,7 +2001,7 @@
                                         <div class="text-color-light-green text-weight-semibold text-size-medium">Talk with our team</div>
                                         <div class="get-started_column-header">
                                             <div class="heading-style-h5 text-color-white text-weight-xbold">Talk to sales</div>
-                                            <div class="text-size-semi-large text-color--fefefe">Get a tailored walkthrough of Shen AI for your use case, regulatory needs, and volume.</div>
+                                            <div class="text-size-semi-large text-color--fefefe">Get a tailored walkthrough of ihealthy for your use case, regulatory needs, and volume.</div>
                                         </div>
                                         <div class="get-started_column-list-wrap">
                                             <div class="text-size-small text-color--fefefe">Best for:</div>
@@ -2099,9 +2099,9 @@
                                             <a aria-label="Go to SKD page" href="/sdk" class="footer_link">SDK</a>
                                             <a aria-label="Go to scientific research page" href="/scientific-research" class="footer_link">Scienctific Research</a>
                                             <a aria-label="Go to tehnology page" href="/technology" class="footer_link">Technology</a>
-                                            <a aria-label="Go to why shen ai page" href="/why-shen-ai" class="footer_link">Why Shen</a>
-                                            <a aria-label="Go to why shen ai page" href="/health-markers" class="footer_link">All metrics</a>
-                                            <a aria-label="Go to why shen ai page" href="https://developer.shen.ai/" target="_blank" class="footer_link">Developer Portal</a>
+                                            <a aria-label="Go to why ihealthy page" href="/why-shen-ai" class="footer_link">Why Shen</a>
+                                            <a aria-label="Go to why ihealthy page" href="/health-markers" class="footer_link">All metrics</a>
+                                            <a aria-label="Go to why ihealthy page" href="https://developer.shen.ai/" target="_blank" class="footer_link">Developer Portal</a>
                                         </div>
                                     </div>
                                     <div class="footer_link-item">
@@ -2277,7 +2277,7 @@
                                     </div>
                                     <div class="text-size-regular opacity-80">
                                         © <span id="currentYear">2025</span>
-                                        Shen AI. All rights reserved.
+                                        ihealthy. All rights reserved.
                                     </div>
                                     <div class="footer_privacy-links">
                                         <a href="/privacy-policy" class="footer_link is-privacy">Privacy Policy </a>

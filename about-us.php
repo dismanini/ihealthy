@@ -4,18 +4,18 @@
     <head>
         <meta charset="utf-8"/>
         <link href="https://cdn.prod.website-files.com" rel="preconnect" crossorigin="anonymous"/>
-        <title>About Shen AI | The Future of Health Monitoring</title>
+        <title>About ihealthy | The Future of Health Monitoring</title>
         <link rel="alternate" hrefLang="x-default" href="https://shen.ai/about-us"/>
         <link rel="alternate" hrefLang="en" href="https://shen.ai/about-us"/>
         <link rel="alternate" hrefLang="es" href="https://shen.ai/es/about-us"/>
         <link rel="alternate" hrefLang="de" href="https://shen.ai/de/about-us"/>
         <link rel="alternate" hrefLang="ja" href="https://shen.ai/ja/about-us"/>
         <link rel="alternate" hrefLang="fr" href="https://shen.ai/fr/about-us"/>
-        <meta content="Learn more about Shen AI’s mission, team, and vision for AI-powered, contactless health monitoring via smartphone." name="description"/>
-        <meta content="About Shen AI | The Future of Health Monitoring" property="og:title"/>
-        <meta content="Learn more about Shen AI’s mission, team, and vision for AI-powered, contactless health monitoring via smartphone." property="og:description"/>
-        <meta content="About Shen AI | The Future of Health Monitoring" name="twitter:title"/>
-        <meta content="Learn more about Shen AI’s mission, team, and vision for AI-powered, contactless health monitoring via smartphone." name="twitter:description"/>
+        <meta content="Learn more about ihealthy’s mission, team, and vision for AI-powered, contactless health monitoring via smartphone." name="description"/>
+        <meta content="About ihealthy | The Future of Health Monitoring" property="og:title"/>
+        <meta content="Learn more about ihealthy’s mission, team, and vision for AI-powered, contactless health monitoring via smartphone." property="og:description"/>
+        <meta content="About ihealthy | The Future of Health Monitoring" name="twitter:title"/>
+        <meta content="Learn more about ihealthy’s mission, team, and vision for AI-powered, contactless health monitoring via smartphone." name="twitter:description"/>
         <meta property="og:type" content="website"/>
         <meta content="summary_large_image" name="twitter:card"/>
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -37,13 +37,13 @@
             {
                 "@context": "https://schema.org",
                 "@type": "AboutPage",
-                "name": "About Shen AI",
+                "name": "About ihealthy",
                 "url": "/about-us",
                 "inLanguage": "en",
                 "about": {
                     "@type": "Organization",
                     "@id": "http://shen.ai/",
-                    "name": "Shen AI",
+                    "name": "ihealthy",
                     "url": "http://shen.ai/",
                     "logo": {
                         "@type": "ImageObject",
@@ -1284,7 +1284,7 @@
                                                         <div blocks-name="heading-3">Explore</div>
                                                     </div>
                                                     <div blocks-name="navbar6_dropdown-link-list-3" blocks-slot-children="ST366" class="navbar-v2_dropdown-link-list">
-                                                        <a aria-label="Go to Why Shen AI page" blocks-name="navbar_dropdown-link" href="/why-shen-ai" class="nav_dropdown-link w-inline-block">
+                                                        <a aria-label="Go to Why ihealthy page" blocks-name="navbar_dropdown-link" href="/why-shen-ai" class="nav_dropdown-link w-inline-block">
                                                             <div class="nav_icon-wrapper">
                                                                 <div class="nav_dropdown-link-icon w-embed"></div>
                                                                 <div class="icon-embed-custom-8 w-embed">
@@ -1294,7 +1294,7 @@
                                                                     </svg>
                                                                 </div>
                                                             </div>
-                                                            <div>Why Shen AI</div>
+                                                            <div>Why ihealthy</div>
                                                         </a>
                                                         <a href="/implementation" aria-label="Go to Implementation library page" blocks-name="navbar_dropdown-link" class="nav_dropdown-link w-inline-block">
                                                             <div class="nav_icon-wrapper">
@@ -1895,7 +1895,7 @@
                                                         <a href="/technology" aria-label="Go to Technology page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Technology</a>
                                                         <a href="/scientific-research" aria-label="Go to Scientific research page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Scientific research</a>
                                                         <a href="/health-markers" aria-label="Go to Measured metrics page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Measured metrics </a>
-                                                        <a href="/why-shen-ai" aria-label="Go to Why Shen AI page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Why Shen AI</a>
+                                                        <a href="/why-shen-ai" aria-label="Go to Why ihealthy page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Why ihealthy</a>
                                                         <a href="/implementation" aria-label="Go to Implementation library page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Implementation library</a>
                                                         <a href="/use-cases-library" aria-label="Go to Use cases library page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">Use cases library</a>
                                                     </div>
@@ -2040,16 +2040,16 @@
                     <div class="container-large">
                         <div class="about-hero_compoennt">
                             <div class="about-hero_top">
-                                <h1 class="heading-style-h1">About Shen AI</h1>
+                                <h1 class="heading-style-h1">About ihealthy</h1>
                                 <p class="heading-style-h5 ls-minus-2 text-weight-semibold">
                                     <br/>
-                                    At Shen AI we envision a future where every individual can monitor vital signs effortlessly, using any device - from smartphones to smart mirrors - making complete health checks as simple as a daily routine.<br/>
+                                    At ihealthy we envision a future where every individual can monitor vital signs effortlessly, using any device - from smartphones to smart mirrors - making complete health checks as simple as a daily routine.<br/>
                                     <br/>
                                     We propel healthcare’s shift from reactive treatment - to proactive, predictive care by simplifying access to real-time health data.<br/>
                                     <br/>
-                                    Thanks to Shen AI health monitoring - providers can guide patients toward the most effective care, streamline workflows, reduce operational costs, and deliver faster, more accurate diagnoses with truly personalized treatment.<br/>
+                                    Thanks to ihealthy health monitoring - providers can guide patients toward the most effective care, streamline workflows, reduce operational costs, and deliver faster, more accurate diagnoses with truly personalized treatment.<br/>
                                     <br/>
-                                    We contribute to a healthier, more conscious, and connected global community by empowering people to track their health everyday with <a target="_blank" href="http://shen.ai/">Shen AI</a>
+                                    We contribute to a healthier, more conscious, and connected global community by empowering people to track their health everyday with <a target="_blank" href="http://shen.ai/">ihealthy</a>
                                     - easy to use, universally accessible health monitoring technology.
                                 </p>
                             </div>
@@ -2284,7 +2284,7 @@
                             <div class="about-join_left">
                                 <h2 class="heading-style-h2">Join our team</h2>
                                 <div class="spacer-medium"></div>
-                                <p class="text-color-gray-second">Our technology prioritizes accuracy and stability, ensuring reliable performance. Rigorous clinical validation studies have been conducted to prepare Shen AI for medical device certification. With the highest level of accuracy, Shen AI sets a new standard in the industry.</p>
+                                <p class="text-color-gray-second">Our technology prioritizes accuracy and stability, ensuring reliable performance. Rigorous clinical validation studies have been conducted to prepare ihealthy for medical device certification. With the highest level of accuracy, ihealthy sets a new standard in the industry.</p>
                                 <div class="spacer-medium"></div>
                                 <a data-wf--button--variant="is-outline-white" href="/careers" class="button w-variant-368d8dd6-9987-316a-1c46-124a80b0e42c w-inline-block">
                                     <div>Learn more</div>
@@ -2377,9 +2377,9 @@
                                         <a aria-label="Go to SKD page" href="/sdk" class="footer_link">SDK</a>
                                         <a aria-label="Go to scientific research page" href="/scientific-research" class="footer_link">Scienctific Research</a>
                                         <a aria-label="Go to tehnology page" href="/technology" class="footer_link">Technology</a>
-                                        <a aria-label="Go to why shen ai page" href="/why-shen-ai" class="footer_link">Why Shen</a>
-                                        <a aria-label="Go to why shen ai page" href="/health-markers" class="footer_link">All metrics</a>
-                                        <a aria-label="Go to why shen ai page" href="https://developer.shen.ai/" target="_blank" class="footer_link">Developer Portal</a>
+                                        <a aria-label="Go to why ihealthy page" href="/why-shen-ai" class="footer_link">Why Shen</a>
+                                        <a aria-label="Go to why ihealthy page" href="/health-markers" class="footer_link">All metrics</a>
+                                        <a aria-label="Go to why ihealthy page" href="https://developer.shen.ai/" target="_blank" class="footer_link">Developer Portal</a>
                                     </div>
                                 </div>
                                 <div class="footer_link-item">
@@ -2555,7 +2555,7 @@
                                 </div>
                                 <div class="text-size-regular opacity-80">
                                     © <span id="currentYear">2025</span>
-                                    Shen AI. All rights reserved.
+                                    ihealthy. All rights reserved.
                                 </div>
                                 <div class="footer_privacy-links">
                                     <a href="/privacy-policy" class="footer_link is-privacy">Privacy Policy </a>
