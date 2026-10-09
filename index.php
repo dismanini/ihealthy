@@ -1178,7 +1178,7 @@
                                     </div>
                                 </div>
                                 <div class="button-wrapper">
-                                    <a data-wf--button--variant="base" href="#" target="_blank" class="button w-inline-block">
+                                    <a data-wf--button--variant="base" href="https://www.ihealthybio.com/" target="_blank" class="button w-inline-block">
                                         <div>Start a free trial</div>
                                     </a>
                                     <a data-wf--button--variant="scan-icon-dark" href="contact.php" class="button w-variant-df410f8e-75be-17d0-55e9-f5c86a41952c w-inline-block">
@@ -2849,7 +2849,7 @@
                                 <p class="text-size-regular opacity-80">
                                     Start transforming healthcare today. Partner with us to integrate<br/>cutting-edge AI for accurate, reliable health insights.
                                 </p>
-                                <a data-wf--button--variant="base" href="https://platform.shen.ai/signup" target="_blank" class="button w-inline-block">
+                                <a data-wf--button--variant="base" href="https://www.ihealthybio.com/" target="_blank" class="button w-inline-block">
                                     <div>Start a free trial</div>
                                 </a>
                             </div>

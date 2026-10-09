@@ -1903,7 +1903,7 @@
                             ><div>Talk to sales</div></a
                         ><a
                             data-wf--button--variant="base"
-                            href="https://platform.iHealthy/signup?plan=pro&amp;billing=per_scan&amp;cycle=monthly"
+                            href="https://www.ihealthybio.com/"
                             target="_blank"
                             class="button w-inline-block"
                             ><div>Start free trial</div></a
