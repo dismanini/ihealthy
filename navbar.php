@@ -41,7 +41,7 @@
                     <div class="navbar-v2_top-bar-text">
                         <a
                             data-wf--button-arrow-up-small-14px--variant="white"
-                            href="scan-yourself.php"
+                            href="https://ihealthybio.com/"
                             class="navbar-v2_link-button w-variant-0a7fd4b7-c3fb-139b-cbd0-a8e5507320bf w-inline-block"
                             ><div class="text-block-4">Scan yourself</div>
                             <div class="navbar-v2_link-button-arrow w-embed">
@@ -62,23 +62,19 @@
                                         stroke-linecap="square"
                                     />
                                 </svg></div></a
-                        ><a
-                            href="https://platform.iHealthy/auth"
-                            target="_blank"
-                            class="navbar-v2_link-button w-inline-block"
-                            ><div class="text-color-white text-size-tiny">Log in</div></a
                         >
                     </div>
                 </div>
                 <div class="navbar-v2_btm-bar">
                     <div class="navbar-v2_btm-left">
                         <a href="/" aria-current="page" class="link-block-2 w-inline-block w--current"
-                            ><img
-                                loading="lazy"
-                                src="images/ihealthybio_logo.png"
-                                alt=""
-                                class="navbar-v2_logo"
-                        style="width:105px;height:64px;"/></a>
+                        ><img
+                            loading="lazy"
+                            src="images/iHealthy Asset 1.svg"
+                            alt=""
+                            class="navbar-v2_logo"
+                            style="margin-left: 9px; width:100%; height:70px;"
+                        /></a>
                         <nav role="navigation" class="navbar_menu is-page-height-tablet w-nav-menu">
                             <div
                                 data-delay="300"
@@ -156,7 +152,7 @@
                                                             </div>
                                                             <div>iHealthyBio - Human</div></a
                                                         ><a
-                                                            aria-label="Go to Certified animal device page"
+                                                            aria-label="Go to Certified medical device page"
                                                             blocks-name="navbar_dropdown-link"
                                                             href="animal.php"
                                                             class="nav_dropdown-link w-inline-block"
@@ -219,32 +215,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>iYoungBio</div></a
-                                                        ><!--<a
-                                                            aria-label="Go to SDK comparison pge"
-                                                            blocks-name="navbar_dropdown-link"
-                                                            href="sdks-comparison.php"
-                                                            class="nav_dropdown-link w-inline-block"
-                                                            ><div class="nav_icon-wrapper">
-                                                                <div class="nav_dropdown-link-icon w-embed">
-                                                                    <svg
-                                                                        width="15"
-                                                                        height="18"
-                                                                        viewBox="0 0 15 18"
-                                                                        fill="none"
-                                                                        xmlns="http://www.w3.org/2000/svg"
-                                                                    >
-                                                                        <path
-                                                                            d="M6.98788 2.30133C6.93667 2.47364 6.90909 2.65662 6.90909 2.84615C6.90909 3.18585 7.17382 3.46154 7.5 3.46154H11.0455C11.2022 3.46154 11.3525 3.3967 11.4633 3.2813C11.5741 3.16589 11.6364 3.00936 11.6364 2.84615C11.6364 2.66147 11.6099 2.47781 11.5576 2.30133M6.98788 2.30133C7.09978 1.92447 7.3246 1.59482 7.62942 1.36065C7.93424 1.12648 8.30304 1.00009 8.68182 1H9.86364C10.661 1 11.3346 1.5481 11.5576 2.30133M6.98788 2.30133C6.69164 2.32021 6.39697 2.34236 6.1023 2.36697C5.21121 2.4441 4.54545 3.23426 4.54545 4.16554V5.92308M11.5576 2.30133C11.8538 2.32021 12.1485 2.34236 12.4432 2.36697C13.3342 2.4441 14 3.23426 14 4.16554V12.6923C14 13.1819 13.8132 13.6515 13.4808 13.9977C13.1483 14.344 12.6974 14.5385 12.2273 14.5385H10.4545M4.54545 5.92308H1.88636C1.39709 5.92308 1 6.33662 1 6.84615V16.0769C1 16.5865 1.39709 17 1.88636 17H9.56818C10.0575 17 10.4545 16.5865 10.4545 16.0769V14.5385M4.54545 5.92308H9.56818C10.0575 5.92308 10.4545 6.33662 10.4545 6.84615V14.5385M3.95455 12.0769L5.13636 13.3077L7.5 10.2308"
-                                                                            stroke="currentColor"
-                                                                            stroke-width="0.8"
-                                                                            stroke-linecap="round"
-                                                                            stroke-linejoin="round"
-                                                                        />
-                                                                    </svg>
-                                                                </div>
-                                                            </div>
-                                                            <div>Compare the two</div></a
-                                                        >-->
+                                                        >
                                                     </div>
                                                     <div class="nav_dropdown-link-hover-embed w-embed">
                                                         
@@ -422,55 +393,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>Why iHealthy</div></a
-                                                        ><!--<a
-                                                            href="implementation.php"
-                                                            aria-label="Go to Implementation library page"
-                                                            blocks-name="navbar_dropdown-link"
-                                                            class="nav_dropdown-link w-inline-block"
-                                                            ><div class="nav_icon-wrapper">
-                                                                <div class="nav_dropdown-link-icon w-embed">
-                                                                    <svg
-                                                                        width="14"
-                                                                        height="16"
-                                                                        viewBox="0 0 14 16"
-                                                                        fill="none"
-                                                                        xmlns="http://www.w3.org/2000/svg"
-                                                                    >
-                                                                        <path
-                                                                            d="M3.94536 4.02165V2.26411C3.94536 1.33283 4.61111 0.542671 5.50221 0.465543C5.79687 0.440928 6.09154 0.418774 6.38778 0.399902H11.3999C12.0666 0.435458 13.3999 0.858076 13.3999 2.26411V10.7909C13.3999 11.2805 13.2131 11.7501 12.8807 12.0963C12.5482 12.4425 12.0973 12.637 11.6272 12.637H9.85445M3.94536 4.02165H1.28627C0.796993 4.02165 0.399902 4.43518 0.399902 4.94472V14.1755C0.399902 14.685 0.796993 15.0986 1.28627 15.0986H8.96808C9.45736 15.0986 9.85445 14.685 9.85445 14.1755V12.637M3.94536 4.02165H8.96808C9.45736 4.02165 9.85445 4.43518 9.85445 4.94472V12.637M3.35445 10.1755L4.53627 11.4063L6.8999 8.32934"
-                                                                            stroke="currentColor"
-                                                                            stroke-width="0.8"
-                                                                            stroke-linecap="round"
-                                                                            stroke-linejoin="round"
-                                                                        />
-                                                                    </svg>
-                                                                </div>
-                                                            </div>
-                                                            <div>Implementation library</div></a
-                                                        ><a
-                                                            href="use-cases-library.php"
-                                                            aria-label="Go to Use cases library page"
-                                                            blocks-name="navbar_dropdown-link"
-                                                            class="nav_dropdown-link w-inline-block"
-                                                            ><div class="nav_icon-wrapper">
-                                                                <div class="nav_dropdown-link-icon w-embed">
-                                                                    <svg
-                                                                        width="16"
-                                                                        height="16"
-                                                                        viewBox="0 0 16 16"
-                                                                        fill="none"
-                                                                        xmlns="http://www.w3.org/2000/svg"
-                                                                    >
-                                                                        <path
-                                                                            d="M6.83442 0.407862C7.51634 -0.135954 8.48366 -0.135954 9.16558 0.407862L15.2919 5.29348C15.7386 5.64947 15.9978 6.1911 15.9978 6.76331V14.1234C15.9978 15.1608 15.159 15.9995 14.1264 15.9995H1.87146C0.836601 15.9995 0 15.1586 0 14.1234V6.76331C0 6.1911 0.261438 5.64947 0.705882 5.29348L6.83442 0.407862ZM8.52941 1.20939C8.22004 0.962599 7.77996 0.962599 7.47059 1.20939L1.34205 6.095C1.13943 6.25662 1.01961 6.50341 1.01961 6.76331V14.1234C1.01961 14.5951 1.40087 14.9773 1.87146 14.9773H14.1264C14.5969 14.9773 14.9782 14.5951 14.9782 14.1234V6.76331C14.9782 6.50341 14.8606 6.25662 14.6558 6.095L8.52941 1.20939ZM6.46841 6.78733C7.00436 6.78733 7.48802 7.01447 7.83006 7.37701C8.17211 7.01447 8.65577 6.78733 9.19172 6.78733H10.8736C11.2636 6.78733 11.6035 7.05378 11.6993 7.43161L12.5272 10.7251C12.6362 11.1553 12.3094 11.5747 11.8671 11.5747H9.53595C9.1939 11.5747 8.85839 11.6817 8.57952 11.8804C8.21569 12.1403 7.51416 12.1578 7.14379 11.8957C6.878 11.7013 6.57081 11.5747 6.23747 11.5747H4.12636C3.69281 11.5747 3.36819 11.1728 3.46187 10.7469L4.17865 7.45782C4.26362 7.0647 4.61002 6.78733 5.01089 6.78733H6.47059H6.46841ZM9.19172 7.80945C8.72113 7.80945 8.33987 8.19165 8.33987 8.66339V10.8343C8.71024 10.6486 9.11765 10.5504 9.53377 10.5504H11.4292L10.7407 7.80945H9.19172ZM4.54902 10.5504H6.23747C6.61438 10.5504 6.98475 10.6399 7.32026 10.8037V8.66339C7.32026 8.19165 6.939 7.80945 6.46841 7.80945H5.14597L4.54902 10.5504Z"
-                                                                            fill="currentColor"
-                                                                        />
-                                                                    </svg>
-                                                                </div>
-                                                            </div>
-                                                            <div>Use cases library</div></a
                                                         >
-                                                    </div>-->
                                                     <div class="nav_dropdown-link-hover-embed w-embed">
                                                        
                                                     </div>
@@ -1561,11 +1484,11 @@
                                                             >Wellness SDK</a
                                                         ><a
                                                             href="animal.php"
-                                                            aria-label="Go to Certified animal device page"
+                                                            aria-label="Go to Certified medical device page"
                                                             class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >animal SDK</a
+                                                            >Medical SDK</a
                                                         ><a
-                                                            href="https://iyoung.vercel.app/"
+                                                            href="health-assessment-web-service.php"
                                                             aria-label="Go to Web app builder page"
                                                             class="navbar_mobile-dropdown-link-2 w-dropdown-link"
                                                             >Web app builder</a
