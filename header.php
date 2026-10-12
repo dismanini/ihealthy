@@ -618,7 +618,7 @@
                         <a href="/" aria-current="page" class="link-block-2 w-inline-block w--current"
                             ><img
                                 loading="lazy"
-                                src="images/iHealthy_Bio_Logo.png"
+                                src="images/iHealthy Asset 1.svg"
                                 alt=""
                                 class="navbar-v2_logo"
                         /></a>
