@@ -1,4 +1,5 @@
  <footer class="footer">
+<<<<<<< HEAD
      <div class="container-large">
          <div class="footer_component">
              <a href="index.php" aria-current="page" class="footer_logo-wrapper mobile w-inline-block w--current">
@@ -105,6 +106,337 @@
                                          fill="white" />
                                  </svg>
 
+=======
+                <div class="container-large">
+                    <div class="footer_component">
+                        
+                        <div class="footer_link-list">
+                            <div class="footer_link-list-inner">
+                                <div class="footer_link-item">
+                                    <p>Products</p>
+                                    <div class="footer_link-wrapper">
+                                        <a aria-label="Go to SKD page" href="https://ihealthybio.com/" class="footer_link">iHealthy - Human</a
+                                        ><a
+                                            aria-label="Go to scientific research page"
+                                            href="/medical-device"
+                                            class="footer_link"
+                                            >iHealthy - Animal</a
+                                        ><a aria-label="Go to tehnology page" href="/health-assessment-web-service" class="footer_link"
+                                            >iYoungBio</a
+                                        >
+                                    </div>
+                                </div>
+                                <div class="footer_link-item-last">
+                                    <div class="footer_link-item">
+                                        <p>Company</p>
+                                        <a href="/about-us" class="title-link">About us</a>
+                                        <a aria-label="Go to careers page" href="/careers" class="footer_link">Careers</a>
+                                    </div>
+                                </div>
+                                <div class="footer_link-item gap-12">
+                                        <a
+                                            aria-label="Go to scan yourself page"
+                                            href="https://ihealthybio.com/"
+                                            class="footer_link is-white"
+                                            >Scan yourself</a
+                                        ><a
+                                            aria-label="Go to scan yourself page"
+                                            href="partner-with-ihealthy-ai.php"
+                                            class="footer_link is-white"
+                                            >Partner with us</a
+                                        ><a aria-label="Go to contact page" href="contact.php" class="footer_link is-white"
+                                            >Talk to sales</a
+                                        ><a
+                                            aria-label="Go to contact page"
+                                            href="get-started.php"
+                                            class="footer_link is-white"
+                                            >Get started
+                                        </a>
+                                    </div>
+                            </div>
+                            <div class="footer_addres">
+                                <address class="footer_addres-list">
+                                    <address class="footer_addres-block">
+                                        <div
+                                            aria-label="ShenAI headquarters address: 94, Lilac Lane, Paramus"
+                                        >
+                                            <span class="opacity-40 text-weight-medium text-color-white">HQ:</span>
+                                           94, Lilac Lane, Paramus,<br/> New Jersey Paramus New <br/>Jersey United States of America (USA)
+                                        </div>
+                                        <div
+                                            aria-label="ShenAI R and D office address: Lõõtsa tn 8a, 11415 Tallinn, Estonia"
+                                        >
+                                            <span class="opacity-40 text-weight-medium text-color-white">R&amp;D:</span>
+                                            Hig - 32, K - 6, Kalinga Vihar,<br/>Patrapada, Bhubaneswar
+                                        </div>
+                                    </address>
+                                    <div>
+                                        <span class="opacity-40 text-weight-medium text-color-white">Email:</span>
+                                        <a
+                                            href="mailto:office@iHealthy"
+                                            aria-label="ShenAI office email address"
+                                            class="footer_email"
+                                            >sales@iHealthy</a
+                                        >
+                                    </div>
+                                </address>
+                                <div class="footer_social-wrapper">
+                                    <a
+                                        aria-label="Go to Linkedin profile page"
+                                        rel="noopener noreferrer"
+                                        href="https://www.linkedin.com/company/shenai/"
+                                        target="_blank"
+                                        class="footer_linkedin-link w-inline-block"
+                                        ><div class="footer_linkedin-icon w-embed">
+                                            <svg
+                                                width="100%"
+                                                height="100%"
+                                                viewBox="0 0 30 30"
+                                                fill="none"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                            >
+                                                <path
+                                                    d="M23.998 4H5.99805C4.89305 4 3.99805 4.895 3.99805 6V24C3.99805 25.105 4.89305 26 5.99805 26H23.998C25.103 26 25.998 25.105 25.998 24V6C25.998 4.895 25.103 4 23.998 4ZM10.952 22H8.00205V12.508H10.952V22ZM9.44705 11.151C8.49605 11.151 7.72705 10.38 7.72705 9.431C7.72705 8.482 8.49705 7.712 9.44705 7.712C10.395 7.712 11.166 8.483 11.166 9.431C11.166 10.38 10.395 11.151 9.44705 11.151ZM22.002 22H19.054V17.384C19.054 16.283 19.034 14.867 17.521 14.867C15.986 14.867 15.75 16.066 15.75 17.304V22H12.802V12.508H15.632V13.805H15.672C16.066 13.059 17.028 12.272 18.463 12.272C21.45 12.272 22.002 14.238 22.002 16.794V22Z"
+                                                    fill="white"
+                                                />
+                                            </svg>
+
+                                         
+                                        </div>
+                                        <p>Linkedin</p></a
+                                    ><a
+                                        aria-label="Go to X profile page"
+                                        rel="noopener noreferrer"
+                                        href="https://x.com/ShenAI_tech"
+                                        target="_blank"
+                                        class="footer_linkedin-link w-inline-block"
+                                        ><div class="footer_linkedin-icon w-embed">
+                                            <svg
+                                                width="100%"
+                                                height="100%"
+                                                viewBox="0 0 30 30"
+                                                fill="none"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                            >
+                                                <path
+                                                    d="M21.4701 5.30273H24.9202L17.3826 13.7745L26.25 25.3027H19.307L13.8689 18.311L7.64654 25.3027H4.1943L12.2565 16.2412L3.75 5.30273H10.8693L15.7849 11.6935L21.4701 5.30273ZM20.2591 23.272H22.171L9.83051 7.22683H7.779L20.2591 23.272Z"
+                                                    fill="white"
+                                                />
+                                            </svg>
+                                        </div>
+                                        <p>Follow</p></a
+                                    >
+                                </div>
+                                <a href="/grant-from-eu" class="w-inline-block"></a>
+                            </div>
+                        </div>
+                        <div class="footer_bottom-content">
+                            <div class="footer_bottom-left">
+                                <div class="footer_lang-logo-wrapper" style="display: flex; align-items: center; gap: 20px;">
+                                    <a href="/" aria-current="page" class="link-block-2 w-inline-block w--current" style="display: flex; align-items: center;"
+                                    ><img
+                                        loading="lazy"
+                                        src="images/iHealthy Asset 1.svg"
+                                        alt=""
+                                        class="navbar-v2_logo"
+                                        style="width:100%; height:150px;"
+                                    /></a>
+                                    <div class="locale_comp" style="margin: 0;">
+                                            <div class="w-locales-list">
+                                                <div role="list" class="locales-list w-locales-items">
+                                                    <div role="listitem" class="locale w-locales-item">
+                                                        <div class="locale_item-wrapper">
+                                                            <a
+                                                                hreflang="en"
+                                                                href="index.php"
+                                                                aria-current="page"
+                                                                class="link-block w-inline-block w--current"
+                                                                ><img
+                                                                    src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/68ef996056b6a477c2e68a3d_us-flag.webp"
+                                                                    loading="lazy"
+                                                                    alt="United States flag with 13 red and white stripes and 50 white stars on a blue field."
+                                                                    class="locale_img"
+                                                            /></a>
+                                                            <div class="locale_text-wrapper">
+                                                                <a
+                                                                    hreflang="en"
+                                                                    href="index.php"
+                                                                    aria-current="page"
+                                                                    class="locale_text w--current"
+                                                                    >English</a
+                                                                >
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div role="listitem" class="locale w-locales-item">
+                                                        <div class="locale_item-wrapper">
+                                                            <a
+                                                                hreflang="es"
+                                                                href="/es"
+                                                                class="link-block w-inline-block"
+                                                                ><img
+                                                                    src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/68d2a99a2447b1452ddcb8e6_spanish.avif"
+                                                                    loading="lazy"
+                                                                    alt="Rolled Spanish flag with red and yellow horizontal stripes and the national coat of arms in the center."
+                                                                    class="locale_img"
+                                                            /></a>
+                                                            <div class="locale_text-wrapper">
+                                                                <a hreflang="es" href="/es" class="locale_text"
+                                                                    >Spanish</a
+                                                                >
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div role="listitem" class="locale w-locales-item">
+                                                        <div class="locale_item-wrapper">
+                                                            <a
+                                                                hreflang="de"
+                                                                href="/de"
+                                                                class="link-block w-inline-block"
+                                                                ><img
+                                                                    src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/68ef9921cd843f65fe78f11d_de-flag.webp"
+                                                                    loading="lazy"
+                                                                    alt="German flag with horizontal stripes in black, red, and gold waving on a pole."
+                                                                    class="locale_img"
+                                                            /></a>
+                                                            <div class="locale_text-wrapper">
+                                                                <a hreflang="de" href="/de" class="locale_text"
+                                                                    >German</a
+                                                                >
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div role="listitem" class="locale w-locales-item">
+                                                        <div class="locale_item-wrapper">
+                                                            <a
+                                                                hreflang="ja"
+                                                                href="/ja"
+                                                                class="link-block w-inline-block"
+                                                                ><img
+                                                                    src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/68f121c861a83ff1ec787ece_japanse.webp"
+                                                                    loading="lazy"
+                                                                    alt="Japanese flag with a red circle centered on a white rectangular background."
+                                                                    class="locale_img"
+                                                            /></a>
+                                                            <div class="locale_text-wrapper">
+                                                                <a hreflang="ja" href="/ja" class="locale_text"
+                                                                    >Japanese</a
+                                                                >
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div role="listitem" class="locale w-locales-item">
+                                                        <div class="locale_item-wrapper">
+                                                            <a
+                                                                hreflang="fr"
+                                                                href="/fr"
+                                                                class="link-block w-inline-block"
+                                                                ><img
+                                                                    src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/69397c8a114119eedc9bc3e8_french.png"
+                                                                    loading="lazy"
+                                                                    alt=""
+                                                                    class="locale_img"
+                                                            /></a>
+                                                            <div class="locale_text-wrapper">
+                                                                <a hreflang="fr" href="/fr" class="locale_text"
+                                                                    >French</a
+                                                                >
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        
+                                        <div data-w-id="775c0b8c-0ca3-3142-d5de-88b8eb0f5693" class="locale_toggle">
+                                            <div class="w-embed">
+                                                <svg
+                                                    width="10"
+                                                    height="11"
+                                                    viewBox="0 0 10 11"
+                                                    fill="none"
+                                                    xmlns="http://www.w3.org/2000/svg"
+                                                >
+                                                    <path
+                                                        d="M3.75 1.75H6.25V3H4.97992C4.88321 4.47923 4.4421 5.69231 3.7655 6.67012C3.93176 6.79181 4.10558 6.90331 4.2857 7.00431L3.86279 8.19563C3.54686 8.03175 3.24371 7.84156 2.95802 7.62644C2.25114 8.319 1.41994 8.83038 0.558699 9.19944L0.0662994 8.05056C0.794325 7.7385 1.47067 7.32094 2.03892 6.77644C1.42582 6.07984 0.9639 5.22969 0.732619 4.25H2.02717C2.20389 4.82869 2.48599 5.34706 2.84647 5.79496C3.31514 5.05983 3.64012 4.14395 3.72686 3H0V1.75H2.5V0.5H3.75V1.75Z"
+                                                        fill="#ABE6A1"
+                                                    />
+                                                    <path
+                                                        fill-rule="evenodd"
+                                                        clip-rule="evenodd"
+                                                        d="M4.375 10.5L6.58988 4.25H7.78506L10 10.5H8.67737L8.23363 9.25H6.14133L5.69758 10.5H4.375ZM7.1875 6.30307L7.78988 8H6.58506L7.1875 6.30307Z"
+                                                        fill="#ABE6A1"
+                                                    />
+                                                </svg>
+                                            </div>
+                                            <div class="w-locales-list"><div>English</div></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="text-size-regular opacity-80">
+                                    © <span id="currentYear">2025</span> iHealthy. All rights reserved.
+                                </div>
+                                <div class="footer_privacy-links">
+                                    <a href="/privacy-policy" class="footer_link is-privacy">Privacy Policy </a>
+                                    <div class="footer_privacy-links-divider"></div>
+                                    <a href="/privacy-policy" class="footer_link is-privacy">Legal Notice</a>
+                                    <div class="footer_privacy-links-divider"></div>
+                                    <a href="/privacy-policy" class="footer_link is-privacy">Cookie Policy </a>
+                                    <div class="footer_privacy-links-divider"></div>
+                                    <a href="https://developer.iHealthy/" target="_blank" class="footer_link is-privacy"
+                                        >Developer Portal</a
+                                    >
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer_bg-gllow"></div>
+            </footer>
+        </div>
+        <div class="banner-link">
+            <img
+                src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/68ca61206f68fb405636c42c_6%2051.webp"
+                loading="lazy"
+                alt="Man with short dark hair and beard smiles gently against a dark background."
+                class="banner-link_image"
+            />
+            <div class="text-color-white text-size-large text-weight-bold">
+                iHealthy technology<br />explained by our CTO
+            </div>
+            <a href="https://iHealthy/blog/inside-how-shen-ai-works" class="banner-link_link-block w-inline-block"
+                ><div class="w-embed">
+                    <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="25" cy="25" r="25" fill="#C7FFBE" fill-opacity="0.7" />
+                        <path
+                            d="M24.9999 3.57153C13.1843 3.57153 3.57129 13.1846 3.57129 25.0001C3.57129 36.8156 13.1843 46.4287 24.9999 46.4287C36.8154 46.4287 46.4284 36.8156 46.4284 25.0001C46.4284 13.1846 36.8211 3.57153 24.9999 3.57153ZM34.8481 25.935L20.5088 36.2593C20.3081 36.4027 20.0729 36.4772 19.8377 36.4772C19.6599 36.4772 19.4821 36.4371 19.3158 36.3511C18.9315 36.156 18.6906 35.7603 18.6906 35.3301V14.6758C18.6906 14.2457 18.9315 13.8499 19.3158 13.6549C19.7001 13.4599 20.1589 13.4943 20.5088 13.7467L34.8481 24.0709C35.1463 24.2889 35.3241 24.633 35.3241 25.0001C35.3241 25.3672 35.1463 25.7171 34.8481 25.9293V25.935Z"
+                            fill="#C7FFBE"
+                        />
+                    </svg></div
+            ></a>
+        </div>
+        <script
+            src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=680280c18df8e68403545b30"
+            type="text/javascript"
+            integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+            crossorigin="anonymous"
+        ></script>
+        <script
+            src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/js/shen-ai-website.ddecb762.c17dfaeb9490d738.js"
+            type="text/javascript"
+            integrity="sha384-W5C4WgMLb1zBj9yT4Zj0aqxdzdsK5aNu8dWmFX6wv8jFdit9hiNOXUsspn0pgVtW"
+            crossorigin="anonymous"
+        ></script>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript
+            ><iframe
+                src="https://www.googletagmanager.com/ns.html?id=GTM-TSLNJ8M"
+                height="0"
+                width="0"
+                style="display: none; visibility: hidden"
+            ></iframe
+        ></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+>>>>>>> 5f08aaeb58a653204e556e662a71e2370e0e36a1
 
                              </div>
                              <p>Linkedin</p>
@@ -166,6 +498,7 @@
                                              </div>
                                          </div>
 
+<<<<<<< HEAD
                                          <div role="listitem" class="locale w-locales-item">
                                              <div class="locale_item-wrapper">
                                                  <a href="./index2.html" class="link-block w-inline-block">
@@ -320,10 +653,17 @@
      /* ---- HIDE-IN-TIGHT-RANGE ATTRIBUTE ------------------------------
      Add this custom attribute to any navbar element to drop it while
      the navbar is too cramped (992px–1130px inclusive):
+=======
+        <style>
+            /* ---- HIDE-IN-TIGHT-RANGE ATTRIBUTE ------------------------------
+            Add this custom attribute to any navbar element to drop it while
+            the navbar is too cramped (992px–1130px inclusive):
+>>>>>>> 5f08aaeb58a653204e556e662a71e2370e0e36a1
 
-       Name:  data-hide-narrow
-       Value: true
+            Name:  data-hide-narrow
+            Value: true
 
+<<<<<<< HEAD
      Below 992px the rule stops applying, so the element reappears in
      the mobile menu as normal.                                       */
      @media (min-width: 992px) and (max-width: 1130px) {
@@ -332,6 +672,101 @@
          }
      }
  </style>
+=======
+            Below 992px the rule stops applying, so the element reappears in
+            the mobile menu as normal.                                       */
+                    
+            .locale_comp {
+                position: relative;
+            }
+
+            .locales-list {
+                display: none;
+                position: absolute;
+                bottom: 100%;
+                left: 0;
+                margin-bottom: 8px;
+                background-color: #1a1a1a;
+                border: 1px solid rgba(255, 255, 255, 0.15);
+                border-radius: 12px;
+                padding: 8px;
+                box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.4);
+                z-index: 9999;
+            }
+
+            /* Open on hover or when active via JS click */
+            .locale_comp:hover .locales-list,
+            .locale_comp.is-open .locales-list {
+                display: flex !important;
+                flex-direction: column !important;
+                width: 160px !important;
+                gap: 6px !important;
+            }
+            @media (max-width: 768px) {
+                .footer_lang-logo-wrapper {
+                    display: flex !important;
+                    flex-direction: row !important;
+                    align-items: center !important;
+                    gap: 20px !important;
+                }
+                
+                .locale_comp {
+                    position: relative !important;
+                    width: auto !important;
+                }
+                .locale_toggle > .w-locales-list {
+                display: none !important;
+            }
+
+            /* Ensure the toggle button remains visible */
+            .locale_toggle {
+                display: flex !important;
+                align-items: center !important;
+                cursor: pointer;
+            }
+
+            /* Hide the list by default on mobile */
+            .locales-list {
+                display: none !important;
+                position: absolute !important;
+                bottom: 100% !important;
+                left: 0 !important;
+                margin-bottom: 8px !important;
+                z-index: 9999 !important;
+                background-color: #1a1a1a !important;
+                border: 1px solid rgba(255, 255, 255, 0.15) !important;
+                border-radius: 12px !important;
+                padding: 8px !important;
+                box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.4) !important;
+            }
+
+            /* Remove hover behavior on mobile */
+            .locale_comp:hover .locales-list {
+                display: none !important;
+            }
+
+            /* Only show when .is-open is toggled via JS */
+            .locale_comp.is-open .locales-list {
+                display: flex !important;
+                flex-direction: column !important;
+                width: 160px !important;
+                gap: 6px !important;
+            }
+
+            .locale_item-wrapper {
+                padding: 8px 12px !important;
+                gap: 10px !important;
+                width: 100% !important;
+            }
+            }
+            
+            @media (min-width: 992px) and (max-width: 1130px) {
+                [data-hide-narrow] {
+                    display: none !important;
+                }
+            }
+        </style>
+>>>>>>> 5f08aaeb58a653204e556e662a71e2370e0e36a1
 
  <script>
      var Webflow = Webflow || [];
@@ -603,6 +1038,7 @@
         });
         </script-->
 
+<<<<<<< HEAD
  <script
      src="https://cdn.schema-flow.com/script.min.js"
      type="text/javascript"
@@ -611,3 +1047,48 @@
  </body>
 
  </html>
+=======
+        <script
+            src="https://cdn.schema-flow.com/script.min.js"
+            type="text/javascript"
+            integrity="sha384-lkeaHi6CUqjssPG+DrkxfgqSYKpysN7Rgo/uRqMbpVgt0Kpeqx9lBgjZ+g7HBfbt"
+            crossorigin="anonymous"
+        ></script>
+    <!-- automatic Footer year changing -->
+        <script>
+            document.addEventListener("DOMContentLoaded", () => {
+                document.getElementById("currentYear").textContent = new Date().getFullYear();
+            });
+        </script>
+
+        <!-- ADD YOUR LANGUAGE TOGGLE SCRIPT HERE -->
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                const localeComp = document.querySelector(".locale_comp");
+                const localeToggle = document.querySelector(".locale_toggle");
+
+                if (localeToggle && localeComp) {
+                    localeToggle.addEventListener("click", function (e) {
+                        e.stopPropagation();
+                        localeComp.classList.toggle("is-open");
+                    });
+
+                    // Close when clicking outside on mobile/desktop
+                    document.addEventListener("click", function (e) {
+                        if (!localeComp.contains(e.target)) {
+                            localeComp.classList.remove("is-open");
+                        }
+                    });
+                }
+            });
+        </script>
+
+        <script
+            src="https://cdn.schema-flow.com/script.min.js"
+            type="text/javascript"
+            integrity="sha384-lkeaHi6CUqjssPG+DrkxfgqSYKpysN7Rgo/uRqMbpVgt0Kpeqx9lBgjZ+g7HBfbt"
+            crossorigin="anonymous"
+        ></script>
+    </body>
+</html>
+>>>>>>> 5f08aaeb58a653204e556e662a71e2370e0e36a1

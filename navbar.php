@@ -1408,32 +1408,7 @@
                                                                 </div>
                                                             </div>
                                                             <div>Careers</div></a
-                                                        ><!--<a
-                                                            aria-label="Go to partner with us page"
-                                                            blocks-name="navbar_dropdown-link"
-                                                            href="partner-with-ihealthy-ai.php"
-                                                            class="nav_dropdown-link w-inline-block"
-                                                            ><div class="nav_icon-wrapper">
-                                                                <div class="nav_dropdown-link-icon w-embed">
-                                                                    <svg
-                                                                        width="17"
-                                                                        height="20"
-                                                                        viewBox="0 0 17 20"
-                                                                        fill="none"
-                                                                        xmlns="http://www.w3.org/2000/svg"
-                                                                    >
-                                                                        <path
-                                                                            d="M1 11.3846L10.5455 1L8.5 8.61538H16L6.45455 19L8.5 11.3846H1Z"
-                                                                            stroke="currentColor"
-                                                                            stroke-width="0.8"
-                                                                            stroke-linecap="round"
-                                                                            stroke-linejoin="round"
-                                                                        />
-                                                                    </svg>
-                                                                </div>
-                                                            </div>
-                                                            <div>Partner with us</div></a
-                                                        >-->
+                                                        >
                                                     </div>
                                                     <div class="nav_dropdown-link-hover-embed w-embed">
                                                        
@@ -1448,329 +1423,39 @@
                             <div class="navbar_menu-mobile">
                                 <div class="navbar_menu-mobile-inner">
                                     <div class="navbar_menu-mobile-link-wrapper">
-                                        <div
-                                            data-delay="0"
-                                            data-hover="false"
-                                            data-w-id="dd9ee0a5-bb4d-7a06-d618-c3e37f3d3844"
-                                            class="navbar_mobile-dropdown-2 w-dropdown"
-                                        >
+                                        <div data-delay="0" data-hover="false" data-w-id="dd9ee0a5-bb4d-7a06-d618-c3e37f3d3844" class="navbar_mobile-dropdown-2 w-dropdown">
                                             <div class="navbar_mobile-dropdown-toggle w-dropdown-toggle">
                                                 <div>Platform</div>
                                                 <div class="navbar_mobile-dropdown-arrow w-embed">
-                                                    <svg
-                                                        width="100%"
-                                                        height="100%"
-                                                        viewBox="0 0 20 21"
-                                                        fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg"
-                                                    >
-                                                        <path
-                                                            d="M5 8L10 13L15 8"
-                                                            stroke="currentColor"
-                                                            stroke-width="1.66667"
-                                                            stroke-linecap="round"
-                                                            stroke-linejoin="round"
-                                                        />
+                                                    <svg width="100%" height="100%" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M5 8L10 13L15 8" stroke="currentColor" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round"/>
                                                     </svg>
                                                 </div>
                                             </div>
                                             <nav class="navbar_mobile-dropdown-list w-dropdown-list">
                                                 <div class="navbar_mobile-dropdown-list-inner">
                                                     <div class="navbar_mobile-dropdown-link-wrapper">
-                                                        <a
-                                                            href="sdk.php"
-                                                            aria-label="Go to SDK page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Wellness SDK</a
-                                                        ><a
-                                                            href="animal.php"
-                                                            aria-label="Go to Certified medical device page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Medical SDK</a
-                                                        ><a
-                                                            href="health-assessment-web-service.php"
-                                                            aria-label="Go to Web app builder page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Web app builder</a
-                                                        ><a
-                                                            href="sdks-comparison.php"
-                                                            aria-label="Go to SDK comparison pge"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Compare the two</a
-                                                        ><a
-                                                            href="technology.php"
-                                                            aria-label="Go to Technology page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Technology</a
-                                                        ><a
-                                                            href="scientific-research.php"
-                                                            aria-label="Go to Scientific research page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Scientific research</a
-                                                        ><a
-                                                            href="health-markers.php"
-                                                            aria-label="Go to Measured metrics page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Measured metrics </a
-                                                        ><a
-                                                            href="why-ihealthy-ai.php"
-                                                            aria-label="Go to Why iHealthy page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Why iHealthy</a
-                                                        ><a
-                                                            href="implementation.php"
-                                                            aria-label="Go to Implementation library page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Implementation library</a
-                                                        ><a
-                                                            href="use-cases-library.php"
-                                                            aria-label="Go to Use cases library page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Use cases library</a
-                                                        >
+                                                        <a href="/sdk" aria-label="Go to SDK page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">iHealthyBio - Human</a>
+                                                        <a href="animal.php" aria-label="Go to Certified medical device page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">iHealthyBio - Animal</a>
+                                                        <a href="/health-assessment-web-service" aria-label="Go to Web app builder page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">iYoungBio</a>
                                                     </div>
                                                 </div>
                                             </nav>
                                         </div>
-                                        <div
-                                            data-delay="0"
-                                            data-hover="false"
-                                            class="navbar_mobile-dropdown-2 w-dropdown"
-                                        >
-                                            <div class="navbar_mobile-dropdown-toggle w-dropdown-toggle">
-                                                <div>Solutions</div>
-                                                <div class="navbar_mobile-dropdown-arrow w-embed">
-                                                    <svg
-                                                        width="100%"
-                                                        height="100%"
-                                                        viewBox="0 0 20 21"
-                                                        fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg"
-                                                    >
-                                                        <path
-                                                            d="M5 8L10 13L15 8"
-                                                            stroke="currentColor"
-                                                            stroke-width="1.66667"
-                                                            stroke-linecap="round"
-                                                            stroke-linejoin="round"
-                                                        />
-                                                    </svg>
-                                                </div>
-                                            </div>
-                                            <nav class="navbar_mobile-dropdown-list w-dropdown-list">
-                                                <div class="navbar_mobile-dropdown-list-inner">
-                                                    <div class="navbar_mobile-dropdown-link-wrapper">
-                                                        <a
-                                                            href="insurance.php"
-                                                            aria-label="Go to insurance page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Insurance</a
-                                                        ><a
-                                                            href="automotive.php"
-                                                            aria-label="Go to Automotive page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Automotive</a
-                                                        ><a
-                                                            href="smart-mirrors.php"
-                                                            aria-label="Go to smart mirrors page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Smart mirrors &amp; kiosks</a
-                                                        ><a
-                                                            href="telehealth-providers.php"
-                                                            aria-label="Go to telehealth page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Telehealth</a
-                                                        ><a
-                                                            href="corporate-wellness.php"
-                                                            aria-label="Go to corporate wellness page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Corporate wellness</a
-                                                        ><a
-                                                            aria-label="Go to Mobile health page"
-                                                            href="mobile-health.php"
-                                                            class="nav_text-with-label w-inline-block"
-                                                            ><div>Mobile health</div></a
-                                                        ><a
-                                                            aria-label="Go to Remote patient monitoring page"
-                                                            href="remote-patient-monitoring.php"
-                                                            class="nav_text-with-label w-inline-block"
-                                                            ><div>Remote patient monitoring</div></a
-                                                        >
-                                                    </div>
-                                                </div>
-                                            </nav>
-                                        </div>
-                                        <div
-                                            data-delay="0"
-                                            data-hover="false"
-                                            class="navbar_mobile-dropdown-2 w-dropdown"
-                                        >
-                                            <div class="navbar_mobile-dropdown-toggle w-dropdown-toggle">
-                                                <div>Use cases</div>
-                                                <div class="navbar_mobile-dropdown-arrow w-embed">
-                                                    <svg
-                                                        width="100%"
-                                                        height="100%"
-                                                        viewBox="0 0 20 21"
-                                                        fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg"
-                                                    >
-                                                        <path
-                                                            d="M5 8L10 13L15 8"
-                                                            stroke="currentColor"
-                                                            stroke-width="1.66667"
-                                                            stroke-linecap="round"
-                                                            stroke-linejoin="round"
-                                                        />
-                                                    </svg>
-                                                </div>
-                                            </div>
-                                            <nav class="navbar_mobile-dropdown-list w-dropdown-list">
-                                                <div class="navbar_mobile-dropdown-list-inner">
-                                                    <div class="navbar_mobile-dropdown-link-wrapper">
-                                                        <a
-                                                            href="boost-engagement.php"
-                                                            aria-label="Go to Boost engagement page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Boost engagement</a
-                                                        ><a
-                                                            href="cut-screening-cost.php"
-                                                            aria-label="Go to Cut screening cost page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Cut screening cost</a
-                                                        ><a
-                                                            href="clinical-trials.php"
-                                                            aria-label="Go to Clinical trials pagepage"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Clinical trials</a
-                                                        ><a
-                                                            href="add-objective-health-data.php"
-                                                            aria-label="Go to Add objective health data page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Add objective health data</a
-                                                        ><a
-                                                            href="weight-management.php"
-                                                            aria-label="Go to Weight management page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Weight management &amp; GLP-1</a
-                                                        >
-                                                    </div>
-                                                </div>
-                                            </nav>
-                                        </div>
-                                        <a
-                                            href="pricing.php"
-                                            aria-label="Go to pricing page"
-                                            class="navbar_mobile-link-2 w-inline-block"
-                                            ><div>Pricing</div></a
-                                        >
-                                        <div
-                                            data-delay="0"
-                                            data-hover="false"
-                                            class="navbar_mobile-dropdown-2 w-dropdown"
-                                        >
+                                        <div data-delay="0" data-hover="false" class="navbar_mobile-dropdown-2 w-dropdown">
                                             <div class="navbar_mobile-dropdown-toggle w-dropdown-toggle">
                                                 <div>Company</div>
                                                 <div class="navbar_mobile-dropdown-arrow w-embed">
-                                                    <svg
-                                                        width="100%"
-                                                        height="100%"
-                                                        viewBox="0 0 20 21"
-                                                        fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg"
-                                                    >
-                                                        <path
-                                                            d="M5 8L10 13L15 8"
-                                                            stroke="currentColor"
-                                                            stroke-width="1.66667"
-                                                            stroke-linecap="round"
-                                                            stroke-linejoin="round"
-                                                        />
+                                                    <svg width="100%" height="100%" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M5 8L10 13L15 8" stroke="currentColor" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round"/>
                                                     </svg>
                                                 </div>
                                             </div>
                                             <nav class="navbar_mobile-dropdown-list w-dropdown-list">
                                                 <div class="navbar_mobile-dropdown-list-inner">
                                                     <div class="navbar_mobile-dropdown-link-wrapper">
-                                                        <a
-                                                            href="about-us.php"
-                                                            aria-label="Go to about us page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >About us</a
-                                                        >
-                                                    </div>
-                                                </div>
-                                            </nav>
-                                        </div>
-                                        <div
-                                            data-delay="0"
-                                            data-hover="false"
-                                            class="navbar_mobile-dropdown-2 w-dropdown"
-                                        >
-                                            <div class="navbar_mobile-dropdown-toggle w-dropdown-toggle">
-                                                <div>Resources</div>
-                                                <div class="navbar_mobile-dropdown-arrow w-embed">
-                                                    <svg
-                                                        width="100%"
-                                                        height="100%"
-                                                        viewBox="0 0 20 21"
-                                                        fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg"
-                                                    >
-                                                        <path
-                                                            d="M5 8L10 13L15 8"
-                                                            stroke="currentColor"
-                                                            stroke-width="1.66667"
-                                                            stroke-linecap="round"
-                                                            stroke-linejoin="round"
-                                                        />
-                                                    </svg>
-                                                </div>
-                                            </div>
-                                            <nav class="navbar_mobile-dropdown-list w-dropdown-list">
-                                                <div class="navbar_mobile-dropdown-list-inner">
-                                                    <div class="navbar_mobile-dropdown-link-wrapper">
-                                                        <a
-                                                            href="blog.php"
-                                                            aria-label="Go to blog page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Blog</a
-                                                        ><a
-                                                            href="events.php"
-                                                            aria-label="Go to events page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Events</a
-                                                        ><a
-                                                            href="webinars.php"
-                                                            aria-label="Go to webinars page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Webinars</a
-                                                        ><a
-                                                            href="ebooks.php"
-                                                            aria-label="Go to eBooks page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Ebooks</a
-                                                        ><a
-                                                            href="customer-stories.php"
-                                                            aria-label="Go to customer stories page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Customer stories</a
-                                                        ><a
-                                                            href="glossary.php"
-                                                            aria-label="Go to glossary page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Glossary</a
-                                                        ><a
-                                                            href="https://developer.iHealthy/"
-                                                            aria-label="Go to glossary page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Developer portal</a
-                                                        ><a
-                                                            href="partner-with-shen-ai.php"
-                                                            aria-label="Go to glossary page"
-                                                            class="navbar_mobile-dropdown-link-2 w-dropdown-link"
-                                                            >Partner with us</a
-                                                        >
+                                                        <a href="/about-us" aria-label="Go to about us page" aria-current="page" class="navbar_mobile-dropdown-link-2 w-dropdown-link w--current">About us</a>
+                                                        <a href="/careers.php" aria-label="Go to about us page" aria-current="page" class="navbar_mobile-dropdown-link-2 w-dropdown-link w--current">Careers</a>
                                                     </div>
                                                 </div>
                                             </nav>
@@ -1778,40 +1463,19 @@
                                     </div>
                                     <div class="navbar_menu-mobile-bottom-content">
                                         <div class="navbar_menu-mobile-btn-wrapper">
-                                            <a href="get-started.php" class="button-2 mobile-nav w-button">Get started</a
-                                            ><a href="scan-yourself.php" class="button-2 is-scan for-nav w-inline-block"
-                                                ><div class="button_scan-icon-2 w-embed">
-                                                    <svg
-                                                        width="100%"
-                                                        height="100%"
-                                                        viewBox="0 0 18 18"
-                                                        fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg"
-                                                    >
-                                                        <path
-                                                            d="M3.82578 1.7998C2.7074 1.7998 1.80078 2.70643 1.80078 3.8248V5.6248C1.80078 5.9976 2.10299 6.2998 2.47578 6.2998C2.84857 6.2998 3.15078 5.9976 3.15078 5.6248V3.8248C3.15078 3.45201 3.45299 3.1498 3.82578 3.1498H5.62578C5.99857 3.1498 6.30078 2.8476 6.30078 2.4748C6.30078 2.10201 5.99857 1.7998 5.62578 1.7998H3.82578Z"
-                                                            fill="currentColor"
-                                                        />
-                                                        <path
-                                                            d="M12.3758 1.7998C12.003 1.7998 11.7008 2.10201 11.7008 2.4748C11.7008 2.8476 12.003 3.1498 12.3758 3.1498H14.1758C14.5486 3.1498 14.8508 3.45201 14.8508 3.8248V5.6248C14.8508 5.9976 15.153 6.2998 15.5258 6.2998C15.8986 6.2998 16.2008 5.9976 16.2008 5.6248V3.8248C16.2008 2.70643 15.2942 1.7998 14.1758 1.7998H12.3758Z"
-                                                            fill="currentColor"
-                                                        />
-                                                        <path
-                                                            d="M3.15078 12.3748C3.15078 12.002 2.84857 11.6998 2.47578 11.6998C2.10299 11.6998 1.80078 12.002 1.80078 12.3748V14.1748C1.80078 15.2932 2.7074 16.1998 3.82578 16.1998H5.62578C5.99857 16.1998 6.30078 15.8976 6.30078 15.5248C6.30078 15.152 5.99857 14.8498 5.62578 14.8498H3.82578C3.45299 14.8498 3.15078 14.5476 3.15078 14.1748V12.3748Z"
-                                                            fill="currentColor"
-                                                        />
-                                                        <path
-                                                            d="M16.2008 12.3748C16.2008 12.002 15.8986 11.6998 15.5258 11.6998C15.153 11.6998 14.8508 12.002 14.8508 12.3748V14.1748C14.8508 14.5476 14.5486 14.8498 14.1758 14.8498H12.3758C12.003 14.8498 11.7008 15.152 11.7008 15.5248C11.7008 15.8976 12.003 16.1998 12.3758 16.1998H14.1758C15.2942 16.1998 16.2008 15.2932 16.2008 14.1748V12.3748Z"
-                                                            fill="currentColor"
-                                                        />
-                                                        <path
-                                                            d="M6.30078 8.9998C6.30078 7.50864 7.50961 6.2998 9.00078 6.2998C10.492 6.2998 11.7008 7.50864 11.7008 8.9998C11.7008 10.491 10.492 11.6998 9.00078 11.6998C7.50961 11.6998 6.30078 10.491 6.30078 8.9998Z"
-                                                            fill="currentColor"
-                                                        />
+                                            <a href="/get-started" class="button-2 mobile-nav w-button">Get started</a>
+                                            <a href="https://ihealthybio.com/" class="button-2 is-scan for-nav w-inline-block">
+                                                <div class="button_scan-icon-2 w-embed">
+                                                    <svg width="100%" height="100%" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M3.82578 1.7998C2.7074 1.7998 1.80078 2.70643 1.80078 3.8248V5.6248C1.80078 5.9976 2.10299 6.2998 2.47578 6.2998C2.84857 6.2998 3.15078 5.9976 3.15078 5.6248V3.8248C3.15078 3.45201 3.45299 3.1498 3.82578 3.1498H5.62578C5.99857 3.1498 6.30078 2.8476 6.30078 2.4748C6.30078 2.10201 5.99857 1.7998 5.62578 1.7998H3.82578Z" fill="currentColor"/>
+                                                        <path d="M12.3758 1.7998C12.003 1.7998 11.7008 2.10201 11.7008 2.4748C11.7008 2.8476 12.003 3.1498 12.3758 3.1498H14.1758C14.5486 3.1498 14.8508 3.45201 14.8508 3.8248V5.6248C14.8508 5.9976 15.153 6.2998 15.5258 6.2998C15.8986 6.2998 16.2008 5.9976 16.2008 5.6248V3.8248C16.2008 2.70643 15.2942 1.7998 14.1758 1.7998H12.3758Z" fill="currentColor"/>
+                                                        <path d="M3.15078 12.3748C3.15078 12.002 2.84857 11.6998 2.47578 11.6998C2.10299 11.6998 1.80078 12.002 1.80078 12.3748V14.1748C1.80078 15.2932 2.7074 16.1998 3.82578 16.1998H5.62578C5.99857 16.1998 6.30078 15.8976 6.30078 15.5248C6.30078 15.152 5.99857 14.8498 5.62578 14.8498H3.82578C3.45299 14.8498 3.15078 14.5476 3.15078 14.1748V12.3748Z" fill="currentColor"/>
+                                                        <path d="M16.2008 12.3748C16.2008 12.002 15.8986 11.6998 15.5258 11.6998C15.153 11.6998 14.8508 12.002 14.8508 12.3748V14.1748C14.8508 14.5476 14.5486 14.8498 14.1758 14.8498H12.3758C12.003 14.8498 11.7008 15.152 11.7008 15.5248C11.7008 15.8976 12.003 16.1998 12.3758 16.1998H14.1758C15.2942 16.1998 16.2008 15.2932 16.2008 14.1748V12.3748Z" fill="currentColor"/>
+                                                        <path d="M6.30078 8.9998C6.30078 7.50864 7.50961 6.2998 9.00078 6.2998C10.492 6.2998 11.7008 7.50864 11.7008 8.9998C11.7008 10.491 10.492 11.6998 9.00078 11.6998C7.50961 11.6998 6.30078 10.491 6.30078 8.9998Z" fill="currentColor"/>
                                                     </svg>
                                                 </div>
-                                                <div>Scan yourself</div></a
-                                            >
+                                                <div>Scan yourself</div>
+                                            </a>
                                         </div>
                                     </div>
                                 </div>

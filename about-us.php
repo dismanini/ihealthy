@@ -1443,6 +1443,7 @@
                                                 <div class="navbar_mobile-dropdown-list-inner">
                                                     <div class="navbar_mobile-dropdown-link-wrapper">
                                                         <a href="/about-us" aria-label="Go to about us page" aria-current="page" class="navbar_mobile-dropdown-link-2 w-dropdown-link w--current">About us</a>
+                                                        <a href="/careers.php" aria-label="Go to about us page" aria-current="page" class="navbar_mobile-dropdown-link-2 w-dropdown-link w--current">Careers</a>
                                                     </div>
                                                 </div>
                                             </nav>
@@ -1451,7 +1452,7 @@
                                     <div class="navbar_menu-mobile-bottom-content">
                                         <div class="navbar_menu-mobile-btn-wrapper">
                                             <a href="/get-started" class="button-2 mobile-nav w-button">Get started</a>
-                                            <a href="/scan-yourself" class="button-2 is-scan for-nav w-inline-block">
+                                            <a href="https://ihealthybio.com/" class="button-2 is-scan for-nav w-inline-block">
                                                 <div class="button_scan-icon-2 w-embed">
                                                     <svg width="100%" height="100%" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M3.82578 1.7998C2.7074 1.7998 1.80078 2.70643 1.80078 3.8248V5.6248C1.80078 5.9976 2.10299 6.2998 2.47578 6.2998C2.84857 6.2998 3.15078 5.9976 3.15078 5.6248V3.8248C3.15078 3.45201 3.45299 3.1498 3.82578 3.1498H5.62578C5.99857 3.1498 6.30078 2.8476 6.30078 2.4748C6.30078 2.10201 5.99857 1.7998 5.62578 1.7998H3.82578Z" fill="currentColor"/>
@@ -1953,79 +1954,139 @@
                                         class="navbar-v2_logo"
                                         style="width:100%; height:150px;"
                                     /></a>
-                                    <div class="locale_comp">
-                                        <div class="locale_lang-wrapper">
+                                    <div class="locale_comp" style="margin: 0;">
                                             <div class="w-locales-list">
                                                 <div role="list" class="locales-list w-locales-items">
                                                     <div role="listitem" class="locale w-locales-item">
                                                         <div class="locale_item-wrapper">
-                                                            <a hreflang="en" href="/about-us" aria-current="page" class="link-block w-inline-block w--current">
-                                                                <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/68ef996056b6a477c2e68a3d_us-flag.webp" loading="lazy" alt="United States flag with 13 red and white stripes and 50 white stars on a blue field." class="locale_img"/>
-                                                            </a>
+                                                            <a
+                                                                hreflang="en"
+                                                                href="index.php"
+                                                                aria-current="page"
+                                                                class="link-block w-inline-block w--current"
+                                                                ><img
+                                                                    src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/68ef996056b6a477c2e68a3d_us-flag.webp"
+                                                                    loading="lazy"
+                                                                    alt="United States flag with 13 red and white stripes and 50 white stars on a blue field."
+                                                                    class="locale_img"
+                                                            /></a>
                                                             <div class="locale_text-wrapper">
-                                                                <a hreflang="en" href="/about-us" aria-current="page" class="locale_text w--current">English</a>
+                                                                <a
+                                                                    hreflang="en"
+                                                                    href="index.php"
+                                                                    aria-current="page"
+                                                                    class="locale_text w--current"
+                                                                    >English</a
+                                                                >
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div role="listitem" class="locale w-locales-item">
                                                         <div class="locale_item-wrapper">
-                                                            <a hreflang="es" href="/es/about-us" class="link-block w-inline-block">
-                                                                <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/68d2a99a2447b1452ddcb8e6_spanish.avif" loading="lazy" alt="Rolled Spanish flag with red and yellow horizontal stripes and the national coat of arms in the center." class="locale_img"/>
-                                                            </a>
+                                                            <a
+                                                                hreflang="es"
+                                                                href="/es"
+                                                                class="link-block w-inline-block"
+                                                                ><img
+                                                                    src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/68d2a99a2447b1452ddcb8e6_spanish.avif"
+                                                                    loading="lazy"
+                                                                    alt="Rolled Spanish flag with red and yellow horizontal stripes and the national coat of arms in the center."
+                                                                    class="locale_img"
+                                                            /></a>
                                                             <div class="locale_text-wrapper">
-                                                                <a hreflang="es" href="/es/about-us" class="locale_text">Spanish</a>
+                                                                <a hreflang="es" href="/es" class="locale_text"
+                                                                    >Spanish</a
+                                                                >
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div role="listitem" class="locale w-locales-item">
                                                         <div class="locale_item-wrapper">
-                                                            <a hreflang="de" href="/de/about-us" class="link-block w-inline-block">
-                                                                <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/68ef9921cd843f65fe78f11d_de-flag.webp" loading="lazy" alt="German flag with horizontal stripes in black, red, and gold waving on a pole." class="locale_img"/>
-                                                            </a>
+                                                            <a
+                                                                hreflang="de"
+                                                                href="/de"
+                                                                class="link-block w-inline-block"
+                                                                ><img
+                                                                    src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/68ef9921cd843f65fe78f11d_de-flag.webp"
+                                                                    loading="lazy"
+                                                                    alt="German flag with horizontal stripes in black, red, and gold waving on a pole."
+                                                                    class="locale_img"
+                                                            /></a>
                                                             <div class="locale_text-wrapper">
-                                                                <a hreflang="de" href="/de/about-us" class="locale_text">German</a>
+                                                                <a hreflang="de" href="/de" class="locale_text"
+                                                                    >German</a
+                                                                >
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div role="listitem" class="locale w-locales-item">
                                                         <div class="locale_item-wrapper">
-                                                            <a hreflang="ja" href="/ja/about-us" class="link-block w-inline-block">
-                                                                <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/68f121c861a83ff1ec787ece_japanse.webp" loading="lazy" alt="Japanese flag with a red circle centered on a white rectangular background." class="locale_img"/>
-                                                            </a>
+                                                            <a
+                                                                hreflang="ja"
+                                                                href="/ja"
+                                                                class="link-block w-inline-block"
+                                                                ><img
+                                                                    src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/68f121c861a83ff1ec787ece_japanse.webp"
+                                                                    loading="lazy"
+                                                                    alt="Japanese flag with a red circle centered on a white rectangular background."
+                                                                    class="locale_img"
+                                                            /></a>
                                                             <div class="locale_text-wrapper">
-                                                                <a hreflang="ja" href="/ja/about-us" class="locale_text">Japanese</a>
+                                                                <a hreflang="ja" href="/ja" class="locale_text"
+                                                                    >Japanese</a
+                                                                >
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div role="listitem" class="locale w-locales-item">
                                                         <div class="locale_item-wrapper">
-                                                            <a hreflang="fr" href="/fr/about-us" class="link-block w-inline-block">
-                                                                <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/69397c8a114119eedc9bc3e8_french.png" loading="lazy" alt="" class="locale_img"/>
-                                                            </a>
+                                                            <a
+                                                                hreflang="fr"
+                                                                href="/fr"
+                                                                class="link-block w-inline-block"
+                                                                ><img
+                                                                    src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/69397c8a114119eedc9bc3e8_french.png"
+                                                                    loading="lazy"
+                                                                    alt=""
+                                                                    class="locale_img"
+                                                            /></a>
                                                             <div class="locale_text-wrapper">
-                                                                <a hreflang="fr" href="/fr/about-us" class="locale_text">French</a>
+                                                                <a hreflang="fr" href="/fr" class="locale_text"
+                                                                    >French</a
+                                                                >
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        
                                         <div data-w-id="775c0b8c-0ca3-3142-d5de-88b8eb0f5693" class="locale_toggle">
                                             <div class="w-embed">
-                                                <svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M3.75 1.75H6.25V3H4.97992C4.88321 4.47923 4.4421 5.69231 3.7655 6.67012C3.93176 6.79181 4.10558 6.90331 4.2857 7.00431L3.86279 8.19563C3.54686 8.03175 3.24371 7.84156 2.95802 7.62644C2.25114 8.319 1.41994 8.83038 0.558699 9.19944L0.0662994 8.05056C0.794325 7.7385 1.47067 7.32094 2.03892 6.77644C1.42582 6.07984 0.9639 5.22969 0.732619 4.25H2.02717C2.20389 4.82869 2.48599 5.34706 2.84647 5.79496C3.31514 5.05983 3.64012 4.14395 3.72686 3H0V1.75H2.5V0.5H3.75V1.75Z" fill="#ABE6A1"/>
-                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M4.375 10.5L6.58988 4.25H7.78506L10 10.5H8.67737L8.23363 9.25H6.14133L5.69758 10.5H4.375ZM7.1875 6.30307L7.78988 8H6.58506L7.1875 6.30307Z" fill="#ABE6A1"/>
+                                                <svg
+                                                    width="10"
+                                                    height="11"
+                                                    viewBox="0 0 10 11"
+                                                    fill="none"
+                                                    xmlns="http://www.w3.org/2000/svg"
+                                                >
+                                                    <path
+                                                        d="M3.75 1.75H6.25V3H4.97992C4.88321 4.47923 4.4421 5.69231 3.7655 6.67012C3.93176 6.79181 4.10558 6.90331 4.2857 7.00431L3.86279 8.19563C3.54686 8.03175 3.24371 7.84156 2.95802 7.62644C2.25114 8.319 1.41994 8.83038 0.558699 9.19944L0.0662994 8.05056C0.794325 7.7385 1.47067 7.32094 2.03892 6.77644C1.42582 6.07984 0.9639 5.22969 0.732619 4.25H2.02717C2.20389 4.82869 2.48599 5.34706 2.84647 5.79496C3.31514 5.05983 3.64012 4.14395 3.72686 3H0V1.75H2.5V0.5H3.75V1.75Z"
+                                                        fill="#ABE6A1"
+                                                    />
+                                                    <path
+                                                        fill-rule="evenodd"
+                                                        clip-rule="evenodd"
+                                                        d="M4.375 10.5L6.58988 4.25H7.78506L10 10.5H8.67737L8.23363 9.25H6.14133L5.69758 10.5H4.375ZM7.1875 6.30307L7.78988 8H6.58506L7.1875 6.30307Z"
+                                                        fill="#ABE6A1"
+                                                    />
                                                 </svg>
                                             </div>
-                                            <div class="w-locales-list">
-                                                <div>English</div>
-                                            </div>
+                                            <div class="w-locales-list"><div>English</div></div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="text-size-regular opacity-80">
-                                    © <span id="currentYear">2025</span>
-                                    ihealthy. All rights reserved.
+                                    © <span id="currentYear">2025</span> iHealthy. All rights reserved.
                                 </div>
                                 <div class="footer_privacy-links">
                                     <a href="/privacy-policy" class="footer_link is-privacy">Privacy Policy </a>
@@ -2034,7 +2095,9 @@
                                     <div class="footer_privacy-links-divider"></div>
                                     <a href="/privacy-policy" class="footer_link is-privacy">Cookie Policy </a>
                                     <div class="footer_privacy-links-divider"></div>
-                                    <a href="https://developer.shen.ai/" target="_blank" class="footer_link is-privacy">Developer Portal</a>
+                                    <a href="https://developer.iHealthy/" target="_blank" class="footer_link is-privacy"
+                                        >Developer Portal</a
+                                    >
                                 </div>
                             </div>
                         </div>
@@ -2043,6 +2106,103 @@
                 <div class="footer_bg-gllow"></div>
             </footer>
         </div>
+        <style>
+            /* ---- HIDE-IN-TIGHT-RANGE ATTRIBUTE ------------------------------
+            Add this custom attribute to any navbar element to drop it while
+            the navbar is too cramped (992px–1130px inclusive):
+
+            Name:  data-hide-narrow
+            Value: true
+
+            Below 992px the rule stops applying, so the element reappears in
+            the mobile menu as normal.                                       */
+                    
+            .locale_comp {
+                position: relative;
+            }
+
+            .locales-list {
+                display: none;
+                position: absolute;
+                bottom: 100%;
+                left: 0;
+                margin-bottom: 8px;
+                background-color: #1a1a1a;
+                border: 1px solid rgba(255, 255, 255, 0.15);
+                border-radius: 12px;
+                padding: 8px;
+                box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.4);
+                z-index: 9999;
+            }
+
+            /* Open on hover or when active via JS click */
+            .locale_comp:hover .locales-list,
+            .locale_comp.is-open .locales-list {
+                display: flex !important;
+                flex-direction: column !important;
+                width: 160px !important;
+                gap: 6px !important;
+            }
+            @media (max-width: 768px) {
+                .footer_lang-logo-wrapper {
+                    display: flex !important;
+                    flex-direction: row !important;
+                    align-items: center !important;
+                    gap: 20px !important;
+                }
+                
+                .locale_comp {
+                    position: relative !important;
+                    width: auto !important;
+                }
+                .locale_toggle > .w-locales-list {
+                display: none !important;
+            }
+
+                /* Ensure the toggle button remains visible */
+                .locale_toggle {
+                    display: flex !important;
+                    align-items: center !important;
+                    cursor: pointer;
+                }
+
+                /* Hide the list by default on mobile */
+            .locales-list {
+                display: none !important;
+                position: absolute !important;
+                bottom: 100% !important;
+                left: 0 !important;
+                margin-bottom: 8px !important;
+                z-index: 9999 !important;
+                background-color: #1a1a1a !important;
+                border: 1px solid rgba(255, 255, 255, 0.15) !important;
+                border-radius: 12px !important;
+                padding: 8px !important;
+                box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.4) !important;
+            }
+
+            /* Show list when component is active/hovered */
+            .locale_comp:hover .locales-list,
+            .locale_comp.is-open .locales-list {
+                display: flex !important;
+                flex-direction: column !important;
+                width: 160px !important;
+                gap: 6px !important;
+            }
+
+            .locale_item-wrapper {
+                padding: 8px 12px !important;
+                gap: 10px !important;
+                width: 100% !important;
+            }
+            }
+            
+            @media (min-width: 992px) and (max-width: 1130px) {
+                [data-hide-narrow] {
+                    display: none !important;
+                }
+            }
+        </style>
         <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=680280c18df8e68403545b30" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
         <script src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/js/shen-ai-website.396bbe42.a5de7e37d2345930.js" type="text/javascript" integrity="sha384-gdXLuerJeREL6mLPf4kpafmiN8IGH901aG5m0QMSs2ZUjNlIYhsTgZM10H2S3Vxn" crossorigin="anonymous"></script>
         <!-- Google Tag Manager (noscript) -->
@@ -2053,14 +2213,99 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.4.7/swiper-bundle.min.js"></script>
         <style>
             /* ---- HIDE-IN-TIGHT-RANGE ATTRIBUTE ------------------------------
-     Add this custom attribute to any navbar element to drop it while
-     the navbar is too cramped (992px–1130px inclusive):
+            Add this custom attribute to any navbar element to drop it while
+            the navbar is too cramped (992px–1130px inclusive):
 
-       Name:  data-hide-narrow
-       Value: true
+            Name:  data-hide-narrow
+            Value: true
 
-     Below 992px the rule stops applying, so the element reappears in
-     the mobile menu as normal.                                       */
+            Below 992px the rule stops applying, so the element reappears in
+            the mobile menu as normal.                                       */
+                    
+            .locale_comp {
+                position: relative;
+            }
+
+            .locales-list {
+                display: none;
+                position: absolute;
+                bottom: 100%;
+                left: 0;
+                margin-bottom: 8px;
+                background-color: #1a1a1a;
+                border: 1px solid rgba(255, 255, 255, 0.15);
+                border-radius: 12px;
+                padding: 8px;
+                box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.4);
+                z-index: 9999;
+            }
+
+            /* Open on hover or when active via JS click */
+            .locale_comp:hover .locales-list,
+            .locale_comp.is-open .locales-list {
+                display: flex !important;
+                flex-direction: column !important;
+                width: 160px !important;
+                gap: 6px !important;
+            }
+            @media (max-width: 768px) {
+                .footer_lang-logo-wrapper {
+                    display: flex !important;
+                    flex-direction: row !important;
+                    align-items: center !important;
+                    gap: 20px !important;
+                }
+                
+                .locale_comp {
+                    position: relative !important;
+                    width: auto !important;
+                }
+                .locale_toggle > .w-locales-list {
+                display: none !important;
+            }
+
+            /* Ensure the toggle button remains visible */
+            .locale_toggle {
+                display: flex !important;
+                align-items: center !important;
+                cursor: pointer;
+            }
+
+            /* Hide the list by default on mobile */
+            .locales-list {
+                display: none !important;
+                position: absolute !important;
+                bottom: 100% !important;
+                left: 0 !important;
+                margin-bottom: 8px !important;
+                z-index: 9999 !important;
+                background-color: #1a1a1a !important;
+                border: 1px solid rgba(255, 255, 255, 0.15) !important;
+                border-radius: 12px !important;
+                padding: 8px !important;
+                box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.4) !important;
+            }
+
+            /* Remove hover behavior on mobile */
+            .locale_comp:hover .locales-list {
+                display: none !important;
+            }
+
+            /* Only show when .is-open is toggled via JS */
+            .locale_comp.is-open .locales-list {
+                display: flex !important;
+                flex-direction: column !important;
+                width: 160px !important;
+                gap: 6px !important;
+            }
+
+            .locale_item-wrapper {
+                padding: 8px 12px !important;
+                gap: 10px !important;
+                width: 100% !important;
+            }
+            }
+            
             @media (min-width: 992px) and (max-width: 1130px) {
                 [data-hide-narrow] {
                     display: none !important;
