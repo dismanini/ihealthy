@@ -1,6 +1,17 @@
  <footer class="footer">
      <div class="container-large">
          <div class="footer_component">
+            <a href="/" class="footer_logo-wrapper mobile w-inline-block">
+                <div class="footer_logo w-embed">
+                    <!-- Replace the SVG below with your image tag -->
+                    <img 
+                        src="/images/iHealthy Asset 1.svg" 
+                        alt=""
+                        style="width: 100%; height: auto; object-fit: contain;"
+                    />
+                </div>
+            </a>   
+
              <div class="footer_link-list">
                  <div class="footer_link-list-inner">
                      <div class="footer_link-item">
@@ -23,12 +34,14 @@
                          <a
                              aria-label="Go to scan yourself page"
                              href="https://ihealthybio.com/"
-                             class="footer_link is-white">Scan yourself</a><a
+                             class="footer_link is-white">Scan yourself</a>
+                        <a
                              aria-label="Go to scan yourself page"
                              href="partner-with-ihealthy-ai.php"
-                             class="footer_link is-white">Partner with us</a><a aria-label="Go to contact page" href="contact.php" class="footer_link is-white">Talk to sales</a><a
-                             aria-label="Go to contact page"
-                             href="get-started.php"
+                             class="footer_link is-white">Partner with us</a>
+                        <a aria-label="Go to contact page" href="contact.php" class="footer_link is-white">Talk to sales</a>
+                        <a aria-label="Go to contact page"
+                             href="/"
                              class="footer_link is-white">Get started
                          </a>
                      </div>
@@ -44,7 +57,7 @@
                              <div
                                  aria-label="ShenAI R and D office address: Lõõtsa tn 8a, 11415 Tallinn, Estonia">
                                  <span class="opacity-40 text-weight-medium text-color-white">R&amp;D:</span>
-                                 Hig - 32, K - 6, Kalinga Vihar,<br />Patrapada, Bhubaneswar
+                                 Hig - 32, K - 6, Kalinga Vihar,<br />Patrapada, Bhubaneswar, Odisha, India
                              </div>
                          </address>
                          <div>
@@ -301,6 +314,12 @@
              display: none !important;
          }
      }
+
+     @media screen and (max-width: 768px) {
+        .hide-footer-logo-mobile {
+            display: none !important;
+        }
+    }
  </style>
 
  <script>

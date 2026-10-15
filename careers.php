@@ -1544,7 +1544,7 @@
                                             aria-label="ShenAI R and D office address: Lõõtsa tn 8a, 11415 Tallinn, Estonia"
                                         >
                                             <span class="opacity-40 text-weight-medium text-color-white">R&amp;D:</span>
-                                            Hig - 32, K - 6, Kalinga Vihar,<br/>Patrapada, Bhubaneswar
+                                            Hig - 32, K - 6, Kalinga Vihar,<br/>Patrapada, Bhubaneswar, Odisha, India
                                         </div>
                                     </address>
                                     <div>
