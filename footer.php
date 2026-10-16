@@ -1,16 +1,15 @@
  <footer class="footer">
      <div class="container-large">
          <div class="footer_component">
-            <a href="/" class="footer_logo-wrapper mobile w-inline-block">
-                <div class="footer_logo w-embed">
-                    <!-- Replace the SVG below with your image tag -->
-                    <img 
-                        src="/images/iHealthy Asset 1.svg" 
-                        alt=""
-                        style="width: 100%; height: auto; object-fit: contain;"
-                    />
-                </div>
-            </a>   
+             <a href="/" class="footer_logo-wrapper mobile w-inline-block">
+                 <div class="footer_logo w-embed">
+                     <!-- Replace the SVG below with your image tag -->
+                     <img
+                         src="/images/iHealthy Asset 1.svg"
+                         alt=""
+                         style="width: 100%; height: auto; object-fit: contain;" />
+                 </div>
+             </a>
 
              <div class="footer_link-list">
                  <div class="footer_link-list-inner">
@@ -35,12 +34,12 @@
                              aria-label="Go to scan yourself page"
                              href="https://ihealthybio.com/"
                              class="footer_link is-white">Scan yourself</a>
-                        <a
+                         <a
                              aria-label="Go to scan yourself page"
                              href="partner-with-ihealthy-ai.php"
                              class="footer_link is-white">Partner with us</a>
-                        <a aria-label="Go to contact page" href="contact.php" class="footer_link is-white">Talk to sales</a>
-                        <a aria-label="Go to contact page"
+                         <a aria-label="Go to contact page" href="contact.php" class="footer_link is-white">Talk to sales</a>
+                         <a aria-label="Go to contact page"
                              href="/"
                              class="footer_link is-white">Get started
                          </a>
@@ -117,13 +116,9 @@
              <div class="footer_bottom-content">
                  <div class="footer_bottom-left">
                      <div class="footer_lang-logo-wrapper" style="display: flex; align-items: center; gap: 20px;">
-                         <a href="/" aria-current="page" class="link-block-2 w-inline-block w--current" style="display: flex; align-items: center;"><img
-                            loading="lazy"
-                            src="images/iHealthy Asset 1.svg"
-                            alt=""
-                            class="navbar-v2_logo"
-                            style="width:100%; height:150px;" />
-                        </a>
+                         <a href="/" aria-current="page" class="link-block-2 w-inline-block w--current hide-footer-logo-mobile" style="display: flex; align-items: center;">
+                             <img loading="lazy" src="images/iHealthy Asset 1.svg" alt="" class="navbar-v2_logo" style="width:100%; height:150px;" />
+                         </a>
                          <div class="locale_comp" style="margin: 0;">
                              <div class="locale_lang-wrapper">
                                  <div class="w-locales-list">
@@ -316,10 +311,10 @@
      }
 
      @media screen and (max-width: 768px) {
-        .hide-footer-logo-mobile {
-            display: none !important;
-        }
-    }
+         .hide-footer-logo-mobile {
+             display: none !important;
+         }
+     }
  </style>
 
  <script>
