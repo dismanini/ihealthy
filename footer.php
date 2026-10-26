@@ -19,7 +19,7 @@
                              <a aria-label="Go to SKD page" href="https://ihealthybio.com/" class="footer_link">iHealthy - Human</a><a
                                  aria-label="Go to scientific research page"
                                  href="/medical-device"
-                                 class="footer_link">iHealthy - Animal</a><a aria-label="Go to tehnology page" href="/health-assessment-web-service" class="footer_link">iYoungBio</a>
+                                 class="footer_link">iHealthy - Animal</a><a aria-label="Go to tehnology page" href="https://iyoung.vercel.app/" class="footer_link">iYoungBio</a>
                          </div>
                      </div>
                      <div class="footer_link-item-last">

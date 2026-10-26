@@ -808,7 +808,7 @@
                                                     <a
                                                         aria-label="Go to SDK page"
                                                         blocks-name="navbar_dropdown-link"
-                                                        href="sdk.php"
+                                                        href="https://ihealthybio.com/"
                                                         class="nav_dropdown-link w-inline-block">
                                                         <div class="nav_icon-wrapper">
                                                             <div class="nav_dropdown-link-icon w-embed">
@@ -1059,7 +1059,7 @@
                                                 <div class="navbar_mobile-dropdown-link-wrapper">
                                                     <a href="/sdk" aria-label="Go to SDK page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">iHealthyBio - Human</a>
                                                     <a href="animal.php" aria-label="Go to Certified medical device page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">iHealthyBio - Animal</a>
-                                                    <a href="/health-assessment-web-service" aria-label="Go to Web app builder page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">iYoungBio</a>
+                                                    <a href="https://iyoung.vercel.app/" aria-label="Go to Web app builder page" class="navbar_mobile-dropdown-link-2 w-dropdown-link">iYoungBio</a>
                                                 </div>
                                             </div>
                                         </nav>
@@ -1483,7 +1483,8 @@
                                     <a aria-label="Go to SKD page" href="https://ihealthybio.com/" class="footer_link">iHealthy - Human</a><a
                                         aria-label="Go to scientific research page"
                                         href="/animal.php"
-                                        class="footer_link">iHealthy - Animal</a><a aria-label="Go to tehnology page" href="/health-assessment-web-service" class="footer_link">iYoungBio</a>
+                                        class="footer_link">iHealthy - Animal</a>
+                                        <a aria-label="Go to tehnology page" href="https://iyoung.vercel.app/" class="footer_link">iYoungBio</a>
                                 </div>
                             </div>
                             <div class="footer_link-item-last">

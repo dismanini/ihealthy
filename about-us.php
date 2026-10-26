@@ -1157,7 +1157,7 @@
                                                         <a
                                                             aria-label="Go to SDK page"
                                                             blocks-name="navbar_dropdown-link"
-                                                            href="sdk.php"
+                                                            href="https://ihealthybio.com/"
                                                             class="nav_dropdown-link w-inline-block"
                                                             ><div class="nav_icon-wrapper">
                                                                 <div class="nav_dropdown-link-icon w-embed">
