@@ -1154,10 +1154,10 @@
                     <div class="home-hero_component is-alternative is-hero-home">
                         <div id="w-node-fb3f9016-ff50-9e7a-5d70-dfd0a195198a-03545b2f" class="home-hero_content">
                             <div class="home-hero_content-main">
-                                <h1 class="heading-style-h1 text-color-292c2a">Get insights into 15+ health markers using just a camera and your face.</h1>
+                                <h1 class="heading-style-h1 text-color-292c2a">Get Insights Into 15+ Health Markers With Just a Facial Scan</h1>
                                 <div class="max-width-500">
                                     <p class="text-size-medium text-color-00060f opacity-80">
-                                        AI-driven health intelligence built to support <br />better healthcare decisions.
+                                       AI-powered facial analysis designed to provide quick <br/>health insights and support informed healthcare decisions.
                                     </p>
                                 </div>
                                 <div class="home-hero_list">
@@ -1167,7 +1167,7 @@
                                                 <path d="M0 0H15L7.5 6.5L0 13V0Z" fill="#ABE6A1" />
                                             </svg>
                                         </div>
-                                        <p class="text-size-medium text-color-00060f opacity-80">AI-powered facial analysis</p>
+                                        <p class="text-size-medium text-color-00060f opacity-80">AI-Powered Facial Analysis</p>
                                     </div>
                                     <div class="home-hero_list-item">
                                         <div class="home-hero_list-item-dot w-embed">
@@ -1175,7 +1175,7 @@
                                                 <path d="M0 0H15L7.5 6.5L0 13V0Z" fill="#ABE6A1" />
                                             </svg>
                                         </div>
-                                        <p class="text-size-medium text-color-00060f opacity-80">Quick health insights in seconds</p>
+                                        <p class="text-size-medium text-color-00060f opacity-80">Advanced AI technology analyzes facial images to generate health-related insights.</p>
                                     </div>
                                     <div class="home-hero_list-item">
                                         <div class="home-hero_list-item-dot w-embed">
@@ -1183,7 +1183,7 @@
                                                 <path d="M0 0H15L7.5 6.5L0 13V0Z" fill="#ABE6A1" />
                                             </svg>
                                         </div>
-                                        <p class="text-size-medium text-color-00060f opacity-80">Clinically validated technology</p>
+                                        <p class="text-size-medium text-color-00060f opacity-80">Quick Insights in Seconds</p>
                                     </div>
                                     <div class="home-hero_list-item">
                                         <div class="home-hero_list-item-dot w-embed">
@@ -1191,7 +1191,39 @@
                                                 <path d="M0 0H15L7.5 6.5L0 13V0Z" fill="#ABE6A1" />
                                             </svg>
                                         </div>
-                                        <p class="text-size-medium text-color-00060f opacity-80">Seamless mobile & web integration</p>
+                                        <p class="text-size-medium text-color-00060f opacity-80">Get preliminary health insights through a simple facial scan.</p>
+                                    </div>
+                                    <div class="home-hero_list-item">
+                                        <div class="home-hero_list-item-dot w-embed">
+                                            <svg width="100%" viewBox="0 0 15 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M0 0H15L7.5 6.5L0 13V0Z" fill="#ABE6A1" />
+                                            </svg>
+                                        </div>
+                                        <p class="text-size-medium text-color-00060f opacity-80">Research-Backed Technology</p>
+                                    </div>
+                                    <div class="home-hero_list-item">
+                                        <div class="home-hero_list-item-dot w-embed">
+                                            <svg width="100%" viewBox="0 0 15 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M0 0H15L7.5 6.5L0 13V0Z" fill="#ABE6A1" />
+                                            </svg>
+                                        </div>
+                                        <p class="text-size-medium text-color-00060f opacity-80">Designed to support health awareness through AI-driven analysis.</p>
+                                    </div>
+                                    <div class="home-hero_list-item">
+                                        <div class="home-hero_list-item-dot w-embed">
+                                            <svg width="100%" viewBox="0 0 15 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M0 0H15L7.5 6.5L0 13V0Z" fill="#ABE6A1" />
+                                            </svg>
+                                        </div>
+                                        <p class="text-size-medium text-color-00060f opacity-80">Seamless Mobile & Web Integration</p>
+                                    </div>
+                                    <div class="home-hero_list-item">
+                                        <div class="home-hero_list-item-dot w-embed">
+                                            <svg width="100%" viewBox="0 0 15 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M0 0H15L7.5 6.5L0 13V0Z" fill="#ABE6A1" />
+                                            </svg>
+                                        </div>
+                                        <p class="text-size-medium text-color-00060f opacity-80">Access facial scanning features across mobile devices and web platforms.</p>
                                     </div>
                                 </div>
                             </div>
@@ -1215,201 +1247,6 @@
                     </div>
                 </div>
             </header>
-            <section data-wf--section-trusted-by-logos--variant="base-static" class="section home-trusted">
-                <div class="home-trusted_component">
-                    <p class="text-size-regular text-color-00060f text-weight-semibold opacity-60 mobile-80">Trusted by leading health &amp; insurance innovators</p>
-                    <div class="home-trusted_marquee w-variant-dae84533-bcd3-9b69-b9b5-f11a5b5a3146">
-                        <div class="home-trusted_marquee-component scroll">
-                            <div class="home-trusted_coll-list-wrapper w-dyn-list">
-                                <div role="list" class="home-trusted_coll-list w-dyn-items">
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/693196cfe1c068edb8bae3dc_Group%2019156.svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545b5d_Deutsche%20Telekom.svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545f39_caremind.svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68b84a00085477c5ae09107a_samplemed-dark2.svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/6931982710ea339fb9f827f7__vivaWell%20dark.svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/6a690716ebbad95b88c0bb59_Group%201878.png" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="home-trusted_coll-list-wrapper for-dark w-dyn-list">
-                                <div role="list" class="home-trusted_coll-list w-dyn-items">
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/69319947b44fe2be8a839243_doxyme%20logo%20bright.svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545c8d_Deutche%20Telecom.svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545f3a_Caremind%20white.svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68b16ecaeefc89fe82548eac_samplemed%20(1).svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/69319824e0c9edf383b567fc__vivaWell%20bright.svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/6a690716ebbad95b88c0bb59_Group%201878.png" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="home-trusted_marquee-component scroll">
-                            <div class="home-trusted_coll-list-wrapper w-dyn-list">
-                                <div role="list" class="home-trusted_coll-list w-dyn-items">
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/693196cfe1c068edb8bae3dc_Group%2019156.svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545b5d_Deutsche%20Telekom.svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545f39_caremind.svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68b84a00085477c5ae09107a_samplemed-dark2.svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/6931982710ea339fb9f827f7__vivaWell%20dark.svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/6a690716ebbad95b88c0bb59_Group%201878.png" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="home-trusted_coll-list-wrapper for-dark w-dyn-list">
-                                <div role="list" class="home-trusted_coll-list w-dyn-items">
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/69319947b44fe2be8a839243_doxyme%20logo%20bright.svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545c8d_Deutche%20Telecom.svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545f3a_Caremind%20white.svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68b16ecaeefc89fe82548eac_samplemed%20(1).svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/69319824e0c9edf383b567fc__vivaWell%20bright.svg" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                        <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/6a690716ebbad95b88c0bb59_Group%201878.png" loading="eager" alt="" class="home-trusted_item-img" />
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="home-trusted_marquee-embed w-embed">
-                        <style>
-                            @keyframes scroll {
-                                from {
-                                    transform: translateX(0);
-                                }
-
-                                to {
-                                    transform: translateX(calc(-100% - 3.75rem));
-                                }
-                            }
-
-                            .scroll {
-                                animation: scroll 40s linear infinite;
-                            }
-
-                            .reverse {
-                                animation-direction: reverse;
-                            }
-
-                            .marquee-image {
-                                -webkit-transform: translateZ(0);
-                            }
-
-                            .home-trusted_marquee {
-                                position: relative;
-                                overflow: hidden;
-                                mask-image: linear-gradient(to right, transparent, black 15%, black 85%, transparent);
-                                -webkit-mask-image: linear-gradient(to right, transparent, black 15%, black 85%, transparent);
-                            }
-                        </style>
-                    </div>
-                    <div class="padding-global white-bg w-variant-dae84533-bcd3-9b69-b9b5-f11a5b5a3146">
-                        <div class="container-large">
-                            <div class="home-trusted_component">
-                                <div class="home-trusted_static">
-                                    <div class="home-trusted_marquee-component is-static">
-                                        <div class="home-trusted_coll-list-wrapper is-static w-dyn-list">
-                                            <div role="list" class="home-trusted_coll-list is-static w-dyn-items">
-                                                <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                    <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/693196cfe1c068edb8bae3dc_Group%2019156.svg" alt="" class="home-trusted_item-img" />
-                                                </div>
-                                                <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                    <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545b5d_Deutsche%20Telekom.svg" alt="" class="home-trusted_item-img" />
-                                                </div>
-                                                <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                    <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545f39_caremind.svg" alt="" class="home-trusted_item-img" />
-                                                </div>
-                                                <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                    <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68b84a00085477c5ae09107a_samplemed-dark2.svg" alt="" class="home-trusted_item-img" />
-                                                </div>
-                                                <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                    <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/6931982710ea339fb9f827f7__vivaWell%20dark.svg" alt="" class="home-trusted_item-img" />
-                                                </div>
-                                                <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                    <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/6a690716ebbad95b88c0bb59_Group%201878.png" alt="" class="home-trusted_item-img" />
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="padding-global dark-bg w-variant-dae84533-bcd3-9b69-b9b5-f11a5b5a3146">
-                        <div class="container-large">
-                            <div class="home-trusted_component">
-                                <div class="home-trusted_static">
-                                    <div class="home-trusted_marquee-component is-static">
-                                        <div class="home-trusted_coll-list-wrapper is-static w-dyn-list">
-                                            <div role="list" class="home-trusted_coll-list is-static w-dyn-items">
-                                                <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                    <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/69319947b44fe2be8a839243_doxyme%20logo%20bright.svg" alt="" class="home-trusted_item-img" />
-                                                </div>
-                                                <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                    <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545c8d_Deutche%20Telecom.svg" alt="" class="home-trusted_item-img" />
-                                                </div>
-                                                <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                    <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545f3a_Caremind%20white.svg" alt="" class="home-trusted_item-img" />
-                                                </div>
-                                                <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                    <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68b16ecaeefc89fe82548eac_samplemed%20(1).svg" alt="" class="home-trusted_item-img" />
-                                                </div>
-                                                <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                    <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/69319824e0c9edf383b567fc__vivaWell%20bright.svg" alt="" class="home-trusted_item-img" />
-                                                </div>
-                                                <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                    <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/6a690716ebbad95b88c0bb59_Group%201878.png" alt="" class="home-trusted_item-img" />
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
             <section class="section home-built">
                 <div class="container-large">
                     <div class="home-built_component">
@@ -1422,10 +1259,10 @@
                                     <a data-w-tab="Tab 1" id="first" data-w-id="44d384cc-06ba-d9f0-36fa-62abed9b9d47" class="home-built_tab-link first w-inline-block w-tab-link">
                                         <div class="home-built_tab-link-header for-h2">
                                             <div class="max-width-small h2-holder">
-                                                <h2 class="heading-style-h3 text-weight-medium">Built for health and insurance leaders</h2>
+                                                <h2 class="heading-style-h3 text-weight-medium">Smarter Health Insights Through Facial Scanning</h2>
                                             </div>
                                             <div class="home-built_tab-link-header-inner">
-                                                <div class="home-built_tab-link-heading">30+ health markers in 30 seconds</div>
+                                                <div class="home-built_tab-link-heading">AI-Powered Health Insights in Seconds</div>
                                                 <div class="home-built_tab-icon-wrapper">
                                                     <div class="home-built_tab-icon-line-1"></div>
                                                     <div class="home-built_tab-icon-line-2"></div>
@@ -1435,16 +1272,16 @@
                                         <div class="home-built_tab-link-answer">
                                             <div class="home-built_tab-link-answer-inner">
                                                 <p class="home-built_tab-link-p">
-                                                    Track health markers like blood pressure, BMI, heart rate (HR), heart rate variability (HRV), and more in just 30 seconds with a face scan health assessment.<br />
+                                                   Discover AI-powered health insights through a simple facial scan. Explore health-related indicators such as heart rate (HR), heart rate variability (HRV), and other wellness metrics to support better health awareness and informed decisions.<br />
                                                     <br />
-                                                    <em>*The product is currently undergoing conformity assessment in accordance with Regulation (EU) 2017/745 (Medical Device Regulation).</em>
+                                                    <!-- <em>*The product is currently undergoing conformity assessment in accordance with Regulation (EU) 2017/745 (Medical Device Regulation).</em> -->
                                                 </p>
                                             </div>
                                         </div>
                                     </a>
                                     <a data-w-tab="Tab 2" class="home-built_tab-link w-inline-block w-tab-link">
                                         <div class="home-built_tab-link-header">
-                                            <div class="home-built_tab-link-heading">100% video processing</div>
+                                            <div class="home-built_tab-link-heading">Seamless Facial Scan Processing</div>
                                             <div class="home-built_tab-icon-wrapper">
                                                 <div class="home-built_tab-icon-line-1"></div>
                                                 <div class="home-built_tab-icon-line-2"></div>
@@ -1452,13 +1289,13 @@
                                         </div>
                                         <div class="home-built_tab-link-answer">
                                             <div class="home-built_tab-link-answer-inner">
-                                                <p class="home-built_tab-link-p">Computer vision and AI analyzes various biosignals in the real-time only with a camera feed. No user information required.</p>
+                                                <p class="home-built_tab-link-p">Our AI-powered computer vision technology analyzes facial signals from a live camera feed to generate quick wellness insights—without requiring users to enter personal information.</p>
                                             </div>
                                         </div>
                                     </a>
                                     <a data-w-tab="Tab 3" class="home-built_tab-link w-inline-block w-tab-link w--current">
                                         <div class="home-built_tab-link-header">
-                                            <div class="home-built_tab-link-heading">Clinically validated and certified medical device</div>
+                                            <div class="home-built_tab-link-heading">Advanced AI-Powered Facial Analysis</div>
                                             <div class="home-built_tab-icon-wrapper">
                                                 <div class="home-built_tab-icon-line-1"></div>
                                                 <div class="home-built_tab-icon-line-2"></div>
@@ -1466,13 +1303,13 @@
                                         </div>
                                         <div class="home-built_tab-link-answer">
                                             <div class="home-built_tab-link-answer-inner">
-                                                <p class="home-built_tab-link-p">The technology has undergone thorough clinical validation. With consistent performance and high measurement precision, iHealthy is designed to deliver results you can trust.</p>
+                                                <p class="home-built_tab-link-p">iHealthy uses advanced AI and computer vision technology to analyze facial signals and provide quick wellness insights. Designed with a focus on convenience and accessibility, our technology supports a smarter approach to health awareness.</p>
                                             </div>
                                         </div>
                                     </a>
                                     <a data-w-tab="Tab 4" class="home-built_tab-link w-inline-block w-tab-link">
                                         <div class="home-built_tab-link-header">
-                                            <div class="home-built_tab-link-heading">Reliable</div>
+                                            <div class="home-built_tab-link-heading">Intelligent</div>
                                             <div class="home-built_tab-icon-wrapper">
                                                 <div class="home-built_tab-icon-line-1"></div>
                                                 <div class="home-built_tab-icon-line-2"></div>
@@ -1480,13 +1317,13 @@
                                         </div>
                                         <div class="home-built_tab-link-answer">
                                             <div class="home-built_tab-link-answer-inner">
-                                                <p class="home-built_tab-link-p">Delivers accurate results for all skin tones, works with any camera, and remains reliable even in poor lighting conditions.</p>
+                                                <p class="home-built_tab-link-p">Designed for broad accessibility, iHealthy uses AI-powered facial scanning technology to support convenient wellness insights across different skin tones and camera devices, with performance that may vary depending on lighting conditions.</p>
                                             </div>
                                         </div>
                                     </a>
                                     <a data-w-tab="Tab 5" class="home-built_tab-link w-inline-block w-tab-link">
                                         <div class="home-built_tab-link-header">
-                                            <div class="home-built_tab-link-heading">Simple to use</div>
+                                            <div class="home-built_tab-link-heading">Effortless Facial Scanning</div>
                                             <div class="home-built_tab-icon-wrapper">
                                                 <div class="home-built_tab-icon-line-1"></div>
                                                 <div class="home-built_tab-icon-line-2"></div>
@@ -1494,7 +1331,7 @@
                                         </div>
                                         <div class="home-built_tab-link-answer">
                                             <div class="home-built_tab-link-answer-inner">
-                                                <p class="home-built_tab-link-p">With iHealthy, users get real-time insights into 30+ health markers in 30 seconds—no wearables, no extra steps. The process is quick, interactive, and designed to feel effortless from start to finish.</p>
+                                                <p class="home-built_tab-link-p">With iHealthy, users can explore AI-powered wellness insights through a simple facial scan using a camera. The experience is designed to be quick, convenient, and user-friendly, helping make health awareness more accessible without the need for additional wearable devices.</p>
                                             </div>
                                         </div>
                                     </a>
@@ -1559,7 +1396,7 @@
                             <div class="w-layout-grid home-build_mobile-list">
                                 <div class="home-build_mobile-qccordion">
                                     <div data-w-id="178152b6-ddca-5dcf-a159-78645b434668" class="home-build_mobile-question first">
-                                        <div class="text-size-regular text-weight-semibold">30+ health markers in 30-second </div>
+                                        <div class="text-size-regular text-weight-semibold">AI-Powered Health Insights in Seconds</div>
                                         <div class="home-build_mobile-icon-wrappper">
                                             <div class="home-built_tab-icon-line-1"></div>
                                             <div class="home-built_tab-icon-line-2"></div>
@@ -1568,7 +1405,8 @@
                                     <div style="width:100%;height:0px" class="home-build_mobile-answer">
                                         <div class="home-build_mobile-inner-answer">
                                             <div class="home-build_mobile-text-wrapper">
-                                                <p class="text-color-dark-grey text-size-regular">Measure health markers like blood pressure, BMI, heart rate (HR), heart rate variability (HRV) and more in just 30 seconds with face scan health assessment.</p>
+                                                <p class="text-color-dark-grey text-size-regular">
+                                                   Discover AI-powered health insights through a simple facial scan. Explore health-related indicators such as heart rate (HR), heart rate variability (HRV), and other wellness metrics to support better health awareness and informed decisions.</p>
                                                 <div class="spacer-small"></div>
                                             </div>
                                             <div class="home-build_mobile-tab-wrapper">
@@ -1610,7 +1448,7 @@
                                 </div>
                                 <div class="home-build_mobile-qccordion">
                                     <div data-w-id="ddd5c894-d67b-682b-8816-ce7cfc20b854" class="home-build_mobile-question">
-                                        <div class="text-size-regular text-weight-semibold">100% video processing</div>
+                                        <div class="text-size-regular text-weight-semibold">Seamless Facial Scan Processing</div>
                                         <div class="home-build_mobile-icon-wrappper">
                                             <div class="home-built_tab-icon-line-1"></div>
                                             <div class="home-built_tab-icon-line-2"></div>
@@ -1619,7 +1457,7 @@
                                     <div style="width:100%;height:0px" class="home-build_mobile-answer">
                                         <div class="home-build_mobile-inner-answer">
                                             <div class="home-build_mobile-text-wrapper">
-                                                <p class="text-size-regular text-color-dark-grey">Computer Vision and AI analyzes various bio-signals in the real-time only with a camera feed. No user information required.</p>
+                                                <p class="text-size-regular text-color-dark-grey">Our AI-powered computer vision technology analyzes facial signals from a live camera feed to generate quick wellness insights—without requiring users to enter personal information.</p>
                                             </div>
                                             <div class="spacer-small"></div>
                                             <div class="home-build_mobile-tab-wrapper">
@@ -1632,7 +1470,7 @@
                                 </div>
                                 <div class="home-build_mobile-qccordion">
                                     <div data-w-id="786f7744-f8e5-5fa2-eaf5-6d4b6db09867" class="home-build_mobile-question">
-                                        <div class="text-size-regular text-weight-semibold">Clinically validated</div>
+                                        <div class="text-size-regular text-weight-semibold">Advanced AI-Powered Facial Analysis</div>
                                         <div class="home-build_mobile-icon-wrappper">
                                             <div class="home-built_tab-icon-line-1"></div>
                                             <div class="home-built_tab-icon-line-2"></div>
@@ -1654,7 +1492,7 @@
                                 </div>
                                 <div class="home-build_mobile-qccordion">
                                     <div data-w-id="65a38d39-e64d-0550-4f47-fc8de6fc0224" class="home-build_mobile-question">
-                                        <div class="text-size-regular text-weight-semibold">Reliable</div>
+                                        <div class="text-size-regular text-weight-semibold">Intelligent</div>
                                         <div class="home-build_mobile-icon-wrappper">
                                             <div class="home-built_tab-icon-line-1"></div>
                                             <div class="home-built_tab-icon-line-2"></div>
@@ -1663,7 +1501,7 @@
                                     <div style="width:100%;height:0px" class="home-build_mobile-answer">
                                         <div class="home-build_mobile-inner-answer">
                                             <div class="home-build_mobile-text-wrapper">
-                                                <p class="text-size-regular text-color-dark-grey">Delivers accurate results for all skin tones, works with any camera, and remains reliable even in poor light condition.</p>
+                                                <p class="text-size-regular text-color-dark-grey">Designed for broad accessibility, iHealthy uses AI-powered facial scanning technology to support convenient wellness insights across different skin tones and camera devices, with performance that may vary depending on lighting conditions.</p>
                                                 <div class="spacer-small"></div>
                                             </div>
                                             <div class="home-build_mobile-tab-wrapper">
@@ -1676,7 +1514,7 @@
                                 </div>
                                 <div class="home-build_mobile-qccordion">
                                     <div data-w-id="e4700c24-2b81-028c-f26d-4250fcb69d76" class="home-build_mobile-question">
-                                        <div class="text-size-regular text-weight-semibold">Simple to use</div>
+                                        <div class="text-size-regular text-weight-semibold">Effortless Facial Scanning</div>
                                         <div class="home-build_mobile-icon-wrappper">
                                             <div class="home-built_tab-icon-line-1"></div>
                                             <div class="home-built_tab-icon-line-2"></div>
@@ -1685,7 +1523,7 @@
                                     <div style="width:100%;height:0px" class="home-build_mobile-answer">
                                         <div class="home-build_mobile-inner-answer">
                                             <div class="home-build_mobile-text-wrapper">
-                                                <p class="text-size-regular text-color-dark-grey">With iHealthy users get real-time insights into 30+ health markers in under a minute—no wearables, no extra steps. The process is quick, interactive, and designed to feel effortless from start to finish.</p>
+                                                <p class="text-size-regular text-color-dark-grey">With iHealthy, users can explore AI-powered wellness insights through a simple facial scan using a camera. The experience is designed to be quick, convenient, and user-friendly, helping make health awareness more accessible without the need for additional wearable devices.</p>
                                                 <div class="spacer-small"></div>
                                             </div>
                                             <div class="home-build_mobile-tab-wrapper">
@@ -1706,10 +1544,10 @@
                     <div class="home-camera_component">
                         <div class="home-camera_header-wrapper">
                             <h2 class="heading-style-h2 text-weight-medium">
-                                <span class="opacity-50">What you see</span>
-                                vs <br />what camera &amp;AI see
+                                <span class="opacity-50">How AI </span>
+                                Sees  <br />Beyond  &amp;the Surface
                             </h2>
-                            <h2 class="heading-style-h2 text-weight-medium no-home">What you see vs What camera &amp; AI see</h2>
+                            <h2 class="heading-style-h2 text-weight-medium no-home">How AI Sees Beyond &amp; the Surface</h2>
                         </div>
                         <div class="home-camera_block">
                             <div class="home-camera_block-inner">
@@ -1725,8 +1563,8 @@
                                         </div>
                                         <div class="home-camera_card-divider-line"></div>
                                         <div class="flex d-vertical gap-8">
-                                            <h3 class="text-size-medium text-weight-semibold text-color-white text-weight-bold">Precise measurement</h3>
-                                            <p class="text-size-regular text-color-white opacity-80">Creates unique 3D model of your face for accurate health measurements.</p>
+                                            <h3 class="text-size-medium text-weight-semibold text-color-white text-weight-bold">AI-Powered Facial Analysis</h3>
+                                            <p class="text-size-regular text-color-white opacity-80">Uses advanced computer vision to analyze facial signals and generate AI-driven wellness insights.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -1741,8 +1579,8 @@
                                         </div>
                                         <div class="home-camera_card-divider-line"></div>
                                         <div class="flex d-vertical gap-8">
-                                            <h3 class="text-size-medium text-weight-semibold text-color-white text-weight-bold">Detailed facial data</h3>
-                                            <p class="text-size-regular text-color-white opacity-80">Reveals detailed facial data for more accurate heath monitoring</p>
+                                            <h3 class="text-size-medium text-weight-semibold text-color-white text-weight-bold">Intelligent Facial Signal Analysis</h3>
+                                            <p class="text-size-regular text-color-white opacity-80">Analyzes facial signals using AI-powered computer vision to generate wellness insights and support health awareness.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -1761,8 +1599,8 @@
                                         </div>
                                         <div class="home-camera_card-divider-line"></div>
                                         <div class="flex d-vertical gap-8">
-                                            <h3 class="text-size-medium text-weight-semibold text-color-white text-weight-bold">Micro-movement detection</h3>
-                                            <p class="text-size-regular text-color-white opacity-80">Detects tiny facial movements that go unnoticed by the human eye.</p>
+                                            <h3 class="text-size-medium text-weight-semibold text-color-white text-weight-bold">Advanced Facial Signal Detection</h3>
+                                            <p class="text-size-regular text-color-white opacity-80">Uses AI-powered computer vision to identify subtle changes in facial signals and support the generation of wellness insights.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -1776,8 +1614,8 @@
                                         </div>
                                         <div class="home-camera_card-divider-line"></div>
                                         <div class="flex d-vertical gap-8">
-                                            <h3 class="text-size-medium text-weight-semibold text-color-white text-weight-bold">Tracking the pulse</h3>
-                                            <p class="text-size-regular text-color-white opacity-80">Tracks the flow and pulses of blood beneath your skin.</p>
+                                            <h3 class="text-size-medium text-weight-semibold text-color-white text-weight-bold">Facial Signal Analysis</h3>
+                                            <p class="text-size-regular text-color-white opacity-80">Uses AI-powered computer vision to analyze subtle changes in facial color and visual signals to support wellness insights.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -1976,10 +1814,10 @@
                                 <div class="home-ai_header-logo w-embed">
 
                                 </div>
-                                <h2 class="heading-style-h2 text-weight-medium">Backed by science and the most innovative technology</h2>
+                                <h2 class="heading-style-h2 text-weight-medium">Powering the Future of AI-Driven Health Insights</h2>
                             </div>
                             <div class="home-ai_header-p-wrapper">
-                                <p class="text-size-regular opacity-80">Whether you &#x27;re in telehealth, remote patient monitoring, corporate wellness, fitness, or insurance, our technology gives you a competitive edge.</p>
+                                <p class="text-size-regular opacity-80">From telehealth and remote health monitoring to corporate wellness, fitness, and insurance, iHealthy brings AI-powered facial scanning technology into digital health experiences—making wellness insights more accessible and convenient.</p>
                             </div>
                             <a data-wf--button--variant="base" href="technology.php" class="button w-inline-block">
                                 <div>Learn more</div>
@@ -1989,8 +1827,8 @@
                             <div class="home-ai_item-wrapper left">
                                 <div class="home-ai_item">
                                     <div class="home-ai_item-inner">
-                                        <h3 class="text-size-medium text-weight-semibold">Multimodal Sensing Engine</h3>
-                                        <p class="text-size-small opacity-80">Our Multimodal Sensing Engine uses rPPG, enhancing signal quality by neural analysis of multiple light wavelengths, ensuring accurate vital sign detection across all Fitzpatrick skin tones.</p>
+                                        <h3 class="text-size-medium text-weight-semibold">AI-Powered Facial Signal Processing</h3>
+                                        <p class="text-size-small opacity-80">iHealthy uses advanced computer vision and AI to analyze facial video signals and extract relevant patterns for health-related insights. The technology is designed to support convenient, camera-based wellness assessment across a range of users and devices.</p>
                                     </div>
                                     <a href="/technology" class="home-blog_button is-white w-inline-block">
                                         <div>Learn more</div>
@@ -2008,8 +1846,8 @@
                                 </div>
                                 <div class="home-ai_item">
                                     <div class="home-ai_item-inner">
-                                        <h3 class="text-size-medium text-weight-semibold">Science</h3>
-                                        <p class="text-size-small opacity-80">iHealthy leverages the latest scientific advancements, including rPPG developed in collaboration with researchers.</p>
+                                        <h3 class="text-size-medium text-weight-semibold">Science-Driven Innovation</h3>
+                                        <p class="text-size-small opacity-80">iHealthy combines AI-powered computer vision with advanced facial signal analysis to explore health-related patterns and provide convenient, camera-based wellness insights.</p>
                                     </div>
                                     <a href="/scientific-research" class="home-blog_button is-white w-inline-block">
                                         <div>Learn more</div>
@@ -2042,8 +1880,8 @@
                             <div class="home-ai_item-wrapper right">
                                 <div class="home-ai_item">
                                     <div class="home-ai_item-inner">
-                                        <h3 class="text-size-medium text-weight-semibold">Trained on the largest, most diverse dataset </h3>
-                                        <p class="text-size-small opacity-80">iHealthy is built on advanced AI and insights from a diverse dataset spanning a massive population.</p>
+                                        <h3 class="text-size-medium text-weight-semibold">Advanced AI for Inclusive Health Insights </h3>
+                                        <p class="text-size-small opacity-80">iHealthy combines AI-powered facial analysis with computer vision technology to generate convenient wellness insights. Our approach aims to support a more accessible and user-friendly digital health experience for diverse users.</p>
                                     </div>
                                     <a href="/technology" class="home-blog_button is-white w-inline-block">
                                         <div>Learn more</div>
@@ -2061,8 +1899,8 @@
                                 </div>
                                 <div class="home-ai_item">
                                     <div class="home-ai_item-inner">
-                                        <h3 class="text-size-medium text-weight-semibold">Real-time video processing on user’s device</h3>
-                                        <p class="text-size-small opacity-80">Real-time camera processing runs 100% on the user’s device, with no cloud dependency. AI-driven video analysis ensures precise performance in any conditions.</p>
+                                        <h3 class="text-size-medium text-weight-semibold">Real-Time AI Facial Scan Processing</h3>
+                                        <p class="text-size-small opacity-80">iHealthy uses camera-based facial video analysis to generate AI-powered wellness insights. The experience is designed to be convenient and responsive, with data processing handled according to the platform’s privacy and technical capabilities.</p>
                                     </div>
                                     <a href="/technology" class="home-blog_button is-white w-inline-block">
                                         <div>Learn more</div>
@@ -2150,10 +1988,10 @@
                     <div class="padding-global max-width-full">
                         <div class="home-blog_heading">
                             <h2 class="heading-style-h2 text-weight-medium">
-                                <span class="text-span">Engineered to meet your business and users needs</span>
+                                <span class="text-span">AI-Powered Health Insights for Every Industry</span>
                             </h2>
                             <div class="max-width-small">
-                                <p class="text-size-medium text-color-00060f opacity-80">Real-world applications, proven impact. See how our AI adapts to diverse industries and user needs.</p>
+                                <p class="text-size-medium text-color-00060f opacity-80">Discover how iHealthy’s facial scanning technology can support digital health experiences across telehealth, wellness, fitness, and insurance. Our camera-based approach is designed to make health insights more accessible and convenient for users.</p>
                             </div>
                         </div>
                     </div>
@@ -2162,19 +2000,19 @@
                             <div data-current="Tab 1" data-easing="ease" data-duration-in="300" data-duration-out="100" class="home-blog_tabs w-tabs">
                                 <div class="home-blog_tabs-menu w-tab-menu">
                                     <a data-w-tab="Tab 1" class="home-blog_tab-link w-inline-block w-tab-link w--current">
-                                        <div>Insurance</div>
+                                        <div>AI Insurance Solutions</div>
                                     </a>
                                     <a data-w-tab="Tab 2" class="home-blog_tab-link w-inline-block w-tab-link">
-                                        <div>Telehealth</div>
+                                        <div>Telehealth Solutions</div>
                                     </a>
                                     <a data-w-tab="Tab 4" class="home-blog_tab-link w-inline-block w-tab-link">
-                                        <div>Mobile health</div>
+                                        <div>Digital Health</div>
                                     </a>
                                     <a data-w-tab="Tab 5" class="home-blog_tab-link w-inline-block w-tab-link">
-                                        <div>Corporate wellness</div>
+                                        <div>Corporate Wellness</div>
                                     </a>
                                     <a data-w-tab="Tab 6" class="home-blog_tab-link w-inline-block w-tab-link">
-                                        <div>Innovation</div>
+                                        <div>AI Health Innovation</div>
                                     </a>
                                 </div>
                                 <div class="home-blog_tabs-content w-tab-content">
@@ -2189,10 +2027,10 @@
                                                             </div>
                                                             <div class="home-blog_coll-item-content">
                                                                 <div class="ls-minus-2">
-                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Guide individuals to the right level of care</h3>
+                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Support Smarter Health Decisions</h3>
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
-                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Improve care navigation helping guide individuals to the right level of care—whether an in-clinic visit, online consultation, or self-care.</p>
+                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Help individuals better understand their wellness insights and explore appropriate next steps, whether that means consulting a healthcare professional, seeking an online consultation, or following suitable self-care practices.</p>
                                                                     <a href="/solutions/insurance" class="home-blog_button w-inline-block">
                                                                         <div>Learn more</div>
                                                                         <div class="home-built_tab-inner-link-arrow w-embed">
@@ -2212,10 +2050,10 @@
                                                             </div>
                                                             <div class="home-blog_coll-item-content">
                                                                 <div class="ls-minus-2">
-                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Reduce costs</h3>
+                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Make Healthcare More Accessible</h3>
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
-                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Improve care navigation helping guide individuals to the right level of care—whether an in-clinic visit, online consultation, or self-care.</p>
+                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Help individuals gain convenient access to AI-powered wellness insights, encouraging informed health decisions and supporting more efficient digital healthcare experiences.</p>
                                                                     <a href="/solutions/insurance" class="home-blog_button w-inline-block">
                                                                         <div>Learn more</div>
                                                                         <div class="home-built_tab-inner-link-arrow w-embed">
@@ -2235,10 +2073,10 @@
                                                             </div>
                                                             <div class="home-blog_coll-item-content">
                                                                 <div class="ls-minus-2">
-                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Enhance risk stratification</h3>
+                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Support Proactive Health Awareness</h3>
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
-                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Provide real-time, clinically validated health data—enabling more accurate assessments, proactive interventions, and smarter decisions.</p>
+                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Provide AI-powered wellness insights through facial scanning to help individuals better understand selected health indicators and make more informed decisions about their well-being.</p>
                                                                     <a href="/solutions/insurance" class="home-blog_button w-inline-block">
                                                                         <div>Learn more</div>
                                                                         <div class="home-built_tab-inner-link-arrow w-embed">
@@ -2280,10 +2118,10 @@
                                                             </div>
                                                             <div class="home-blog_coll-item-content">
                                                                 <div class="ls-minus-2">
-                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Guide individuals to the right level of care</h3>
+                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Support Better Healthcare Decisions</h3>
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
-                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Initial health assessments can be conducted remotely using Shen.ai &#x27;s technology to measure vital signs, helping to decide if a patient needs further care.</p>
+                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">iHealthy uses AI-powered facial scanning to provide convenient, preliminary wellness insights remotely. These insights can help individuals better understand selected health indicators and consider appropriate next steps, including consulting a healthcare professional when needed.</p>
                                                                     <a href="/solutions/telehealth-providers" class="home-blog_button w-inline-block">
                                                                         <div>Learn more</div>
                                                                         <div class="home-built_tab-inner-link-arrow w-embed">
@@ -2303,10 +2141,10 @@
                                                             </div>
                                                             <div class="home-blog_coll-item-content">
                                                                 <div class="ls-minus-2">
-                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Health checks before doctor &#x27;s consultation</h3>
+                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Health Insights Before Your Consultation</h3>
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
-                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Before or during video consultations, professionals receive objective health data, reducing reliance on subjective patient reports and enhancing diagnostic accuracy.</p>
+                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">iHealthy provides AI-powered facial scanning insights that individuals can review before an online or in-person consultation. These preliminary insights can help support informed discussions between patients and healthcare professionals.</p>
                                                                     <a href="/solutions/telehealth-providers" class="home-blog_button w-inline-block">
                                                                         <div>Learn more</div>
                                                                         <div class="home-built_tab-inner-link-arrow w-embed">
@@ -2326,10 +2164,10 @@
                                                             </div>
                                                             <div class="home-blog_coll-item-content">
                                                                 <div class="ls-minus-2">
-                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Improve patients engagement</h3>
+                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Encourage Active Health Engagement</h3>
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
-                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Improves engagement by offering health monitoring tools within patient apps, encouraging regular interaction and personalized insights.</p>
+                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Integrate AI-powered facial scanning into digital health platforms to help users explore wellness insights, stay engaged with their health journey, and build greater awareness of their well-being.</p>
                                                                     <a href="/solutions/telehealth-providers" class="home-blog_button w-inline-block">
                                                                         <div>Learn more</div>
                                                                         <div class="home-built_tab-inner-link-arrow w-embed">
@@ -2371,10 +2209,10 @@
                                                             </div>
                                                             <div class="home-blog_coll-item-content">
                                                                 <div class="ls-minus-2">
-                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Improve users retention</h3>
+                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Improve User Engagement & Retention</h3>
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
-                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Increase retention by 350% by implementing AI health monitoring inside your apps. Offer daily health checks for your users.</p>
+                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Encourage users to stay connected with their health journey by integrating AI-powered facial scanning into your apps. Offer convenient wellness insights that promote regular engagement and help users build healthier habits.</p>
                                                                     <a href="/solutions/mobile-health" class="home-blog_button w-inline-block">
                                                                         <div>Learn more</div>
                                                                         <div class="home-built_tab-inner-link-arrow w-embed">
@@ -2394,10 +2232,10 @@
                                                             </div>
                                                             <div class="home-blog_coll-item-content">
                                                                 <div class="ls-minus-2">
-                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">New monetization opportunities with health insights</h3>
+                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Unlock New Opportunities with AI-Powered Health Insights</h3>
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
-                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Turn health engagement into revenue. Use iHealthy’s insights to unlock premium features, personalized offers, or wellness-driven upsells</p>
+                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Create new opportunities for your business by integrating iHealthy’s AI-powered facial scanning technology. Enhance your digital health services with premium wellness features and personalized user experiences that support engagement and business growth.</p>
                                                                     <a href="/solutions/mobile-health" class="home-blog_button w-inline-block">
                                                                         <div>Learn more</div>
                                                                         <div class="home-built_tab-inner-link-arrow w-embed">
@@ -2417,10 +2255,10 @@
                                                             </div>
                                                             <div class="home-blog_coll-item-content">
                                                                 <div class="ls-minus-2">
-                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Differentiates app in competitive marketplaces</h3>
+                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Stand Out with AI-Powered Health Innovation</h3>
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
-                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Stand out fast. With iHealthy inside, your app offers science-backed health monitoring that sets you apart from competition.</p>
+                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Differentiate your app in a competitive market by integrating iHealthy’s AI-powered facial scanning technology. Offer convenient wellness insights and engaging digital health experiences that help your app stand out and deliver added value to users.</p>
                                                                     <a href="/solutions/mobile-health" class="home-blog_button w-inline-block">
                                                                         <div>Learn more</div>
                                                                         <div class="home-built_tab-inner-link-arrow w-embed">
@@ -2462,10 +2300,10 @@
                                                             </div>
                                                             <div class="home-blog_coll-item-content">
                                                                 <div class="ls-minus-2">
-                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Reduce turnover</h3>
+                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Support Employee Well-Being & Retention</h3>
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
-                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">A healthier and more engaged workforce leads to reduced turnover and associated costs.</p>
+                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Promote a healthier, more engaged workforce with iHealthy’s AI-powered facial scanning technology. Provide convenient wellness insights that encourage health awareness, support employee well-being, and help organizations build a more supportive workplace.</p>
                                                                     <a href="/solutions/corporate-wellness" class="home-blog_button w-inline-block">
                                                                         <div>Learn more</div>
                                                                         <div class="home-built_tab-inner-link-arrow w-embed">
@@ -2485,10 +2323,10 @@
                                                             </div>
                                                             <div class="home-blog_coll-item-content">
                                                                 <div class="ls-minus-2">
-                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Lower absenteeism</h3>
+                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Promote Employee Well-Being & Reduce Absenteeism</h3>
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
-                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Addressing health challenges proactively can help minimize absenteeism, ensuring optimal operational performance.</p>
+                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Encourage proactive health awareness with iHealthy’s AI-powered facial scanning technology. Provide convenient wellness insights that help employees stay informed about their well-being and support a healthier, more productive workplace.</p>
                                                                     <a href="/solutions/corporate-wellness" class="home-blog_button w-inline-block">
                                                                         <div>Learn more</div>
                                                                         <div class="home-built_tab-inner-link-arrow w-embed">
@@ -2508,10 +2346,10 @@
                                                             </div>
                                                             <div class="home-blog_coll-item-content">
                                                                 <div class="ls-minus-2">
-                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Make your company stand out</h3>
+                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Build a Stronger, More Attractive Workplace</h3>
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
-                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Demonstrating a commitment to employee well-being enhances your image and attracts top talent.</p>
+                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Show your commitment to employee well-being with iHealthy’s AI-powered facial scanning technology. Offer convenient wellness insights that promote a health-conscious workplace, strengthen your employer brand, and help attract and retain top talent.</p>
                                                                     <a href="/solutions/corporate-wellness" class="home-blog_button w-inline-block">
                                                                         <div>Learn more</div>
                                                                         <div class="home-built_tab-inner-link-arrow w-embed">
@@ -2553,12 +2391,11 @@
                                                             </div>
                                                             <div class="home-blog_coll-item-content">
                                                                 <div class="ls-minus-2">
-                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Add AI-powered health checks to your vehicles</h3>
+                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Bring AI-Powered Health Insights to Vehicles</h3>
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
                                                                     <p class="text-size-regular text-color-00060f opacity-80 is-article">
-                                                                        Give drivers real-time vital signs without wearables—<a target="_blank" href="http://shen.ai/" class="link">iHealthy</a>
-                                                                        makes in-cabin health monitoring seamless and scalable.
+                                                                        Enhance the driving experience with iHealthy’s AI-powered facial scanning technology. Enable convenient, camera-based wellness insights for drivers without requiring wearable devices, supporting greater health awareness and smarter mobility experiences.
                                                                     </p>
                                                                     <a href="/sdk" class="home-blog_button w-inline-block">
                                                                         <div>Learn more</div>
@@ -2579,12 +2416,11 @@
                                                             </div>
                                                             <div class="home-blog_coll-item-content">
                                                                 <div class="ls-minus-2">
-                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Turn your smart mirror into a health companion</h3>
+                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Transform Your Smart Mirror into a Wellness Companion</h3>
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
                                                                     <p class="text-size-regular text-color-00060f opacity-80 is-article">
-                                                                        With <a target="_blank" href="/" aria-current="page" class="link w--current">iHealthy</a>
-                                                                        - it’s a daily touchpoint for accessible, AI-driven health insights.
+                                                                        With Integrate iHealthy’s AI-powered facial scanning technology into smart mirrors to provide convenient wellness insights through a simple camera-based experience. Make everyday routines an opportunity to explore health indicators and build greater health awareness.
                                                                     </p>
                                                                     <a href="/sdk" class="home-blog_button w-inline-block">
                                                                         <div>Learn more</div>
@@ -2605,10 +2441,10 @@
                                                             </div>
                                                             <div class="home-blog_coll-item-content">
                                                                 <div class="ls-minus-2">
-                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Enable smarter care with robotics powered with AI health monitoring</h3>
+                                                                    <h3 class="heading-style-h5 text-weight-medium is-blog-name text-style-2lines ls-minus-2">Bring AI-Powered Health Insights to Smart Robotics</h3>
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
-                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Integrate iHealthy to empower robots with real-time health sensing—perfect for elder care</p>
+                                                                    <p class="text-size-regular text-color-00060f opacity-80 is-article">Integrate iHealthy’s AI-powered facial scanning technology into robotic systems to support convenient wellness assessments. From elder care to assisted living, enable robots to offer accessible, camera-based health insights that support health awareness and more personalized care experiences.</p>
                                                                     <a href="/sdk" class="home-blog_button w-inline-block">
                                                                         <div>Learn more</div>
                                                                         <div class="home-built_tab-inner-link-arrow w-embed">
@@ -2651,8 +2487,8 @@
                         <div id="w-node-_4ae350e1-288c-9cc3-31ab-8149652392b6-03545b2f" class="certified_component">
                             <div class="certified_header">
                                 <!-- <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/69d8d3e1a0f7e2d7addb8eec_certificate%20hero%20.svg" loading="lazy" alt="" class="image-6"/> -->
-                                <h2>iHealthy is certified medical device </h2>
-                                <div class="text-opacity-80">iHealthy holds ANVISA certification and the CE mark for delivering 60-second measurements of heart rate, HRV, breathing rate, and blood pressure.</div>
+                                <h2>AI-Powered Health Technology </h2>
+                                <div class="text-opacity-80">iHealthy uses advanced AI and computer vision to analyze facial signals and provide convenient wellness insights. Explore indicators such as heart rate, heart rate variability (HRV), breathing rate, and other health-related metrics through a simple camera-based experience.</div>
                                 <a href="animal.php" class="block-list_item-btn w-inline-block">
                                     <div>Learn more</div>
                                     <div class="block-list_item-btn-arrow w-embed">
@@ -2675,9 +2511,9 @@
                 <div class="container-large">
                     <div class="home-testimonials_component">
                         <div class="home-testimonials_heading">
-                            <h2 class="heading-style-h2 text-weight-medium">Trusted by 100+ partners across 40+ countries</h2>
+                            <h2 class="heading-style-h2 text-weight-medium">Empowering Better Health Experiences with iHealthy</h2>
                             <div class="max-width-medium">
-                                <p class="text-size-medium text-color-white">Some of the success stories from our respected clients. What to expect when you choose iHealthy</p>
+                                <p class="text-size-medium text-color-white">Discover how iHealthy’s AI-powered facial scanning technology can enhance digital health experiences across industries. Explore the possibilities of convenient wellness insights, seamless integration, and innovative solutions designed to support better health awareness.</p>
                             </div>
                         </div>
                         <div class="home-testimonials_bottom-content">
@@ -2693,11 +2529,11 @@
                                                     <div class="home-testimonial_header-wrapper w-condition-invisible">
                                                         <div class="heading-style-h5 text-weight-semibold w-dyn-bind-empty"></div>
                                                     </div>
-                                                    <p class="text-size-regular opacity-80">&quot;With iHealthy, we’re reforming the relationship insurers have with their customers. When you’re helping someone stay well - not just processing their claims - everybody wins.&quot;</p>
+                                                    <p class="text-size-regular opacity-80">&quot;iHealthy offers an innovative approach to digital wellness through AI-powered facial scanning. Its camera-based experience has the potential to make health insights more accessible to users.&quot;</p>
                                                     <div class="home-testimonial_details">
                                                         <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/69ba7f9c04276cd36bd0eb28_vaibhav.jpeg" loading="lazy" alt="" class="home-testimonial_image is-mobile" />
                                                         <div class="home-testimonial_details-inner">
-                                                            <div class="text-size-regular w-embed">Vaibhav Kashyap, </div>
+                                                            <div class="text-size-regular w-embed">Aditya Verma, </div>
                                                             <div class="text-size-small opacity-80 w-embed">CEO &amp; Co-founder of WellX</div>
                                                         </div>
                                                     </div>
@@ -2782,7 +2618,7 @@
                                     <div role="listitem" class="home-testimonials_customer-coll-item w-dyn-item">
                                         <div class="flex d-vertical gap-8">
                                             <div class="text-color-light-green text-size-small">Customer story</div>
-                                            <div class="heading-style-h5 text-weight-medium">How Amazing AI scaled continuous remote care with iHealthy</div>
+                                            <div class="heading-style-h5 text-weight-medium">How AI-Powered Facial Scanning Is Transforming Digital Health Experiences with iHealthy</div>
                                         </div>
                                         <a href="/customer-story/how-amazing-ai-scaled-continuous-remote-care-with-shen-ai" class="home-blog_button is-white w-inline-block">
                                             <div>Learn more</div>
@@ -2798,7 +2634,7 @@
                                     <div role="listitem" class="home-testimonials_customer-coll-item w-dyn-item">
                                         <div class="flex d-vertical gap-8">
                                             <div class="text-color-light-green text-size-small">Customer story</div>
-                                            <div class="heading-style-h5 text-weight-medium">From symptom tracking to measurable insight: How AINOHA adds vitals to perimenopause care</div>
+                                            <div class="heading-style-h5 text-weight-medium">From Facial Scanning to Wellness Insights: How iHealthy Is Advancing AI-Powered Digital Health</div>
                                         </div>
                                         <a href="/customer-story/from-symptom-tracking-to-measurable-insight-how-ainoha-adds-vitals-to-perimenopause-care" class="home-blog_button is-white w-inline-block">
                                             <div>Learn more</div>
@@ -2823,12 +2659,12 @@
                         <div class="home-fast_heading">
                             <div class="max-width-310 is-home-fast">
                                 <h2 class="heading-style-h2 text-weight-medium">
-                                    <strong>Fully customizable SDK</strong>
+                                    <strong>Flexible SDK for Seamless Integration</strong>
                                 </h2>
                             </div>
                             <p class="text-size-regular opacity-80">
-                                iHealthy integrates quickly and efficiently into your existing app, without disrupting your user experience or design. <br />
-                                <br />Within a few days you can enable AI health monitoring of 30+ vital signs—no external devices or wearables required.
+                                Integrate iHealthy’s AI-powered facial scanning technology into your existing apps with a customizable SDK designed to fit your product’s functionality and user experience.  <br />
+                                <br />Enable convenient, camera-based wellness insights without requiring additional wearable devices, subject to your platform’s supported features and integration requirements.
                             </p>
                         </div>
                         <div class="home-fast_lottie-wrapper">
@@ -2842,19 +2678,19 @@
                 <div class="container-large">
                     <div class="sdk-governance_component">
                         <div class="sdk-governance_content-wrapper">
-                            <h2 class="heading-style-h3 text-weight-medium">Data governance</h2>
+                            <h2 class="heading-style-h3 text-weight-medium">Data Governance & Privacy</h2>
                             <div class="sdk-governance_item-wrapper">
                                 <div class="sdk-governance_item">
-                                    <h3 class="text-size-regular text-weight-bold">Data ownership</h3>
-                                    <p class="text-size-regular opacity-80">You have full control over your data. Easily integrate it into your systems to enhance customer profiles or streamline any workflow.</p>
+                                    <h3 class="text-size-regular text-weight-bold">Data Ownership & Control</h3>
+                                    <p class="text-size-regular opacity-80">Maintain control over your data and integrate supported health insights into your existing systems and workflows. iHealthy is designed to support flexible data management and seamless integration with your applications.</p>
                                 </div>
                                 <div class="sdk-governance_item">
-                                    <h3 class="text-size-regular text-weight-bold">Data processing</h3>
-                                    <p class="text-size-regular opacity-80">We process everything on the user &#x27;s device, inside your application. We don’t send or process any data in the cloud.</p>
+                                    <h3 class="text-size-regular text-weight-bold">Secure Data Processing</h3>
+                                    <p class="text-size-regular opacity-80">iHealthy is designed with data privacy in mind. Data processing and handling depend on your integration setup and platform configuration, helping you align your implementation with your privacy and security requirements.</p>
                                 </div>
                                 <div class="sdk-governance_item">
-                                    <h3 class="text-size-regular text-weight-bold">Data integration</h3>
-                                    <p class="text-size-regular opacity-80">FHIR API enabled for fast, secure and scalable integration into your EHR.</p>
+                                    <h3 class="text-size-regular text-weight-bold">Seamless Health Data Integration</h3>
+                                    <p class="text-size-regular opacity-80">Integrate AI-powered wellness insights into your digital health ecosystem through supported APIs. Where available, FHIR-compatible integration can help streamline the exchange of health-related data with electronic health record (EHR) systems.</p>
                                 </div>
                             </div>
                         </div>
@@ -2869,9 +2705,9 @@
                     <div class="cta-component">
                         <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545d90_bg.webp" loading="lazy" sizes="100vw" srcset="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545d90_bg.webp 500w, https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545d90_bg.webp 800w, https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545d90_bg.webp 1080w, https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545d90_bg.webp 1600w, https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545d90_bg.webp 2000w, https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545d90_bg.webp 2600w, https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545d90_bg.webp 3200w, https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545d90_bg.webp 3723w" alt="Dark gradient background with subtle grid lines and two diagonal soft light streaks." class="cta-bg" />
                         <div class="cta-content">
-                            <h2 class="heading-style-h2 text-weight-medium">Ready to implement AI health monitoring?</h2>
+                            <h2 class="heading-style-h2 text-weight-medium">Ready to Bring AI-Powered Health Insights to Your Platform?</h2>
                             <p class="text-size-regular opacity-80">
-                                Start transforming healthcare today. Partner with us to integrate<br />cutting-edge AI for accurate, reliable health insights.
+                                Transform your digital health experience with iHealthy’s AI-powered facial scanning technology. Partner with us to integrate convenient, camera-based wellness insights into your applications and create smarter, more accessible health experiences for your users.
                             </p>
                             <a data-wf--button--variant="base" href="https://www.ihealthybio.com/" target="_blank" class="button w-inline-block">
                                 <div>Start a free trial</div>
@@ -2887,9 +2723,9 @@
                             <div class="text-align-center">
                                 <div class="max-width-large align-center">
                                     <div class="margin-bottom margin-small">
-                                        <h2 class="heading-style-h3 text-weight-medium">Frequently asked questions</h2>
+                                        <h2 class="heading-style-h3 text-weight-medium">Frequently Asked Questions</h2>
                                     </div>
-                                    <p class="text-size-medium">Everything you need to know about the product and billing.</p>
+                                    <p class="text-size-medium">Find answers to common questions about iHealthy’s AI-powered facial scanning technology, integration, and data handling.</p>
                                 </div>
                             </div>
                         </div>
@@ -2897,7 +2733,7 @@
                             <div role="list" class="faq_list w-dyn-items">
                                 <div role="listitem" class="faq_accordion w-dyn-item">
                                     <div data-w-id="ab4cf8d7-4194-e752-3aa0-9e7ec32395fc" class="faq_question-n">
-                                        <div class="text-size-medium text-weight-semibold">How does iHealthy measure health markers without traditional devices?</div>
+                                        <div class="text-size-medium text-weight-semibold">How does iHealthy generate health insights from a facial scan?</div>
                                         <div class="faq_icon-wrappper">
                                             <div class="faq_icon-line-1"></div>
                                             <div class="faq_icon-line-2"></div>
@@ -2906,14 +2742,14 @@
                                     <div class="faq_answer-n">
                                         <div class="faq_answer-inner">
                                             <div class="faq-richtext w-richtext">
-                                                <p>iHealthy uses remote photoplethysmography (rPPG) and advanced AI to track over 30 health markers, including blood pressure and heart rate or BMI, through a smartphone’s camera. This contactless method eliminates the need for additional hardware.</p>
+                                                <p>iHealthy uses AI-powered computer vision to analyze facial video signals and generate insights into supported health-related indicators through a camera-based experience.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div role="listitem" class="faq_accordion w-dyn-item">
                                     <div data-w-id="ab4cf8d7-4194-e752-3aa0-9e7ec32395fc" class="faq_question-n">
-                                        <div class="text-size-medium text-weight-semibold">How accurate is iHealthy compared to traditional devices like cuffs?</div>
+                                        <div class="text-size-medium text-weight-semibold">What is the accuracy of iHealthy compared with traditional health devices?</div>
                                         <div class="faq_icon-wrappper">
                                             <div class="faq_icon-line-1"></div>
                                             <div class="faq_icon-line-2"></div>
@@ -2922,14 +2758,14 @@
                                     <div class="faq_answer-n">
                                         <div class="faq_answer-inner">
                                             <div class="faq-richtext w-richtext">
-                                                <p>iHealthy’s accuracy is clinically validated and comparable to traditional devices, including cuff-based blood pressure monitors. For HR, iHealthy delivers results with under 0.5 bpm error level. Our AI is trained on over 7 million data points, ensuring precise readings across various environments and users.</p>
+                                                <p>Performance may vary depending on the health indicator, device, lighting, and other factors. For clinical measurements, results should be evaluated against validated medical devices and relevant clinical evidence.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div role="listitem" class="faq_accordion w-dyn-item">
                                     <div data-w-id="ab4cf8d7-4194-e752-3aa0-9e7ec32395fc" class="faq_question-n">
-                                        <div class="text-size-medium text-weight-semibold">How much time is needed to get readings?</div>
+                                        <div class="text-size-medium text-weight-semibold">How long does a facial scan take?</div>
                                         <div class="faq_icon-wrappper">
                                             <div class="faq_icon-line-1"></div>
                                             <div class="faq_icon-line-2"></div>
@@ -2938,14 +2774,14 @@
                                     <div class="faq_answer-n">
                                         <div class="faq_answer-inner">
                                             <div class="faq-richtext w-richtext">
-                                                <p>First readings – of Heart Rate and BMI – are available within just 5 seconds. The other indices are available in 30 seconds.</p>
+                                                <p>The time required depends on the implementation and the health indicators being assessed. The scanning experience is designed to make accessing wellness insights convenient and straightforward.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div role="listitem" class="faq_accordion w-dyn-item">
                                     <div data-w-id="ab4cf8d7-4194-e752-3aa0-9e7ec32395fc" class="faq_question-n">
-                                        <div class="text-size-medium text-weight-semibold">Can iHealthy be used with all skin tones and in different lighting conditions?</div>
+                                        <div class="text-size-medium text-weight-semibold">Does iHealthy work across different skin tones and lighting conditions?</div>
                                         <div class="faq_icon-wrappper">
                                             <div class="faq_icon-line-1"></div>
                                             <div class="faq_icon-line-2"></div>
@@ -2954,14 +2790,14 @@
                                     <div class="faq_answer-n">
                                         <div class="faq_answer-inner">
                                             <div class="faq-richtext w-richtext">
-                                                <p>Yes, iHealthy’s Multimodal Sensing Engine ensures reliable readings for all skin tones and lighting environments, making it inclusive and adaptable.</p>
+                                                <p>Performance can vary with skin tone, lighting, camera quality, and movement. Compatibility and performance should be assessed under the conditions in which your platform will be used.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div role="listitem" class="faq_accordion w-dyn-item">
                                     <div data-w-id="ab4cf8d7-4194-e752-3aa0-9e7ec32395fc" class="faq_question-n">
-                                        <div class="text-size-medium text-weight-semibold">Is iHealthy compliant with privacy regulations?</div>
+                                        <div class="text-size-medium text-weight-semibold">How does iHealthy handle user data and privacy?</div>
                                         <div class="faq_icon-wrappper">
                                             <div class="faq_icon-line-1"></div>
                                             <div class="faq_icon-line-2"></div>
@@ -2970,14 +2806,14 @@
                                     <div class="faq_answer-n">
                                         <div class="faq_answer-inner">
                                             <div class="faq-richtext w-richtext">
-                                                <p>iHealthy processes all data directly on the device using edge computing, ensuring no sensitive information is sent to the cloud.</p>
+                                                <p>Data handling depends on the integration and platform configuration. Implementations should follow applicable privacy requirements and clearly explain how user data is collected, processed, stored, and shared.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div role="listitem" class="faq_accordion w-dyn-item">
                                     <div data-w-id="ab4cf8d7-4194-e752-3aa0-9e7ec32395fc" class="faq_question-n">
-                                        <div class="text-size-medium text-weight-semibold">How easy is it to integrate iHealthy into my platform?</div>
+                                        <div class="text-size-medium text-weight-semibold">How can I integrate iHealthy into my existing platform?</div>
                                         <div class="faq_icon-wrappper">
                                             <div class="faq_icon-line-1"></div>
                                             <div class="faq_icon-line-2"></div>
@@ -2987,8 +2823,7 @@
                                         <div class="faq_answer-inner">
                                             <div class="faq-richtext w-richtext">
                                                 <p>
-                                                    iHealthy’s SDK offers seamless integration with web and mobile apps, with support for various frameworks like Flutter or React Native. You can manage your integration through our Admin Portal and have all <a target="_blank" href="https://developer.shen.ai/">documentation</a>
-                                                    available.
+                                                    iHealthy is designed to support integration into digital products through available SDKs and technical interfaces. Integration requirements depend on your platform and the features you want to implement.
                                                 </p>
                                             </div>
                                         </div>
@@ -2996,7 +2831,7 @@
                                 </div>
                                 <div role="listitem" class="faq_accordion w-dyn-item">
                                     <div data-w-id="ab4cf8d7-4194-e752-3aa0-9e7ec32395fc" class="faq_question-n">
-                                        <div class="text-size-medium text-weight-semibold">Is the iHealthy SDK customizable?</div>
+                                        <div class="text-size-medium text-weight-semibold">Can the iHealthy SDK be customized?</div>
                                         <div class="faq_icon-wrappper">
                                             <div class="faq_icon-line-1"></div>
                                             <div class="faq_icon-line-2"></div>
@@ -3005,14 +2840,14 @@
                                     <div class="faq_answer-n">
                                         <div class="faq_answer-inner">
                                             <div class="faq-richtext w-richtext">
-                                                <p>Yes, the iHealthy SDK is highly customizable. It allows seamless integration into your existing platforms while offering the flexibility to adapt the interface to match your brand. Key customization options include UI personalization and localization support.</p>
+                                                <p>Customization options depend on the available SDK features and your integration requirements. Contact the iHealthy team to discuss adapting the experience to your application's design and functionality.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div role="listitem" class="faq_accordion w-dyn-item">
                                     <div data-w-id="ab4cf8d7-4194-e752-3aa0-9e7ec32395fc" class="faq_question-n">
-                                        <div class="text-size-medium text-weight-semibold">How can I integrate measurement data into my existing EHR system?</div>
+                                        <div class="text-size-medium text-weight-semibold">Can iHealthy insights be integrated with an existing EHR system?</div>
                                         <div class="faq_icon-wrappper">
                                             <div class="faq_icon-line-1"></div>
                                             <div class="faq_icon-line-2"></div>
@@ -3021,7 +2856,7 @@
                                     <div class="faq_answer-n">
                                         <div class="faq_answer-inner">
                                             <div class="faq-richtext w-richtext">
-                                                <p>iHealthy comes with FHIR API, making it easy to integrate with existing healthcare or insurance systems.</p>
+                                                <p>Health-related data may be integrated through supported APIs and compatible data formats. FHIR-based integration can be considered where supported by the platform and the target electronic health record (EHR) system.</p>
                                             </div>
                                         </div>
                                     </div>
