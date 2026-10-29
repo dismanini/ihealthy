@@ -11,11 +11,11 @@
         <link rel="alternate" hrefLang="de" href="https://shen.ai/de/why-shen-ai"/>
         <link rel="alternate" hrefLang="ja" href="https://shen.ai/ja/why-shen-ai"/>
         <link rel="alternate" hrefLang="fr" href="https://shen.ai/fr/why-shen-ai"/>
-        <meta content="See why Shen AI is trusted for contactless, AI-powered health monitoring that turns smartphones into clinical-grade tools." name="description"/>
-        <meta content="Why Choose Shen AI | Smart Health Monitoring" property="og:title"/>
-        <meta content="See why Shen AI is trusted for contactless, AI-powered health monitoring that turns smartphones into clinical-grade tools." property="og:description"/>
-        <meta content="Why Choose Shen AI | Smart Health Monitoring" name="twitter:title"/>
-        <meta content="See why Shen AI is trusted for contactless, AI-powered health monitoring that turns smartphones into clinical-grade tools." name="twitter:description"/>
+        <meta content="See why iHealthy is trusted for contactless, AI-powered health monitoring that turns smartphones into clinical-grade tools." name="description"/>
+        <meta content="Why Choose iHealthy | Smart Health Monitoring" property="og:title"/>
+        <meta content="See why iHealthy is trusted for contactless, AI-powered health monitoring that turns smartphones into clinical-grade tools." property="og:description"/>
+        <meta content="Why Choose iHealthy | Smart Health Monitoring" name="twitter:title"/>
+        <meta content="See why iHealthy is trusted for contactless, AI-powered health monitoring that turns smartphones into clinical-grade tools." name="twitter:description"/>
         <meta property="og:type" content="website"/>
         <meta content="summary_large_image" name="twitter:card"/>
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -37,13 +37,13 @@
             {
                 "@context": "https://schema.org",
                 "@type": "WebPage",
-                "name": "Why Choose Shen AI | Smart Health Monitoring",
-                "description": "See why Shen AI is trusted for contactless, AI-powered health monitoring that turns smartphones into clinical-grade tools.",
+                "name": "Why Choose iHealthy | Smart Health Monitoring",
+                "description": "See why iHealthy is trusted for contactless, AI-powered health monitoring that turns smartphones into clinical-grade tools.",
                 "url": "/why-shen-ai",
                 "inLanguage": "en",
                 "about": {
                     "@type": "SoftwareApplication",
-                    "name": "Shen AI",
+                    "name": "iHealthy",
                     "applicationCategory": "HealthApplication",
                     "description": "AI-powered contactless health monitoring that turns smartphones into clinical-grade tools for measuring over 30 health markers",
                     "operatingSystem": "iOS, Android",
@@ -74,18 +74,18 @@
                     "mainEntity": [
                         {
                             "@type": "Question",
-                            "name": "How does Shen AI measure health markers without traditional devices?",
+                            "name": "How does iHealthy measure health markers without traditional devices?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Shen AI uses remote photoplethysmography (rPPG) and advanced AI to track over 30 health markers, including blood pressure and heart rate or BMI, through a smartphone's camera. This contactless method eliminates the need for additional hardware."
+                                "text": "iHealthy uses remote photoplethysmography (rPPG) and advanced AI to track over 30 health markers, including blood pressure and heart rate or BMI, through a smartphone's camera. This contactless method eliminates the need for additional hardware."
                             }
                         },
                         {
                             "@type": "Question",
-                            "name": "How accurate is Shen AI compared to traditional devices like cuffs?",
+                            "name": "How accurate is iHealthy compared to traditional devices like cuffs?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Shen AI's accuracy is clinically validated and comparable to traditional devices, including cuff-based blood pressure monitors. For HR, Shen AI delivers results with under 0.5 bpm error level. Our AI is trained on over 7 million data points, ensuring precise readings across various environments and users."
+                                "text": "iHealthy's accuracy is clinically validated and comparable to traditional devices, including cuff-based blood pressure monitors. For HR, iHealthy delivers results with under 0.5 bpm error level. Our AI is trained on over 7 million data points, ensuring precise readings across various environments and users."
                             }
                         },
                         {
@@ -98,23 +98,23 @@
                         },
                         {
                             "@type": "Question",
-                            "name": "Can Shen AI be used with all skin tones and in different lighting conditions?",
+                            "name": "Can iHealthy be used with all skin tones and in different lighting conditions?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Yes, Shen AI's Multimodal Sensing Engine ensures reliable readings for all skin tones and lighting environments, making it inclusive and adaptable."
+                                "text": "Yes, iHealthy's Multimodal Sensing Engine ensures reliable readings for all skin tones and lighting environments, making it inclusive and adaptable."
                             }
                         },
                         {
                             "@type": "Question",
-                            "name": "Is Shen AI compliant with privacy regulations?",
+                            "name": "Is iHealthy compliant with privacy regulations?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Shen AI processes all data directly on the device using edge computing, ensuring no sensitive information is sent to the cloud."
+                                "text": "iHealthy processes all data directly on the device using edge computing, ensuring no sensitive information is sent to the cloud."
                             }
                         },
                         {
                             "@type": "Question",
-                            "name": "How easy is it to integrate Shen AI into my platform?",
+                            "name": "How easy is it to integrate iHealthy into my platform?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
                                 "text": "Integration is straightforward with comprehensive documentation available at the developer portal."
@@ -122,10 +122,10 @@
                         },
                         {
                             "@type": "Question",
-                            "name": "Is the Shen AI SDK customizable?",
+                            "name": "Is the iHealthy SDK customizable?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Yes, the Shen AI SDK is highly customizable. It allows seamless integration into your existing platforms while offering the flexibility to adapt the interface to match your brand. Key customization options include UI personalization and localization support."
+                                "text": "Yes, the iHealthy SDK is highly customizable. It allows seamless integration into your existing platforms while offering the flexibility to adapt the interface to match your brand. Key customization options include UI personalization and localization support."
                             }
                         },
                         {
@@ -133,7 +133,7 @@
                             "name": "How can I integrate measurement data into my existing EHR system?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Shen AI comes with FHIR API, making it easy to integrate with existing healthcare or insurance systems."
+                                "text": "iHealthy comes with FHIR API, making it easy to integrate with existing healthcare or insurance systems."
                             }
                         }
                     ]
@@ -1168,201 +1168,6 @@
                         </svg>
                     </div>
                 </header>
-                <section data-wf--section-trusted-by-logos--variant="dark-bg" class="section home-trusted w-variant-c7a347f7-9c7b-a697-156d-8bd731d57af6">
-                    <div class="home-trusted_component">
-                        <p class="text-size-regular text-color-00060f text-weight-semibold opacity-60 mobile-80 w-variant-c7a347f7-9c7b-a697-156d-8bd731d57af6">Making wellness monitoring more accessible through AI-powered facial scanning technology.</p>
-                        <div class="home-trusted_marquee">
-                            <div class="home-trusted_marquee-component scroll">
-                                <div class="home-trusted_coll-list-wrapper w-variant-c7a347f7-9c7b-a697-156d-8bd731d57af6 w-dyn-list">
-                                    <div role="list" class="home-trusted_coll-list w-dyn-items">
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68b849f547c71c302c709622_aster-dark2.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68b84a00085477c5ae09107a_samplemed-dark2.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/6931982710ea339fb9f827f7__vivaWell%20dark.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545b5d_Deutsche%20Telekom.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545f39_caremind.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/693196cfe1c068edb8bae3dc_Group%2019156.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="home-trusted_coll-list-wrapper w-variant-c7a347f7-9c7b-a697-156d-8bd731d57af6 for-dark w-dyn-list">
-                                    <div role="list" class="home-trusted_coll-list w-dyn-items">
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68b16e998835337432ff6fc3_Aster_DM_Healthcare_Logo%201%20(1).svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68b16ecaeefc89fe82548eac_samplemed%20(1).svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/69319824e0c9edf383b567fc__vivaWell%20bright.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545c8d_Deutche%20Telecom.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545f3a_Caremind%20white.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/69319947b44fe2be8a839243_doxyme%20logo%20bright.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="home-trusted_marquee-component scroll">
-                                <div class="home-trusted_coll-list-wrapper w-variant-c7a347f7-9c7b-a697-156d-8bd731d57af6 w-dyn-list">
-                                    <div role="list" class="home-trusted_coll-list w-dyn-items">
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68b849f547c71c302c709622_aster-dark2.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68b84a00085477c5ae09107a_samplemed-dark2.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/6931982710ea339fb9f827f7__vivaWell%20dark.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545b5d_Deutsche%20Telekom.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545f39_caremind.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/693196cfe1c068edb8bae3dc_Group%2019156.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="home-trusted_coll-list-wrapper w-variant-c7a347f7-9c7b-a697-156d-8bd731d57af6 for-dark w-dyn-list">
-                                    <div role="list" class="home-trusted_coll-list w-dyn-items">
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68b16e998835337432ff6fc3_Aster_DM_Healthcare_Logo%201%20(1).svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68b16ecaeefc89fe82548eac_samplemed%20(1).svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/69319824e0c9edf383b567fc__vivaWell%20bright.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545c8d_Deutche%20Telecom.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545f3a_Caremind%20white.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                        <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                            <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/69319947b44fe2be8a839243_doxyme%20logo%20bright.svg" loading="eager" alt="" class="home-trusted_item-img"/>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="home-trusted_marquee-embed w-embed">
-                            <style>
-                                @keyframes scroll {
-                                    from {
-                                        transform: translateX(0);
-                                    }
-
-                                    to {
-                                        transform: translateX(calc(-100% - 3.75rem));
-                                    }
-                                }
-
-                                .scroll {
-                                    animation: scroll 40s linear infinite;
-                                }
-
-                                .reverse {
-                                    animation-direction: reverse;
-                                }
-
-                                .marquee-image {
-                                    -webkit-transform: translateZ(0);
-                                }
-
-                                .home-trusted_marquee {
-                                    position: relative;
-                                    overflow: hidden;
-                                    mask-image: linear-gradient(to right, transparent, black 15%, black 85%, transparent);
-                                    -webkit-mask-image: linear-gradient(to right, transparent, black 15%, black 85%, transparent);
-                                }
-                            </style>
-                        </div>
-                        <div class="padding-global white-bg w-variant-c7a347f7-9c7b-a697-156d-8bd731d57af6">
-                            <div class="container-large">
-                                <div class="home-trusted_component">
-                                    <div class="home-trusted_static">
-                                        <div class="home-trusted_marquee-component is-static">
-                                            <div class="home-trusted_coll-list-wrapper w-variant-c7a347f7-9c7b-a697-156d-8bd731d57af6 is-static w-dyn-list">
-                                                <div role="list" class="home-trusted_coll-list is-static w-dyn-items">
-                                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                        <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68b849f547c71c302c709622_aster-dark2.svg" alt="" class="home-trusted_item-img"/>
-                                                    </div>
-                                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                        <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68b84a00085477c5ae09107a_samplemed-dark2.svg" alt="" class="home-trusted_item-img"/>
-                                                    </div>
-                                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                        <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/6931982710ea339fb9f827f7__vivaWell%20dark.svg" alt="" class="home-trusted_item-img"/>
-                                                    </div>
-                                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                        <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545b5d_Deutsche%20Telekom.svg" alt="" class="home-trusted_item-img"/>
-                                                    </div>
-                                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                        <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545f39_caremind.svg" alt="" class="home-trusted_item-img"/>
-                                                    </div>
-                                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                        <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/693196cfe1c068edb8bae3dc_Group%2019156.svg" alt="" class="home-trusted_item-img"/>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="padding-global dark-bg w-variant-c7a347f7-9c7b-a697-156d-8bd731d57af6">
-                            <div class="container-large">
-                                <div class="home-trusted_component">
-                                    <div class="home-trusted_static">
-                                        <div class="home-trusted_marquee-component is-static">
-                                            <div class="home-trusted_coll-list-wrapper w-variant-c7a347f7-9c7b-a697-156d-8bd731d57af6 is-static w-dyn-list">
-                                                <div role="list" class="home-trusted_coll-list is-static w-dyn-items">
-                                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                        <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68b16e998835337432ff6fc3_Aster_DM_Healthcare_Logo%201%20(1).svg" alt="" class="home-trusted_item-img"/>
-                                                    </div>
-                                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                        <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/68b16ecaeefc89fe82548eac_samplemed%20(1).svg" alt="" class="home-trusted_item-img"/>
-                                                    </div>
-                                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                        <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/69319824e0c9edf383b567fc__vivaWell%20bright.svg" alt="" class="home-trusted_item-img"/>
-                                                    </div>
-                                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                        <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545c8d_Deutche%20Telecom.svg" alt="" class="home-trusted_item-img"/>
-                                                    </div>
-                                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                        <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/680280c18df8e68403545f3a_Caremind%20white.svg" alt="" class="home-trusted_item-img"/>
-                                                    </div>
-                                                    <div role="listitem" class="home-trusted_coll-item w-dyn-item">
-                                                        <img loading="eager" src="https://cdn.prod.website-files.com/680280c18df8e68403545b57/69319947b44fe2be8a839243_doxyme%20logo%20bright.svg" alt="" class="home-trusted_item-img"/>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
                 <section id="backed-by-science" class="section is-why">
                     <div class="container-large">
                         <div class="block-list gap-264">
@@ -1379,7 +1184,7 @@
                                     </div>
                                 </div>
                                 <div class="block-list_item-image-wrapper">
-                                    <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545c11_Shen%20AI%20is%20backed%20by%20science.webp" loading="lazy" sizes="(max-width: 1220px) 100vw, 1220px" srcset="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545c11_Shen%20AI%20is%20backed%20by%20science.webp 500w, https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545c11_Shen%20AI%20is%20backed%20by%20science.webp 800w, https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545c11_Shen%20AI%20is%20backed%20by%20science.webp 1080w, https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545c11_Shen%20AI%20is%20backed%20by%20science.webp 1220w" alt="" class="block-list_item-image"/>
+                                    <img src="/images/ihealthy.png" loading="lazy" sizes="(max-width: 1220px) 100vw, 1220px" srcset="" alt="" class="block-list_item-image"/>
                                 </div>
                             </div>
                         </div>
@@ -1424,14 +1229,6 @@
                                             <br/>Discover how iHealthy AI is bringing innovative facial scanning technology into everyday wellness.
                                         </p>
                                     </div>
-                                    <a data-wf--button-arrow-up--variant="base" href="https://cdn.prod.website-files.com/680280c18df8e68403545b30/69442890c0ea75659d0412a9_Shen_AI_Clinical_Trial_Report%20(2).pdf" target="_blank" class="block-list_item-btn w-inline-block">
-                                        <div>Download report</div>
-                                        <div class="block-list_item-btn-arrow w-embed">
-                                            <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M2 8.5L9 1.5M9 1.5L2.4375 1.5M9 1.5L9 8.0625" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"/>
-                                            </svg>
-                                        </div>
-                                    </a>
                                 </div>
                                 <div class="block-list_item-image-wrapper">
                                     <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/6914535a985a119c3f899cb7_Clinicallyvalidated.webp" loading="lazy" sizes="100vw" srcset="https://cdn.prod.website-files.com/680280c18df8e68403545b30/6914535a985a119c3f899cb7_Clinicallyvalidated-p-500.webp 500w, https://cdn.prod.website-files.com/680280c18df8e68403545b30/6914535a985a119c3f899cb7_Clinicallyvalidated.webp 610w" alt="Table showing measurement data for heart rate, heart rate variability, breathing rate, systolic and diastolic blood pressure, with metrics MD, SD, MAE, and RMSE." class="block-list_item-image"/>
@@ -1494,21 +1291,8 @@
                         <div class="certified_grid">
                             <div id="w-node-_0cb6cb56-1973-2159-52be-27ef09eb6b7b-03545b3f" class="certified_component">
                                 <div class="certified_header">
-                                    <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/69d8d3e1a0f7e2d7addb8eec_certificate%20hero%20.svg" loading="lazy" alt="" class="image-6"/>
                                     <h2>iHealthy AI: Innovation in Digital Wellness </h2>
                                     <div class="text-opacity-80">iHealthy AI brings AI-powered facial scanning technology into everyday wellness monitoring, offering a convenient and contactless way to explore supported wellness indicators through a compatible camera.</div>
-                                    <a href="/medical-device" class="block-list_item-btn w-inline-block">
-                                        <div>Learn more</div>
-                                        <div class="block-list_item-btn-arrow w-embed">
-                                            <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M2 8.5L9 1.5M9 1.5L2.4375 1.5M9 1.5L9 8.0625" stroke="black" stroke-width="1.5" stroke-linecap="square"/>
-                                            </svg>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="certified_images">
-                                    <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/69d8c8976fd93ccee6155dbd_ISO-13.svg" loading="lazy" alt="" class="certified_logo"/>
-                                    <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/69d8c89769d6d83d316757f1_GDPR.svg" loading="lazy" alt="" class="certified_logo"/>
                                 </div>
                             </div>
                             <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/69d8c99bb28f9eda6495db15_vertical-closeup-female-hand-holding-phone-with-wh-2026-01-08-06-30-00-utc%202.avif" loading="lazy" sizes="100vw" srcset="https://cdn.prod.website-files.com/680280c18df8e68403545b30/69d8c99bb28f9eda6495db15_vertical-closeup-female-hand-holding-phone-with-wh-2026-01-08-06-30-00-utc%202-p-500.avif 500w, https://cdn.prod.website-files.com/680280c18df8e68403545b30/69d8c99bb28f9eda6495db15_vertical-closeup-female-hand-holding-phone-with-wh-2026-01-08-06-30-00-utc%202.avif 1005w" alt="" class="certified_image"/>

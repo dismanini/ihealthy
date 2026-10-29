@@ -1231,9 +1231,6 @@
                                 <a data-wf--button--variant="base" href="https://www.ihealthybio.com/" target="_blank" class="button w-inline-block">
                                     <div>Start a free trial</div>
                                 </a>
-                                <a data-wf--button--variant="scan-icon-dark" href="contact.php" class="button w-variant-df410f8e-75be-17d0-55e9-f5c86a41952c w-inline-block">
-                                    <div>Talk to sales</div>
-                                </a>
                             </div>
                         </div>
                         <div id="w-node-f59e85eb-b773-62ff-d95c-023882dea3a9-03545b2f" class="home-hero_video-wrapper is-alternative is-hero-home">
@@ -1798,7 +1795,7 @@
                             </style>
                         </div>
                         <div class="home-camera_btn-wrapper">
-                            <a data-wf--button--variant="scan-icon-light" href="scan-yourself.php" class="button w-inline-block">
+                            <a data-wf--button--variant="scan-icon-light" href="https://ihealthybio.com/" class="button w-inline-block">
                                 <div>Scan yourself</div>
                             </a>
                             <link rel="prerender" href="scan-yourself.php" />
@@ -1819,9 +1816,6 @@
                             <div class="home-ai_header-p-wrapper">
                                 <p class="text-size-regular opacity-80">From telehealth and remote health monitoring to corporate wellness, fitness, and insurance, iHealthy brings AI-powered facial scanning technology into digital health experiences—making wellness insights more accessible and convenient.</p>
                             </div>
-                            <a data-wf--button--variant="base" href="technology.php" class="button w-inline-block">
-                                <div>Learn more</div>
-                            </a>
                         </div>
                         <div class="home-ai_bottom-content">
                             <div class="home-ai_item-wrapper left">
@@ -1830,15 +1824,6 @@
                                         <h3 class="text-size-medium text-weight-semibold">AI-Powered Facial Signal Processing</h3>
                                         <p class="text-size-small opacity-80">iHealthy uses advanced computer vision and AI to analyze facial video signals and extract relevant patterns for health-related insights. The technology is designed to support convenient, camera-based wellness assessment across a range of users and devices.</p>
                                     </div>
-                                    <a href="/technology" class="home-blog_button is-white w-inline-block">
-                                        <div>Learn more</div>
-                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M1.28125 8L8.28125 1L1.28125 8ZM8.28125 1L1.71875 1L8.28125 1ZM8.28125 1L8.28125 7.5625L8.28125 1Z" fill="white" />
-                                                <path d="M1.28125 8L8.28125 1M8.28125 1L1.71875 1M8.28125 1L8.28125 7.5625" stroke="white" stroke-width="1.5" stroke-linecap="square" />
-                                            </svg>
-                                        </div>
-                                    </a>
                                     <div class="home-ai_item-pointer">
                                         <div class="home-ai_item-pointer-line"></div>
                                         <div class="home-ai_item-pointer-dot"></div>
@@ -1849,15 +1834,6 @@
                                         <h3 class="text-size-medium text-weight-semibold">Science-Driven Innovation</h3>
                                         <p class="text-size-small opacity-80">iHealthy combines AI-powered computer vision with advanced facial signal analysis to explore health-related patterns and provide convenient, camera-based wellness insights.</p>
                                     </div>
-                                    <a href="/scientific-research" class="home-blog_button is-white w-inline-block">
-                                        <div>Learn more</div>
-                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M1.28125 8L8.28125 1L1.28125 8ZM8.28125 1L1.71875 1L8.28125 1ZM8.28125 1L8.28125 7.5625L8.28125 1Z" fill="white" />
-                                                <path d="M1.28125 8L8.28125 1M8.28125 1L1.71875 1M8.28125 1L8.28125 7.5625" stroke="white" stroke-width="1.5" stroke-linecap="square" />
-                                            </svg>
-                                        </div>
-                                    </a>
                                     <div class="home-ai_item-pointer">
                                         <div class="home-ai_item-pointer-dot"></div>
                                         <div class="home-ai_item-pointer-line"></div>
@@ -1883,15 +1859,6 @@
                                         <h3 class="text-size-medium text-weight-semibold">Advanced AI for Inclusive Health Insights </h3>
                                         <p class="text-size-small opacity-80">iHealthy combines AI-powered facial analysis with computer vision technology to generate convenient wellness insights. Our approach aims to support a more accessible and user-friendly digital health experience for diverse users.</p>
                                     </div>
-                                    <a href="/technology" class="home-blog_button is-white w-inline-block">
-                                        <div>Learn more</div>
-                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M1.28125 8L8.28125 1L1.28125 8ZM8.28125 1L1.71875 1L8.28125 1ZM8.28125 1L8.28125 7.5625L8.28125 1Z" fill="white" />
-                                                <path d="M1.28125 8L8.28125 1M8.28125 1L1.71875 1M8.28125 1L8.28125 7.5625" stroke="white" stroke-width="1.5" stroke-linecap="square" />
-                                            </svg>
-                                        </div>
-                                    </a>
                                     <div class="home-ai_item-pointer right">
                                         <div class="home-ai_item-pointer-line"></div>
                                         <div class="home-ai_item-pointer-dot"></div>
@@ -1902,15 +1869,6 @@
                                         <h3 class="text-size-medium text-weight-semibold">Real-Time AI Facial Scan Processing</h3>
                                         <p class="text-size-small opacity-80">iHealthy uses camera-based facial video analysis to generate AI-powered wellness insights. The experience is designed to be convenient and responsive, with data processing handled according to the platform’s privacy and technical capabilities.</p>
                                     </div>
-                                    <a href="/technology" class="home-blog_button is-white w-inline-block">
-                                        <div>Learn more</div>
-                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M1.28125 8L8.28125 1L1.28125 8ZM8.28125 1L1.71875 1L8.28125 1ZM8.28125 1L8.28125 7.5625L8.28125 1Z" fill="white" />
-                                                <path d="M1.28125 8L8.28125 1M8.28125 1L1.71875 1M8.28125 1L8.28125 7.5625" stroke="white" stroke-width="1.5" stroke-linecap="square" />
-                                            </svg>
-                                        </div>
-                                    </a>
                                     <div class="home-ai_item-pointer right">
                                         <div class="home-ai_item-pointer-line"></div>
                                         <div class="home-ai_item-pointer-dot"></div>
@@ -1923,60 +1881,24 @@
                                 <div class="home-ai_bottom-mobile-content">
                                     <div class="text-size-medium text-weight-semibold is-18">Multimodal Sensing Engine</div>
                                     <div class="text-size-small opacity-80">Our Multimodal Sensing Engine uses rPPG, enhancing signal quality by neural analysis of multiple light wavelengths, ensuring accurate vital sign detection across all Fitzpatrick skin tones.</div>
-                                    <a href="/technology" class="home-blog_button is-white w-inline-block">
-                                        <div>Learn more</div>
-                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M1.28125 8L8.28125 1L1.28125 8ZM8.28125 1L1.71875 1L8.28125 1ZM8.28125 1L8.28125 7.5625L8.28125 1Z" fill="white" />
-                                                <path d="M1.28125 8L8.28125 1M8.28125 1L1.71875 1M8.28125 1L8.28125 7.5625" stroke="white" stroke-width="1.5" stroke-linecap="square" />
-                                            </svg>
-                                        </div>
-                                    </a>
                                 </div>
                             </div>
                             <div class="home-ai_bottom-mobile-item">
                                 <div class="home-ai_bottom-mobile-content">
                                     <div class="text-size-medium text-weight-semibold is-18">Trained on the largest, most diverse dataset </div>
                                     <div class="text-size-small opacity-80">iHealthy is built on advanced AI and insights from a diverse dataset spanning a massive population.</div>
-                                    <a href="/technology" class="home-blog_button is-white w-inline-block">
-                                        <div>Learn more</div>
-                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M1.28125 8L8.28125 1L1.28125 8ZM8.28125 1L1.71875 1L8.28125 1ZM8.28125 1L8.28125 7.5625L8.28125 1Z" fill="white" />
-                                                <path d="M1.28125 8L8.28125 1M8.28125 1L1.71875 1M8.28125 1L8.28125 7.5625" stroke="white" stroke-width="1.5" stroke-linecap="square" />
-                                            </svg>
-                                        </div>
-                                    </a>
                                 </div>
                             </div>
                             <div class="home-ai_bottom-mobile-item">
                                 <div class="home-ai_bottom-mobile-content">
                                     <div class="text-size-medium text-weight-semibold is-18">Science</div>
                                     <div class="text-size-small opacity-80">iHealthy leverages the latest scientific advancements, including rPPG developed in collaboration with researchers.</div>
-                                    <a href="/scientific-research" class="home-blog_button is-white w-inline-block">
-                                        <div>Learn more</div>
-                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M1.28125 8L8.28125 1L1.28125 8ZM8.28125 1L1.71875 1L8.28125 1ZM8.28125 1L8.28125 7.5625L8.28125 1Z" fill="white" />
-                                                <path d="M1.28125 8L8.28125 1M8.28125 1L1.71875 1M8.28125 1L8.28125 7.5625" stroke="white" stroke-width="1.5" stroke-linecap="square" />
-                                            </svg>
-                                        </div>
-                                    </a>
                                 </div>
                             </div>
                             <div class="home-ai_bottom-mobile-item">
                                 <div class="home-ai_bottom-mobile-content">
                                     <div class="text-size-medium text-weight-semibold is-18">Real-time video processing on user’s device</div>
                                     <div class="text-size-small opacity-80">Real-time camera processing runs 100% on the user’s device, with no cloud dependency. AI-driven video analysis ensures precise performance in any conditions.</div>
-                                    <a href="/technology" class="home-blog_button is-white w-inline-block">
-                                        <div>Learn more</div>
-                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M1.28125 8L8.28125 1L1.28125 8ZM8.28125 1L1.71875 1L8.28125 1ZM8.28125 1L8.28125 7.5625L8.28125 1Z" fill="white" />
-                                                <path d="M1.28125 8L8.28125 1M8.28125 1L1.71875 1M8.28125 1L8.28125 7.5625" stroke="white" stroke-width="1.5" stroke-linecap="square" />
-                                            </svg>
-                                        </div>
-                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -2031,14 +1953,6 @@
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
                                                                     <p class="text-size-regular text-color-00060f opacity-80 is-article">Help individuals better understand their wellness insights and explore appropriate next steps, whether that means consulting a healthcare professional, seeking an online consultation, or following suitable self-care practices.</p>
-                                                                    <a href="/solutions/insurance" class="home-blog_button w-inline-block">
-                                                                        <div>Learn more</div>
-                                                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                                <path d="M2 8L9 1M9 1L2.4375 1M9 1L9 7.5625" stroke="black" stroke-width="1.5" stroke-linecap="square" />
-                                                                            </svg>
-                                                                        </div>
-                                                                    </a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2054,14 +1968,6 @@
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
                                                                     <p class="text-size-regular text-color-00060f opacity-80 is-article">Help individuals gain convenient access to AI-powered wellness insights, encouraging informed health decisions and supporting more efficient digital healthcare experiences.</p>
-                                                                    <a href="/solutions/insurance" class="home-blog_button w-inline-block">
-                                                                        <div>Learn more</div>
-                                                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                                <path d="M2 8L9 1M9 1L2.4375 1M9 1L9 7.5625" stroke="black" stroke-width="1.5" stroke-linecap="square" />
-                                                                            </svg>
-                                                                        </div>
-                                                                    </a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2077,14 +1983,6 @@
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
                                                                     <p class="text-size-regular text-color-00060f opacity-80 is-article">Provide AI-powered wellness insights through facial scanning to help individuals better understand selected health indicators and make more informed decisions about their well-being.</p>
-                                                                    <a href="/solutions/insurance" class="home-blog_button w-inline-block">
-                                                                        <div>Learn more</div>
-                                                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                                <path d="M2 8L9 1M9 1L2.4375 1M9 1L9 7.5625" stroke="black" stroke-width="1.5" stroke-linecap="square" />
-                                                                            </svg>
-                                                                        </div>
-                                                                    </a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2122,14 +2020,6 @@
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
                                                                     <p class="text-size-regular text-color-00060f opacity-80 is-article">iHealthy uses AI-powered facial scanning to provide convenient, preliminary wellness insights remotely. These insights can help individuals better understand selected health indicators and consider appropriate next steps, including consulting a healthcare professional when needed.</p>
-                                                                    <a href="/solutions/telehealth-providers" class="home-blog_button w-inline-block">
-                                                                        <div>Learn more</div>
-                                                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                                <path d="M2 8L9 1M9 1L2.4375 1M9 1L9 7.5625" stroke="black" stroke-width="1.5" stroke-linecap="square" />
-                                                                            </svg>
-                                                                        </div>
-                                                                    </a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2145,14 +2035,6 @@
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
                                                                     <p class="text-size-regular text-color-00060f opacity-80 is-article">iHealthy provides AI-powered facial scanning insights that individuals can review before an online or in-person consultation. These preliminary insights can help support informed discussions between patients and healthcare professionals.</p>
-                                                                    <a href="/solutions/telehealth-providers" class="home-blog_button w-inline-block">
-                                                                        <div>Learn more</div>
-                                                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                                <path d="M2 8L9 1M9 1L2.4375 1M9 1L9 7.5625" stroke="black" stroke-width="1.5" stroke-linecap="square" />
-                                                                            </svg>
-                                                                        </div>
-                                                                    </a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2168,14 +2050,6 @@
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
                                                                     <p class="text-size-regular text-color-00060f opacity-80 is-article">Integrate AI-powered facial scanning into digital health platforms to help users explore wellness insights, stay engaged with their health journey, and build greater awareness of their well-being.</p>
-                                                                    <a href="/solutions/telehealth-providers" class="home-blog_button w-inline-block">
-                                                                        <div>Learn more</div>
-                                                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                                <path d="M2 8L9 1M9 1L2.4375 1M9 1L9 7.5625" stroke="black" stroke-width="1.5" stroke-linecap="square" />
-                                                                            </svg>
-                                                                        </div>
-                                                                    </a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2213,14 +2087,6 @@
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
                                                                     <p class="text-size-regular text-color-00060f opacity-80 is-article">Encourage users to stay connected with their health journey by integrating AI-powered facial scanning into your apps. Offer convenient wellness insights that promote regular engagement and help users build healthier habits.</p>
-                                                                    <a href="/solutions/mobile-health" class="home-blog_button w-inline-block">
-                                                                        <div>Learn more</div>
-                                                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                                <path d="M2 8L9 1M9 1L2.4375 1M9 1L9 7.5625" stroke="black" stroke-width="1.5" stroke-linecap="square" />
-                                                                            </svg>
-                                                                        </div>
-                                                                    </a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2236,14 +2102,6 @@
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
                                                                     <p class="text-size-regular text-color-00060f opacity-80 is-article">Create new opportunities for your business by integrating iHealthy’s AI-powered facial scanning technology. Enhance your digital health services with premium wellness features and personalized user experiences that support engagement and business growth.</p>
-                                                                    <a href="/solutions/mobile-health" class="home-blog_button w-inline-block">
-                                                                        <div>Learn more</div>
-                                                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                                <path d="M2 8L9 1M9 1L2.4375 1M9 1L9 7.5625" stroke="black" stroke-width="1.5" stroke-linecap="square" />
-                                                                            </svg>
-                                                                        </div>
-                                                                    </a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2259,14 +2117,6 @@
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
                                                                     <p class="text-size-regular text-color-00060f opacity-80 is-article">Differentiate your app in a competitive market by integrating iHealthy’s AI-powered facial scanning technology. Offer convenient wellness insights and engaging digital health experiences that help your app stand out and deliver added value to users.</p>
-                                                                    <a href="/solutions/mobile-health" class="home-blog_button w-inline-block">
-                                                                        <div>Learn more</div>
-                                                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                                <path d="M2 8L9 1M9 1L2.4375 1M9 1L9 7.5625" stroke="black" stroke-width="1.5" stroke-linecap="square" />
-                                                                            </svg>
-                                                                        </div>
-                                                                    </a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2304,14 +2154,6 @@
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
                                                                     <p class="text-size-regular text-color-00060f opacity-80 is-article">Promote a healthier, more engaged workforce with iHealthy’s AI-powered facial scanning technology. Provide convenient wellness insights that encourage health awareness, support employee well-being, and help organizations build a more supportive workplace.</p>
-                                                                    <a href="/solutions/corporate-wellness" class="home-blog_button w-inline-block">
-                                                                        <div>Learn more</div>
-                                                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                                <path d="M2 8L9 1M9 1L2.4375 1M9 1L9 7.5625" stroke="black" stroke-width="1.5" stroke-linecap="square" />
-                                                                            </svg>
-                                                                        </div>
-                                                                    </a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2327,14 +2169,6 @@
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
                                                                     <p class="text-size-regular text-color-00060f opacity-80 is-article">Encourage proactive health awareness with iHealthy’s AI-powered facial scanning technology. Provide convenient wellness insights that help employees stay informed about their well-being and support a healthier, more productive workplace.</p>
-                                                                    <a href="/solutions/corporate-wellness" class="home-blog_button w-inline-block">
-                                                                        <div>Learn more</div>
-                                                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                                <path d="M2 8L9 1M9 1L2.4375 1M9 1L9 7.5625" stroke="black" stroke-width="1.5" stroke-linecap="square" />
-                                                                            </svg>
-                                                                        </div>
-                                                                    </a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2350,14 +2184,6 @@
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
                                                                     <p class="text-size-regular text-color-00060f opacity-80 is-article">Show your commitment to employee well-being with iHealthy’s AI-powered facial scanning technology. Offer convenient wellness insights that promote a health-conscious workplace, strengthen your employer brand, and help attract and retain top talent.</p>
-                                                                    <a href="/solutions/corporate-wellness" class="home-blog_button w-inline-block">
-                                                                        <div>Learn more</div>
-                                                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                                <path d="M2 8L9 1M9 1L2.4375 1M9 1L9 7.5625" stroke="black" stroke-width="1.5" stroke-linecap="square" />
-                                                                            </svg>
-                                                                        </div>
-                                                                    </a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2397,14 +2223,6 @@
                                                                     <p class="text-size-regular text-color-00060f opacity-80 is-article">
                                                                         Enhance the driving experience with iHealthy’s AI-powered facial scanning technology. Enable convenient, camera-based wellness insights for drivers without requiring wearable devices, supporting greater health awareness and smarter mobility experiences.
                                                                     </p>
-                                                                    <a href="/sdk" class="home-blog_button w-inline-block">
-                                                                        <div>Learn more</div>
-                                                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                                <path d="M2 8L9 1M9 1L2.4375 1M9 1L9 7.5625" stroke="black" stroke-width="1.5" stroke-linecap="square" />
-                                                                            </svg>
-                                                                        </div>
-                                                                    </a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2422,14 +2240,6 @@
                                                                     <p class="text-size-regular text-color-00060f opacity-80 is-article">
                                                                         With Integrate iHealthy’s AI-powered facial scanning technology into smart mirrors to provide convenient wellness insights through a simple camera-based experience. Make everyday routines an opportunity to explore health indicators and build greater health awareness.
                                                                     </p>
-                                                                    <a href="/sdk" class="home-blog_button w-inline-block">
-                                                                        <div>Learn more</div>
-                                                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                                <path d="M2 8L9 1M9 1L2.4375 1M9 1L9 7.5625" stroke="black" stroke-width="1.5" stroke-linecap="square" />
-                                                                            </svg>
-                                                                        </div>
-                                                                    </a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2445,14 +2255,6 @@
                                                                 </div>
                                                                 <div class="home-blog_coll-item-content-inner">
                                                                     <p class="text-size-regular text-color-00060f opacity-80 is-article">Integrate iHealthy’s AI-powered facial scanning technology into robotic systems to support convenient wellness assessments. From elder care to assisted living, enable robots to offer accessible, camera-based health insights that support health awareness and more personalized care experiences.</p>
-                                                                    <a href="/sdk" class="home-blog_button w-inline-block">
-                                                                        <div>Learn more</div>
-                                                                        <div class="home-built_tab-inner-link-arrow w-embed">
-                                                                            <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                                                <path d="M2 8L9 1M9 1L2.4375 1M9 1L9 7.5625" stroke="black" stroke-width="1.5" stroke-linecap="square" />
-                                                                            </svg>
-                                                                        </div>
-                                                                    </a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2490,13 +2292,6 @@
                                 <h2>AI-Powered Health Technology </h2>
                                 <div class="text-opacity-80">iHealthy uses advanced AI and computer vision to analyze facial signals and provide convenient wellness insights. Explore indicators such as heart rate, heart rate variability (HRV), breathing rate, and other health-related metrics through a simple camera-based experience.</div>
                                 <a href="animal.php" class="block-list_item-btn w-inline-block">
-                                    <div>Learn more</div>
-                                    <div class="block-list_item-btn-arrow w-embed">
-                                        <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M2 8.5L9 1.5M9 1.5L2.4375 1.5M9 1.5L9 8.0625" stroke="black" stroke-width="1.5" stroke-linecap="square" />
-                                        </svg>
-                                    </div>
-                                </a>
                             </div>
                             <!-- <div class="certified_images">
                                     <img src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/69d8c8976fd93ccee6155dbd_ISO-13.svg" loading="lazy" alt="" class="certified_logo"/>
@@ -2614,38 +2409,12 @@
                                 </div>
                             </div>
                             <div class="home-testimonials_customer-coll-list-wrapper w-dyn-list">
-                                <div role="list" class="home-testimonials_customer-coll-list w-dyn-items">
-                                    <div role="listitem" class="home-testimonials_customer-coll-item w-dyn-item">
-                                        <div class="flex d-vertical gap-8">
-                                            <div class="text-color-light-green text-size-small">Customer story</div>
-                                            <div class="heading-style-h5 text-weight-medium">How AI-Powered Facial Scanning Is Transforming Digital Health Experiences with iHealthy</div>
-                                        </div>
-                                        <a href="/customer-story/how-amazing-ai-scaled-continuous-remote-care-with-shen-ai" class="home-blog_button is-white w-inline-block">
-                                            <div>Learn more</div>
-                                            <div class="home-built_tab-inner-link-arrow w-embed">
-                                                <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M1.28125 8L8.28125 1L1.28125 8ZM8.28125 1L1.71875 1L8.28125 1ZM8.28125 1L8.28125 7.5625L8.28125 1Z" fill="white" />
-                                                    <path d="M1.28125 8L8.28125 1M8.28125 1L1.71875 1M8.28125 1L8.28125 7.5625" stroke="white" stroke-width="1.5" stroke-linecap="square" />
-                                                </svg>
-                                            </div>
-                                        </a>
-                                        <a href="/customer-story/how-amazing-ai-scaled-continuous-remote-care-with-shen-ai" class="link-cover w-inline-block"></a>
-                                    </div>
                                     <div role="listitem" class="home-testimonials_customer-coll-item w-dyn-item">
                                         <div class="flex d-vertical gap-8">
                                             <div class="text-color-light-green text-size-small">Customer story</div>
                                             <div class="heading-style-h5 text-weight-medium">From Facial Scanning to Wellness Insights: How iHealthy Is Advancing AI-Powered Digital Health</div>
                                         </div>
-                                        <a href="/customer-story/from-symptom-tracking-to-measurable-insight-how-ainoha-adds-vitals-to-perimenopause-care" class="home-blog_button is-white w-inline-block">
-                                            <div>Learn more</div>
-                                            <div class="home-built_tab-inner-link-arrow w-embed">
-                                                <svg width="100%" height="100%" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M1.28125 8L8.28125 1L1.28125 8ZM8.28125 1L1.71875 1L8.28125 1ZM8.28125 1L8.28125 7.5625L8.28125 1Z" fill="white" />
-                                                    <path d="M1.28125 8L8.28125 1M8.28125 1L1.71875 1M8.28125 1L8.28125 7.5625" stroke="white" stroke-width="1.5" stroke-linecap="square" />
-                                                </svg>
-                                            </div>
-                                        </a>
-                                        <a href="customer-story.php from-symptom-tracking-to-measurable-insight-how-ainoha-adds-vitals-to-perimenopause-care" class="link-cover w-inline-block"></a>
+                                        <a href="" class="link-cover w-inline-block"></a>
                                     </div>
                                 </div>
                             </div>
@@ -2669,7 +2438,6 @@
                         </div>
                         <div class="home-fast_lottie-wrapper">
                             <img src="images/ihealthyai.png" />
-                            <!-- <div data-w-id="aec5f997-7767-f695-d6c8-5968d0a67dab" data-is-ix2-target="1" class="home-fast_lottie" data-animation-type="lottie" data-src="https://cdn.prod.website-files.com/680280c18df8e68403545b30/680280c18df8e68403545dfc_shen-easy-to-use-lottie%E2%80%942.json" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-default-duration="0" data-duration="0" data-loading="eager" data-ix2-initial-state="0"></div> -->
                         </div>
                     </div>
                 </div>

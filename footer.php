@@ -18,15 +18,14 @@
                          <div class="footer_link-wrapper">
                              <a aria-label="Go to SKD page" href="https://ihealthybio.com/" class="footer_link">iHealthy - Human</a><a
                                  aria-label="Go to scientific research page"
-                                 href="/medical-device"
+                                 href="animal.php"
                                  class="footer_link">iHealthy - Animal</a><a aria-label="Go to tehnology page" href="https://iyoung.vercel.app/" class="footer_link">iYoungBio</a>
                          </div>
                      </div>
                      <div class="footer_link-item-last">
                          <div class="footer_link-item">
                              <p>Company</p>
-                             <a href="/about-us" class="title-link">About us</a>
-                             <a aria-label="Go to careers page" href="/careers" class="footer_link">Careers</a>
+                             <a href="about-us.php" class="title-link">About us</a>
                          </div>
                      </div>
                      <div class="footer_link-item gap-12">
@@ -34,11 +33,6 @@
                              aria-label="Go to scan yourself page"
                              href="https://ihealthybio.com/"
                              class="footer_link is-white">Scan yourself</a>
-                         <a
-                             aria-label="Go to scan yourself page"
-                             href="partner-with-ihealthy-ai.php"
-                             class="footer_link is-white">Partner with us</a>
-                         <a aria-label="Go to contact page" href="contact.php" class="footer_link is-white">Talk to sales</a>
                          <a aria-label="Go to contact page"
                              href="/"
                              class="footer_link is-white">Get started

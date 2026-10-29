@@ -8,63 +8,6 @@
                 role="banner"
                 class="navbar-v2 w-variant-ff6b0e9a-b3e4-8ca8-d766-860c5d491744 w-nav"
             >
-                <div class="navbar-v2_top-bar hide-tablet">
-                    <div class="navbar-v2_top-bar-text">
-                        <div class="navbar-v2_top-bar-small-text">
-                            AI-powered facial recognition enables quick, contactless identification and personalized health insights.
-                        </div>
-                        <a
-                            data-wf--button-arrow-up-small-14px--variant="base"
-                            href="animal.php"
-                            class="navbar-v2_link-button w-inline-block"
-                            ><div class="text-block-4">Learn more</div>
-                            <div class="navbar-v2_link-button-arrow w-embed">
-                                <svg
-                                    xmlns="http://www.w3.org/2000/svg"
-                                    width="100%"
-                                    height="100%"
-                                    viewBox="0 0 15 13"
-                                    fill="none"
-                                    preserveAspectRatio="xMidYMid meet"
-                                    aria-hidden="true"
-                                    role="img"
-                                >
-                                    <path
-                                        d="M4 11L11 4M11 10.5625L11 4L4.4375 4"
-                                        stroke="currentColor"
-                                        stroke-width="1.5"
-                                        stroke-linecap="square"
-                                    />
-                                </svg></div
-                        ></a>
-                    </div>
-                    <div class="navbar-v2_top-bar-text">
-                        <a
-                            data-wf--button-arrow-up-small-14px--variant="white"
-                            href="https://ihealthybio.com/"
-                            class="navbar-v2_link-button w-variant-0a7fd4b7-c3fb-139b-cbd0-a8e5507320bf w-inline-block"
-                            ><div class="text-block-4">Scan yourself</div>
-                            <div class="navbar-v2_link-button-arrow w-embed">
-                                <svg
-                                    xmlns="http://www.w3.org/2000/svg"
-                                    width="100%"
-                                    height="100%"
-                                    viewBox="0 0 15 13"
-                                    fill="none"
-                                    preserveAspectRatio="xMidYMid meet"
-                                    aria-hidden="true"
-                                    role="img"
-                                >
-                                    <path
-                                        d="M4 11L11 4M11 10.5625L11 4L4.4375 4"
-                                        stroke="currentColor"
-                                        stroke-width="1.5"
-                                        stroke-linecap="square"
-                                    />
-                                </svg></div></a
-                        >
-                    </div>
-                </div>
                 <div class="navbar-v2_btm-bar">
                     <div class="navbar-v2_btm-left">
                         <a href="/" aria-current="page" class="link-block-2 w-inline-block w--current"
@@ -1254,34 +1197,6 @@
                                                                 </div>
                                                             </div>
                                                             <div>About us</div></a
-                                                        ><a
-                                                            aria-label="Go to careers page"
-                                                            blocks-name="navbar_dropdown-link"
-                                                            href="careers.php"
-                                                            class="nav_dropdown-link is-company w-inline-block"
-                                                            ><div class="nav_icon-wrapper">
-                                                                <div class="nav_dropdown-link-icon w-embed">
-                                                                    <svg
-                                                                        width="14"
-                                                                        height="16"
-                                                                        viewBox="0 0 14 16"
-                                                                        fill="none"
-                                                                        xmlns="http://www.w3.org/2000/svg"
-                                                                    >
-                                                                        <path
-                                                                            d="M5.4707 14.9496L5.47073 14.9495C4.66015 14.669 3.97847 14.2516 3.4354 13.6925L3.43182 13.6889L3.43185 13.6888C2.89959 13.1243 2.56015 12.4525 2.41557 11.6814L2.36447 11.4089L2.61986 11.3009L5.33877 10.1515L5.68743 10.0041C5.49594 9.95214 5.31601 9.89951 5.14772 9.84615L5.138 9.84306L5.13805 9.84292C4.4917 9.6167 3.92822 9.23701 3.44971 8.71064L3.4458 8.70635L3.44584 8.70632C2.94851 8.14038 2.71914 7.3878 2.71914 6.48964C2.71914 5.71737 2.96762 5.01061 3.45368 4.37873C3.93474 3.75335 4.57254 3.26998 5.35628 2.92513C6.14021 2.5802 6.99103 2.40967 7.90435 2.40967C8.86544 2.40967 9.7328 2.55435 10.5006 2.85144C11.2784 3.13201 11.9227 3.54193 12.4214 4.08751C12.9354 4.61887 13.2743 5.24947 13.435 5.97287L13.4998 6.26431L13.2205 6.36964L10.5237 7.38647L10.0896 7.55013L10.0587 7.08727C10.0197 6.50215 9.81117 6.0907 9.45771 5.80793L9.44783 5.80003L9.44798 5.79985C9.10131 5.501 8.60112 5.33074 7.90435 5.33074C7.35994 5.33074 6.97658 5.44677 6.71635 5.63911L6.7084 5.64499L6.70832 5.64487C6.45774 5.81919 6.34756 6.03255 6.34756 6.3128C6.34756 6.48463 6.40791 6.61353 6.54453 6.72488C6.72162 6.8533 6.9572 6.96129 7.26178 7.04075C7.59028 7.12644 8.05335 7.22793 8.65432 7.34521C8.65473 7.34529 8.65513 7.34536 8.65553 7.34544L8.58961 7.68331C9.53275 7.86015 10.3138 8.05909 10.9327 8.28014L5.4707 14.9496ZM5.4707 14.9496L5.4782 14.952C6.29885 15.2153 7.21196 15.3443 8.21382 15.3443C9.73401 15.3443 11.0074 15.025 12.0079 14.3581L12.0089 14.3574C13.0528 13.656 13.5759 12.632 13.5759 11.3306C13.5759 10.415 13.3301 9.65182 12.7992 9.08543C12.3177 8.55652 11.7308 8.17879 11.044 7.95434L5.4707 14.9496ZM5.81652 10.4494L5.79335 10.0324C6.2851 10.1622 6.84978 10.2876 7.48626 10.4088C8.10085 10.5259 8.56578 10.6337 8.88727 10.7315L8.88719 10.7318L8.9006 10.7353C9.19837 10.813 9.42809 10.9316 9.60203 11.0823L9.61122 11.0903L9.62094 11.0976C9.77538 11.2134 9.83693 11.3423 9.83693 11.5075C9.83693 11.766 9.72589 11.9689 9.43633 12.1366C9.1336 12.3056 8.73239 12.4011 8.21382 12.4011C7.48595 12.4011 6.92049 12.237 6.49196 11.9355C6.09759 11.6442 5.85667 11.1722 5.81652 10.4494Z"
-                                                                            stroke="currentColor"
-                                                                            stroke-width="0.688468"
-                                                                        />
-                                                                        <path
-                                                                            d="M0.344234 0.344234H4.32676L2.3355 2.3355L0.344234 4.32676V0.344234Z"
-                                                                            stroke="currentColor"
-                                                                            stroke-width="0.688468"
-                                                                        />
-                                                                    </svg>
-                                                                </div>
-                                                            </div>
-                                                            <div>Careers</div></a
                                                         >
                                                     </div>
                                                     <div class="nav_dropdown-link-hover-embed w-embed">
@@ -1329,7 +1244,6 @@
                                                 <div class="navbar_mobile-dropdown-list-inner">
                                                     <div class="navbar_mobile-dropdown-link-wrapper">
                                                         <a href="/about-us" aria-label="Go to about us page" aria-current="page" class="navbar_mobile-dropdown-link-2 w-dropdown-link w--current">About us</a>
-                                                        <a href="/careers.php" aria-label="Go to about us page" aria-current="page" class="navbar_mobile-dropdown-link-2 w-dropdown-link w--current">Careers</a>
                                                     </div>
                                                 </div>
                                             </nav>
@@ -1358,11 +1272,6 @@
                     </div>
                     <div class="navbar-v2_btm-right">
                         <a
-                            data-hide-narrow="true"
-                            href="/contact"
-                            class="button scan-icon-dark-invert no-text-wrap w-inline-block"
-                            ><div>Talk to sales</div></a
-                        ><a
                             data-wf--button--variant="base"
                             href="https://ihealthybio.com"
                             class="button w-inline-block"
