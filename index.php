@@ -801,6 +801,58 @@
     </script>
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <script src="https://cdn.prod.website-files.com/680280c18df8e68403545b30%2F6544eda5f000985a163a8687%2F6a3ba7f95e8d2b778a600c38%2Ffinsweetcomponentsconfig-1.0.1.js" type="module" async="" siteId="680280c18df8e68403545b30" finsweet="components"></script>
+
+    <!-- Mobile hero layout: place the trial button after the hero image/video -->
+    <style>
+        @media screen and (max-width: 767px) {
+            .home-hero_component.is-alternative.is-hero-home {
+                display: flex !important;
+                flex-direction: column !important;
+                align-items: stretch !important;
+                gap: 18px !important;
+            }
+
+            /* Let the hero text, video and CTA participate in one mobile column. */
+            .home-hero_component.is-alternative.is-hero-home > .home-hero_content {
+                display: contents !important;
+            }
+
+            .home-hero_component.is-alternative.is-hero-home .home-hero_content-main {
+                order: 1 !important;
+                width: 100% !important;
+            }
+
+            .home-hero_component.is-alternative.is-hero-home > .home-hero_video-wrapper {
+                order: 2 !important;
+                position: relative !important;
+                width: 100% !important;
+                margin: 0 !important;
+            }
+
+            .home-hero_component.is-alternative.is-hero-home .button-wrapper {
+                order: 3 !important;
+                position: relative !important;
+                inset: auto !important;
+                z-index: 2 !important;
+                width: 100% !important;
+                margin: 0 !important;
+                padding: 0 !important;
+            }
+
+            .home-hero_component.is-alternative.is-hero-home .button-wrapper .button {
+                display: flex !important;
+                width: 100% !important;
+                justify-content: center !important;
+                box-sizing: border-box !important;
+            }
+
+            .home-hero_component.is-alternative.is-hero-home .home-hero_video,
+            .home-hero_component.is-alternative.is-hero-home .w-background-video {
+                width: 100% !important;
+                overflow: hidden !important;
+            }
+        }
+    </style>
 </head>
 
 <body>
